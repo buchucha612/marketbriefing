@@ -29,8 +29,9 @@ TOPIC_RULES = {
             "코스피",
             "코스닥",
             "한국증시",
-            "국내증시",
             "한국 증시",
+            "국내증시",
+            "국내 증시",
             "서울증시",
             "외국인",
             "기관",
@@ -53,9 +54,8 @@ TOPIC_RULES = {
             "S&P 500",
             "다우",
             "다우존스",
-            "러셀",
-            "엔비디아",
             "테슬라",
+            "엔비디아",
             "애플",
             "알파벳",
             "마이크로소프트",
@@ -78,13 +78,12 @@ TOPIC_RULES = {
             "유가",
             "브렌트",
             "WTI",
-            "연준",
+            "원유",
             "Fed",
             "FOMC",
             "CPI",
             "PPI",
             "인플레이션",
-            "이란",
             "중동",
             "Treasury",
             "Treasuries",
@@ -92,7 +91,6 @@ TOPIC_RULES = {
             "yields",
             "oil",
             "dollar",
-            "Fed",
         ],
     },
     "sector": {
@@ -107,7 +105,7 @@ TOPIC_RULES = {
             "금융주",
             "에너지",
             "기술주",
-            "은행",
+            "테마",
             "semiconductor",
             "technology",
             "tech",
@@ -137,7 +135,7 @@ def topic_score(text: str, keywords: list[str]) -> tuple[int, list[str]]:
 
 def build_reason(primary_topic: str, secondary_topics: list[str], matched_keywords: dict[str, list[str]]) -> str:
     if primary_topic == "uncategorized":
-        return "분류 키워드가 충분하지 않아 미분류로 보관했습니다."
+        return "분류 키워드가 충분히 감지되지 않아 미분류로 보관했습니다."
     primary_matches = ", ".join(matched_keywords.get(primary_topic, [])[:4])
     reason = f"{SECTION_LABELS[primary_topic]} 키워드({primary_matches})가 가장 많이 감지되었습니다."
     if secondary_topics:
@@ -211,7 +209,7 @@ def price_line(item: dict) -> str:
     direction = "상승" if change > 0 else "하락" if change < 0 else "보합"
     return (
         f'{item["name"]}: {item["close"]:,.2f} '
-        f'({abs(change):.2f}% {direction}, {item.get("as_of", "확인일")} 기준)'
+        f'({abs(change):.2f}% {direction}, {item.get("as_of", "확인 전")} 기준)'
     )
 
 
@@ -305,12 +303,13 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
         "collection_status": {
             "news_source": news_payload.get("source"),
             "price_source": prices_payload.get("source"),
+            "news_query_counts": news_payload.get("query_counts", {}),
             "news_errors": news_payload.get("errors", []),
             "price_errors": prices_payload.get("errors", []),
         },
         "meta": {
             "mode": "dynamic-content-classified-us-market",
-            "disclaimer": "기사와 링크는 동적 수집 결과입니다. 분류는 기사 제목/설명 키워드 점수 기반이며, 원문 이용과 재배포 범위는 각 출처 약관을 확인해야 합니다.",
+            "disclaimer": "기사는 공개 RSS를 통해 동적으로 수집한 결과입니다. 분류는 제목/설명 키워드 점수 기반입니다.",
         },
     }
 
@@ -332,6 +331,11 @@ def main() -> None:
         + json.dumps(briefing, ensure_ascii=False, indent=2)
         + ";\n",
         encoding="utf-8",
+    )
+    print(
+        "Built briefing "
+        f"articles={sum(section['article_count'] for section in briefing['sections'].values())} "
+        f"generated_at={briefing['generated_at']}"
     )
     print(f"Wrote {daily_path}")
     print(f"Wrote {serving_path}")

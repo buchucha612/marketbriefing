@@ -1,6 +1,6 @@
 """Collect market-commentary news from public RSS feeds.
 
-Domestic and rate/FX/oil stories are collected from Korean Google News RSS.
+Domestic and macro/sector stories are collected from Korean Google News RSS.
 US market stories are collected from US English Google News RSS and only the
 headline is translated into Korean for display.
 """
@@ -25,7 +25,7 @@ RAW_DIR = ROOT / "storage" / "raw"
 QUERY_CONFIGS = [
     {
         "topic_hint": "domestic",
-        "query": "국내 증시 시황 OR 코스피 OR 코스닥",
+        "query": '코스피 OR 코스닥 OR "국내 증시" OR "한국 증시" OR "서울 증시"',
         "hl": "ko",
         "gl": "KR",
         "ceid": "KR:ko",
@@ -33,7 +33,7 @@ QUERY_CONFIGS = [
     },
     {
         "topic_hint": "us",
-        "query": "US stock market OR Wall Street OR Nasdaq OR S&P 500 OR Dow",
+        "query": '"US stock market" OR "Wall Street" OR Nasdaq OR "S&P 500" OR Dow',
         "hl": "en-US",
         "gl": "US",
         "ceid": "US:en",
@@ -41,7 +41,7 @@ QUERY_CONFIGS = [
     },
     {
         "topic_hint": "macro",
-        "query": "금리 OR 환율 OR 유가 OR 달러 OR 연준 OR FOMC",
+        "query": '금리 OR 환율 OR 유가 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR "국채 금리"',
         "hl": "ko",
         "gl": "KR",
         "ceid": "KR:ko",
@@ -49,7 +49,7 @@ QUERY_CONFIGS = [
     },
     {
         "topic_hint": "sector",
-        "query": "반도체 OR AI OR 2차전지 OR 바이오 증시",
+        "query": '반도체 OR AI OR "2차전지" OR 바이오 OR 조선 OR 방산 OR "증시 테마"',
         "hl": "ko",
         "gl": "KR",
         "ceid": "KR:ko",
@@ -62,8 +62,13 @@ def fetch(url: str, accept: str) -> bytes:
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "Mozilla/5.0 market-briefing-mvp",
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/126.0 Safari/537.36"
+            ),
             "Accept": accept,
+            "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
         },
     )
     with urllib.request.urlopen(request, timeout=20) as response:
@@ -123,15 +128,21 @@ def collect_news() -> dict:
     collected_at = datetime.now(timezone.utc).isoformat()
     by_id: dict[str, dict] = {}
     errors: list[dict] = []
+    query_counts: dict[str, int] = {}
 
     for config in QUERY_CONFIGS:
+        query = config["query"]
         try:
             root = ElementTree.fromstring(fetch(rss_url(config), "application/rss+xml, application/xml, text/xml"))
         except Exception as exc:
-            errors.append({"query": config["query"], "error": str(exc)})
+            errors.append({"query": query, "error": str(exc)})
+            query_counts[config["topic_hint"]] = 0
             continue
 
-        for node in root.findall("./channel/item")[:15]:
+        nodes = root.findall("./channel/item")[:15]
+        query_counts[config["topic_hint"]] = len(nodes)
+
+        for node in nodes:
             original_title = clean_text(node.findtext("title"))
             link = clean_text(node.findtext("link"))
             original_description = clean_text(node.findtext("description"))
@@ -159,7 +170,7 @@ def collect_news() -> dict:
                     "matched_queries": [],
                     "topic_hints": [],
                 }
-            by_id[stable]["matched_queries"].append(config["query"])
+            by_id[stable]["matched_queries"].append(query)
             by_id[stable]["topic_hints"].append(config["topic_hint"])
 
     items = sorted(by_id.values(), key=lambda item: item["published_at"], reverse=True)
@@ -167,6 +178,7 @@ def collect_news() -> dict:
         "collected_at": collected_at,
         "source": "google-news-rss",
         "items": items,
+        "query_counts": query_counts,
         "errors": errors,
     }
 
@@ -174,11 +186,18 @@ def collect_news() -> dict:
 def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / "news_dynamic.json"
+    payload = collect_news()
     output_path.write_text(
-        json.dumps(collect_news(), ensure_ascii=False, indent=2),
+        json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"Wrote {output_path}")
+    print(
+        "Wrote "
+        f"{output_path} "
+        f"items={len(payload['items'])} "
+        f"query_counts={payload['query_counts']} "
+        f"errors={len(payload['errors'])}"
+    )
 
 
 if __name__ == "__main__":
