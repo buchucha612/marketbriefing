@@ -41,7 +41,7 @@ QUERY_CONFIGS = [
     },
     {
         "topic_hint": "macro",
-        "query": '금리 OR 환율 OR 유가 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR "국채 금리"',
+        "query": '금리 OR 환율 OR 유가 OR 원자재 OR 금 OR 은 OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR "국채 금리"',
         "hl": "ko",
         "gl": "KR",
         "ceid": "KR:ko",

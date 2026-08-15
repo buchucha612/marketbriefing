@@ -26,7 +26,7 @@ function topicLabel(topic) {
   const labels = {
     domestic: "국내",
     us: "미국",
-    macro: "금리·환율·유가",
+    macro: "금리·환율·유가·원자재",
     sector: "섹터",
     uncategorized: "미분류",
   };

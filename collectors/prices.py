@@ -22,6 +22,12 @@ SYMBOLS = [
     {"symbol": "^GSPC", "name": "S&P 500", "market": "us"},
     {"symbol": "^IXIC", "name": "나스닥 종합", "market": "us"},
     {"symbol": "^DJI", "name": "다우존스", "market": "us"},
+    {"symbol": "CL=F", "name": "WTI 원유", "market": "macro"},
+    {"symbol": "BZ=F", "name": "브렌트유", "market": "macro"},
+    {"symbol": "GC=F", "name": "금", "market": "macro"},
+    {"symbol": "SI=F", "name": "은", "market": "macro"},
+    {"symbol": "HG=F", "name": "구리", "market": "macro"},
+    {"symbol": "NG=F", "name": "천연가스", "market": "macro"},
 ]
 
 
@@ -83,11 +89,12 @@ def collect_prices() -> dict:
 def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / "prices_dynamic.json"
+    payload = collect_prices()
     output_path.write_text(
-        json.dumps(collect_prices(), ensure_ascii=False, indent=2),
+        json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"Wrote {output_path}")
+    print(f"Wrote {output_path} items={len(payload['items'])} errors={len(payload['errors'])}")
 
 
 if __name__ == "__main__":
