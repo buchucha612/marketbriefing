@@ -164,15 +164,22 @@ function renderMarketIndicators(briefing) {
 }
 
 async function loadBriefing() {
+  try {
+    const response = await fetch(`./daily_market_briefing.json?v=${Date.now()}`, {
+      cache: "no-store",
+    });
+    if (response.ok) {
+      return response.json();
+    }
+  } catch {
+    // file:// previews cannot always fetch JSON, so keep the generated script as a fallback.
+  }
+
   if (window.DAILY_MARKET_BRIEFING) {
     return window.DAILY_MARKET_BRIEFING;
   }
 
-  const response = await fetch("./daily_market_briefing.json");
-  if (!response.ok) {
-    throw new Error("Briefing JSON not found");
-  }
-  return response.json();
+  throw new Error("Briefing JSON not found");
 }
 
 loadBriefing()
