@@ -35,7 +35,7 @@
         <article>
           <span class="snapshot-label">시장 변수</span>
           <strong id="macroCount">-</strong>
-          <p>금리·환율·유가</p>
+          <p>금리·환율·유가·원자재</p>
         </article>
       </section>
 
@@ -51,7 +51,7 @@
           </button>
           <button class="tab-button" data-section="macro" type="button">
             <span>03</span>
-            금리·환율·유가
+            금리·환율·유가·원자재
           </button>
           <button class="tab-button" data-section="sector" type="button">
             <span>04</span>
@@ -68,7 +68,10 @@
             <span class="article-count" id="activeArticleCount">0 articles</span>
           </div>
           <p class="section-summary" id="activeSectionSummary"></p>
-          <ul class="price-list" id="activePrices"></ul>
+          <div class="price-block" id="priceBlock" hidden>
+            <h3 class="price-heading" id="priceHeading">주요 지표</h3>
+            <ul class="price-list" id="activePrices"></ul>
+          </div>
           <ul class="article-list" id="activeArticles"></ul>
         </section>
       </section>

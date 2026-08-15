@@ -208,6 +208,25 @@ h2 {
   font-weight: 650;
 }
 
+.price-block {
+  margin: 0 0 20px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fffaf0;
+}
+
+.price-block[hidden] {
+  display: none;
+}
+
+.price-heading {
+  margin: 0 0 10px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 900;
+}
+
 .price-list,
 .article-list {
   display: grid;
@@ -219,7 +238,6 @@ h2 {
 
 .price-list {
   gap: 8px;
-  margin-bottom: 18px;
 }
 
 .price-list:empty {

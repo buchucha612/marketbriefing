@@ -52,9 +52,21 @@ function renderTopicChips(article) {
   return row;
 }
 
-function renderPrices(prices) {
+function renderPrices(prices, sectionId) {
+  const block = document.querySelector("#priceBlock");
+  const heading = document.querySelector("#priceHeading");
   const list = document.querySelector("#activePrices");
   clearChildren(list);
+
+  if (!prices.length) {
+    block.hidden = true;
+    return;
+  }
+
+  block.hidden = false;
+  heading.textContent =
+    sectionId === "macro" ? "금리·환율·유가·원자재 지표" : "주요 지수";
+
   prices.forEach((text) => {
     const item = document.createElement("li");
     item.textContent = text;
@@ -119,7 +131,7 @@ function renderSection(briefing, sectionId) {
   document.querySelector("#activeSectionTitle").textContent = section.title;
   document.querySelector("#activeArticleCount").textContent = `${section.article_count || 0} articles`;
   document.querySelector("#activeSectionSummary").textContent = section.summary || "";
-  renderPrices(section.prices || []);
+  renderPrices(section.prices || [], sectionId);
   renderArticles(section);
   setActiveTab(sectionId);
 }
