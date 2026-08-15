@@ -143,6 +143,26 @@ function renderSnapshot(briefing) {
   document.querySelector("#macroCount").textContent = sections.macro?.article_count ?? 0;
 }
 
+function renderMarketIndicators(briefing) {
+  const sections = briefing.sections || briefing;
+  const prices = sections.macro?.prices || [];
+  const block = document.querySelector("#marketIndicators");
+  const list = document.querySelector("#indicatorList");
+  clearChildren(list);
+
+  if (!prices.length) {
+    block.hidden = true;
+    return;
+  }
+
+  block.hidden = false;
+  prices.slice(0, 8).forEach((text) => {
+    const item = document.createElement("li");
+    item.textContent = text;
+    list.appendChild(item);
+  });
+}
+
 async function loadBriefing() {
   if (window.DAILY_MARKET_BRIEFING) {
     return window.DAILY_MARKET_BRIEFING;
@@ -161,6 +181,7 @@ loadBriefing()
     document.querySelector("#generatedAt").textContent =
       `생성 시각 ${formatDateTime(briefing.generated_at)}`;
     renderSnapshot(briefing);
+    renderMarketIndicators(briefing);
     renderSection(briefing, "domestic");
 
     document.querySelectorAll(".tab-button").forEach((button) => {
