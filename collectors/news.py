@@ -183,10 +183,34 @@ def collect_news() -> dict:
     }
 
 
+def load_previous_news(path: Path) -> dict | None:
+    if not path.exists():
+        return None
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    if payload.get("items"):
+        return payload
+    return None
+
+
 def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / "news_dynamic.json"
     payload = collect_news()
+
+    if not payload["items"] and payload["errors"]:
+        previous = load_previous_news(output_path)
+        if previous:
+            payload = {
+                **previous,
+                "source": f"{previous.get('source', 'google-news-rss')}-stale-fallback",
+                "fallback_reason": "latest_google_news_rss_collection_failed",
+                "fallback_at": datetime.now(timezone.utc).isoformat(),
+                "latest_errors": payload["errors"],
+            }
+
     output_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
