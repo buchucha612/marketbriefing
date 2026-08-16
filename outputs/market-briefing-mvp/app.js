@@ -173,7 +173,6 @@ async function loadBriefing() {
 
 loadBriefing()
   .then((briefing) => {
-    document.querySelector("#headline").textContent = briefing.headline;
     document.querySelector("#generatedAt").textContent =
       `생성 시각 ${formatDateTime(briefing.generated_at)}`;
     renderSnapshot(briefing);
@@ -187,6 +186,5 @@ loadBriefing()
     });
   })
   .catch(() => {
-    document.querySelector("#headline").textContent =
-      "브리핑 데이터를 찾을 수 없습니다. 수집 파이프라인을 먼저 실행해 주세요.";
+    document.querySelector("#generatedAt").textContent = "데이터를 불러오지 못했습니다";
   });

@@ -86,15 +86,6 @@ h2 {
   line-height: 1.22;
 }
 
-.headline {
-  max-width: 900px;
-  margin: 0;
-  color: #39342d;
-  font-size: 21px;
-  line-height: 1.55;
-  font-weight: 650;
-}
-
 .snapshot {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -430,10 +421,6 @@ h2 {
 
   h1 {
     font-size: 42px;
-  }
-
-  .headline {
-    font-size: 18px;
   }
 
   .section-tabs {
