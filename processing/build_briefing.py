@@ -245,16 +245,11 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
     cards = [
         {
             "title": item["title"],
-            "description": item.get("description", ""),
-            "title_original": item.get("title_original", ""),
             "source": item.get("source", ""),
-            "source_locale": item.get("source_locale", ""),
             "url": item.get("url", ""),
             "published_at": item.get("published_at", ""),
             "primary_topic": item.get("primary_topic", ""),
             "secondary_topics": item.get("secondary_topics", []),
-            "classification_reason": item.get("classification", {}).get("reason", ""),
-            "matched_queries": item.get("matched_queries", []),
         }
         for item in news[:8]
     ]
