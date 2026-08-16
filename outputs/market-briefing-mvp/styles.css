@@ -52,7 +52,7 @@ body {
 .hero-copy {
   display: grid;
   align-content: center;
-  max-width: 940px;
+  max-width: none;
   padding: 38px 0 46px;
 }
 
@@ -75,9 +75,10 @@ p {
 
 h1 {
   margin-bottom: 18px;
-  font-size: clamp(40px, 7vw, 82px);
+  font-size: clamp(38px, 4.8vw, 56px);
   line-height: 0.98;
   letter-spacing: 0;
+  white-space: nowrap;
 }
 
 h2 {
@@ -421,6 +422,7 @@ h2 {
 
   h1 {
     font-size: 42px;
+    white-space: normal;
   }
 
   .section-tabs {
