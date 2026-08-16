@@ -90,9 +90,6 @@ function renderArticles(section) {
     const item = document.createElement("li");
     const number = document.createElement("span");
     const link = document.createElement("a");
-    const description = document.createElement("p");
-    const original = document.createElement("p");
-    const reason = document.createElement("p");
     const meta = document.createElement("span");
 
     number.className = "story-number";
@@ -101,18 +98,10 @@ function renderArticles(section) {
     link.target = "_blank";
     link.rel = "noreferrer";
     link.textContent = article.title;
-    description.textContent = article.description || "";
-    original.className = "original-title";
-    original.textContent =
-      article.title_original && article.title_original !== article.title
-        ? `원문 헤드라인: ${article.title_original}`
-        : "";
-    reason.className = "classification-reason";
-    reason.textContent = article.classification_reason || "";
     meta.className = "source-meta";
     meta.textContent = `${article.source || "출처 미상"} · ${formatDateTime(article.published_at)}`;
 
-    item.append(number, link, renderTopicChips(article), original, description, reason, meta);
+    item.append(number, link, renderTopicChips(article), meta);
     list.appendChild(item);
   });
 }
