@@ -27,7 +27,7 @@ function topicLabel(topic) {
   const labels = {
     domestic: "국내",
     us: "미국",
-    macro: "금리·환율·유가·원자재",
+    macro: "금리·환율·유가·원자재·가상자산",
     sector: "섹터",
     weekly: "주간",
     uncategorized: "미분류",
@@ -67,7 +67,7 @@ function renderPrices(prices, sectionId) {
 
   block.hidden = false;
   heading.textContent =
-    sectionId === "macro" ? "금리·환율·유가·원자재 지표" : "주요 지수";
+    sectionId === "macro" ? "금리·환율·유가·원자재·가상자산 지표" : "주요 지수";
 
   prices.forEach((text) => {
     const item = document.createElement("li");
@@ -197,7 +197,7 @@ function renderMarketIndicators(briefing) {
   }
 
   block.hidden = false;
-  prices.slice(0, 8).forEach((text) => {
+  prices.forEach((text) => {
     const item = document.createElement("li");
     item.textContent = text;
     list.appendChild(item);

@@ -20,7 +20,7 @@ KST = ZoneInfo("Asia/Seoul")
 SECTION_LABELS = {
     "domestic": "국내 증시",
     "us": "미국 증시",
-    "macro": "금리·환율·유가·원자재",
+    "macro": "금리·환율·유가·원자재·가상자산",
     "sector": "섹터/테마",
     "weekly": "금주의 브리핑",
     "uncategorized": "미분류",
@@ -331,12 +331,18 @@ def group_prices(items: list[dict]) -> dict[str, list[dict]]:
 
 def price_line(item: dict) -> str:
     change = item.get("change_pct")
+    unit = item.get("unit", "")
+    value = f'{item["close"]:,.2f}'
+    if unit == "%":
+        value = f'{item["close"]:.2f}%'
+    elif unit == "USD":
+        value = f'${item["close"]:,.2f}'
     if change is None:
-        return f'{item["name"]}: {item["close"]:,.2f}'
+        return f'{item["name"]}: {value}'
     direction = "상승" if change > 0 else "하락" if change < 0 else "보합"
     return (
-        f'{item["name"]}: {item["close"]:,.2f} '
-        f'({abs(change):.2f}% {direction}, {item.get("as_of", "확인 전")} 기준)'
+        f'{item["name"]}: {value} '
+        f'(전일 대비 {abs(change):.2f}% {direction}, {item.get("as_of", "확인 전")} 기준)'
     )
 
 

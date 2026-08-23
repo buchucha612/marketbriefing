@@ -28,6 +28,10 @@ SYMBOLS = [
     {"symbol": "SI=F", "name": "은", "market": "macro"},
     {"symbol": "HG=F", "name": "구리", "market": "macro"},
     {"symbol": "NG=F", "name": "천연가스", "market": "macro"},
+    {"symbol": "^TNX", "name": "미국채 10년물 금리", "market": "macro", "unit": "%"},
+    {"symbol": "^TYX", "name": "미국채 30년물 금리", "market": "macro", "unit": "%"},
+    {"symbol": "BTC-USD", "name": "비트코인", "market": "macro", "unit": "USD"},
+    {"symbol": "ETH-USD", "name": "이더리움", "market": "macro", "unit": "USD"},
 ]
 
 
@@ -52,8 +56,9 @@ def parse_chart(config: dict, payload: dict) -> dict:
     timestamps = result["timestamp"]
     if len(closes) < 2:
         raise ValueError("not enough close values")
-    close = closes[-1]
-    previous = closes[-2]
+    scale = config.get("scale", 1)
+    close = closes[-1] * scale
+    previous = closes[-2] * scale
     change_pct = ((close - previous) / previous) * 100
     return {
         "symbol": config["symbol"],
@@ -61,6 +66,7 @@ def parse_chart(config: dict, payload: dict) -> dict:
         "market": config["market"],
         "close": round(close, 2),
         "change_pct": round(change_pct, 2),
+        "unit": config.get("unit", ""),
         "as_of": datetime.fromtimestamp(timestamps[-1], timezone.utc).date().isoformat(),
         "source_name": "Yahoo Finance chart API",
         "source_url": "https://finance.yahoo.com/quote/" + urllib.parse.quote(config["symbol"], safe=""),
