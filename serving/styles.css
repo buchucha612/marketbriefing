@@ -423,6 +423,330 @@ h2 {
   color: var(--accent);
 }
 
+.schedule-shell-item {
+  min-height: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.schedule-shell {
+  display: grid;
+  gap: 18px;
+}
+
+.schedule-calendar-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.schedule-title-group {
+  display: grid;
+  gap: 4px;
+}
+
+.schedule-calendar-head strong {
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.schedule-calendar-head span,
+.schedule-meta {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.schedule-subtitle {
+  margin: 0 0 10px;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.schedule-calendar-controls {
+  display: flex;
+  gap: 8px;
+}
+
+.schedule-calendar-controls button {
+  min-height: 34px;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  font-size: 13px;
+  font-weight: 850;
+  cursor: pointer;
+}
+
+.schedule-calendar-controls button:hover:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.schedule-calendar-controls button:disabled {
+  color: #aaa197;
+  cursor: default;
+  opacity: 0.55;
+}
+
+.schedule-event-list {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.schedule-event-list .empty {
+  min-height: auto;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fff;
+}
+
+.schedule-event {
+  min-height: auto;
+  padding: 13px 14px;
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.schedule-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 22px;
+  margin-bottom: 8px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #f2eee5;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.schedule-event a {
+  display: block;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 850;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.schedule-event a:hover {
+  color: var(--accent);
+}
+
+.schedule-event p {
+  margin: 7px 0 0;
+  color: #504a42;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.earnings-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.earnings-grid article {
+  padding: 13px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.earnings-grid article > strong {
+  display: block;
+  margin-bottom: 10px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.earnings-list {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.earnings-item {
+  min-height: auto;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.earnings-item a {
+  display: block;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 850;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.earnings-item a:hover {
+  color: var(--accent);
+}
+
+.earnings-item span {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 750;
+}
+
+.earnings-list .empty {
+  min-height: auto;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #fbfaf7;
+  color: var(--muted);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.calendar-weekday {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.calendar-day {
+  position: relative;
+  display: grid;
+  place-items: center;
+  min-height: 54px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  cursor: pointer;
+}
+
+.calendar-day.muted {
+  color: #aaa197;
+  background: #f6f2ea;
+}
+
+.calendar-day.today {
+  border-color: var(--accent);
+}
+
+.calendar-day.has-event {
+  background: #fffaf0;
+}
+
+.calendar-day.category-rate,
+.schedule-event.category-rate {
+  border-color: #7f1d1d;
+}
+
+.calendar-day.category-rate .schedule-badge,
+.schedule-event.category-rate .schedule-badge {
+  background: #fee2e2;
+  color: #7f1d1d;
+}
+
+.calendar-day.category-inflation,
+.schedule-event.category-inflation {
+  border-color: #9a3412;
+}
+
+.calendar-day.category-inflation .schedule-badge,
+.schedule-event.category-inflation .schedule-badge {
+  background: #ffedd5;
+  color: #9a3412;
+}
+
+.calendar-day.category-growth,
+.schedule-event.category-growth {
+  border-color: #164e63;
+}
+
+.calendar-day.category-growth .schedule-badge,
+.schedule-event.category-growth .schedule-badge {
+  background: #e8f3f6;
+  color: #164e63;
+}
+
+.calendar-day.category-activity,
+.schedule-event.category-activity {
+  border-color: #3f6212;
+}
+
+.calendar-day.category-activity .schedule-badge,
+.schedule-event.category-activity .schedule-badge {
+  background: #ecfccb;
+  color: #3f6212;
+}
+
+.calendar-day.category-central-bank,
+.schedule-event.category-central-bank {
+  border-color: #5b21b6;
+}
+
+.calendar-day.category-central-bank .schedule-badge,
+.schedule-event.category-central-bank .schedule-badge {
+  background: #ede9fe;
+  color: #5b21b6;
+}
+
+.calendar-day.high-impact {
+  border-color: #d28c45;
+}
+
+.calendar-day.selected {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
+}
+
+.calendar-day em {
+  position: absolute;
+  right: 6px;
+  bottom: 5px;
+  min-width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--accent-2);
+  color: #fff;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 18px;
+  text-align: center;
+}
+
+.calendar-day.selected em {
+  background: #f4c38b;
+  color: var(--ink);
+}
+
 .source-meta {
   display: block;
   margin-top: 5px;
@@ -480,6 +804,23 @@ h2 {
 
   .article-list li {
     padding-left: 18px;
+  }
+
+  .schedule-calendar-head {
+    display: grid;
+    align-items: start;
+  }
+
+  .calendar-grid {
+    gap: 4px;
+  }
+
+  .calendar-day {
+    min-height: 44px;
+  }
+
+  .earnings-grid {
+    grid-template-columns: 1fr;
   }
 
   .story-number {

@@ -23,8 +23,316 @@ SECTION_LABELS = {
     "macro": "시장지표 관련",
     "sector": "섹터/테마",
     "weekly": "금주의 브리핑",
+    "schedule": "주요 일정 정리",
     "uncategorized": "미분류",
 }
+
+ECONOMIC_EVENTS = [
+    {
+        "id": "us-pce-2026-08",
+        "start": "2026-08-26",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+    {
+        "id": "us-gdp-2026-q2-second",
+        "start": "2026-08-26",
+        "title": "미국 2분기 GDP 2차 추정",
+        "region": "미국",
+        "category": "성장",
+        "impact": "중간",
+        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+    {
+        "id": "bok-interest-rates-2026-07",
+        "start": "2026-08-26",
+        "title": "한국 7월 시장금리 통계",
+        "region": "국내",
+        "category": "금리",
+        "impact": "중간",
+        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+    },
+    {
+        "id": "bok-rate-2026-08",
+        "start": "2026-08-27",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+    },
+    {
+        "id": "jackson-hole-2026",
+        "start": "2026-08-27",
+        "end": "2026-08-29",
+        "title": "잭슨홀 경제정책 심포지엄",
+        "region": "미국",
+        "category": "중앙은행",
+        "impact": "높음",
+        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+        "source": "Federal Reserve Bank of Kansas City",
+        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+    },
+    {
+        "id": "kr-industrial-2026-07",
+        "start": "2026-08-31",
+        "title": "한국 7월 산업활동동향",
+        "region": "국내",
+        "category": "경기",
+        "impact": "중간",
+        "detail": "생산, 소비, 투자 흐름을 확인하는 국내 경기 지표입니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
+    },
+    {
+        "id": "kr-cpi-2026-08",
+        "start": "2026-09-02",
+        "title": "한국 8월 소비자물가동향",
+        "region": "국내",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+    },
+    {
+        "id": "us-fomc-2026-09",
+        "start": "2026-09-15",
+        "end": "2026-09-16",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "점도표와 경제전망이 함께 나오는 회의입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    },
+    {
+        "id": "us-pce-2026-09",
+        "start": "2026-09-30",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, August 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+    {
+        "id": "bok-rate-2026-10",
+        "start": "2026-10-22",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "국내 기준금리와 금융안정 관련 메시지를 확인하는 일정입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+    },
+    {
+        "id": "us-fomc-2026-10",
+        "start": "2026-10-27",
+        "end": "2026-10-28",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "정책금리 결정과 기자회견을 확인하는 일정입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    },
+    {
+        "id": "us-pce-2026-10",
+        "start": "2026-10-29",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, September 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+    {
+        "id": "bok-rate-2026-11",
+        "start": "2026-11-26",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "연말 국내 금리 경로와 환율 민감도를 점검하는 일정입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+    },
+    {
+        "id": "us-pce-2026-11",
+        "start": "2026-11-25",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, October 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+    {
+        "id": "us-fomc-2026-12",
+        "start": "2026-12-08",
+        "end": "2026-12-09",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "점도표와 경제전망이 함께 나오는 연말 회의입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+    },
+    {
+        "id": "us-pce-2026-12",
+        "start": "2026-12-23",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, November 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+    },
+]
+
+EARNINGS_EVENTS = [
+    {
+        "id": "earnings-us-pdd-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "PDD",
+        "company": "PDD Holdings",
+        "timing": "시간 미정",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-xpev-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "XPEV",
+        "company": "XPeng",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-intu-2026-08-25",
+        "date": "2026-08-25",
+        "region": "미국",
+        "ticker": "INTU",
+        "company": "Intuit",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-nvda-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "NVDA",
+        "company": "NVIDIA",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-crm-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRM",
+        "company": "Salesforce",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-crwd-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRWD",
+        "company": "CrowdStrike",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-snps-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "SNPS",
+        "company": "Synopsys",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-bby-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "BBY",
+        "company": "Best Buy",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-dltr-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "DLTR",
+        "company": "Dollar Tree",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-adsk-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ADSK",
+        "company": "Autodesk",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+    {
+        "id": "earnings-us-ulta-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ULTA",
+        "company": "Ulta Beauty",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+    },
+]
 
 THEME_RULES = [
     {
@@ -249,6 +557,124 @@ def weekly_window(now: datetime) -> tuple[date, date]:
     start_offset = 6 if local_now.weekday() == 5 else 5
     start_date = end_date - timedelta(days=start_offset)
     return start_date, end_date
+
+
+def current_week_window(now: datetime) -> tuple[date, date]:
+    today = now.astimezone(KST).date()
+    days_since_sunday = (today.weekday() + 1) % 7
+    start_date = today - timedelta(days=days_since_sunday)
+    return start_date, start_date + timedelta(days=6)
+
+
+def parse_event_date(value: str) -> date:
+    return date.fromisoformat(value)
+
+
+def normalize_event(event: dict) -> dict:
+    start_date = parse_event_date(event["start"])
+    end_date = parse_event_date(event.get("end", event["start"]))
+    normalized = dict(event)
+    normalized["start"] = start_date.isoformat()
+    normalized["end"] = end_date.isoformat()
+    normalized["date_label"] = (
+        format_korean_date(start_date)
+        if start_date == end_date
+        else f"{format_korean_date(start_date)}~{format_korean_date(end_date)}"
+    )
+    return normalized
+
+
+def event_overlaps(event: dict, start_date: date, end_date: date) -> bool:
+    event_start = parse_event_date(event["start"])
+    event_end = parse_event_date(event.get("end", event["start"]))
+    return event_start <= end_date and event_end >= start_date
+
+
+def events_on_date(events: list[dict], target: date) -> list[dict]:
+    return [
+        event
+        for event in events
+        if parse_event_date(event["start"]) <= target <= parse_event_date(event.get("end", event["start"]))
+    ]
+
+
+def build_calendar_days(events: list[dict], month_start: date, today: date) -> list[dict]:
+    next_month = month_start.replace(day=28) + timedelta(days=4)
+    month_end = next_month - timedelta(days=next_month.day)
+    grid_start = month_start - timedelta(days=(month_start.weekday() + 1) % 7)
+    grid_end = month_end + timedelta(days=(5 - month_end.weekday()) % 7)
+
+    days = []
+    cursor = grid_start
+    while cursor <= grid_end:
+        day_events = events_on_date(events, cursor)
+        days.append(
+            {
+                "date": cursor.isoformat(),
+                "day": cursor.day,
+                "in_month": cursor.month == month_start.month,
+                "is_today": cursor == today,
+                "event_count": len(day_events),
+                "has_high_impact": any(event.get("impact") == "높음" for event in day_events),
+            }
+        )
+        cursor += timedelta(days=1)
+    return days
+
+
+def build_calendar_month(events: list[dict], month_start: date, today: date) -> dict:
+    return {
+        "month": month_start.isoformat()[:7],
+        "month_label": f"{month_start.year}년 {month_start.month}월",
+        "days": build_calendar_days(events, month_start, today),
+    }
+
+
+def build_schedule_section(generated_at: datetime) -> dict:
+    local_today = generated_at.astimezone(KST).date()
+    month_start = local_today.replace(day=1)
+    week_start, week_end = current_week_window(generated_at)
+    events = sorted((normalize_event(event) for event in ECONOMIC_EVENTS), key=lambda row: (row["start"], row["title"]))
+    week_events = [event for event in events if event_overlaps(event, week_start, week_end)]
+    earnings = sorted(EARNINGS_EVENTS, key=lambda row: (row["date"], row["region"], row["ticker"]))
+    week_earnings = [
+        event
+        for event in earnings
+        if week_start <= parse_event_date(event["date"]) <= week_end
+    ]
+    event_months = sorted({event["start"][:7] for event in events} | {month_start.isoformat()[:7]})
+    calendar_months = [
+        build_calendar_month(events, date.fromisoformat(f"{month}-01"), local_today)
+        for month in event_months
+    ]
+
+    return {
+        "id": "schedule",
+        "title": "주요 일정 정리",
+        "summary": f"{format_korean_date(week_start)}~{format_korean_date(week_end)} 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
+        "prices": [],
+        "articles": [],
+        "article_count": len(week_events),
+        "calendar": {
+            "month": month_start.isoformat()[:7],
+            "month_label": f"{month_start.year}년 {month_start.month}월",
+            "week_start": week_start.isoformat(),
+            "week_end": week_end.isoformat(),
+            "week_label": f"{format_korean_date(week_start)}~{format_korean_date(week_end)}",
+            "days": build_calendar_days(events, month_start, local_today),
+            "months": calendar_months,
+        },
+        "events": events,
+        "week_events": week_events,
+        "earnings": earnings,
+        "week_earnings": {
+            "domestic": [event for event in week_earnings if event["region"] == "국내"],
+            "us": [event for event in week_earnings if event["region"] == "미국"],
+            "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다.",
+        },
+        "month_events": [event for event in events if event["start"].startswith(month_start.isoformat()[:7])],
+        "empty_message": "이번 주에 등록된 주요 일정이 없습니다.",
+    }
 
 
 def topic_score(text: str, keywords: list[str]) -> tuple[int, list[str]]:
@@ -558,6 +984,7 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
         "macro": build_section("macro", price_groups.get("macro", []), macro_news),
         "sector": build_section("sector", [], sector_news),
         "weekly": build_weekly_section(news_items, generated_dt),
+        "schedule": build_schedule_section(generated_dt),
         "uncategorized": build_section("uncategorized", [], news_groups.get("uncategorized", [])),
     }
 
@@ -571,6 +998,7 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
         "macro": sections["macro"],
         "sector": sections["sector"],
         "weekly": sections["weekly"],
+        "schedule": sections["schedule"],
         "uncategorized": sections["uncategorized"],
         "classification_summary": classification_summary(news_items),
         "collection_status": {

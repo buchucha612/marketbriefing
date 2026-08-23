@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T07:24:33.984388+00:00",
+  "generated_at": "2026-08-23T10:55:57.684873+00:00",
   "headline": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS / 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보 / 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
   "sections": {
     "domestic": {
@@ -435,6 +435,2455 @@
         }
       ],
       "empty_message": "해당 주간 구간에 포함되는 수집 기사가 아직 없습니다."
+    },
+    "schedule": {
+      "id": "schedule",
+      "title": "주요 일정 정리",
+      "summary": "8월 23일~8월 29일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
+      "prices": [],
+      "articles": [],
+      "article_count": 5,
+      "calendar": {
+        "month": "2026-08",
+        "month_label": "2026년 8월",
+        "week_start": "2026-08-23",
+        "week_end": "2026-08-29",
+        "week_label": "8월 23일~8월 29일",
+        "days": [
+          {
+            "date": "2026-07-26",
+            "day": 26,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-07-27",
+            "day": 27,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-07-28",
+            "day": 28,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-07-29",
+            "day": 29,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-07-30",
+            "day": 30,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-07-31",
+            "day": 31,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-01",
+            "day": 1,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-02",
+            "day": 2,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-03",
+            "day": 3,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-04",
+            "day": 4,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-05",
+            "day": 5,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-06",
+            "day": 6,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-07",
+            "day": 7,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-08",
+            "day": 8,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-09",
+            "day": 9,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-10",
+            "day": 10,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-11",
+            "day": 11,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-12",
+            "day": 12,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-13",
+            "day": 13,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-14",
+            "day": 14,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-15",
+            "day": 15,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-16",
+            "day": 16,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-17",
+            "day": 17,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-18",
+            "day": 18,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-19",
+            "day": 19,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-20",
+            "day": 20,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-21",
+            "day": 21,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-22",
+            "day": 22,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-23",
+            "day": 23,
+            "in_month": true,
+            "is_today": true,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-24",
+            "day": 24,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-25",
+            "day": 25,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-26",
+            "day": 26,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 3,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-08-27",
+            "day": 27,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 2,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-08-28",
+            "day": 28,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-08-29",
+            "day": 29,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-08-30",
+            "day": 30,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-08-31",
+            "day": 31,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-01",
+            "day": 1,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-02",
+            "day": 2,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-09-03",
+            "day": 3,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-04",
+            "day": 4,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-05",
+            "day": 5,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          }
+        ],
+        "months": [
+          {
+            "month": "2026-08",
+            "month_label": "2026년 8월",
+            "days": [
+              {
+                "date": "2026-07-26",
+                "day": 26,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-07-27",
+                "day": 27,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-07-28",
+                "day": 28,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-07-29",
+                "day": 29,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-07-30",
+                "day": 30,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-07-31",
+                "day": 31,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-01",
+                "day": 1,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-02",
+                "day": 2,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-03",
+                "day": 3,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-04",
+                "day": 4,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-05",
+                "day": 5,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-06",
+                "day": 6,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-07",
+                "day": 7,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-08",
+                "day": 8,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-09",
+                "day": 9,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-10",
+                "day": 10,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-11",
+                "day": 11,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-12",
+                "day": 12,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-13",
+                "day": 13,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-14",
+                "day": 14,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-15",
+                "day": 15,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-16",
+                "day": 16,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-17",
+                "day": 17,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-18",
+                "day": 18,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-19",
+                "day": 19,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-20",
+                "day": 20,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-21",
+                "day": 21,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-22",
+                "day": 22,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-23",
+                "day": 23,
+                "in_month": true,
+                "is_today": true,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-24",
+                "day": 24,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-25",
+                "day": 25,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-26",
+                "day": 26,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 3,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-08-27",
+                "day": 27,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 2,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-08-28",
+                "day": 28,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-08-29",
+                "day": 29,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-08-30",
+                "day": 30,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-31",
+                "day": 31,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-01",
+                "day": 1,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-02",
+                "day": 2,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-09-03",
+                "day": 3,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-04",
+                "day": 4,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-05",
+                "day": 5,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              }
+            ]
+          },
+          {
+            "month": "2026-09",
+            "month_label": "2026년 9월",
+            "days": [
+              {
+                "date": "2026-08-30",
+                "day": 30,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-08-31",
+                "day": 31,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-01",
+                "day": 1,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-02",
+                "day": 2,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-09-03",
+                "day": 3,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-04",
+                "day": 4,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-05",
+                "day": 5,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-06",
+                "day": 6,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-07",
+                "day": 7,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-08",
+                "day": 8,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-09",
+                "day": 9,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-10",
+                "day": 10,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-11",
+                "day": 11,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-12",
+                "day": 12,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-13",
+                "day": 13,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-14",
+                "day": 14,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-15",
+                "day": 15,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-09-16",
+                "day": 16,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-09-17",
+                "day": 17,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-18",
+                "day": 18,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-19",
+                "day": 19,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-20",
+                "day": 20,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-21",
+                "day": 21,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-22",
+                "day": 22,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-23",
+                "day": 23,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-24",
+                "day": 24,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-25",
+                "day": 25,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-26",
+                "day": 26,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-27",
+                "day": 27,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-28",
+                "day": 28,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-29",
+                "day": 29,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-30",
+                "day": 30,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-01",
+                "day": 1,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-02",
+                "day": 2,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-03",
+                "day": 3,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              }
+            ]
+          },
+          {
+            "month": "2026-10",
+            "month_label": "2026년 10월",
+            "days": [
+              {
+                "date": "2026-09-27",
+                "day": 27,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-28",
+                "day": 28,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-29",
+                "day": 29,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-09-30",
+                "day": 30,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-01",
+                "day": 1,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-02",
+                "day": 2,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-03",
+                "day": 3,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-04",
+                "day": 4,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-05",
+                "day": 5,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-06",
+                "day": 6,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-07",
+                "day": 7,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-08",
+                "day": 8,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-09",
+                "day": 9,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-10",
+                "day": 10,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-11",
+                "day": 11,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-12",
+                "day": 12,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-13",
+                "day": 13,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-14",
+                "day": 14,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-15",
+                "day": 15,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-16",
+                "day": 16,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-17",
+                "day": 17,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-18",
+                "day": 18,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-19",
+                "day": 19,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-20",
+                "day": 20,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-21",
+                "day": 21,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-22",
+                "day": 22,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-23",
+                "day": 23,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-24",
+                "day": 24,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-25",
+                "day": 25,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-26",
+                "day": 26,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-27",
+                "day": 27,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-28",
+                "day": 28,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-29",
+                "day": 29,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-10-30",
+                "day": 30,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-10-31",
+                "day": 31,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              }
+            ]
+          },
+          {
+            "month": "2026-11",
+            "month_label": "2026년 11월",
+            "days": [
+              {
+                "date": "2026-11-01",
+                "day": 1,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-02",
+                "day": 2,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-03",
+                "day": 3,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-04",
+                "day": 4,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-05",
+                "day": 5,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-06",
+                "day": 6,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-07",
+                "day": 7,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-08",
+                "day": 8,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-09",
+                "day": 9,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-10",
+                "day": 10,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-11",
+                "day": 11,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-12",
+                "day": 12,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-13",
+                "day": 13,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-14",
+                "day": 14,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-15",
+                "day": 15,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-16",
+                "day": 16,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-17",
+                "day": 17,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-18",
+                "day": 18,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-19",
+                "day": 19,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-20",
+                "day": 20,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-21",
+                "day": 21,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-22",
+                "day": 22,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-23",
+                "day": 23,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-24",
+                "day": 24,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-25",
+                "day": 25,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-11-26",
+                "day": 26,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-11-27",
+                "day": 27,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-28",
+                "day": 28,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-29",
+                "day": 29,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-30",
+                "day": 30,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-01",
+                "day": 1,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-02",
+                "day": 2,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-03",
+                "day": 3,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-04",
+                "day": 4,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-05",
+                "day": 5,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              }
+            ]
+          },
+          {
+            "month": "2026-12",
+            "month_label": "2026년 12월",
+            "days": [
+              {
+                "date": "2026-11-29",
+                "day": 29,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-11-30",
+                "day": 30,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-01",
+                "day": 1,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-02",
+                "day": 2,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-03",
+                "day": 3,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-04",
+                "day": 4,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-05",
+                "day": 5,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-06",
+                "day": 6,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-07",
+                "day": 7,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-08",
+                "day": 8,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-12-09",
+                "day": 9,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-12-10",
+                "day": 10,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-11",
+                "day": 11,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-12",
+                "day": 12,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-13",
+                "day": 13,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-14",
+                "day": 14,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-15",
+                "day": 15,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-16",
+                "day": 16,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-17",
+                "day": 17,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-18",
+                "day": 18,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-19",
+                "day": 19,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-20",
+                "day": 20,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-21",
+                "day": 21,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-22",
+                "day": 22,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-23",
+                "day": 23,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 1,
+                "has_high_impact": true
+              },
+              {
+                "date": "2026-12-24",
+                "day": 24,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-25",
+                "day": 25,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-26",
+                "day": 26,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-27",
+                "day": 27,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-28",
+                "day": 28,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-29",
+                "day": 29,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-30",
+                "day": 30,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2026-12-31",
+                "day": 31,
+                "in_month": true,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2027-01-01",
+                "day": 1,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              },
+              {
+                "date": "2027-01-02",
+                "day": 2,
+                "in_month": false,
+                "is_today": false,
+                "event_count": 0,
+                "has_high_impact": false
+              }
+            ]
+          }
+        ]
+      },
+      "events": [
+        {
+          "id": "us-gdp-2026-q2-second",
+          "start": "2026-08-26",
+          "title": "미국 2분기 GDP 2차 추정",
+          "region": "미국",
+          "category": "성장",
+          "impact": "중간",
+          "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "us-pce-2026-08",
+          "start": "2026-08-26",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "bok-interest-rates-2026-07",
+          "start": "2026-08-26",
+          "title": "한국 7월 시장금리 통계",
+          "region": "국내",
+          "category": "금리",
+          "impact": "중간",
+          "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "jackson-hole-2026",
+          "start": "2026-08-27",
+          "end": "2026-08-29",
+          "title": "잭슨홀 경제정책 심포지엄",
+          "region": "미국",
+          "category": "중앙은행",
+          "impact": "높음",
+          "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+          "source": "Federal Reserve Bank of Kansas City",
+          "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+          "date_label": "8월 27일~8월 29일"
+        },
+        {
+          "id": "bok-rate-2026-08",
+          "start": "2026-08-27",
+          "title": "한국은행 금융통화위원회 기준금리 결정",
+          "region": "국내",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+          "end": "2026-08-27",
+          "date_label": "8월 27일"
+        },
+        {
+          "id": "kr-industrial-2026-07",
+          "start": "2026-08-31",
+          "title": "한국 7월 산업활동동향",
+          "region": "국내",
+          "category": "경기",
+          "impact": "중간",
+          "detail": "생산, 소비, 투자 흐름을 확인하는 국내 경기 지표입니다.",
+          "source": "Ministry of Data and Statistics",
+          "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
+          "end": "2026-08-31",
+          "date_label": "8월 31일"
+        },
+        {
+          "id": "kr-cpi-2026-08",
+          "start": "2026-09-02",
+          "title": "한국 8월 소비자물가동향",
+          "region": "국내",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+          "source": "Ministry of Data and Statistics",
+          "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+          "end": "2026-09-02",
+          "date_label": "9월 2일"
+        },
+        {
+          "id": "us-fomc-2026-09",
+          "start": "2026-09-15",
+          "end": "2026-09-16",
+          "title": "미국 FOMC 정례회의",
+          "region": "미국",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "점도표와 경제전망이 함께 나오는 회의입니다.",
+          "source": "Federal Reserve",
+          "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+          "date_label": "9월 15일~9월 16일"
+        },
+        {
+          "id": "us-pce-2026-09",
+          "start": "2026-09-30",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, August 2026입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-09-30",
+          "date_label": "9월 30일"
+        },
+        {
+          "id": "bok-rate-2026-10",
+          "start": "2026-10-22",
+          "title": "한국은행 금융통화위원회 기준금리 결정",
+          "region": "국내",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "국내 기준금리와 금융안정 관련 메시지를 확인하는 일정입니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+          "end": "2026-10-22",
+          "date_label": "10월 22일"
+        },
+        {
+          "id": "us-fomc-2026-10",
+          "start": "2026-10-27",
+          "end": "2026-10-28",
+          "title": "미국 FOMC 정례회의",
+          "region": "미국",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "정책금리 결정과 기자회견을 확인하는 일정입니다.",
+          "source": "Federal Reserve",
+          "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+          "date_label": "10월 27일~10월 28일"
+        },
+        {
+          "id": "us-pce-2026-10",
+          "start": "2026-10-29",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, September 2026입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-10-29",
+          "date_label": "10월 29일"
+        },
+        {
+          "id": "us-pce-2026-11",
+          "start": "2026-11-25",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, October 2026입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-11-25",
+          "date_label": "11월 25일"
+        },
+        {
+          "id": "bok-rate-2026-11",
+          "start": "2026-11-26",
+          "title": "한국은행 금융통화위원회 기준금리 결정",
+          "region": "국내",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "연말 국내 금리 경로와 환율 민감도를 점검하는 일정입니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+          "end": "2026-11-26",
+          "date_label": "11월 26일"
+        },
+        {
+          "id": "us-fomc-2026-12",
+          "start": "2026-12-08",
+          "end": "2026-12-09",
+          "title": "미국 FOMC 정례회의",
+          "region": "미국",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "점도표와 경제전망이 함께 나오는 연말 회의입니다.",
+          "source": "Federal Reserve",
+          "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+          "date_label": "12월 8일~12월 9일"
+        },
+        {
+          "id": "us-pce-2026-12",
+          "start": "2026-12-23",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, November 2026입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-12-23",
+          "date_label": "12월 23일"
+        }
+      ],
+      "week_events": [
+        {
+          "id": "us-gdp-2026-q2-second",
+          "start": "2026-08-26",
+          "title": "미국 2분기 GDP 2차 추정",
+          "region": "미국",
+          "category": "성장",
+          "impact": "중간",
+          "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "us-pce-2026-08",
+          "start": "2026-08-26",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "bok-interest-rates-2026-07",
+          "start": "2026-08-26",
+          "title": "한국 7월 시장금리 통계",
+          "region": "국내",
+          "category": "금리",
+          "impact": "중간",
+          "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "jackson-hole-2026",
+          "start": "2026-08-27",
+          "end": "2026-08-29",
+          "title": "잭슨홀 경제정책 심포지엄",
+          "region": "미국",
+          "category": "중앙은행",
+          "impact": "높음",
+          "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+          "source": "Federal Reserve Bank of Kansas City",
+          "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+          "date_label": "8월 27일~8월 29일"
+        },
+        {
+          "id": "bok-rate-2026-08",
+          "start": "2026-08-27",
+          "title": "한국은행 금융통화위원회 기준금리 결정",
+          "region": "국내",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+          "end": "2026-08-27",
+          "date_label": "8월 27일"
+        }
+      ],
+      "earnings": [
+        {
+          "id": "earnings-us-pdd-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "PDD",
+          "company": "PDD Holdings",
+          "timing": "시간 미정",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-xpev-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "XPEV",
+          "company": "XPeng",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-intu-2026-08-25",
+          "date": "2026-08-25",
+          "region": "미국",
+          "ticker": "INTU",
+          "company": "Intuit",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-crm-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRM",
+          "company": "Salesforce",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-crwd-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRWD",
+          "company": "CrowdStrike",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-nvda-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-snps-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "SNPS",
+          "company": "Synopsys",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-adsk-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ADSK",
+          "company": "Autodesk",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-bby-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "BBY",
+          "company": "Best Buy",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-dltr-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "DLTR",
+          "company": "Dollar Tree",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-ulta-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ULTA",
+          "company": "Ulta Beauty",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        }
+      ],
+      "week_earnings": {
+        "domestic": [],
+        "us": [
+          {
+            "id": "earnings-us-pdd-2026-08-24",
+            "date": "2026-08-24",
+            "region": "미국",
+            "ticker": "PDD",
+            "company": "PDD Holdings",
+            "timing": "시간 미정",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-xpev-2026-08-24",
+            "date": "2026-08-24",
+            "region": "미국",
+            "ticker": "XPEV",
+            "company": "XPeng",
+            "timing": "장전",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-intu-2026-08-25",
+            "date": "2026-08-25",
+            "region": "미국",
+            "ticker": "INTU",
+            "company": "Intuit",
+            "timing": "장후",
+            "importance": "높음",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-crm-2026-08-26",
+            "date": "2026-08-26",
+            "region": "미국",
+            "ticker": "CRM",
+            "company": "Salesforce",
+            "timing": "장후",
+            "importance": "높음",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-crwd-2026-08-26",
+            "date": "2026-08-26",
+            "region": "미국",
+            "ticker": "CRWD",
+            "company": "CrowdStrike",
+            "timing": "장후",
+            "importance": "높음",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-nvda-2026-08-26",
+            "date": "2026-08-26",
+            "region": "미국",
+            "ticker": "NVDA",
+            "company": "NVIDIA",
+            "timing": "장후",
+            "importance": "높음",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-snps-2026-08-26",
+            "date": "2026-08-26",
+            "region": "미국",
+            "ticker": "SNPS",
+            "company": "Synopsys",
+            "timing": "장후",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-adsk-2026-08-27",
+            "date": "2026-08-27",
+            "region": "미국",
+            "ticker": "ADSK",
+            "company": "Autodesk",
+            "timing": "장후",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-bby-2026-08-27",
+            "date": "2026-08-27",
+            "region": "미국",
+            "ticker": "BBY",
+            "company": "Best Buy",
+            "timing": "장전",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-dltr-2026-08-27",
+            "date": "2026-08-27",
+            "region": "미국",
+            "ticker": "DLTR",
+            "company": "Dollar Tree",
+            "timing": "장전",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          },
+          {
+            "id": "earnings-us-ulta-2026-08-27",
+            "date": "2026-08-27",
+            "region": "미국",
+            "ticker": "ULTA",
+            "company": "Ulta Beauty",
+            "timing": "장후",
+            "importance": "중간",
+            "source": "EarningsCountdown",
+            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+          }
+        ],
+        "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
+      },
+      "month_events": [
+        {
+          "id": "us-gdp-2026-q2-second",
+          "start": "2026-08-26",
+          "title": "미국 2분기 GDP 2차 추정",
+          "region": "미국",
+          "category": "성장",
+          "impact": "중간",
+          "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "us-pce-2026-08",
+          "start": "2026-08-26",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "bok-interest-rates-2026-07",
+          "start": "2026-08-26",
+          "title": "한국 7월 시장금리 통계",
+          "region": "국내",
+          "category": "금리",
+          "impact": "중간",
+          "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+          "end": "2026-08-26",
+          "date_label": "8월 26일"
+        },
+        {
+          "id": "jackson-hole-2026",
+          "start": "2026-08-27",
+          "end": "2026-08-29",
+          "title": "잭슨홀 경제정책 심포지엄",
+          "region": "미국",
+          "category": "중앙은행",
+          "impact": "높음",
+          "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+          "source": "Federal Reserve Bank of Kansas City",
+          "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+          "date_label": "8월 27일~8월 29일"
+        },
+        {
+          "id": "bok-rate-2026-08",
+          "start": "2026-08-27",
+          "title": "한국은행 금융통화위원회 기준금리 결정",
+          "region": "국내",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+          "source": "Bank of Korea",
+          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+          "end": "2026-08-27",
+          "date_label": "8월 27일"
+        },
+        {
+          "id": "kr-industrial-2026-07",
+          "start": "2026-08-31",
+          "title": "한국 7월 산업활동동향",
+          "region": "국내",
+          "category": "경기",
+          "impact": "중간",
+          "detail": "생산, 소비, 투자 흐름을 확인하는 국내 경기 지표입니다.",
+          "source": "Ministry of Data and Statistics",
+          "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
+          "end": "2026-08-31",
+          "date_label": "8월 31일"
+        }
+      ],
+      "empty_message": "이번 주에 등록된 주요 일정이 없습니다."
     },
     "uncategorized": {
       "id": "uncategorized",
@@ -879,6 +3328,2455 @@
     ],
     "empty_message": "해당 주간 구간에 포함되는 수집 기사가 아직 없습니다."
   },
+  "schedule": {
+    "id": "schedule",
+    "title": "주요 일정 정리",
+    "summary": "8월 23일~8월 29일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
+    "prices": [],
+    "articles": [],
+    "article_count": 5,
+    "calendar": {
+      "month": "2026-08",
+      "month_label": "2026년 8월",
+      "week_start": "2026-08-23",
+      "week_end": "2026-08-29",
+      "week_label": "8월 23일~8월 29일",
+      "days": [
+        {
+          "date": "2026-07-26",
+          "day": 26,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-07-27",
+          "day": 27,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-07-28",
+          "day": 28,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-07-29",
+          "day": 29,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-07-30",
+          "day": 30,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-07-31",
+          "day": 31,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-01",
+          "day": 1,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-02",
+          "day": 2,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-03",
+          "day": 3,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-04",
+          "day": 4,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-05",
+          "day": 5,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-06",
+          "day": 6,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-07",
+          "day": 7,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-08",
+          "day": 8,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-09",
+          "day": 9,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-10",
+          "day": 10,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-11",
+          "day": 11,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-12",
+          "day": 12,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-13",
+          "day": 13,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-14",
+          "day": 14,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-15",
+          "day": 15,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-16",
+          "day": 16,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-17",
+          "day": 17,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-18",
+          "day": 18,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-19",
+          "day": 19,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-20",
+          "day": 20,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-21",
+          "day": 21,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-22",
+          "day": 22,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-23",
+          "day": 23,
+          "in_month": true,
+          "is_today": true,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-24",
+          "day": 24,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-25",
+          "day": 25,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-26",
+          "day": 26,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 3,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-08-27",
+          "day": 27,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 2,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-08-28",
+          "day": 28,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-08-29",
+          "day": 29,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-08-30",
+          "day": 30,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-08-31",
+          "day": 31,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-01",
+          "day": 1,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-02",
+          "day": 2,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-09-03",
+          "day": 3,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-04",
+          "day": 4,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-05",
+          "day": 5,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        }
+      ],
+      "months": [
+        {
+          "month": "2026-08",
+          "month_label": "2026년 8월",
+          "days": [
+            {
+              "date": "2026-07-26",
+              "day": 26,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-07-27",
+              "day": 27,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-07-28",
+              "day": 28,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-07-29",
+              "day": 29,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-07-30",
+              "day": 30,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-07-31",
+              "day": 31,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-01",
+              "day": 1,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-02",
+              "day": 2,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-03",
+              "day": 3,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-04",
+              "day": 4,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-05",
+              "day": 5,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-06",
+              "day": 6,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-07",
+              "day": 7,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-08",
+              "day": 8,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-09",
+              "day": 9,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-10",
+              "day": 10,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-11",
+              "day": 11,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-12",
+              "day": 12,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-13",
+              "day": 13,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-14",
+              "day": 14,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-15",
+              "day": 15,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-16",
+              "day": 16,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-17",
+              "day": 17,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-18",
+              "day": 18,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-19",
+              "day": 19,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-20",
+              "day": 20,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-21",
+              "day": 21,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-22",
+              "day": 22,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-23",
+              "day": 23,
+              "in_month": true,
+              "is_today": true,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-24",
+              "day": 24,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-25",
+              "day": 25,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-26",
+              "day": 26,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 3,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-08-27",
+              "day": 27,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 2,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-08-28",
+              "day": 28,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-08-29",
+              "day": 29,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-08-30",
+              "day": 30,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-31",
+              "day": 31,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-01",
+              "day": 1,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-02",
+              "day": 2,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-09-03",
+              "day": 3,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-04",
+              "day": 4,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-05",
+              "day": 5,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            }
+          ]
+        },
+        {
+          "month": "2026-09",
+          "month_label": "2026년 9월",
+          "days": [
+            {
+              "date": "2026-08-30",
+              "day": 30,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-08-31",
+              "day": 31,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-01",
+              "day": 1,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-02",
+              "day": 2,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-09-03",
+              "day": 3,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-04",
+              "day": 4,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-05",
+              "day": 5,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-06",
+              "day": 6,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-07",
+              "day": 7,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-08",
+              "day": 8,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-09",
+              "day": 9,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-10",
+              "day": 10,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-11",
+              "day": 11,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-12",
+              "day": 12,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-13",
+              "day": 13,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-14",
+              "day": 14,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-15",
+              "day": 15,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-09-16",
+              "day": 16,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-09-17",
+              "day": 17,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-18",
+              "day": 18,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-19",
+              "day": 19,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-20",
+              "day": 20,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-21",
+              "day": 21,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-22",
+              "day": 22,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-23",
+              "day": 23,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-24",
+              "day": 24,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-25",
+              "day": 25,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-26",
+              "day": 26,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-27",
+              "day": 27,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-28",
+              "day": 28,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-29",
+              "day": 29,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-30",
+              "day": 30,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-01",
+              "day": 1,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-02",
+              "day": 2,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-03",
+              "day": 3,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            }
+          ]
+        },
+        {
+          "month": "2026-10",
+          "month_label": "2026년 10월",
+          "days": [
+            {
+              "date": "2026-09-27",
+              "day": 27,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-28",
+              "day": 28,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-29",
+              "day": 29,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-09-30",
+              "day": 30,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-01",
+              "day": 1,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-02",
+              "day": 2,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-03",
+              "day": 3,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-04",
+              "day": 4,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-05",
+              "day": 5,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-06",
+              "day": 6,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-07",
+              "day": 7,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-08",
+              "day": 8,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-09",
+              "day": 9,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-10",
+              "day": 10,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-11",
+              "day": 11,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-12",
+              "day": 12,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-13",
+              "day": 13,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-14",
+              "day": 14,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-15",
+              "day": 15,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-16",
+              "day": 16,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-17",
+              "day": 17,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-18",
+              "day": 18,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-19",
+              "day": 19,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-20",
+              "day": 20,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-21",
+              "day": 21,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-22",
+              "day": 22,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-23",
+              "day": 23,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-24",
+              "day": 24,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-25",
+              "day": 25,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-26",
+              "day": 26,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-27",
+              "day": 27,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-28",
+              "day": 28,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-29",
+              "day": 29,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-10-30",
+              "day": 30,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-10-31",
+              "day": 31,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            }
+          ]
+        },
+        {
+          "month": "2026-11",
+          "month_label": "2026년 11월",
+          "days": [
+            {
+              "date": "2026-11-01",
+              "day": 1,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-02",
+              "day": 2,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-03",
+              "day": 3,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-04",
+              "day": 4,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-05",
+              "day": 5,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-06",
+              "day": 6,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-07",
+              "day": 7,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-08",
+              "day": 8,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-09",
+              "day": 9,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-10",
+              "day": 10,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-11",
+              "day": 11,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-12",
+              "day": 12,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-13",
+              "day": 13,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-14",
+              "day": 14,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-15",
+              "day": 15,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-16",
+              "day": 16,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-17",
+              "day": 17,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-18",
+              "day": 18,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-19",
+              "day": 19,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-20",
+              "day": 20,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-21",
+              "day": 21,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-22",
+              "day": 22,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-23",
+              "day": 23,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-24",
+              "day": 24,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-25",
+              "day": 25,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-11-26",
+              "day": 26,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-11-27",
+              "day": 27,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-28",
+              "day": 28,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-29",
+              "day": 29,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-30",
+              "day": 30,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-01",
+              "day": 1,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-02",
+              "day": 2,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-03",
+              "day": 3,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-04",
+              "day": 4,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-05",
+              "day": 5,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            }
+          ]
+        },
+        {
+          "month": "2026-12",
+          "month_label": "2026년 12월",
+          "days": [
+            {
+              "date": "2026-11-29",
+              "day": 29,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-11-30",
+              "day": 30,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-01",
+              "day": 1,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-02",
+              "day": 2,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-03",
+              "day": 3,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-04",
+              "day": 4,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-05",
+              "day": 5,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-06",
+              "day": 6,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-07",
+              "day": 7,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-08",
+              "day": 8,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-12-09",
+              "day": 9,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-12-10",
+              "day": 10,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-11",
+              "day": 11,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-12",
+              "day": 12,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-13",
+              "day": 13,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-14",
+              "day": 14,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-15",
+              "day": 15,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-16",
+              "day": 16,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-17",
+              "day": 17,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-18",
+              "day": 18,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-19",
+              "day": 19,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-20",
+              "day": 20,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-21",
+              "day": 21,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-22",
+              "day": 22,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-23",
+              "day": 23,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 1,
+              "has_high_impact": true
+            },
+            {
+              "date": "2026-12-24",
+              "day": 24,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-25",
+              "day": 25,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-26",
+              "day": 26,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-27",
+              "day": 27,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-28",
+              "day": 28,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-29",
+              "day": 29,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-30",
+              "day": 30,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2026-12-31",
+              "day": 31,
+              "in_month": true,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2027-01-01",
+              "day": 1,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            },
+            {
+              "date": "2027-01-02",
+              "day": 2,
+              "in_month": false,
+              "is_today": false,
+              "event_count": 0,
+              "has_high_impact": false
+            }
+          ]
+        }
+      ]
+    },
+    "events": [
+      {
+        "id": "us-gdp-2026-q2-second",
+        "start": "2026-08-26",
+        "title": "미국 2분기 GDP 2차 추정",
+        "region": "미국",
+        "category": "성장",
+        "impact": "중간",
+        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "us-pce-2026-08",
+        "start": "2026-08-26",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "bok-interest-rates-2026-07",
+        "start": "2026-08-26",
+        "title": "한국 7월 시장금리 통계",
+        "region": "국내",
+        "category": "금리",
+        "impact": "중간",
+        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "jackson-hole-2026",
+        "start": "2026-08-27",
+        "end": "2026-08-29",
+        "title": "잭슨홀 경제정책 심포지엄",
+        "region": "미국",
+        "category": "중앙은행",
+        "impact": "높음",
+        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+        "source": "Federal Reserve Bank of Kansas City",
+        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+        "date_label": "8월 27일~8월 29일"
+      },
+      {
+        "id": "bok-rate-2026-08",
+        "start": "2026-08-27",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+        "end": "2026-08-27",
+        "date_label": "8월 27일"
+      },
+      {
+        "id": "kr-industrial-2026-07",
+        "start": "2026-08-31",
+        "title": "한국 7월 산업활동동향",
+        "region": "국내",
+        "category": "경기",
+        "impact": "중간",
+        "detail": "생산, 소비, 투자 흐름을 확인하는 국내 경기 지표입니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
+        "end": "2026-08-31",
+        "date_label": "8월 31일"
+      },
+      {
+        "id": "kr-cpi-2026-08",
+        "start": "2026-09-02",
+        "title": "한국 8월 소비자물가동향",
+        "region": "국내",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+        "end": "2026-09-02",
+        "date_label": "9월 2일"
+      },
+      {
+        "id": "us-fomc-2026-09",
+        "start": "2026-09-15",
+        "end": "2026-09-16",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "점도표와 경제전망이 함께 나오는 회의입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "date_label": "9월 15일~9월 16일"
+      },
+      {
+        "id": "us-pce-2026-09",
+        "start": "2026-09-30",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, August 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-09-30",
+        "date_label": "9월 30일"
+      },
+      {
+        "id": "bok-rate-2026-10",
+        "start": "2026-10-22",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "국내 기준금리와 금융안정 관련 메시지를 확인하는 일정입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+        "end": "2026-10-22",
+        "date_label": "10월 22일"
+      },
+      {
+        "id": "us-fomc-2026-10",
+        "start": "2026-10-27",
+        "end": "2026-10-28",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "정책금리 결정과 기자회견을 확인하는 일정입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "date_label": "10월 27일~10월 28일"
+      },
+      {
+        "id": "us-pce-2026-10",
+        "start": "2026-10-29",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, September 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-10-29",
+        "date_label": "10월 29일"
+      },
+      {
+        "id": "us-pce-2026-11",
+        "start": "2026-11-25",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, October 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-11-25",
+        "date_label": "11월 25일"
+      },
+      {
+        "id": "bok-rate-2026-11",
+        "start": "2026-11-26",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "연말 국내 금리 경로와 환율 민감도를 점검하는 일정입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+        "end": "2026-11-26",
+        "date_label": "11월 26일"
+      },
+      {
+        "id": "us-fomc-2026-12",
+        "start": "2026-12-08",
+        "end": "2026-12-09",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "점도표와 경제전망이 함께 나오는 연말 회의입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "date_label": "12월 8일~12월 9일"
+      },
+      {
+        "id": "us-pce-2026-12",
+        "start": "2026-12-23",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, November 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-12-23",
+        "date_label": "12월 23일"
+      }
+    ],
+    "week_events": [
+      {
+        "id": "us-gdp-2026-q2-second",
+        "start": "2026-08-26",
+        "title": "미국 2분기 GDP 2차 추정",
+        "region": "미국",
+        "category": "성장",
+        "impact": "중간",
+        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "us-pce-2026-08",
+        "start": "2026-08-26",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "bok-interest-rates-2026-07",
+        "start": "2026-08-26",
+        "title": "한국 7월 시장금리 통계",
+        "region": "국내",
+        "category": "금리",
+        "impact": "중간",
+        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "jackson-hole-2026",
+        "start": "2026-08-27",
+        "end": "2026-08-29",
+        "title": "잭슨홀 경제정책 심포지엄",
+        "region": "미국",
+        "category": "중앙은행",
+        "impact": "높음",
+        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+        "source": "Federal Reserve Bank of Kansas City",
+        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+        "date_label": "8월 27일~8월 29일"
+      },
+      {
+        "id": "bok-rate-2026-08",
+        "start": "2026-08-27",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+        "end": "2026-08-27",
+        "date_label": "8월 27일"
+      }
+    ],
+    "earnings": [
+      {
+        "id": "earnings-us-pdd-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "PDD",
+        "company": "PDD Holdings",
+        "timing": "시간 미정",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-xpev-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "XPEV",
+        "company": "XPeng",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-intu-2026-08-25",
+        "date": "2026-08-25",
+        "region": "미국",
+        "ticker": "INTU",
+        "company": "Intuit",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-crm-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRM",
+        "company": "Salesforce",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-crwd-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRWD",
+        "company": "CrowdStrike",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-nvda-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "NVDA",
+        "company": "NVIDIA",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-snps-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "SNPS",
+        "company": "Synopsys",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-adsk-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ADSK",
+        "company": "Autodesk",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-bby-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "BBY",
+        "company": "Best Buy",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-dltr-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "DLTR",
+        "company": "Dollar Tree",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      },
+      {
+        "id": "earnings-us-ulta-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ULTA",
+        "company": "Ulta Beauty",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+      }
+    ],
+    "week_earnings": {
+      "domestic": [],
+      "us": [
+        {
+          "id": "earnings-us-pdd-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "PDD",
+          "company": "PDD Holdings",
+          "timing": "시간 미정",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-xpev-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "XPEV",
+          "company": "XPeng",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-intu-2026-08-25",
+          "date": "2026-08-25",
+          "region": "미국",
+          "ticker": "INTU",
+          "company": "Intuit",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-crm-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRM",
+          "company": "Salesforce",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-crwd-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRWD",
+          "company": "CrowdStrike",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-nvda-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-snps-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "SNPS",
+          "company": "Synopsys",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-adsk-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ADSK",
+          "company": "Autodesk",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-bby-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "BBY",
+          "company": "Best Buy",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-dltr-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "DLTR",
+          "company": "Dollar Tree",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        },
+        {
+          "id": "earnings-us-ulta-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ULTA",
+          "company": "Ulta Beauty",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
+        }
+      ],
+      "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
+    },
+    "month_events": [
+      {
+        "id": "us-gdp-2026-q2-second",
+        "start": "2026-08-26",
+        "title": "미국 2분기 GDP 2차 추정",
+        "region": "미국",
+        "category": "성장",
+        "impact": "중간",
+        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "us-pce-2026-08",
+        "start": "2026-08-26",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "bok-interest-rates-2026-07",
+        "start": "2026-08-26",
+        "title": "한국 7월 시장금리 통계",
+        "region": "국내",
+        "category": "금리",
+        "impact": "중간",
+        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
+        "end": "2026-08-26",
+        "date_label": "8월 26일"
+      },
+      {
+        "id": "jackson-hole-2026",
+        "start": "2026-08-27",
+        "end": "2026-08-29",
+        "title": "잭슨홀 경제정책 심포지엄",
+        "region": "미국",
+        "category": "중앙은행",
+        "impact": "높음",
+        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
+        "source": "Federal Reserve Bank of Kansas City",
+        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
+        "date_label": "8월 27일~8월 29일"
+      },
+      {
+        "id": "bok-rate-2026-08",
+        "start": "2026-08-27",
+        "title": "한국은행 금융통화위원회 기준금리 결정",
+        "region": "국내",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
+        "source": "Bank of Korea",
+        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
+        "end": "2026-08-27",
+        "date_label": "8월 27일"
+      },
+      {
+        "id": "kr-industrial-2026-07",
+        "start": "2026-08-31",
+        "title": "한국 7월 산업활동동향",
+        "region": "국내",
+        "category": "경기",
+        "impact": "중간",
+        "detail": "생산, 소비, 투자 흐름을 확인하는 국내 경기 지표입니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
+        "end": "2026-08-31",
+        "date_label": "8월 31일"
+      }
+    ],
+    "empty_message": "이번 주에 등록된 주요 일정이 없습니다."
+  },
   "uncategorized": {
     "id": "uncategorized",
     "title": "미분류",
@@ -902,6 +5800,7 @@
       "macro": "시장지표 관련",
       "sector": "섹터/테마",
       "weekly": "금주의 브리핑",
+      "schedule": "주요 일정 정리",
       "uncategorized": "미분류"
     }
   },

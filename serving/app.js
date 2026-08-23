@@ -1,10 +1,11 @@
-const SECTION_ORDER = ["domestic", "us", "macro", "sector", "weekly"];
+const SECTION_ORDER = ["domestic", "us", "macro", "sector", "weekly", "schedule"];
 const SECTION_INDEX = {
   domestic: "01",
   us: "02",
   macro: "03",
   sector: "04",
   weekly: "05",
+  schedule: "06",
 };
 
 function formatDateTime(value) {
@@ -30,6 +31,7 @@ function topicLabel(topic) {
     macro: "금리·환율·유가·원자재·가상자산",
     sector: "섹터",
     weekly: "주간",
+    schedule: "일정",
     uncategorized: "미분류",
   };
   return labels[topic] || topic;
@@ -153,6 +155,264 @@ function renderWeeklyBlocks(section) {
   });
 }
 
+function formatDateLabel(value) {
+  if (!value) return "";
+  const date = new Date(`${value}T00:00:00+09:00`);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("ko-KR", {
+    month: "long",
+    day: "numeric",
+    weekday: "short",
+  }).format(date);
+}
+
+function eventMatchesDate(event, date) {
+  const start = event.start || "";
+  const end = event.end || start;
+  return start <= date && date <= end;
+}
+
+function categoryClass(category) {
+  const key = {
+    "금리": "rate",
+    "물가": "inflation",
+    "성장": "growth",
+    "경기": "activity",
+    "중앙은행": "central-bank",
+  }[category] || "default";
+  return `category-${key}`;
+}
+
+function eventCard(event) {
+  const item = document.createElement("li");
+  const title = document.createElement("a");
+  const meta = document.createElement("span");
+  const badge = document.createElement("span");
+  const detail = document.createElement("p");
+
+  item.className = "schedule-event";
+  item.classList.add(categoryClass(event.category));
+  title.href = event.source_url || "#";
+  title.target = "_blank";
+  title.rel = "noreferrer";
+  title.textContent = event.title;
+  badge.className = "schedule-badge";
+  badge.textContent = event.category || "일정";
+  meta.className = "schedule-meta";
+  meta.textContent = `${event.date_label} · ${event.region} · ${event.category} · 영향도 ${event.impact}`;
+  detail.textContent = event.detail || "";
+
+  item.append(badge, title, meta, detail);
+  return item;
+}
+
+function renderScheduleEventList(events, emptyText) {
+  const list = document.createElement("ul");
+  list.className = "schedule-event-list";
+
+  if (!events.length) {
+    const empty = document.createElement("li");
+    empty.className = "empty";
+    empty.textContent = emptyText;
+    list.appendChild(empty);
+    return list;
+  }
+
+  events.forEach((event) => {
+    list.appendChild(eventCard(event));
+  });
+  return list;
+}
+
+function earningsCard(event) {
+  const item = document.createElement("li");
+  const link = document.createElement("a");
+  const meta = document.createElement("span");
+
+  item.className = "earnings-item";
+  link.href = event.source_url || "#";
+  link.target = "_blank";
+  link.rel = "noreferrer";
+  link.textContent = `${event.ticker} · ${event.company}`;
+  meta.textContent = `${formatDateLabel(event.date)} · ${event.timing} · 중요도 ${event.importance}`;
+
+  item.append(link, meta);
+  return item;
+}
+
+function renderEarningsList(events, emptyText) {
+  const list = document.createElement("ul");
+  list.className = "earnings-list";
+
+  if (!events.length) {
+    const empty = document.createElement("li");
+    empty.className = "empty";
+    empty.textContent = emptyText;
+    list.appendChild(empty);
+    return list;
+  }
+
+  events.forEach((event) => {
+    list.appendChild(earningsCard(event));
+  });
+  return list;
+}
+
+function renderWeeklyEarnings(section) {
+  const block = document.createElement("section");
+  const heading = document.createElement("h3");
+  const grid = document.createElement("div");
+  const domestic = document.createElement("article");
+  const us = document.createElement("article");
+  const domesticTitle = document.createElement("strong");
+  const usTitle = document.createElement("strong");
+
+  block.className = "earnings-week";
+  heading.className = "schedule-subtitle";
+  heading.textContent = "이번 주 실적발표";
+  grid.className = "earnings-grid";
+  domesticTitle.textContent = "국내 주요 기업";
+  usTitle.textContent = "미국 주요 기업";
+
+  domestic.append(
+    domesticTitle,
+    renderEarningsList(section.week_earnings?.domestic || [], "이번 주 확인된 주요 국내 기업 실적발표 일정이 없습니다.")
+  );
+  us.append(
+    usTitle,
+    renderEarningsList(section.week_earnings?.us || [], "이번 주 확인된 주요 미국 기업 실적발표 일정이 없습니다.")
+  );
+  grid.append(domestic, us);
+  block.append(heading, grid);
+  return block;
+}
+
+function renderSelectedSchedule(container, section, selectedDate) {
+  const panel = container.querySelector("[data-schedule-detail]");
+  clearChildren(panel);
+
+  const title = document.createElement("h3");
+  const events = (section.events || []).filter((event) => eventMatchesDate(event, selectedDate));
+
+  title.className = "schedule-subtitle";
+  title.textContent = `${formatDateLabel(selectedDate)} 상세 일정`;
+  panel.appendChild(title);
+  panel.appendChild(renderScheduleEventList(events, "선택한 날짜에 등록된 주요 일정이 없습니다."));
+}
+
+function renderCalendarGrid(calendarGrid, section, month, wrapper) {
+  clearChildren(calendarGrid);
+
+  ["일", "월", "화", "수", "목", "금", "토"].forEach((label) => {
+    const cell = document.createElement("span");
+    cell.className = "calendar-weekday";
+    cell.textContent = label;
+    calendarGrid.appendChild(cell);
+  });
+
+  (month?.days || []).forEach((day) => {
+    const button = document.createElement("button");
+    const dayEvents = (section.events || []).filter((event) => eventMatchesDate(event, day.date));
+    button.className = "calendar-day";
+    button.type = "button";
+    button.dataset.date = day.date;
+    button.classList.toggle("muted", !day.in_month);
+    button.classList.toggle("today", day.is_today);
+    button.classList.toggle("has-event", day.event_count > 0);
+    button.classList.toggle("high-impact", day.has_high_impact);
+    if (dayEvents[0]) {
+      button.classList.add(categoryClass(dayEvents[0].category));
+    }
+    button.innerHTML = `<span>${day.day}</span>${day.event_count ? `<em>${day.event_count}</em>` : ""}`;
+    button.addEventListener("click", () => {
+      calendarGrid.querySelectorAll(".calendar-day").forEach((cell) => cell.classList.remove("selected"));
+      button.classList.add("selected");
+      renderSelectedSchedule(wrapper, section, day.date);
+    });
+    calendarGrid.appendChild(button);
+  });
+}
+
+function renderSchedule(section) {
+  const list = document.querySelector("#activeArticles");
+  clearChildren(list);
+
+  const wrapperItem = document.createElement("li");
+  const wrapper = document.createElement("div");
+  const calendarHead = document.createElement("div");
+  const titleGroup = document.createElement("div");
+  const monthTitle = document.createElement("strong");
+  const weekTitle = document.createElement("span");
+  const controls = document.createElement("div");
+  const prevButton = document.createElement("button");
+  const nextButton = document.createElement("button");
+  const weekBlock = document.createElement("section");
+  const weekHeading = document.createElement("h3");
+  const calendar = document.createElement("section");
+  const calendarTitle = document.createElement("h3");
+  const calendarGrid = document.createElement("div");
+  const detail = document.createElement("section");
+  const months = section.calendar?.months?.length
+    ? section.calendar.months
+    : [{ month: section.calendar?.month, month_label: section.calendar?.month_label, days: section.calendar?.days || [] }];
+  let activeMonthIndex = Math.max(0, months.findIndex((month) => month.month === section.calendar?.month));
+  const firstEventDate = section.week_events?.[0]?.start || section.calendar?.week_start || section.calendar?.month;
+
+  wrapperItem.className = "schedule-shell-item";
+  wrapper.className = "schedule-shell";
+  calendarHead.className = "schedule-calendar-head";
+  titleGroup.className = "schedule-title-group";
+  monthTitle.textContent = section.calendar?.month_label || "일정 달력";
+  weekTitle.textContent = `이번 주 ${section.calendar?.week_label || ""}`;
+  controls.className = "schedule-calendar-controls";
+  prevButton.type = "button";
+  prevButton.textContent = "이전";
+  nextButton.type = "button";
+  nextButton.textContent = "다음";
+
+  weekBlock.className = "schedule-week";
+  weekHeading.className = "schedule-subtitle";
+  weekHeading.textContent = "이번 주 주요 일정";
+  weekBlock.append(weekHeading, renderScheduleEventList(section.week_events || [], section.empty_message || "이번 주에 등록된 주요 일정이 없습니다."));
+
+  calendar.className = "schedule-calendar";
+  calendarTitle.className = "schedule-subtitle";
+  calendarTitle.textContent = "월간 달력";
+  calendarGrid.className = "calendar-grid";
+
+  function setActiveMonth(index) {
+    activeMonthIndex = Math.min(Math.max(index, 0), months.length - 1);
+    const month = months[activeMonthIndex];
+    monthTitle.textContent = month.month_label;
+    prevButton.disabled = activeMonthIndex === 0;
+    nextButton.disabled = activeMonthIndex === months.length - 1;
+    renderCalendarGrid(calendarGrid, section, month, wrapper);
+
+    const initialDate = activeMonthIndex === months.findIndex((row) => row.month === section.calendar?.month)
+      ? firstEventDate
+      : month.days?.find((day) => day.event_count > 0 && day.in_month)?.date;
+    const initialButton = calendarGrid.querySelector(`[data-date="${initialDate}"]`) || calendarGrid.querySelector(".calendar-day.has-event");
+    if (initialButton) {
+      initialButton.classList.add("selected");
+      renderSelectedSchedule(wrapper, section, initialButton.dataset.date);
+    }
+  }
+
+  prevButton.addEventListener("click", () => setActiveMonth(activeMonthIndex - 1));
+  nextButton.addEventListener("click", () => setActiveMonth(activeMonthIndex + 1));
+
+  detail.className = "schedule-detail";
+  detail.dataset.scheduleDetail = "true";
+  titleGroup.append(monthTitle, weekTitle);
+  controls.append(prevButton, nextButton);
+  calendarHead.append(titleGroup, controls);
+  calendar.append(calendarTitle, calendarGrid);
+  wrapper.append(calendarHead, calendar, detail, weekBlock, renderWeeklyEarnings(section));
+  wrapperItem.appendChild(wrapper);
+  list.appendChild(wrapperItem);
+  setActiveMonth(activeMonthIndex);
+}
+
 function setActiveTab(sectionId) {
   document.querySelectorAll(".tab-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.section === sectionId);
@@ -166,11 +426,13 @@ function renderSection(briefing, sectionId) {
   document.querySelector("#activeSectionKicker").textContent = `Section ${SECTION_INDEX[sectionId] || "--"}`;
   document.querySelector("#activeSectionTitle").textContent = section.title;
   document.querySelector("#activeArticleCount").textContent =
-    sectionId === "weekly" ? `${section.article_count || 0}건` : `${section.article_count || 0} articles`;
-  document.querySelector("#activeSectionSummary").textContent = section.summary || "";
+    sectionId === "weekly" || sectionId === "schedule" ? `${section.article_count || 0}건` : `${section.article_count || 0} articles`;
+  document.querySelector("#activeSectionSummary").textContent = sectionId === "schedule" ? "" : section.summary || "";
   renderPrices(section.prices || [], sectionId);
   if (sectionId === "weekly") {
     renderWeeklyBlocks(section);
+  } else if (sectionId === "schedule") {
+    renderSchedule(section);
   } else {
     renderArticles(section);
   }
