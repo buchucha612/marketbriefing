@@ -199,7 +199,7 @@ function eventCard(event) {
   badge.className = "schedule-badge";
   badge.textContent = event.category || "일정";
   meta.className = "schedule-meta";
-  meta.textContent = `${event.date_label} · ${event.region} · ${event.category} · 영향도 ${event.impact}`;
+  meta.textContent = `${event.date_label} · ${event.region} · ${event.category}`;
   detail.textContent = event.detail || "";
 
   item.append(badge, title, meta, detail);
