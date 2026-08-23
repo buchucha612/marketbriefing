@@ -334,6 +334,8 @@ EARNINGS_EVENTS = [
     },
 ]
 
+MAX_WEEKLY_EARNINGS = 15
+
 THEME_RULES = [
     {
         "name": "반도체·AI",
@@ -641,7 +643,17 @@ def build_schedule_section(generated_at: datetime) -> dict:
         event
         for event in earnings
         if week_start <= parse_event_date(event["date"]) <= week_end
+        and event.get("importance") == "높음"
     ]
+    week_earnings = sorted(
+        week_earnings,
+        key=lambda row: (
+            0 if row.get("importance") == "높음" else 1,
+            row["date"],
+            row["region"],
+            row["ticker"],
+        ),
+    )[:MAX_WEEKLY_EARNINGS]
     event_months = sorted({event["start"][:7] for event in events} | {month_start.isoformat()[:7]})
     calendar_months = [
         build_calendar_month(events, date.fromisoformat(f"{month}-01"), local_today)

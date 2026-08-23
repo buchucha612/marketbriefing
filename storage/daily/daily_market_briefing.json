@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-23T10:55:57.684873+00:00",
+  "generated_at": "2026-08-23T11:01:39.151544+00:00",
   "headline": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS / 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보 / 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
   "sections": {
     "domestic": {
@@ -2680,28 +2680,6 @@
         "domestic": [],
         "us": [
           {
-            "id": "earnings-us-pdd-2026-08-24",
-            "date": "2026-08-24",
-            "region": "미국",
-            "ticker": "PDD",
-            "company": "PDD Holdings",
-            "timing": "시간 미정",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-xpev-2026-08-24",
-            "date": "2026-08-24",
-            "region": "미국",
-            "ticker": "XPEV",
-            "company": "XPeng",
-            "timing": "장전",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
             "id": "earnings-us-intu-2026-08-25",
             "date": "2026-08-25",
             "region": "미국",
@@ -2742,61 +2720,6 @@
             "company": "NVIDIA",
             "timing": "장후",
             "importance": "높음",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-snps-2026-08-26",
-            "date": "2026-08-26",
-            "region": "미국",
-            "ticker": "SNPS",
-            "company": "Synopsys",
-            "timing": "장후",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-adsk-2026-08-27",
-            "date": "2026-08-27",
-            "region": "미국",
-            "ticker": "ADSK",
-            "company": "Autodesk",
-            "timing": "장후",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-bby-2026-08-27",
-            "date": "2026-08-27",
-            "region": "미국",
-            "ticker": "BBY",
-            "company": "Best Buy",
-            "timing": "장전",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-dltr-2026-08-27",
-            "date": "2026-08-27",
-            "region": "미국",
-            "ticker": "DLTR",
-            "company": "Dollar Tree",
-            "timing": "장전",
-            "importance": "중간",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-ulta-2026-08-27",
-            "date": "2026-08-27",
-            "region": "미국",
-            "ticker": "ULTA",
-            "company": "Ulta Beauty",
-            "timing": "장후",
-            "importance": "중간",
             "source": "EarningsCountdown",
             "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
           }
@@ -5572,28 +5495,6 @@
       "domestic": [],
       "us": [
         {
-          "id": "earnings-us-pdd-2026-08-24",
-          "date": "2026-08-24",
-          "region": "미국",
-          "ticker": "PDD",
-          "company": "PDD Holdings",
-          "timing": "시간 미정",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-xpev-2026-08-24",
-          "date": "2026-08-24",
-          "region": "미국",
-          "ticker": "XPEV",
-          "company": "XPeng",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
           "id": "earnings-us-intu-2026-08-25",
           "date": "2026-08-25",
           "region": "미국",
@@ -5634,61 +5535,6 @@
           "company": "NVIDIA",
           "timing": "장후",
           "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-snps-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "SNPS",
-          "company": "Synopsys",
-          "timing": "장후",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-adsk-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "ADSK",
-          "company": "Autodesk",
-          "timing": "장후",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-bby-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "BBY",
-          "company": "Best Buy",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-dltr-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "DLTR",
-          "company": "Dollar Tree",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-ulta-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "ULTA",
-          "company": "Ulta Beauty",
-          "timing": "장후",
-          "importance": "중간",
           "source": "EarningsCountdown",
           "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
         }

@@ -234,7 +234,7 @@ function earningsCard(event) {
   link.target = "_blank";
   link.rel = "noreferrer";
   link.textContent = `${event.ticker} · ${event.company}`;
-  meta.textContent = `${formatDateLabel(event.date)} · ${event.timing} · 중요도 ${event.importance}`;
+  meta.textContent = `${formatDateLabel(event.date)} · ${event.timing}`;
 
   item.append(link, meta);
   return item;
