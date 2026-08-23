@@ -13,14 +13,16 @@ import json
 import re
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 from xml.etree import ElementTree
 
 
 ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = ROOT / "storage" / "raw"
+KST = ZoneInfo("Asia/Seoul")
 
 QUERY_CONFIGS = [
     {
@@ -56,6 +58,32 @@ QUERY_CONFIGS = [
         "translate_headline": False,
     },
 ]
+
+
+def weekly_window(now: datetime) -> tuple[date, date]:
+    local_now = now.astimezone(KST)
+    days_since_saturday = (local_now.weekday() - 5) % 7
+    end_date = (local_now - timedelta(days=days_since_saturday)).date()
+    start_offset = 6 if local_now.weekday() == 5 else 5
+    start_date = end_date - timedelta(days=start_offset)
+    return start_date, end_date
+
+
+def query_configs_for_run(now: datetime) -> list[dict]:
+    start_date, end_date = weekly_window(now)
+    before_date = end_date + timedelta(days=1)
+    configs = list(QUERY_CONFIGS)
+
+    for config in QUERY_CONFIGS:
+        weekly_config = dict(config)
+        weekly_config["query"] = (
+            f'({config["query"]}) '
+            f"after:{start_date.isoformat()} before:{before_date.isoformat()}"
+        )
+        weekly_config["query_label"] = f'{config["topic_hint"]}_weekly'
+        configs.append(weekly_config)
+
+    return configs
 
 
 def fetch(url: str, accept: str) -> bytes:
@@ -125,22 +153,24 @@ def translate_headline(text: str) -> str:
 
 
 def collect_news() -> dict:
-    collected_at = datetime.now(timezone.utc).isoformat()
+    collected_dt = datetime.now(timezone.utc)
+    collected_at = collected_dt.isoformat()
     by_id: dict[str, dict] = {}
     errors: list[dict] = []
     query_counts: dict[str, int] = {}
 
-    for config in QUERY_CONFIGS:
+    for config in query_configs_for_run(collected_dt):
         query = config["query"]
+        query_label = config.get("query_label", config["topic_hint"])
         try:
             root = ElementTree.fromstring(fetch(rss_url(config), "application/rss+xml, application/xml, text/xml"))
         except Exception as exc:
             errors.append({"query": query, "error": str(exc)})
-            query_counts[config["topic_hint"]] = 0
+            query_counts[query_label] = 0
             continue
 
         nodes = root.findall("./channel/item")[:15]
-        query_counts[config["topic_hint"]] = len(nodes)
+        query_counts[query_label] = len(nodes)
 
         for node in nodes:
             original_title = clean_text(node.findtext("title"))

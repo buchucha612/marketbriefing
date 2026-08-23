@@ -1,9 +1,10 @@
-const SECTION_ORDER = ["domestic", "us", "macro", "sector"];
+const SECTION_ORDER = ["domestic", "us", "macro", "sector", "weekly"];
 const SECTION_INDEX = {
   domestic: "01",
   us: "02",
   macro: "03",
   sector: "04",
+  weekly: "05",
 };
 
 function formatDateTime(value) {
@@ -28,6 +29,7 @@ function topicLabel(topic) {
     us: "미국",
     macro: "금리·환율·유가·원자재",
     sector: "섹터",
+    weekly: "주간",
     uncategorized: "미분류",
   };
   return labels[topic] || topic;
@@ -106,6 +108,51 @@ function renderArticles(section) {
   });
 }
 
+function renderWeeklyBlocks(section) {
+  const list = document.querySelector("#activeArticles");
+  clearChildren(list);
+
+  if (!section.weekly_blocks?.length) {
+    const item = document.createElement("li");
+    item.className = "empty";
+    item.textContent = section.empty_message || "주간 브리핑 데이터가 없습니다.";
+    list.appendChild(item);
+    return;
+  }
+
+  section.weekly_blocks.forEach((block, index) => {
+    const item = document.createElement("li");
+    const number = document.createElement("span");
+    const title = document.createElement("strong");
+    const nested = document.createElement("ul");
+
+    item.className = "weekly-card";
+    number.className = "story-number";
+    number.textContent = String(index + 1).padStart(2, "0");
+    title.className = "weekly-card-title";
+    title.textContent = block.title;
+    nested.className = "weekly-list";
+
+    (block.items || []).forEach((entry) => {
+      const nestedItem = document.createElement("li");
+      if (entry && typeof entry === "object" && entry.url) {
+        const link = document.createElement("a");
+        link.href = entry.url;
+        link.target = "_blank";
+        link.rel = "noreferrer";
+        link.textContent = entry.text || entry.url;
+        nestedItem.appendChild(link);
+      } else {
+        nestedItem.textContent = typeof entry === "object" ? entry.text || "" : entry;
+      }
+      nested.appendChild(nestedItem);
+    });
+
+    item.append(number, title, nested);
+    list.appendChild(item);
+  });
+}
+
 function setActiveTab(sectionId) {
   document.querySelectorAll(".tab-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.section === sectionId);
@@ -118,10 +165,15 @@ function renderSection(briefing, sectionId) {
 
   document.querySelector("#activeSectionKicker").textContent = `Section ${SECTION_INDEX[sectionId] || "--"}`;
   document.querySelector("#activeSectionTitle").textContent = section.title;
-  document.querySelector("#activeArticleCount").textContent = `${section.article_count || 0} articles`;
+  document.querySelector("#activeArticleCount").textContent =
+    sectionId === "weekly" ? `${section.article_count || 0}건` : `${section.article_count || 0} articles`;
   document.querySelector("#activeSectionSummary").textContent = section.summary || "";
   renderPrices(section.prices || [], sectionId);
-  renderArticles(section);
+  if (sectionId === "weekly") {
+    renderWeeklyBlocks(section);
+  } else {
+    renderArticles(section);
+  }
   setActiveTab(sectionId);
 }
 

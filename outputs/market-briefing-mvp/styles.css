@@ -382,6 +382,47 @@ h2 {
   color: var(--muted);
 }
 
+.weekly-card {
+  min-height: auto;
+}
+
+.weekly-card-title {
+  display: block;
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.weekly-list {
+  display: grid;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding-left: 18px;
+  color: #3d3932;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.weekly-list li {
+  min-height: auto;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.weekly-list a {
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 750;
+  line-height: 1.55;
+  text-decoration: none;
+}
+
+.weekly-list a:hover {
+  color: var(--accent);
+}
+
 .source-meta {
   display: block;
   margin-top: 5px;
