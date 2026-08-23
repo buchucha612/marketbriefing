@@ -20,7 +20,7 @@ KST = ZoneInfo("Asia/Seoul")
 SECTION_LABELS = {
     "domestic": "국내 증시",
     "us": "미국 증시",
-    "macro": "금리·환율·유가·원자재·가상자산",
+    "macro": "시장지표 관련",
     "sector": "섹터/테마",
     "weekly": "금주의 브리핑",
     "uncategorized": "미분류",
@@ -337,6 +337,8 @@ def price_line(item: dict) -> str:
         value = f'{item["close"]:.2f}%'
     elif unit == "USD":
         value = f'${item["close"]:,.2f}'
+    elif unit == "KRW":
+        value = f'{item["close"]:,.2f}원'
     if change is None:
         return f'{item["name"]}: {value}'
     direction = "상승" if change > 0 else "하락" if change < 0 else "보합"

@@ -22,6 +22,8 @@ SYMBOLS = [
     {"symbol": "^GSPC", "name": "S&P 500", "market": "us"},
     {"symbol": "^IXIC", "name": "나스닥 종합", "market": "us"},
     {"symbol": "^DJI", "name": "다우존스", "market": "us"},
+    {"symbol": "KRW=X", "name": "원/달러 환율", "market": "macro", "unit": "KRW"},
+    {"symbol": "JPYKRW=X", "name": "원/엔 환율(100엔)", "market": "macro", "scale": 100, "unit": "KRW"},
     {"symbol": "CL=F", "name": "WTI 원유", "market": "macro"},
     {"symbol": "BZ=F", "name": "브렌트유", "market": "macro"},
     {"symbol": "GC=F", "name": "금", "market": "macro"},

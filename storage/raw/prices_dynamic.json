@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-23T07:10:21.382786+00:00",
+  "collected_at": "2026-08-23T07:24:30.106997+00:00",
   "source": "dynamic-public-chart",
   "items": [
     {
@@ -56,6 +56,28 @@
       "as_of": "2026-08-21",
       "source_name": "Yahoo Finance chart API",
       "source_url": "https://finance.yahoo.com/quote/%5EDJI"
+    },
+    {
+      "symbol": "KRW=X",
+      "name": "원/달러 환율",
+      "market": "macro",
+      "close": 1383.9,
+      "change_pct": -0.5,
+      "unit": "KRW",
+      "as_of": "2026-08-23",
+      "source_name": "Yahoo Finance chart API",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX"
+    },
+    {
+      "symbol": "JPYKRW=X",
+      "name": "원/엔 환율(100엔)",
+      "market": "macro",
+      "close": 869.4,
+      "change_pct": -0.69,
+      "unit": "KRW",
+      "as_of": "2026-08-21",
+      "source_name": "Yahoo Finance chart API",
+      "source_url": "https://finance.yahoo.com/quote/JPYKRW%3DX"
     },
     {
       "symbol": "CL=F",
@@ -149,8 +171,8 @@
       "symbol": "BTC-USD",
       "name": "비트코인",
       "market": "macro",
-      "close": 76230.12,
-      "change_pct": -2.69,
+      "close": 76246.16,
+      "change_pct": -1.09,
       "unit": "USD",
       "as_of": "2026-08-23",
       "source_name": "Yahoo Finance chart API",
@@ -160,8 +182,8 @@
       "symbol": "ETH-USD",
       "name": "이더리움",
       "market": "macro",
-      "close": 2392.03,
-      "change_pct": -4.9,
+      "close": 2394.0,
+      "change_pct": -1.25,
       "unit": "USD",
       "as_of": "2026-08-23",
       "source_name": "Yahoo Finance chart API",
