@@ -847,7 +847,6 @@ def linked_article_reference(item: dict) -> dict:
 def build_weekly_blocks(news: list[dict]) -> list[dict]:
     themes = matched_theme_counts(news)
     repeated = [theme for theme in themes if theme["count"] >= 2 or theme["days"] >= 2]
-    one_off = [theme for theme in themes if theme not in repeated]
     catalysts = filter_by_keywords(news, CATALYST_KEYWORDS, 5) or news[:5]
     risks = filter_by_keywords(news, RISK_KEYWORDS, 5)
 
@@ -862,41 +861,16 @@ def build_weekly_blocks(news: list[dict]) -> list[dict]:
     if not catalyst_items:
         catalyst_items = ["해당 주 기사 데이터 안에서 뉴스·정책·수급 촉매로 분류할 재료가 부족합니다."]
 
-    sustainable_items = []
-    if repeated:
-        sustainable_items.append(
-            "지속 관찰 후보: "
-            + ", ".join(theme["name"] for theme in repeated[:4])
-            + "처럼 복수 기사 또는 복수 관찰일에 반복 등장한 테마"
-        )
-    if one_off:
-        sustainable_items.append(
-            "단발성 후보: "
-            + ", ".join(theme["name"] for theme in one_off[:4])
-            + "처럼 한정된 기사에서만 감지된 테마"
-        )
-    if not sustainable_items:
-        sustainable_items = ["반복 출현 기준으로 지속/단발 테마를 나눌 만큼의 주간 데이터가 아직 부족합니다."]
-
     schedule_items = [linked_article_reference(item) for item in risks]
     if not schedule_items:
         schedule_items = [
             "수집 기사에서 다음 주 일정이 직접 확인되지 않았습니다. 금리, 환율, 유가, 원자재 지표 변화와 미국 주요 경제지표 발표 여부를 우선 점검하세요."
         ]
 
-    representative_items = [
-        f'{theme["name"]}: {", ".join(theme["representatives"])}'
-        for theme in themes[:5]
-    ]
-    if not representative_items:
-        representative_items = ["테마별 대표 관찰 종목을 연결할 만큼의 테마 신호가 아직 부족합니다."]
-
     return [
         {"title": "한 주간 반복적으로 강했던 테마·섹터", "items": recurring_items},
         {"title": "주요 뉴스·정책·수급과 상승 촉매", "items": catalyst_items},
-        {"title": "단발성 테마와 지속 가능한 테마 구분", "items": sustainable_items},
         {"title": "다음 주 주요 일정과 위험 요인", "items": schedule_items},
-        {"title": "테마별 대표 관찰 종목", "items": representative_items},
     ]
 
 

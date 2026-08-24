@@ -37,14 +37,16 @@ function topicLabel(topic) {
   return labels[topic] || topic;
 }
 
-function renderTopicChips(article) {
+function renderTopicChips(article, options = {}) {
   const row = document.createElement("div");
   row.className = "topic-row";
 
-  const primary = document.createElement("span");
-  primary.className = "topic-chip primary";
-  primary.textContent = `주제: ${topicLabel(article.primary_topic)}`;
-  row.appendChild(primary);
+  if (!options.hidePrimary) {
+    const primary = document.createElement("span");
+    primary.className = "topic-chip primary";
+    primary.textContent = `주제: ${topicLabel(article.primary_topic)}`;
+    row.appendChild(primary);
+  }
 
   (article.secondary_topics || []).slice(0, 3).forEach((topic) => {
     const chip = document.createElement("span");
@@ -78,7 +80,7 @@ function renderPrices(prices, sectionId) {
   });
 }
 
-function renderArticles(section) {
+function renderArticles(section, sectionId) {
   const list = document.querySelector("#activeArticles");
   clearChildren(list);
 
@@ -105,7 +107,7 @@ function renderArticles(section) {
     meta.className = "source-meta";
     meta.textContent = `${article.source || "출처 미상"} · ${formatDateTime(article.published_at)}`;
 
-    item.append(number, link, renderTopicChips(article), meta);
+    item.append(number, link, meta);
     list.appendChild(item);
   });
 }
@@ -434,7 +436,7 @@ function renderSection(briefing, sectionId) {
   } else if (sectionId === "schedule") {
     renderSchedule(section);
   } else {
-    renderArticles(section);
+    renderArticles(section, sectionId);
   }
   setActiveTab(sectionId);
 }

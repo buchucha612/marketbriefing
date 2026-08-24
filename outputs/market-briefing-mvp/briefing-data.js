@@ -1,6 +1,6 @@
 window.DAILY_MARKET_BRIEFING = {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T11:01:39.151544+00:00",
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T02:58:42.114243+00:00",
   "headline": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS / 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보 / 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
   "sections": {
     "domestic": {
@@ -394,12 +394,6 @@ window.DAILY_MARKET_BRIEFING = {
           ]
         },
         {
-          "title": "단발성 테마와 지속 가능한 테마 구분",
-          "items": [
-            "지속 관찰 후보: 반도체·AI, 조선·방산, 에너지·원자재, 미국 빅테크처럼 복수 기사 또는 복수 관찰일에 반복 등장한 테마"
-          ]
-        },
-        {
           "title": "다음 주 주요 일정과 위험 요인",
           "items": [
             {
@@ -422,15 +416,6 @@ window.DAILY_MARKET_BRIEFING = {
               "text": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think (KB Think, 8월 21일)",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5"
             }
-          ]
-        },
-        {
-          "title": "테마별 대표 관찰 종목",
-          "items": [
-            "반도체·AI: 삼성전자, SK하이닉스, 한미반도체, NVIDIA, AMD",
-            "조선·방산: HD현대중공업, 한화오션, 현대로템, LIG넥스원",
-            "에너지·원자재: S-Oil, 한국전력, Exxon Mobil, Chevron",
-            "미국 빅테크: Apple, Microsoft, Alphabet, Amazon, Meta"
           ]
         }
       ],
@@ -678,7 +663,7 @@ window.DAILY_MARKET_BRIEFING = {
             "date": "2026-08-23",
             "day": 23,
             "in_month": true,
-            "is_today": true,
+            "is_today": false,
             "event_count": 0,
             "has_high_impact": false
           },
@@ -686,7 +671,7 @@ window.DAILY_MARKET_BRIEFING = {
             "date": "2026-08-24",
             "day": 24,
             "in_month": true,
-            "is_today": false,
+            "is_today": true,
             "event_count": 0,
             "has_high_impact": false
           },
@@ -1020,7 +1005,7 @@ window.DAILY_MARKET_BRIEFING = {
                 "date": "2026-08-23",
                 "day": 23,
                 "in_month": true,
-                "is_today": true,
+                "is_today": false,
                 "event_count": 0,
                 "has_high_impact": false
               },
@@ -1028,7 +1013,7 @@ window.DAILY_MARKET_BRIEFING = {
                 "date": "2026-08-24",
                 "day": 24,
                 "in_month": true,
-                "is_today": false,
+                "is_today": true,
                 "event_count": 0,
                 "has_high_impact": false
               },
@@ -3209,12 +3194,6 @@ window.DAILY_MARKET_BRIEFING = {
         ]
       },
       {
-        "title": "단발성 테마와 지속 가능한 테마 구분",
-        "items": [
-          "지속 관찰 후보: 반도체·AI, 조선·방산, 에너지·원자재, 미국 빅테크처럼 복수 기사 또는 복수 관찰일에 반복 등장한 테마"
-        ]
-      },
-      {
         "title": "다음 주 주요 일정과 위험 요인",
         "items": [
           {
@@ -3237,15 +3216,6 @@ window.DAILY_MARKET_BRIEFING = {
             "text": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think (KB Think, 8월 21일)",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5"
           }
-        ]
-      },
-      {
-        "title": "테마별 대표 관찰 종목",
-        "items": [
-          "반도체·AI: 삼성전자, SK하이닉스, 한미반도체, NVIDIA, AMD",
-          "조선·방산: HD현대중공업, 한화오션, 현대로템, LIG넥스원",
-          "에너지·원자재: S-Oil, 한국전력, Exxon Mobil, Chevron",
-          "미국 빅테크: Apple, Microsoft, Alphabet, Amazon, Meta"
         ]
       }
     ],
@@ -3493,7 +3463,7 @@ window.DAILY_MARKET_BRIEFING = {
           "date": "2026-08-23",
           "day": 23,
           "in_month": true,
-          "is_today": true,
+          "is_today": false,
           "event_count": 0,
           "has_high_impact": false
         },
@@ -3501,7 +3471,7 @@ window.DAILY_MARKET_BRIEFING = {
           "date": "2026-08-24",
           "day": 24,
           "in_month": true,
-          "is_today": false,
+          "is_today": true,
           "event_count": 0,
           "has_high_impact": false
         },
@@ -3835,7 +3805,7 @@ window.DAILY_MARKET_BRIEFING = {
               "date": "2026-08-23",
               "day": 23,
               "in_month": true,
-              "is_today": true,
+              "is_today": false,
               "event_count": 0,
               "has_high_impact": false
             },
@@ -3843,7 +3813,7 @@ window.DAILY_MARKET_BRIEFING = {
               "date": "2026-08-24",
               "day": 24,
               "in_month": true,
-              "is_today": false,
+              "is_today": true,
               "event_count": 0,
               "has_high_impact": false
             },
