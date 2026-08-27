@@ -1,17 +1,56 @@
 {
-  "collected_at": "2026-08-23T05:52:56.878717+00:00",
+  "collected_at": "2026-08-27T00:48:47.826827+00:00",
   "source": "google-news-rss",
   "items": [
     {
-      "id": "34ffb9fda829f9ed",
-      "title": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
-      "title_original": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
-      "description": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 MEDI:GATE NEWS",
-      "description_original": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 MEDI:GATE NEWS",
-      "source": "MEDI:GATE NEWS",
+      "id": "8d5bcf2652df1da2",
+      "title": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
+      "title_ko": "",
+      "title_original": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
+      "description": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 연합인포맥스",
+      "description_original": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 연합인포맥스",
+      "source": "연합인포맥스",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MU3dDT2VLNGduTWE1eExoM19RSDQ0T3hsSGNaSkZMRWt4U3dBQnNDSkNyal9nNGpvOF9LcU9KRm8wbkpNQUYxd0NhS1YyTjhuZ3JPRTZB?oc=5",
-      "published_at": "2026-08-23T05:12:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZFZ0ZEVZRWtUbnhZTHlrQmNJX0pBX3k2TEtwN0Q0S1hyalpNd2JGZ3dsdEpSNUs1SUozWXRrVDZfSWhObnV0dzhVWEVDYlZ5UVVNZEZzQy0weV9YREhVdFFyRjFvVS1neFFlT3YyNk0?oc=5",
+      "published_at": "2026-08-27T00:43:01+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "64a962aa49f3dd2e",
+      "title": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
+      "title_ko": "",
+      "title_original": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
+      "description": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 v.daum.net",
+      "description_original": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 v.daum.net",
+      "source": "v.daum.net",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcVFsTXl1Q0FtRVNTSG1Lczd2SnZURHVQUVRSd0R6NE9uUm5TelR2MGV5QkNES09KUzlWd2psZ2VWOURXZjdHVkdZXzFmc1U?oc=5",
+      "published_at": "2026-08-27T00:34:18+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\"",
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "domestic",
+        "sector"
+      ]
+    },
+    {
+      "id": "2d4a1892e030f46c",
+      "title": "[포토] 코스피, 장초반 2%대 상승 - 아시아경제",
+      "title_ko": "",
+      "title_original": "[포토] 코스피, 장초반 2%대 상승 - 아시아경제",
+      "description": "[포토] 코스피, 장초반 2%대 상승 아시아경제",
+      "description_original": "[포토] 코스피, 장초반 2%대 상승 아시아경제",
+      "source": "아시아경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EV1FpcVpxdF94bm9FVm1BWkNzN00wSmJLeW5jZ0RDTjNNMzVPaktpeHFzVGxJN3Q5blBURGMzaURQaHNLcUNEX2RJbGRqb0hzQUpGMFk0cGNKd0xJX1pFcg?oc=5",
+      "published_at": "2026-08-27T00:33:39+00:00",
       "matched_queries": [
         "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
       ],
@@ -20,15 +59,70 @@
       ]
     },
     {
-      "id": "664d4edcc3015231",
-      "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
-      "title_original": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
-      "description": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 조선일보",
-      "description_original": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 조선일보",
-      "source": "조선일보",
+      "id": "cdbb3002308da095",
+      "title": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) - v.daum.net",
+      "title_ko": "",
+      "title_original": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) - v.daum.net",
+      "description": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) v.daum.net",
+      "description_original": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) v.daum.net",
+      "source": "v.daum.net",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
-      "published_at": "2026-08-23T04:55:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OY2FuSEVORnBZaUk3LVlOMTNKaE5RS1hDLWdWRjctUzJUeTUtZUYycmdzazhGQ3R6TFo2R2l6X19INmduV0NYVEVTOHNDcFU?oc=5",
+      "published_at": "2026-08-27T00:32:38+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "bf0d27a1417845db",
+      "title": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 - Chosunbiz",
+      "title_ko": "",
+      "title_original": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 - Chosunbiz",
+      "description": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 Chosunbiz",
+      "description_original": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNfZjVVczFfMGpOSkZ3MVk5WkRiRzJXRHF6MTdRQkNCeWh6M2M3Mm5DLWYzWEZUREppREk5WDNZMF9RZjlLOVhGVThzeUw3LWFCdkdmdkhPNmRlaFJNWUVYS25SYVNOaE1oaDBmakNvVE5sWUNMUmU1WC16N3ZBS2IyNU9Gd9IBmgFBVV95cUxNLVlUTzd5TnZWa0tBakNZaDF0dnJhVUJiZndPdmxyS196SWlrRWg0TjNrM01SbzJOOGhDTTZEQ3paNk9Qa0tqdXFSLW54NFV2MVhUbWp5bGRzajY0aVJ6aDV0X0FvR1laajVLaFdZZWJDWUFtT0o5WlUtcU0wRnlLelBQOHZMOElxbFFuSGxocVJwckwzRmpVQTlR?oc=5",
+      "published_at": "2026-08-27T00:24:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c23a2648994f0cb9",
+      "title": "코스피·코스닥 상승세 출발 - 뉴스핌",
+      "title_ko": "",
+      "title_original": "코스피·코스닥 상승세 출발 - 뉴스핌",
+      "description": "코스피·코스닥 상승세 출발 뉴스핌",
+      "description_original": "코스피·코스닥 상승세 출발 뉴스핌",
+      "source": "뉴스핌",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yREJQb0NGdTZKN19Nd1U3WkpWM05SUGlKTm1aNkNCV2RGdXEtZ0NlV0dZcDlMcHY4X0FpQko0RVZYWjRPZHBPdGNhQUF2YVNoZ0Z1SVF5TWE0NE44?oc=5",
+      "published_at": "2026-08-27T00:23:00+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "1ac4f34deda1b584",
+      "title": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 - 매일경제 마켓",
+      "title_ko": "",
+      "title_original": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 - 매일경제 마켓",
+      "description": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 매일경제 마켓",
+      "description_original": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14bFBBNzRhSjNPTDdTVDh4WTUtOVdZcE5TMXo1WU5rUl9YUmdCUEg0V3g2NXJ3U21UYzlla3FZcXNzR3d6VWRfekVwV2hCRG1vbHc?oc=5",
+      "published_at": "2026-08-27T00:19:24+00:00",
       "matched_queries": [
         "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
       ],
@@ -37,17 +131,1008 @@
       ]
     },
     {
-      "id": "6a86677b2e8c46de",
-      "title": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
-      "title_original": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
-      "description": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ 연합뉴스TV",
-      "description_original": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ 연합뉴스TV",
+      "id": "9d8a11c0915b359b",
+      "title": "SKT, 사이버 보안 특화 AI 모델 개발 도전 - SK텔레콤 뉴스룸",
+      "title_ko": "",
+      "title_original": "SKT, 사이버 보안 특화 AI 모델 개발 도전 - SK텔레콤 뉴스룸",
+      "description": "SKT, 사이버 보안 특화 AI 모델 개발 도전 SK텔레콤 뉴스룸",
+      "description_original": "SKT, 사이버 보안 특화 AI 모델 개발 도전 SK텔레콤 뉴스룸",
+      "source": "SK텔레콤 뉴스룸",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XLVMwVlJObTBYR2g3amM5ZFc0RjNqSFA0c3pYdGdfX1ZmS2NDMDJzS0ROMzFuLXEzbE9nNFFmNGV4bS1Pek1EMQ?oc=5",
+      "published_at": "2026-08-27T00:17:58+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "fc05f85039333cac",
+      "title": "큰 수익으로 선물 상승: NVDA, CRM, CRWD Jump - Investor's Business Daily",
+      "title_ko": "큰 수익으로 선물 상승: NVDA, CRM, CRWD Jump - Investor's Business Daily",
+      "title_original": "Futures Rise On Big Earnings: NVDA, CRM, CRWD Jump - Investor's Business Daily",
+      "description": "Futures Rise On Big Earnings: NVDA, CRM, CRWD Jump Investor's Business Daily",
+      "description_original": "Futures Rise On Big Earnings: NVDA, CRM, CRWD Jump Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
+      "published_at": "2026-08-27T00:16:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "f055787b3608a8c8",
+      "title": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 - Chosunbiz",
+      "title_ko": "",
+      "title_original": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 - Chosunbiz",
+      "description": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 Chosunbiz",
+      "description_original": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 Chosunbiz",
+      "source": "Chosunbiz",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnExMVJQb0FWQ2VjbkF4NS1IeGdCYzJKUnRmNjhlMzhoRnlFRldYcDNnN3VMYmlPa0Y3bm9oUW8xZXB1VmUyaWFBUnNMQWdzS2JfRlJmdGJjY0ZIQnlNX216MlV4SnpXYjIwTTJQZWo0eXlkRmpab1d3V2VEN1VCM0FTX3NnLVNy0gGcAUFVX3lxTFBNbDVHODhOQ2loaHRORU96NUZna21KQm5TMXMtemxxcXY3NGRPNVdGSlRYR1dNVWVCclFHclNMcndYZEZUUXFyNlNfWVo5WS1jQ2lrem96cFNLSVB1bzFodzQxaU9WRmlneEVSZ05qMV9aM1dMN3o2SjMwUTRvRjg0UFRNdGtxRlc1ZE1oTnRHOGNraUVEcExPOG4yeQ?oc=5",
+      "published_at": "2026-08-27T00:13:31+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "0c0cc0f0c4ed7e12",
+      "title": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 - 조선일보",
+      "title_ko": "",
+      "title_original": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 - 조선일보",
+      "description": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 조선일보",
+      "description_original": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 조선일보",
+      "source": "조선일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcERXMlJERERRUng5UVYwWGxuV3JLWC1udUxvNV9hcURLSGJRbS1HWVNiR214YUN2ei1SSm95NGRjd2ktUVRsYXlyM1NDOEc3OUVoRXlCQWJiOVhoX05JUnZWNTVKX3lGb2Fnd0QxWl95LTk0Rk9BOUlTanNLSEJXLQ?oc=5",
+      "published_at": "2026-08-27T00:11:00+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "12d7b630404a5a71",
+      "title": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 - 연합인포맥스",
+      "title_ko": "",
+      "title_original": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 - 연합인포맥스",
+      "description": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 연합인포맥스",
+      "description_original": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 연합인포맥스",
+      "source": "연합인포맥스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14SzVGVy0wUVB4OWtOQTc1ejRiZExQdVZlZjcwTG15SUV6Ym1OMmVOYUU3d0tmS20yR0RBOW53VDdXWERhS0RLZ0c2aml5N09sSEw1eWRHUTRPV0NTLVFKYWNXb3BvZTFoZElOejYwTmk?oc=5",
+      "published_at": "2026-08-27T00:09:54+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "93a27e168c9ea2e8",
+      "title": "[속보] 코스피 2%대 상승…7,000선 근접 출발 - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "[속보] 코스피 2%대 상승…7,000선 근접 출발 - 연합뉴스TV",
+      "description": "[속보] 코스피 2%대 상승…7,000선 근접 출발 연합뉴스TV",
+      "description_original": "[속보] 코스피 2%대 상승…7,000선 근접 출발 연합뉴스TV",
       "source": "연합뉴스TV",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMC1ZQjRndURiM2d6Y1ZYTDNEZ2RQV3p5bnpaemU1dlVFRUNVbVVnN1U0SV9JMjhBeWZHVGtmZHA3ZzYxM2FPWUp2ZFdac0c3Z0diUDNlcWdPalhiWkVVYjVabFJxRlU?oc=5",
-      "published_at": "2026-08-23T04:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTGp3UTNUb0Q3aWR4dXlMWmpMTjZkVF8yc2t6SlpKeXBWSl9jY0JnQVlQa05PdXZmVkNnVmplNnpiUS1nR2QzZ2E2VnItbnFDMjFrM21LNjN6RUhyclRwdGc3MHFGYzA?oc=5",
+      "published_at": "2026-08-27T00:09:00+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "f3697f92759be088",
+      "title": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 - 연합인포맥스",
+      "title_ko": "",
+      "title_original": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 - 연합인포맥스",
+      "description": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 연합인포맥스",
+      "description_original": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 연합인포맥스",
+      "source": "연합인포맥스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eG1JVW42Y3VqbjhRVFN2RjJXdTJzb3pvRXFTYU1RNG1xMmdPMWg0UEU1WUpKSjlqOVdkX1hBLXd6OThhU1RvR2V1Q0tndlBfRkJKY1JTbUFCbWd6TnYzVDNZRlM4czFlNVc3ZHQxdlnSAXRBVV95cUxQNkZQVzYwYzNyZnlMY1NFS2s2Zmc2ODhZU253TFI2SUdHT1cwRkVVMEdxQU1pV0FOSFZBVjBMSE9CN2NWeUZKUEpHTVhkLVFvWEF0d1g1akxBUkFjTFVES3BtSmVrY1lMblp1Y1NUbzIwZG12LQ?oc=5",
+      "published_at": "2026-08-27T00:06:43+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "f85fc7ee6bbe5b04",
+      "title": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선일보",
+      "title_ko": "",
+      "title_original": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선일보",
+      "description": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 조선일보",
+      "description_original": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 조선일보",
+      "source": "조선일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVMzR0dsT2FNR256aVJzeTE3WnluemZkbEE3RDNDUGRLd1hJeXJtVHVvYVNTOV8zTEd5TnE2SHZ1WHlfd1Zla1c1ZVFVOVBibkk5S0tWMXl4MllRdV92ZktyaHd2SUZDMmhpazdRYkRIWXJ1aGlHYzdRMnBTV0d6MA?oc=5",
+      "published_at": "2026-08-27T00:06:37+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "2396b9f944fea01d",
+      "title": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 - blog.google",
+      "title_ko": "",
+      "title_original": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 - blog.google",
+      "description": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 blog.google",
+      "description_original": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 blog.google",
+      "source": "blog.google",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDlkdW1aaS1iSVFqTVZ0QlB2Rl9lRVNKeUo2ejhDV1ZNZFIxX3oxaWUydWlvcm96MFZlSWZ5ZS15YlBWRzJkUDFTUVcwSDdMZ1M1RjBmbFU2SHJDam5rTzlLSGJoQS1HaFVxWVVDcEh1US1CZ1g5YkdJOXpIZURPUFpmcGQxSzEzUE1j?oc=5",
+      "published_at": "2026-08-27T00:06:24+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "6794c4b584828bdb",
+      "title": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑ - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑ - 연합뉴스TV",
+      "description": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑ 연합뉴스TV",
+      "description_original": "코스피, 2.76% 상승 출발…코스닥도 0.19%↑ 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96RnpUZ1lncWE4WWh6WjRGQVpHc0Y3N3VfXzIxeDlVWnpGTWtPQmRvQ2phNlM5WTRULXFwY3puaXdpWVJIc3F2Um9ORjExS000LXdadnJ4b3BVWUpUVlBjU2Vpc0N4dFE?oc=5",
+      "published_at": "2026-08-27T00:05:00+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "7753f1aa6cc6fea6",
+      "title": "국채선물 약세 출발…美금리 추종·금통위 대기 - KB Think",
+      "title_ko": "",
+      "title_original": "국채선물 약세 출발…美금리 추종·금통위 대기 - KB Think",
+      "description": "국채선물 약세 출발…美금리 추종·금통위 대기 KB Think",
+      "description_original": "국채선물 약세 출발…美금리 추종·금통위 대기 KB Think",
+      "source": "KB Think",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVjNoQUJpcVBOSFk5a01YWDNQRWlBNlBvRkJ3bzBvRXZUSzk4NUJsSG5RSllnNXBKNjFlNkJpUm5zTE5qWjJFNWotODZkLVFiN195QmlPRnUwZ0dHcjZnam9TRHAySDN4ejREZHhqU1V6Zw?oc=5",
+      "published_at": "2026-08-27T00:04:39+00:00",
       "matched_queries": [
         "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6163e7485468ee58",
+      "title": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" - 연합뉴스TV",
+      "description": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" 연합뉴스TV",
+      "description_original": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSFJYck9aMmMwcUpIcWk0dUFMSENMUjhPakN3Y3ROOVlQRDRCNGthZWNwN2NaWlduQ3R4Z2ZNUk1TWWluRUQybnFNUklLOG9RLUhKa3NKTE5tMFo1N2Rib3I5dGxNeEU?oc=5",
+      "published_at": "2026-08-27T00:02:00+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "21e9ed43f5ea0b7d",
+      "title": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" - 바이오스펙테이터",
+      "title_ko": "",
+      "title_original": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" - 바이오스펙테이터",
+      "description": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" 바이오스펙테이터",
+      "description_original": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" 바이오스펙테이터",
+      "source": "바이오스펙테이터",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcnZqRUdUYnJqcjBQeVVXdUhFWGZlX3NmdXBsamtqT2UzN3VROUNleXdpTGpVSXp6ekdfeTB0dTRvUDF2U044bjFhdEQtRXpLQXVSR2Vncw?oc=5",
+      "published_at": "2026-08-26T23:56:00+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "123e70cb2e0fb998",
+      "title": "중동 외교 기대감에 국제유가 4거래일 연속 하락 - Investing.com 한국어",
+      "title_ko": "",
+      "title_original": "중동 외교 기대감에 국제유가 4거래일 연속 하락 - Investing.com 한국어",
+      "description": "중동 외교 기대감에 국제유가 4거래일 연속 하락 Investing.com 한국어",
+      "description_original": "중동 외교 기대감에 국제유가 4거래일 연속 하락 Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vcnd4cG1SX093MzhaZUNPMkhKelAtOXU1cXoxSDFJZ05YazNRRUhPZzNFRUZCMFpMTXdqOXZRWTJIeTlBaFhaaVFwWVN6N3pYaE1iTDNQQWo5UFNJbUFHUHk0d3owajVYQkc2STJhVQ?oc=5",
+      "published_at": "2026-08-26T23:54:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "39bb780d04577d69",
+      "title": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요” - 경기일보",
+      "title_ko": "",
+      "title_original": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요” - 경기일보",
+      "description": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요” 경기일보",
+      "description_original": "코스닥 실적 개선에도 저평가…“의미 있는 반등엔 금리 하락 필요” 경기일보",
+      "source": "경기일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMzA2aFZIZ1FWdERsbjdQVHFxYzE4aXNhMEVZN3JYV3hhdk9scVNxMHRRUDBUVFZ6ZGo4T1BZeWNRWFZleXhZSER2M0ItaDdMLUtlOTNJVTNOQk0?oc=5",
+      "published_at": "2026-08-26T23:53:50+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "6223d011e2a6bf38",
+      "title": "“AI 시대에도 고객 관계의 본질은 신뢰” 고객신뢰 위원회 김난도 위원 인터뷰 - SK텔레콤 뉴스룸",
+      "title_ko": "",
+      "title_original": "“AI 시대에도 고객 관계의 본질은 신뢰” 고객신뢰 위원회 김난도 위원 인터뷰 - SK텔레콤 뉴스룸",
+      "description": "“AI 시대에도 고객 관계의 본질은 신뢰” 고객신뢰 위원회 김난도 위원 인터뷰 SK텔레콤 뉴스룸",
+      "description_original": "“AI 시대에도 고객 관계의 본질은 신뢰” 고객신뢰 위원회 김난도 위원 인터뷰 SK텔레콤 뉴스룸",
+      "source": "SK텔레콤 뉴스룸",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpUFNnOU82ZTZvN2ZFTTEyU2xTRzJNSndmN3hqMDVRRnZoYUM4Nl90ZVh4X1YwRWlKWnR6YlNKMElHTkZTOEQySQ?oc=5",
+      "published_at": "2026-08-26T23:32:22+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "a9580f3d80103929",
+      "title": "현대모비스, 협력사와 AI·로봇 기반 제조 혁신기술 확대... 스마트 제조 기술 생태계 활성화 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "title_ko": "",
+      "title_original": "현대모비스, 협력사와 AI·로봇 기반 제조 혁신기술 확대... 스마트 제조 기술 생태계 활성화 | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "description": "현대모비스, 협력사와 AI·로봇 기반 제조 혁신기술 확대... 스마트 제조 기술 생태계 활성화 | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "description_original": "현대모비스, 협력사와 AI·로봇 기반 제조 혁신기술 확대... 스마트 제조 기술 생태계 활성화 | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "source": "Hyundai Motor Group",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTZMMHBBLW9Bc1JuZmRaQXBMSGxiWU5odTBmNkJySlF6U05pTWNuc3hsMEhVLUxzNmV5REVkZmh1LXBsdENTN2JyZ3RrRFJJcmJjTk9jV25rYk9JZi1MdnhDekN2a2RQXzRmd2JzRnN0Mm9Tc1NYR3QtSVEyZHB6WjV1aEtHQURHM0g2NU5FSUk1dkFyRGZBNTFGSEEyZXM0WnB4aXpVamw?oc=5",
+      "published_at": "2026-08-26T23:29:00+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "f1e402d15c311fef",
+      "title": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
+      "title_ko": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
+      "title_original": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter - WSJ",
+      "description": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter WSJ",
+      "description_original": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+      "published_at": "2026-08-26T23:27:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "36c58ad649d72369",
+      "title": "프로티나,미국 트위스트바이오사이언스와 AI 신약개발 대규모 검증 착수 - 약업신문",
+      "title_ko": "",
+      "title_original": "프로티나,미국 트위스트바이오사이언스와 AI 신약개발 대규모 검증 착수 - 약업신문",
+      "description": "프로티나,미국 트위스트바이오사이언스와 AI 신약개발 대규모 검증 착수 약업신문",
+      "description_original": "프로티나,미국 트위스트바이오사이언스와 AI 신약개발 대규모 검증 착수 약업신문",
+      "source": "약업신문",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rSFNTTUNZZDQxNUVFWEVhanp0OVZtTWRRWDlab1ktNGFqZTNQYXRLRmluODd6Yk94TTE2YWF5Z2F2cXd1UExObmFlWkdmWnY2cE5fTW8xYU1mbzVBeEc5UmdJaEJNU3lHT3Zwc0liLWNIZw?oc=5",
+      "published_at": "2026-08-26T23:24:00+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "5e8bb2eabac0b654",
+      "title": "부울경 성장엔진에 ‘첨단 조선·해운’ 선정…제조 AI 대전환 추진 - 해사신문",
+      "title_ko": "",
+      "title_original": "부울경 성장엔진에 ‘첨단 조선·해운’ 선정…제조 AI 대전환 추진 - 해사신문",
+      "description": "부울경 성장엔진에 ‘첨단 조선·해운’ 선정…제조 AI 대전환 추진 해사신문",
+      "description_original": "부울경 성장엔진에 ‘첨단 조선·해운’ 선정…제조 AI 대전환 추진 해사신문",
+      "source": "해사신문",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TRE4wMktpZFMzNFBaTXQ2czhwbDJGRENQMHZjdVFyVkpJNGZ5eGU3VlcyR29lUFhPOUkyWU1oQS1PRnhvWXhaRnBqbFNYRUVJSFJpTU9Nakw4V2ltaWEtYVpCN2xOb18tNFVZ?oc=5",
+      "published_at": "2026-08-26T23:21:28+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "a311697585cac11f",
+      "title": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' - 전자신문",
+      "title_ko": "",
+      "title_original": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' - 전자신문",
+      "description": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' 전자신문",
+      "description_original": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' 전자신문",
+      "source": "전자신문",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02Mjl4Z19kYUlXTE5yQmZWNjNONVlJQl8xX093RWpKeHlVZTNwd3A4dkRhTDk0Z2hsOWJrdV9PbnZWeUZYNXBGdUpkdXBrQQ?oc=5",
+      "published_at": "2026-08-26T23:08:43+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a65b1710899b9b22",
+      "title": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목 - 연합뉴스",
+      "title_ko": "",
+      "title_original": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목 - 연합뉴스",
+      "description": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목 연합뉴스",
+      "description_original": "[마켓뷰] 엔비디아 역대급 실적·금통위…코스피 향배 주목 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oZzNaaUpRaXJ0a0RnZ1dDdHhrOVZaOVJXTnlWMl80cnVFMU5WRllHZGcydXpYc09SSEVVZm8waXlZLWw2dGRKVXhYa3FORW9DVUJ1MmpWX2NCclHSAWBBVV95cUxNai1LZDV6QWZzcDN0eDk2VmFoZkFVbjlKWERCaWMzSmV2OWV1ZWRIbURaRmFwdFNsdVNRUnIxcm9NbVFCWHVNSmp3ODg0eXNUQy15eVhpd1JMbXFHeVF0dmM?oc=5",
+      "published_at": "2026-08-26T23:05:43+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "f3baf53d50e17ffe",
+      "title": "스포츠 앱 무료 베팅 $5,000 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석 - Platea Magazine",
+      "title_ko": "",
+      "title_original": "스포츠 앱 무료 베팅 $5,000 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석 - Platea Magazine",
+      "description": "스포츠 앱 무료 베팅 $5,000 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석 Platea Magazine",
+      "description_original": "스포츠 앱 무료 베팅 $5,000 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석 Platea Magazine",
+      "source": "Platea Magazine",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VjRBd3BCLVhKSmFneDRpY24zeTBIcFhfYS03bC1sSXc3Q1hIYWdGbUVJaS1Kc1ZQcDJLWnNiMHFmeDhtNlNob3h2QUE3S3NqeGVaVW1maUF3UQ?oc=5",
+      "published_at": "2026-08-26T23:02:35+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "0ccd7cade656884e",
+      "title": "젠슨 황 \"AI는 변곡점 도달했다…유용한 일 해내고 있다\" - 연합뉴스",
+      "title_ko": "",
+      "title_original": "젠슨 황 \"AI는 변곡점 도달했다…유용한 일 해내고 있다\" - 연합뉴스",
+      "description": "젠슨 황 \"AI는 변곡점 도달했다…유용한 일 해내고 있다\" 연합뉴스",
+      "description_original": "젠슨 황 \"AI는 변곡점 도달했다…유용한 일 해내고 있다\" 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PZ3h1OTRscHFOUjk1azRyYm9BT3ZLQ1BrUEpmcThMaHo4WGFqMjFvM0RpUkFtdFVWMThFNi1NeXg3cTNpLTB3T0pFZFFNV1dON1J3X1JMNXZsc1Y0TmhGOdIBYEFVX3lxTE5PZ3h1OTRscHFOUjk1azRyYm9BT3ZLQ1BrUEpmcThMaHo4WGFqMjFvM0RpUkFtdFVWMThFNi1NeXg3cTNpLTB3T0pFZFFNV1dON1J3X1JMNXZsc1Y0TmhGOQ?oc=5",
+      "published_at": "2026-08-26T22:51:52+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "6dc64416f20dd5ba",
+      "title": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters",
+      "title_ko": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters",
+      "title_original": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters",
+      "description": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters",
+      "description_original": "Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters",
+      "source": "Reuters",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+      "published_at": "2026-08-26T22:50:54+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "870e7c4e4b1cd8be",
+      "title": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 - 연합인포맥스",
+      "title_ko": "",
+      "title_original": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 - 연합인포맥스",
+      "description": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 연합인포맥스",
+      "description_original": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 연합인포맥스",
+      "source": "연합인포맥스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZjE5TVlDMHZsNjlIT1A5dDlXUk5fUjBia3gweUUzUWFsNnQtakJlamtSQ1pJOUVpdFZBeHlXY2lvcS1OeS1XN0NtaHZXUlZMbGlKSDZucHh5RDVtTEVwalhLR3ZYOE9JZ2xFRU1aWVk?oc=5",
+      "published_at": "2026-08-26T22:30:20+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "80ae4ded404431f7",
+      "title": "시장이 주요 기술 수익을 기대하면서 E-mini Nasdaq-100 선물은 상승합니다. - CME 그룹",
+      "title_ko": "시장이 주요 기술 수익을 기대하면서 E-mini Nasdaq-100 선물은 상승합니다. - CME 그룹",
+      "title_original": "E-mini Nasdaq-100 futures rise as markets await key tech earnings. - CME Group",
+      "description": "E-mini Nasdaq-100 futures rise as markets await key tech earnings. CME Group",
+      "description_original": "E-mini Nasdaq-100 futures rise as markets await key tech earnings. CME Group",
+      "source": "CME Group",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaDdnYVgtZXIxellSMy0yVml4ekJnQS1pc1NVYUtEZGFEdGdrUG4xWWdURXNPVVVQd1BYejBZR1RNdWdxS0VpZHBSSnFzTmZhaVhsUUM4QUgzYldjRTNsTnlZM2c5U0QxdlRvQmI2alNOSmk4cWgzTmtlNXlEV0hRRUVvdE5wcEN2T2pjWnBzTlRhYmprQldWMF9qV051ZVNLTENLSjFKVUFkOFZSLTZ2bVVB?oc=5",
+      "published_at": "2026-08-26T22:13:06+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "32ba652ced97b68d",
+      "title": "Nvidia의 전망에 나스닥 선물, AI 주식 상승: 시장 랩 - Bloomberg",
+      "title_ko": "Nvidia의 전망에 나스닥 선물, AI 주식 상승: 시장 랩 - Bloomberg",
+      "title_original": "Nasdaq Futures, AI Stocks Rise on Nvidia’s Outlook: Markets Wrap - Bloomberg",
+      "description": "Nasdaq Futures, AI Stocks Rise on Nvidia’s Outlook: Markets Wrap Bloomberg",
+      "description_original": "Nasdaq Futures, AI Stocks Rise on Nvidia’s Outlook: Markets Wrap Bloomberg",
+      "source": "Bloomberg",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0ZyNEs4VHlpUTE2VEsyU3R2Rmpxb3pZYTBjTFZENzBnWnk3MkpMU0gwUEwxRUJOVUtaeGx5bGJSR3RaRDBhd2ZNa0ZXS3U2aDhkRElxUE52S3ZrUmFQdE5fSVEyVmFGWmUwSnF2RXRJR281cWd2Nmpwcm9fQnhoRldrZHRkblNlNzNSZy1WT0xSUXNEMEE5M0hYakJqb2lzcU1rZUUwUlFOLVJuUnktVkNqLUM?oc=5",
+      "published_at": "2026-08-26T22:10:37+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "7c5d2b7341080eaf",
+      "title": "독점 | CIA 국장의 깜짝 모스크바 방문은 러시아에게 NATO를 공격하지 말라고 경고하기 위한 것이었다 - WSJ",
+      "title_ko": "독점 | CIA 국장의 깜짝 모스크바 방문은 러시아에게 NATO를 공격하지 말라고 경고하기 위한 것이었다 - WSJ",
+      "title_original": "Exclusive | CIA Chief’s Surprise Moscow Trip Was to Warn Russia Not to Attack NATO - WSJ",
+      "description": "Exclusive | CIA Chief’s Surprise Moscow Trip Was to Warn Russia Not to Attack NATO WSJ",
+      "description_original": "Exclusive | CIA Chief’s Surprise Moscow Trip Was to Warn Russia Not to Attack NATO WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWtGc09MMnF0d3BnOGdVblZkdTRhdmdZZTdrdU81VVF2Q2JGbXdDdE5FTlI2bXBTVFltaWVaZ1ZXN2tmc2F0TjVzalloRTFrbkk5MmJ2T2kzRWlCdmYtaTRpTXlsZ2JjR01YaXJRa2w3RTBJU25YU1lrQy1RUUE5Y3FCWjJtTjRRSS1YVXFXdDVUUHJoNGJUUVI2YTEzRE1TdjRqWFlPaGdGbmZzZURka1kzNEU?oc=5",
+      "published_at": "2026-08-26T22:10:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "48d529d60fbe7da9",
+      "title": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? - v.daum.net",
+      "title_ko": "",
+      "title_original": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? - v.daum.net",
+      "description": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? v.daum.net",
+      "description_original": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? v.daum.net",
+      "source": "v.daum.net",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQXYtdTl5ZExkaE9Na0NicmRmVUM0bHpoMG9EOGowWGxNTzRoZkFxVXFhUC1zaFR0SGpHQzZBc1Rzb1RjQVZ5MTF3UjBobFU?oc=5",
+      "published_at": "2026-08-26T22:03:04+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "12fd1e6ba982c219",
+      "title": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 - 한겨레",
+      "title_ko": "",
+      "title_original": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 - 한겨레",
+      "description": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 한겨레",
+      "description_original": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 한겨레",
+      "source": "한겨레",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOVZCanJFcnJ3QjJCS2NvczhwRW1RcDQ2WDc2cHkySDM1Uy0tQWcxOEtvTXJMT29nUDZwN3RWQk9wcUFXbXBUa21tamtfaE1DWVc0QWZPTGpSb01nckt4MnJDcjR6M2c?oc=5",
+      "published_at": "2026-08-26T21:59:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "6cad472add77ddbf",
+      "title": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정 - 한국경제",
+      "title_ko": "",
+      "title_original": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정 - 한국경제",
+      "description": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정 한국경제",
+      "description_original": "7·8월 이어 기준금리 오를까…한은 오늘 드디어 결정 한국경제",
+      "source": "한국경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43cHNYcjdlbElmSTJhT2VRVVo2OXcxRzljN1oyanZOOXY2X0xRd0w4VklyOFVlNW1RTjlSREdjRG8wVkQ4bjdjcTBuZGJUcFk3REEyQVVlNllqZw?oc=5",
+      "published_at": "2026-08-26T21:49:39+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "0227a307c30e1630",
+      "title": "[오늘의 주요 일정] 한국은행, 기준금리 결정...2연속 인상 '촉각' - YTN",
+      "title_ko": "",
+      "title_original": "[오늘의 주요 일정] 한국은행, 기준금리 결정...2연속 인상 '촉각' - YTN",
+      "description": "[오늘의 주요 일정] 한국은행, 기준금리 결정...2연속 인상 '촉각' YTN",
+      "description_original": "[오늘의 주요 일정] 한국은행, 기준금리 결정...2연속 인상 '촉각' YTN",
+      "source": "YTN",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UWUZ2R19IaUgxcU45QjVXZTktWE01LWZ4V2txREE0Y2RNMEpsLThLOXhTV2RMc2FXUVhWLUZVSW1UdmszZmw0RzEtMWhqRE1ZUkxUeGhBTDJpNy1tWGc?oc=5",
+      "published_at": "2026-08-26T21:39:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "8ea5b37de25b3054",
+      "title": "오늘 한은 금통위…기준금리 결정 - KBS 뉴스",
+      "title_ko": "",
+      "title_original": "오늘 한은 금통위…기준금리 결정 - KBS 뉴스",
+      "description": "오늘 한은 금통위…기준금리 결정 KBS 뉴스",
+      "description_original": "오늘 한은 금통위…기준금리 결정 KBS 뉴스",
+      "source": "KBS 뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUGpsZVVaY2h6NFRacmtidjRIR2Q1MWlPQ2Z2WHRZVFJ0cjR5bGdQdjBBb3ZvNHU1MkYxT09XSWhrNXBpUUY5OGY5QjhQM182NlkzRXNicjdGdEU?oc=5",
+      "published_at": "2026-08-26T21:24:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "995fc771d9369498",
+      "title": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+      "title_ko": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+      "title_original": "Investors Brace for Less-Than-Perfect Nvidia Results, Pull Stocks Lower - WSJ",
+      "description": "Investors Brace for Less-Than-Perfect Nvidia Results, Pull Stocks Lower WSJ",
+      "description_original": "Investors Brace for Less-Than-Perfect Nvidia Results, Pull Stocks Lower WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzBiRmFiNDdidEUxSTZxeExZY1ZRenl0OUdENXBSX2FUWElKSF9fSmlEcTg1alhxOXltcHBPbmhoR0swZWx0TDdLZUxyZm1VZFdSU1pTOXV3OFkzbTY3eDZNUFV6M21yaDY4bFFZREZnUTczUkxfc0RWcTFuOGkxYW1KQWZCTmNQWjBYQkdaZzUwMVBHaEFVbTRSdDFvT3AtYVo3aU14SWZiUlFUYlZGZ1p5Tlk?oc=5",
+      "published_at": "2026-08-26T21:13:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "f85615bd60a03e35",
+      "title": "[코스피·코스닥 전 거래일(26일) 주요공시] - 연합뉴스",
+      "title_ko": "",
+      "title_original": "[코스피·코스닥 전 거래일(26일) 주요공시] - 연합뉴스",
+      "description": "[코스피·코스닥 전 거래일(26일) 주요공시] 연합뉴스",
+      "description_original": "[코스피·코스닥 전 거래일(26일) 주요공시] 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wdDhfMlo3REptMDBFVERfX2txQU1lYlpYaDNxSlAyM3RKM0w2dWQ3U2Voak1icDYzWDlBcWdBeWJwd1BRUmxKQlZuOVhhRmp5R1phMDJvZmlTdG_SAWBBVV95cUxOS1h4RnRVdWZWUE4wQnp3NGFiZDBlSlNCTmZhOERDbl9TQ0ZLNWlzS0EzalZJZnNjaXcxdkI3YkpMMS1kUG9odEh0LXE5MDdsZXhzaEthNUNaSzRDMTJ3Y1E?oc=5",
+      "published_at": "2026-08-26T21:05:01+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "0d164d25ea5ee873",
+      "title": "[소셜＋] '수어 해설' 국중박 유물 5%뿐…'AI 아바타'마저 어색 - 연합뉴스",
+      "title_ko": "",
+      "title_original": "[소셜＋] '수어 해설' 국중박 유물 5%뿐…'AI 아바타'마저 어색 - 연합뉴스",
+      "description": "[소셜＋] '수어 해설' 국중박 유물 5%뿐…'AI 아바타'마저 어색 연합뉴스",
+      "description_original": "[소셜＋] '수어 해설' 국중박 유물 5%뿐…'AI 아바타'마저 어색 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QWWlLSVFCMko1V0tYZ2FaNWFzUGVxVXhadkt5TW40VjcyX0lBQThJVEJ0Ukl6dFlha09BNy10ZkZiYWVKSWcyZmp6OTY1dldGd1FzX3BGdmNTbGdTTW43Y9IBYEFVX3lxTE1QWWlLSVFCMko1V0tYZ2FaNWFzUGVxVXhadkt5TW40VjcyX0lBQThJVEJ0Ukl6dFlha09BNy10ZkZiYWVKSWcyZmp6OTY1dldGd1FzX3BGdmNTbGdTTW43Yw?oc=5",
+      "published_at": "2026-08-26T21:00:01+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "0106aedbdbee989e",
+      "title": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심 - 경향신문",
+      "title_ko": "",
+      "title_original": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심 - 경향신문",
+      "description": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심 경향신문",
+      "description_original": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심 경향신문",
+      "source": "경향신문",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xS0VSR2hDSmIzclZBU1ZUOHlaWGFoNG52TDJYaWhBeVpqZ2MzazF1T0NXcHdGNmdfSnppbV92eFhjek9nOHJsc1Rxd01BYWhCNzRhc3p2Rkg1d9IBX0FVX3lxTE92VlFLRnQ4ZHBpQW1wN2treW5fRGpvYmhqZkJmcXlhY0dGSE5CVXBEdmJPenRXSjBsb3ZBMWdVcGhCS1pjeHZGbUJYMWFHbjh1R2xGclJXdEtIQlRETDFV?oc=5",
+      "published_at": "2026-08-26T21:00:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "c888aa77211485b1",
+      "title": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로 - 연합뉴스",
+      "title_ko": "",
+      "title_original": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로 - 연합뉴스",
+      "description": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로 연합뉴스",
+      "description_original": "한은 오늘 기준금리 또 올릴까…'7·8월 연속 인상' 기로 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbtIBYEFVX3lxTE9yVUtGMjRxWUpENDhUbWtabWNLanhSMFlEOFVHU0swNnJacHNWZzZMNGQ0WERpTnFWZkZnejIwMV9VaXRjb2VCNTBHenVETDBWWk1rOVkxRFJyaEJxYWszbg?oc=5",
+      "published_at": "2026-08-26T20:51:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "ee8489f7d3ac77d0",
+      "title": "엔비디아, 분기매출 962억 달러…13분기 연속 ’새 기록’ - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "엔비디아, 분기매출 962억 달러…13분기 연속 ’새 기록’ - 연합뉴스TV",
+      "description": "엔비디아, 분기매출 962억 달러…13분기 연속 ’새 기록’ 연합뉴스TV",
+      "description_original": "엔비디아, 분기매출 962억 달러…13분기 연속 ’새 기록’ 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tb3BXYl90MlpNMm1HN2hfbGM4dHVjVzFhd1VJN21TaUJBU1FqYXllaXlEQkhMcnVqRUQ3cU1TWmRzXzNPUGdQTUVtZUFOaHJTdWlWWlBlMW5LY3AwRGMtU2YzaWVZRjg?oc=5",
+      "published_at": "2026-08-26T20:37:00+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "a584f98d2cc4eeeb",
+      "title": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
+      "title_ko": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
+      "title_original": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs - Investor's Business Daily",
+      "description": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs Investor's Business Daily",
+      "description_original": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
+      "published_at": "2026-08-26T20:26:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "b48cbe0db97a6869",
+      "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지하고 있습니다 | 전국 뉴스 | 2news.com - KTVN",
+      "title_ko": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지하고 있습니다 | 전국 뉴스 | 2news.com - KTVN",
+      "title_original": "Wall Street holds mostly steady following the latest update on inflation | National News | 2news.com - KTVN",
+      "description": "Wall Street holds mostly steady following the latest update on inflation | National News | 2news.com KTVN",
+      "description_original": "Wall Street holds mostly steady following the latest update on inflation | National News | 2news.com KTVN",
+      "source": "KTVN",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1gzYk1tNUk5V2lPb1ZuUE5UUzIyZEJMWTFHZGpVekRkMWs3LW1ybFZoZlY2bDFGODNVbDQ4UGlCT0M0T054VU1aVHQ1R1VBajh4QjJDUlJEWERSMThDM09zZ1g2Vl9kOEl3ODF0Y0p2cHZSYW41QTlWMXZyU01TejRGQy1QWFlnNGw2VHNzSW5DRzNzMlZfZXB5ZEZYV3ZFQ0xiWm5KeXV1NlFGUk1uYUpkSUJ2WVI2LVRLcXNSODZEb0szQ3g3bDRhWjZCR3lmc3h6N2FReG4tbnNpbUptWm9FdkJTVG0yUmN2Sg?oc=5",
+      "published_at": "2026-08-26T20:22:24+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "a71f00cae792a8d6",
+      "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지했습니다. - Union-Bulletin",
+      "title_ko": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지했습니다. - Union-Bulletin",
+      "title_original": "Wall Street holds mostly steady following the latest update on inflation - Union-Bulletin",
+      "description": "Wall Street holds mostly steady following the latest update on inflation Union-Bulletin",
+      "description_original": "Wall Street holds mostly steady following the latest update on inflation Union-Bulletin",
+      "source": "Union-Bulletin",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX1dBQnRuRXRacERmVE4wYzV6SEh5eWhnRnlVcXFoVWhQZVlGTUZieDhqVkVTZ21UTmZMUm1INERSb0ZFbDdFRXhWNnYwNHZId2dfeUxRVkZBOTZ2MEk4cllFRk9XUGt0NUJYVHhmbllCR2d2dzRNckpwaGV5Z296OVdSS3FQaVBTdHdrSjZIVzkzcXM2amFFVm5MTXhnSFA4c2ljQlVFcUdkRUI2S0NrZkdSM0Zuc2RJZW9QbnhjZmRUSkkzMlQzODlpdDYyMzM3YXZhN0FJc2ppdmFrOWVjeWExcEZZc1dDNEFDR2F3ZlBINElacDFZ?oc=5",
+      "published_at": "2026-08-26T20:03:58+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "09aad930162fd7ac",
+      "title": "Meta, 아동 안전 문제에 대해 48개 주와 180억 달러 합의 - WSJ",
+      "title_ko": "Meta, 아동 안전 문제에 대해 48개 주와 180억 달러 합의 - WSJ",
+      "title_original": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims - WSJ",
+      "description": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims WSJ",
+      "description_original": "Meta Reaches $18 Billion Settlement With 48 States Over Child-Safety Claims WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZGdWs2MmdkZ1ZIME8tYUN1RmIxOHR5aUhmX2ktRmc0ZDRsUm5GUWxyWmZnMzlOdGY2djVoUHlheWFkXzhzcGNhcFJNQ2psLUl4ZFRjOXZELXF0aWE5UmNLYU1oQTgzemUzWU1pMURnUWcwOXBtRDAwcUt3Q181UEYwNEhYS2ZleERRR0FpUThPb01Nc05pVERuQ0ljV1RySHVQWC1KandFcU9U?oc=5",
+      "published_at": "2026-08-26T19:22:47+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "e2da817ce8011416",
+      "title": "투자자들이 Chip Giant의 결과에 대비하면서 미국 주식이 혼조세를 보이고 있습니다 - WSJ",
+      "title_ko": "투자자들이 Chip Giant의 결과에 대비하면서 미국 주식이 혼조세를 보이고 있습니다 - WSJ",
+      "title_original": "U.S. Stocks Mixed as Investors Brace for Chip Giant’s Results - WSJ",
+      "description": "U.S. Stocks Mixed as Investors Brace for Chip Giant’s Results WSJ",
+      "description_original": "U.S. Stocks Mixed as Investors Brace for Chip Giant’s Results WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQklUWjc0SG1rbFBXYVFmb19naTdBTm1jRXZ3UmhzWFFzb1FVZzI4eC1QTENvekY0U1BxV3NRekt4U0RrR0JXUm5zaDMtSkF4by1JZnQwdEV6STY3eV9tcG5jUmU1aml6ZDFheE45OXlYa3I4SnNmRHc4SlIxanQwcXB0Rl9OLTN3VmxGdlNnUWhZMlJsU1BOZ2xkbm9xRnpzTk1zV0J1dldDdDF0?oc=5",
+      "published_at": "2026-08-26T19:13:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "3eddc26cc71bf195",
+      "title": "Anthropic은 궁극적인 총 주소 지정 가능 시장을 고려합니다 - WSJ",
+      "title_ko": "Anthropic은 궁극적인 총 주소 지정 가능 시장을 고려합니다 - WSJ",
+      "title_original": "Anthropic Contemplates the Ultimate Total Addressable Market - WSJ",
+      "description": "Anthropic Contemplates the Ultimate Total Addressable Market WSJ",
+      "description_original": "Anthropic Contemplates the Ultimate Total Addressable Market WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPellodGphNWxfcmZ4UFJUdzdabUI3emRGTUxXSEw1VzFYb0ZwRWpib2ZDc184YXJFRnBwcVFtNXloVThXZGRnOHBqMXM4TDZYam5vNUZpQ3dBbkZZeWp2NWF1R2NRYlBJUmlkbE1JSWZWVEU0TTNaZXR0VVZYN0RRb1VXZmRQdXlJQjBkRVBNd2xzS3hWaVNQeExNRVZ1d09CYm1R?oc=5",
+      "published_at": "2026-08-26T13:01:00+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "16679e50ad80d052",
+      "title": "“2조 넘게 팔더니 다시 불개미 본능”…반도체 3배 ETF에 1.2조 ‘풀베팅’ - 매일경제",
+      "title_ko": "",
+      "title_original": "“2조 넘게 팔더니 다시 불개미 본능”…반도체 3배 ETF에 1.2조 ‘풀베팅’ - 매일경제",
+      "description": "“2조 넘게 팔더니 다시 불개미 본능”…반도체 3배 ETF에 1.2조 ‘풀베팅’ 매일경제",
+      "description_original": "“2조 넘게 팔더니 다시 불개미 본능”…반도체 3배 ETF에 1.2조 ‘풀베팅’ 매일경제",
+      "source": "매일경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FTmtkVG83dy1SaEx3RmE0UVNERS1NQW5kWnRCbWtLaTJxcnA4SGRoMENMNThNVzVvUjVULWl4UE1zc09wYzN5T1dDTDVDRTUtS2c?oc=5",
+      "published_at": "2026-08-26T08:12:33+00:00",
+      "matched_queries": [
+        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "36010809917253eb",
+      "title": "코스피 발목 잡는 외국인…일주일새 삼전닉스 '4조원' 순매도 - 한국경제",
+      "title_ko": "",
+      "title_original": "코스피 발목 잡는 외국인…일주일새 삼전닉스 '4조원' 순매도 - 한국경제",
+      "description": "코스피 발목 잡는 외국인…일주일새 삼전닉스 '4조원' 순매도 한국경제",
+      "description_original": "코스피 발목 잡는 외국인…일주일새 삼전닉스 '4조원' 순매도 한국경제",
+      "source": "한국경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fWl9XampWSVhZOE51NVA0ZWlPWVdPbGk0YUZOczlCOHVBMnpVMDZXNVU4SzlMc01OWlhjV25DYW9SWno4dURGV3dycURuaEExeXlRei1GSTdFUQ?oc=5",
+      "published_at": "2026-08-26T07:46:21+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "9a7aa3d15666dd20",
+      "title": "환율 왜 떨어졌나 봤더니…삼전닉스 150조 주주환원 덕? - 매일경제",
+      "title_ko": "",
+      "title_original": "환율 왜 떨어졌나 봤더니…삼전닉스 150조 주주환원 덕? - 매일경제",
+      "description": "환율 왜 떨어졌나 봤더니…삼전닉스 150조 주주환원 덕? 매일경제",
+      "description_original": "환율 왜 떨어졌나 봤더니…삼전닉스 150조 주주환원 덕? 매일경제",
+      "source": "매일경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeElQMG9URXVzNTdTNFkzVXBIWnBYbHQwcEdTWmViR3hyejNBNS00U0xialRZSGQ2Tmxxd1M2ZUJubWNXZHFLa1phWEdrVWpXVXctMlpn?oc=5",
+      "published_at": "2026-08-26T07:40:07+00:00",
+      "matched_queries": [
+        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "77b662b83f28fe0c",
+      "title": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니] - KBS 뉴스",
+      "title_ko": "",
+      "title_original": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니] - KBS 뉴스",
+      "description": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니] KBS 뉴스",
+      "description_original": "“손절도 못하고 미치겠어요”…코스피 7천, 이번 주 3대 변수가 가른다 [잇슈 머니] KBS 뉴스",
+      "source": "KBS 뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZi1qeE1PZHU0Q3hLZUF2OW9CZ2gydDNENkhMZDJ5bmR1Z1BiRHdBVHRCb0hmdFZfZjhSNEhEei1yQVFjRTgweW83aF9ucVEyZjRRRjFGcHlZQkE?oc=5",
+      "published_at": "2026-08-25T21:53:00+00:00",
+      "matched_queries": [
+        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "575e814ed1e0c70f",
+      "title": "S&P 500, 나스닥은 기술주 하락세, 투자자들은 이란의 움직임에 무게를 두고 있음 - Reuters",
+      "title_ko": "S&P 500, 나스닥은 기술주 하락세, 투자자들은 이란의 움직임에 무게를 두고 있음 - Reuters",
+      "title_original": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "description": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves Reuters",
+      "description_original": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves Reuters",
+      "source": "Reuters",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "published_at": "2026-08-24T22:26:01+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "3b1dd90fa996d2a0",
+      "title": "나스닥 CME 암호화폐 지수 선물 - CME 그룹",
+      "title_ko": "나스닥 CME 암호화폐 지수 선물 - CME 그룹",
+      "title_original": "Nasdaq CME Crypto Index Futures - CME Group",
+      "description": "Nasdaq CME Crypto Index Futures CME Group",
+      "description_original": "Nasdaq CME Crypto Index Futures CME Group",
+      "source": "CME Group",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOGlmajRBc0JrNW1RTTN2Q1dZLWRfTnpIM0swUjNPSi1RUGZFRzlQbUZpeXQ0WlYzSGJmWkw0VW1YTmVYblVULWtHUVQwOFRXODAzQ1ZnUkVfdVhaVVlCVlhOb2NnWW9TTlhZWTRPMnJjRXRUQlozdXBJbWUzSW81N1ZYRVh4aXUx?oc=5",
+      "published_at": "2026-08-23T15:17:51+00:00",
+      "matched_queries": [
+        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "a27c854d317def16",
+      "title": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목 - YTN",
+      "title_ko": "",
+      "title_original": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목 - YTN",
+      "description": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목 YTN",
+      "description_original": "이번 주 엔비디아 실적 영향 관심...기준금리도 주목 YTN",
+      "source": "YTN",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yN1dqYmJZaEpXOXAyNk8wWkZreFUzQ1JTRWZmRVlZbnJYdjItSVhFYzlWVDBJcTI0alpyU0thb0dDb0ZMTjdLZmdNeFJlSTdkNC1tLW45NWhDb2MySXc?oc=5",
+      "published_at": "2026-08-23T06:16:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "7e9f7ad3c0d004c1",
+      "title": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] - 한국경제",
+      "title_ko": "",
+      "title_original": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] - 한국경제",
+      "description": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] 한국경제",
+      "description_original": "\"삼성 뼈아픈 상황 될 수도\"…반도체 전문가 경고한 이유 [강경주의 테크X] 한국경제",
+      "source": "한국경제",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55dUpqWWZKdDJ5eUxPZ2praDQzSkY5ZkFmbmdmZ2FIY29PWFBUV1U2RVRSTnUtZ3BkbGNQbnJoY0NXNUhOcVNSZThWZmJhVGNUNmctLWVYWjNOZw?oc=5",
+      "published_at": "2026-08-23T05:00:01+00:00",
+      "matched_queries": [
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "0e0e93d166f5217e",
+      "title": "‘3% 금리’ 오나…’연속 인상’ 가능성 급부상 - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "‘3% 금리’ 오나…’연속 인상’ 가능성 급부상 - 연합뉴스TV",
+      "description": "‘3% 금리’ 오나…’연속 인상’ 가능성 급부상 연합뉴스TV",
+      "description_original": "‘3% 금리’ 오나…’연속 인상’ 가능성 급부상 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwQzlhMFNRTERrN0k3Zjl3UUxCMUY5VW1xQmk5YkRDN3o4ajhCU0hnVjNTTUZEcHpFRHMtRUlSUmtTbkF0clNVVTdQbnlfMDNIMklReHJfVkpNZ0pvd0FvS2JzQ2llblU?oc=5",
+      "published_at": "2026-08-23T04:54:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "4ec8171e0defe3ed",
+      "title": "한은 기준금리 증권가 전망…“2회 연속 인상” 우세 “이번엔 동결” 관측도 - 경향신문",
+      "title_ko": "",
+      "title_original": "한은 기준금리 증권가 전망…“2회 연속 인상” 우세 “이번엔 동결” 관측도 - 경향신문",
+      "description": "한은 기준금리 증권가 전망…“2회 연속 인상” 우세 “이번엔 동결” 관측도 경향신문",
+      "description_original": "한은 기준금리 증권가 전망…“2회 연속 인상” 우세 “이번엔 동결” 관측도 경향신문",
+      "source": "경향신문",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vNzdqX00zN0hPa1NTRWRFWFFQNkpPVnlYdjlyOF9rekp4MTl1aElTamdzZzYxMC0wVUU2bnVwN3U4UlRINlVxZmRqSm5QUXNPQXMtbHJzT0YxQdIBX0FVX3lxTE5sUEZEN0RzTkxtNnRCWDJaX1FiZlBSa19yb05oa2ZLdnFfQmZnM1Z3Mkp4bmlPbkQwV25KVV9QcDdmX3hZWUV5X0Ntc1NVNk5ldFhTWXQ4cndDTlRQYjNB?oc=5",
+      "published_at": "2026-08-23T04:37:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "macro"
@@ -56,6 +1141,7 @@
     {
       "id": "55cdfb7df5d361af",
       "title": "네이버가 ‘모두의 AI’에 불참한 속내 - 조선일보",
+      "title_ko": "",
       "title_original": "네이버가 ‘모두의 AI’에 불참한 속내 - 조선일보",
       "description": "네이버가 ‘모두의 AI’에 불참한 속내 조선일보",
       "description_original": "네이버가 ‘모두의 AI’에 불참한 속내 조선일보",
@@ -64,737 +1150,70 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzBpbjlUM294anl0ZGNicTVOeGhOQ0VJdmh0TXdUamhwd2pUN1ZOdTJiUVIwS2Rjd0g3VzAxeWhGYzVOVGhDU1dSRXZQeTRLcThrcVBwV0hDMkU5b1BINHpkU2lJcXFvVzZaektJSVRmaTJJY0JhbUhYQVFjQ0dWcEdfQQ?oc=5",
       "published_at": "2026-08-23T04:31:00+00:00",
       "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "sector"
       ]
     },
     {
-      "id": "b66c48b4caa584cc",
-      "title": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 - KB Think",
-      "title_original": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 - KB Think",
-      "description": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 KB Think",
-      "description_original": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 KB Think",
-      "source": "KB Think",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kYmVtWkZPMG1OaGNES05taHVFN3ZlcFJScWhfUUJfOGYzR2FjRHN5dlNtY3U5dXczZHUycjhkYkJpQjQ1RDRYeHR5Z1RGeVBPZldfUjRUMXprYnA0emJYSHBYTkhTNV9RY21QYVVTMmVlUQ?oc=5",
-      "published_at": "2026-08-23T04:00:01+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "1d880cbfdb91b4da",
-      "title": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 - YTN",
-      "title_original": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 - YTN",
-      "description": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 YTN",
-      "description_original": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 YTN",
-      "source": "YTN",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaSXZGUXUwb0ZPNU5FQVN3UmhXSDRUQzVKcl84MXdGZVNJVDQwUk8tRklYUllWSnNvWElMSDQ5czBiRW9KZVV0aWVGcGt1R3hzQTZnY0ZZRmFRNnVwNnc?oc=5",
-      "published_at": "2026-08-23T04:00:00+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "3e8ffb94d3676c82",
-      "title": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 - 조선일보",
-      "title_original": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 - 조선일보",
-      "description": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 조선일보",
-      "description_original": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 조선일보",
-      "source": "조선일보",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0JSMlhHN3pBS3MxWEpvWmpuQWNkdVplakFGZEtndW56RllGUjZ6UGl1b3o5U0h3N1Q3cVVLT2F2WjJhclBTZHFqSll0Y3Fwak1aZzRhU0hpSFhLTEtGeXYwY1JOLUlGdzFjdHhaTzFFRGk3Nl9WYTVfOTZOSkY5eUtuVQ?oc=5",
-      "published_at": "2026-08-23T03:23:00+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "707727dbd6ce5d6a",
-      "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 - 조선일보",
-      "title_original": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 - 조선일보",
-      "description": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 조선일보",
-      "description_original": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 조선일보",
-      "source": "조선일보",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpGTjkzbkpOM3RFSDJYMno3dWx6LW1vR25IYTlKaVFXaTg1SklzWVlpOER3LWJhcmlKaFdvQ3JoazRRUDBoWVpaX0dsdUZzeWxTcUxlUk5fSnN6RkVua0pzLVVoaTRvRUt3M0NhV0ctczFESXN2SUgtRHJ5SVgzcVhWT29tZ29PNnNIWlZB?oc=5",
-      "published_at": "2026-08-23T03:09:00+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0bf5e600b3896b9a",
-      "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 - 전자신문",
-      "title_original": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 - 전자신문",
-      "description": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 전자신문",
-      "description_original": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 전자신문",
-      "source": "전자신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
-      "published_at": "2026-08-23T03:03:06+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "730fa4b2950ca295",
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
-      "title_original": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
-      "description": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada Investor's Business Daily",
-      "description_original": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkR0Mk1hdnJPQVZHWEJYWXQ2UENlazJ1OG1EWTVtNFVYLTdMVHpfbVRIQ09zMmtMRnlLT1dnd0VyVzh1cTQzVm1jMS1keHR1TUNXOXBPSXEwWE10bFNoTi1Sd1ptX1lDcHhzaG5OaTFwTzE0UlBvTzgzTHpGVkVQeUoyY2szcks3RkFENTdPbmRVUVFWMjZaWF93cFpXcnZEUEM3d21BTGpKcWZJblEtcEhJVjA?oc=5",
-      "published_at": "2026-08-23T03:01:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow",
-        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "us",
-        "us"
-      ]
-    },
-    {
-      "id": "8ca7852bff304d85",
-      "title": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed - FOREX.com",
-      "title_original": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed - FOREX.com",
-      "description": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed FOREX.com",
-      "description_original": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed FOREX.com",
-      "source": "FOREX.com",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUxXWUFkSTM1NEhPVDNQSWs5SGMzVXlCWXpNSEx1VmE3ejBWeDU2cWdJM2VmWGFUY1hDdGlQSWo1N3hyNndVeVFxLWcyY0NyRENwLTZZZy1rS0FiNWFZVXJ1dHEtUl95emJHdW5vMjNZTm12SXRESFc4TnlsanZpczJRQkpKNHRpdDZnLUtmNGJ1VjBHRlN2dzBhQkR3eVFxV3Y1dm9PLUVORVBEdGEwV0tzbmxaRV9RTm1zOERNZGVQcWZvel8wN0NHWQ?oc=5",
-      "published_at": "2026-08-23T03:00:38+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "6e7a25239d0f76ed",
-      "title": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" - 연합인포맥스",
-      "title_original": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" - 연합인포맥스",
-      "description": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" 연합인포맥스",
-      "description_original": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" 연합인포맥스",
-      "source": "연합인포맥스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yRlplRTF2endSUk10N3Y3anpyek5SVHF6Y3JGaXZTblpoVXZhQTUya0JPdDhBWDhRd2I3Qlg1VEZlV0RlV3pCbkVTcTVPeVc1RUhBWEZYTkdtTndQS2h4UFFvbk1oODFDREljUHRrQ0vSAXRBVV95cUxNTlQ1S00wZ2g1STBFVENlekRfMnFqaTFBYXpPVEhocVhBc1dvb1ZudWFuT3hLV2hMcDVPOS1PQi1UUE12UlRjLXRURFRaeFJzRFAzd0ZGaXNEZF8tQ0s2elU0Ymc0b1ZFU1hZQUdleE1qak5tYQ?oc=5",
-      "published_at": "2026-08-23T03:00:10+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "5de711ae411a69bf",
-      "title": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ - 전자신문",
-      "title_original": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ - 전자신문",
-      "description": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ 전자신문",
-      "description_original": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ 전자신문",
-      "source": "전자신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jYXM4T3NWLW9YbVNTTHBRUzhQSjh0YnA2Q05xZEl4MEV2RUN4Q1BQM2J0Q2FtYmZCbTNzRVhnUExJM2VnR0w2ai1tMnJSZw?oc=5",
-      "published_at": "2026-08-23T03:00:00+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0bf9a5f6fd2a1e4e",
-      "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 - AI타임스",
-      "title_original": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 - AI타임스",
-      "description": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 AI타임스",
-      "description_original": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 AI타임스",
-      "source": "AI타임스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtOW1haElrZl8tZi0xN2ZpOEFLVDhpSi16TmpQYzJPbTduUllKbXZzVkdDNHRDU0N0SDFwdC0taGxqc2dCaWZSa2pvQ0xkTFlfVFhjbVQ2aTNSUE04V1dzaDU4eFJHWU5FX3c?oc=5",
-      "published_at": "2026-08-23T02:48:18+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "eda07a052e0e0171",
-      "title": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 - 뉴데일리",
-      "title_original": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 - 뉴데일리",
-      "description": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 뉴데일리",
-      "description_original": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 뉴데일리",
-      "source": "뉴데일리",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vazV6TnhuZnJwUXBwbWlJelZjSThjRk9CNXNVRTRvcV80cEhVcWpSWTVsTXNCZEZTdDhPQ3NGTnh0ZVJDci1TdkhwV2E0Y0xnSHFHOFAxWm1raWtJWWQ0cEw1aDFTOTRxUU1FWEVSNWtYMC1jSHZ2YVpRRdIBgAFBVV95cUxOYUFzNTc0cnZiSGZObllXWHFJak1GZ2lCTmJJSzl2UGxaSkJhNUNVLWg5MlJWNHNIb3UtY1h0OVFnbGF3RVFNV01ldUFWTXowQ1RJREJ1QXhBdEZ2bTdQN3hKTWo0SHNJdkxVdlNPSGU5S1lIMWpiS1M2eHk2SDhWNg?oc=5",
-      "published_at": "2026-08-23T02:44:07+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "58933d02e9941680",
-      "title": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 - 전자신문",
-      "title_original": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 - 전자신문",
-      "description": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 전자신문",
-      "description_original": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 전자신문",
-      "source": "전자신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xTXhnZlRZR0pIVEN1aUI0SGpfWWR6REJvVVd6d2RrbHFoX0NUNXpmTDdkMXFVV1JoVlUwbmpUZ1phdjFLdXlJR0dQNVRKQQ?oc=5",
-      "published_at": "2026-08-23T02:40:00+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "d938139a24751424",
-      "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 - 지디넷코리아",
-      "title_original": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 - 지디넷코리아",
-      "description": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 지디넷코리아",
-      "description_original": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWd1Zqa09BOEo2MFNIbkN0eGRyX1d3dDBKSk5WZldMTW00MDJ2RmQtbTd4RVRTZDJ3aVJ2X2ZlQm95ajZPQjBwRk1OUTF0bm5ReVAzSWZn?oc=5",
-      "published_at": "2026-08-23T02:30:02+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "1dcf0b30c9221c69",
-      "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 - AI타임스",
-      "title_original": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 - AI타임스",
-      "description": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 AI타임스",
-      "description_original": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 AI타임스",
-      "source": "AI타임스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOENFUjFpUkg3bWZJWlhSM3dVSnU1NXhqWHVkNG5Vc2JEYWw0VUZVOU5iM1VMSHl0cENYNWlIOXpEdDBIMUh2Ri1uMk9adXE3NFlGRmd4NUVuWHFxbmtuaUZ3Y254eWcwc2c?oc=5",
-      "published_at": "2026-08-23T02:28:08+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "6e6bc2d8c1e1fa5f",
-      "title": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 - 연합뉴스",
-      "title_original": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 - 연합뉴스",
-      "description": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 연합뉴스",
-      "description_original": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNNIBYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNA?oc=5",
-      "published_at": "2026-08-23T02:24:25+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "3b71f5e16294822b",
-      "title": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 - 조선일보",
-      "title_original": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 - 조선일보",
-      "description": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 조선일보",
-      "description_original": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 조선일보",
+      "id": "18ef2149cdcb5d5f",
+      "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤 - 조선일보",
+      "title_ko": "",
+      "title_original": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤 - 조선일보",
+      "description": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤 조선일보",
+      "description_original": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤 조선일보",
       "source": "조선일보",
       "source_locale": "KR",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
       "published_at": "2026-08-23T02:24:00+00:00",
       "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "macro"
       ]
     },
     {
-      "id": "af28788d8f6f3b78",
-      "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 - 경향신문",
-      "title_original": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 - 경향신문",
-      "description": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 경향신문",
-      "description_original": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다 경향신문",
-      "source": "경향신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbmpaY1ZpZzR0MUIwMlRlZEpHd080TmxTN2NxdFhxNktoSUpmbzFQeDd0ZDNjSENhN3Noc2JHU2xXV2IwdVMxblNtOHR0anh3bExYUExXWGRoZ9IBX0FVX3lxTE5VSlNTNTkxSWZRVWJtVUo3YXJNOUF0MFU1bGFXblJ1c2c4MkJlTlNfUnIxTlNOdzN0LTdXVGdxRlYyLVF0ZkV0UEFWWlJ0WnpBdzlUVGFMbV9hTDZXcTA0?oc=5",
-      "published_at": "2026-08-23T02:24:00+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "eb9f5c7beb6465c6",
-      "title": "“반도체 인재 양성”…전남광주형 대입전형 만든다 - 연합뉴스TV",
-      "title_original": "“반도체 인재 양성”…전남광주형 대입전형 만든다 - 연합뉴스TV",
-      "description": "“반도체 인재 양성”…전남광주형 대입전형 만든다 연합뉴스TV",
-      "description_original": "“반도체 인재 양성”…전남광주형 대입전형 만든다 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IdDhOTjVMU01HeXpGeDNrTEVpV25DRmN3cDBVNGdWaHBrdFE0RzNnOTA4ZExTejIyX2lVN0RwNkZ5bXpZZDl5RlNtZXRKMFFhb3g4SlM0NmItd21mZlJKR3ZoaHVURE0?oc=5",
-      "published_at": "2026-08-23T02:24:00+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "dd1e86a17449b514",
-      "title": "학교 파고든 AI…전북 “생기부 활용 전면 배제” - 경향신문",
-      "title_original": "학교 파고든 AI…전북 “생기부 활용 전면 배제” - 경향신문",
-      "description": "학교 파고든 AI…전북 “생기부 활용 전면 배제” 경향신문",
-      "description_original": "학교 파고든 AI…전북 “생기부 활용 전면 배제” 경향신문",
+      "id": "eb150c91bf00bc58",
+      "title": "학교 파고든 AI···전북 “생기부 활용 전면 배제” - 경향신문",
+      "title_ko": "",
+      "title_original": "학교 파고든 AI···전북 “생기부 활용 전면 배제” - 경향신문",
+      "description": "학교 파고든 AI···전북 “생기부 활용 전면 배제” 경향신문",
+      "description_original": "학교 파고든 AI···전북 “생기부 활용 전면 배제” 경향신문",
       "source": "경향신문",
       "source_locale": "KR",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oeWtkX2VkQ1djZHRsSk1hMnpiOFpicXNrT0VfODlna2RZYTZBSlhJWUFseGlkXzZKQ3VXYTNnQi1NMEdTcmI1dWJjcVVCVDlMVW1udG1oYzBrZ9IBX0FVX3lxTE92MHZlN1dSSENEc1AzenlfQ1h4ZTBMYmtVME5teHRqSUk3Z2FlWXgxWTRrc0dST0c5X3NWelBSVVp3MXoyeWVybWRBSmlpNzBGRjlFbUctZEpHMDY3anZv?oc=5",
       "published_at": "2026-08-23T02:20:00+00:00",
       "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "sector"
       ]
     },
     {
-      "id": "0d6fffbc25631da4",
-      "title": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? - YTN",
-      "title_original": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? - YTN",
-      "description": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? YTN",
-      "description_original": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? YTN",
-      "source": "YTN",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oOE5hTWdXVEtCVFZONUZOWWhYWXBEeG1sWHlHRldXbXV2YWI4Smw1WGdMOXNvTXcxU2JQZFBkSElROHNKUXVkcWo5WHh0dUVFSjQ4ZzRzbHphQ3ZxMUE?oc=5",
-      "published_at": "2026-08-23T02:11:00+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8667487a0dd3d0cf",
-      "title": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈 - 경향신문",
-      "title_original": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈 - 경향신문",
-      "description": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈 경향신문",
-      "description_original": "‘환율 하락·롤러코스피’에 달러·금·예금으로 몰리는 돈 경향신문",
-      "source": "경향신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hb0g2aDFKUm9fZm1CR2pReG5WU3JsSHlrdTFtOUp1cUE0ZUNObndKdVQ1QWJGSUllLTJKV3JkdngydWtkdWx1dFVadk5IVkJWZ1BWTmJaQUtKUdIBX0FVX3lxTE1XTXd4WE5fVWVaRVNaYW5zM0ZhRFFuWkpXUEFfOTB2R2stTmJtZmZpMFpyS2YwdXlyeEVKb3VRMHpleF9RT0dPUDhfaEhSWm9XRXdPd2lwR1pUeURONHZR?oc=5",
-      "published_at": "2026-08-23T01:49:00+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\"",
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "domestic",
-        "macro"
-      ]
-    },
-    {
-      "id": "de2ef001e213d42b",
-      "title": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\" - 지디넷코리아",
-      "title_original": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\" - 지디넷코리아",
-      "description": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\" 지디넷코리아",
-      "description_original": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\" 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BLVZGdlVDUDRqQ1pRMkhKWkJSSW94WjhUeXpuQVVlUHNScTJpRmVQVGlKUnhvOUtEOEdvYVU1ZUNia3p2cW0zeWF3RHJ3aG1FUTZSQWpn?oc=5",
-      "published_at": "2026-08-23T01:30:01+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "f3e2d99aa5384d4c",
-      "title": "KT, '모두의 AI'는 K-AI로…NPU·플랫폼·클라우드 총집결 - 연합인포맥스",
-      "title_original": "KT, '모두의 AI'는 K-AI로…NPU·플랫폼·클라우드 총집결 - 연합인포맥스",
-      "description": "KT, '모두의 AI'는 K-AI로…NPU·플랫폼·클라우드 총집결 연합인포맥스",
-      "description_original": "KT, '모두의 AI'는 K-AI로…NPU·플랫폼·클라우드 총집결 연합인포맥스",
-      "source": "연합인포맥스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yeWR4UjlYcG9NZFp0eVZ6MElLYXBESG43dVJqU293MWdtYlluUzJTbjlhYnZDNUxZUEZJVVhkT0h6dGZCQXRoS0JmOTFObG4xa0s1U2RWc1JXbmtFalp1ODVydzR1SmQ0SGtxNkV1RzM?oc=5",
-      "published_at": "2026-08-23T01:29:02+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "86a3924fee6a374f",
-      "title": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 - 브릿지경제",
-      "title_original": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 - 브릿지경제",
-      "description": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 브릿지경제",
-      "description_original": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 브릿지경제",
-      "source": "브릿지경제",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjlzcmxCaVRBUGVEM2F4dnpyTV9xcXZCMjBZTkFMd2xjaURMdkxCcC12eFV4Ym5kWmgwWnF6YnBaWkxyOThyV1oya0NiTmF4UU9jVG9IYXVadw?oc=5",
-      "published_at": "2026-08-23T01:11:00+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "238e9802fc6e2241",
-      "title": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 - 연합뉴스",
-      "title_original": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 - 연합뉴스",
-      "description": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 연합뉴스",
-      "description_original": "AI 서버값 '고공행진'…엔비디아, 고객사에 가격 15% 인상 예고 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeWJ5YXB2U2cxdDJNR3V5Wjl6TTZBT0NzUVZXTjdWRnIxNVB3VTVzRTZJbjc1amlWWWVuZ0k5X0xfSDlXdkhWZFFwNUpWUm5hLWpuby1Jak01dWPSAWBBVV95cUxQaGt6VGpEMlRmYmFROFlKWTFYcFNpNVROc2wtQW1jckFIdkFncUc2X0t1bnlKcjJUX3d1N0VRd2tNeUtPUVNGck5nR1R6aDJhSERiQ1JwbWt2WTY3SlpQTmc?oc=5",
-      "published_at": "2026-08-23T01:02:51+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "11e8fb685cd95081",
-      "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] - 에너지경제신문",
-      "title_original": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] - 에너지경제신문",
-      "description": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] 에너지경제신문",
-      "description_original": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] 에너지경제신문",
+      "id": "610c114a1fefe418",
+      "title": "한은, 한 달 만에 또 금리 올리나…‘3% 기준금리’ 눈앞 - 에너지경제신문",
+      "title_ko": "",
+      "title_original": "한은, 한 달 만에 또 금리 올리나…‘3% 기준금리’ 눈앞 - 에너지경제신문",
+      "description": "한은, 한 달 만에 또 금리 올리나…‘3% 기준금리’ 눈앞 에너지경제신문",
+      "description_original": "한은, 한 달 만에 또 금리 올리나…‘3% 기준금리’ 눈앞 에너지경제신문",
       "source": "에너지경제신문",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5",
-      "published_at": "2026-08-23T01:02:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1abS1nN3pqekd3TWlub1JNZG5pOWxrRkFJSHQ3ZHNHaUNPSUhrVXh6QTBzWEMzLUJGazlyT1FONDY1SE8wZ3dGYWd4VnBMVVUxMVk0bWhhcUk3WEU?oc=5",
+      "published_at": "2026-08-23T01:51:57+00:00",
       "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\"",
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "domestic",
-        "macro"
-      ]
-    },
-    {
-      "id": "e2a341679c0d0157",
-      "title": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
-      "title_original": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
-      "description": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' 한국경제",
-      "description_original": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' 한국경제",
-      "source": "한국경제",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRVlNajlFZU5Pd0c0Mm1DRnhod0l5Wng3YTFKbENCMWhvU1ZEY21YdG9aNWpzb3Q0dXVYT09fM09weXQ2aFhhZVFoSjMxUW9hWmx1UkxYU2paUQ?oc=5",
-      "published_at": "2026-08-23T01:00:55+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "bf4ee06efe51b544",
-      "title": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5 - 머니투데이 - 머니투데이",
-      "title_original": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5 - 머니투데이 - 머니투데이",
-      "description": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5 - 머니투데이 머니투데이",
-      "description_original": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5 - 머니투데이 머니투데이",
-      "source": "머니투데이",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q0FVbW42VnVwN183clNCcjd0U05HREdyak1mTHhzbk9ZRVdXRWpWNjAwdkJXUGlxX3oyRTR3N3BCa3lUYXV4RFhuci0xWDZFRXNnbWF4U1FvTFRwczJIMG00dUZTMUJPdVQ40gFwQVVfeXFMTkQ2WXNJaU4yVGtodEZPQ1g3TnRaS2pZNFVYMzZmSGRDUzdSU0F0OEZpbnA2OUZVaXJfYnNGZlhpbjBSZWdxcVdWeDFVRW5MZzIyNlFGdFpQMW5LRm5VOF9hbkoxVzRDNFNVVXUzaHVOUA?oc=5",
-      "published_at": "2026-08-23T01:00:00+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "macro"
-      ]
-    },
-    {
-      "id": "52e5a0e7092daf1e",
-      "title": "최종현학술원 \"국산 AI모델 확보만으론 부족…운용주권이 중요\" - 연합뉴스",
-      "title_original": "최종현학술원 \"국산 AI모델 확보만으론 부족…운용주권이 중요\" - 연합뉴스",
-      "description": "최종현학술원 \"국산 AI모델 확보만으론 부족…운용주권이 중요\" 연합뉴스",
-      "description_original": "최종현학술원 \"국산 AI모델 확보만으론 부족…운용주권이 중요\" 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KamhvR3BOcjVmQ0FEMFViV1VBcHlBWEFON2xjVzRsT2paNHBOeTFlZklxUjQ5SHhNcVdNQ2ExZExnR0IzU0FkUlNjMTNXeDFPeW5oamZjbm01aFhESUZ2c9IBYEFVX3lxTE9KamhvR3BOcjVmQ0FEMFViV1VBcHlBWEFON2xjVzRsT2paNHBOeTFlZklxUjQ5SHhNcVdNQ2ExZExnR0IzU0FkUlNjMTNXeDFPeW5oamZjbm01aFhESUZ2cw?oc=5",
-      "published_at": "2026-08-23T00:47:41+00:00",
-      "matched_queries": [
-        "반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\""
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "61fdf3f8d6d11b65",
-      "title": "See How China Weathered the Iran Oil Shock - WSJ",
-      "title_original": "See How China Weathered the Iran Oil Shock - WSJ",
-      "description": "See How China Weathered the Iran Oil Shock WSJ",
-      "description_original": "See How China Weathered the Iran Oil Shock WSJ",
-      "source": "WSJ",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5",
-      "published_at": "2026-08-23T00:46:16+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "cbe6ffd35ae1bb4f",
-      "title": "기업들 달러 4배 더 팔았다…고환율 잡은 '수출기업 달러' - v.daum.net",
-      "title_original": "기업들 달러 4배 더 팔았다…고환율 잡은 '수출기업 달러' - v.daum.net",
-      "description": "기업들 달러 4배 더 팔았다…고환율 잡은 '수출기업 달러' v.daum.net",
-      "description_original": "기업들 달러 4배 더 팔았다…고환율 잡은 '수출기업 달러' v.daum.net",
-      "source": "v.daum.net",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1reUlVY3Y0SUR3d2tFMXVCNjBrSGZWLWxWUTEwV3ItRTZuZkVCZXN3RUluZGVwYWo2WFZ5OEJ4dVZkcXk1UUNoeFlXZEZCaTQ?oc=5",
-      "published_at": "2026-08-23T00:39:03+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "8f04160e7d04847d",
-      "title": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer - Yahoo Finance",
-      "title_original": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer - Yahoo Finance",
-      "description": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer Yahoo Finance",
-      "description_original": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkxvMF8yUnB3RTNVVTRySmxTWUF0QnZ5N3M5aGpMSGxJTDA2LUtaZHlMNWRaZjF0aWtoSmNUQlNlM2RQZU9uTUM5a3lOY3ZKYUwtLXE5OTZKWF9OZ2dMc2IyM2JGMnh2TXF4VVNrQW9QY2RjZzhBSXYwMEd2MERCYmdyaHljUVZkRnMtQmxHUWdKR2R6eXYxV3k0MA?oc=5",
-      "published_at": "2026-08-23T00:27:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "88640b9eb4a357e0",
-      "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk - Yahoo Finance",
-      "title_original": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk - Yahoo Finance",
-      "description": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk Yahoo Finance",
-      "description_original": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3R2TXZITUdkVloyVXF3YnhBNUtJa0xyTnMxbnFHUERNd1ZISmRyckRGV3RCcy00amxFb2pEclJ0Vm51bU5CYXVvUndZWVVVUHBMa1B5ZHdNZldtRjd1anowdkZXZUVxNWZzNjlZdmhZUVB2M0M1OTYwV1JFZVkyRXRueE4yQ09CZzVqZ1BaTFFBTDdSSzJZ?oc=5",
-      "published_at": "2026-08-23T00:22:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "64c05381e2f8dca5",
-      "title": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling - Yahoo Finance",
-      "title_original": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling - Yahoo Finance",
-      "description": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling Yahoo Finance",
-      "description_original": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFdqSW1McXV5eTh6Y1ZqWlU1VkJiMGV5RXJsemwyblQwblJBSkdXUk1lOEFlaEpvSEtOLWU2S3dRU19IZk5xaE90RGFVRjRhTjY5RFhIcUlOTzhDenBHLV9DdjdtQmE5NWFkX0dzcFBqdkVXcFJhQmRYd3pqbVkwSUhpQ2g3eW5DVDkxc3ExYmowb3I1ZkxwMGRWc3dUQQ?oc=5",
-      "published_at": "2026-08-23T00:21:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "d53e288d22817c10",
-      "title": "Has Wall Street Entered the \"Show Me\" Phase of AI? - The Motley Fool",
-      "title_original": "Has Wall Street Entered the \"Show Me\" Phase of AI? - The Motley Fool",
-      "description": "Has Wall Street Entered the \"Show Me\" Phase of AI? The Motley Fool",
-      "description_original": "Has Wall Street Entered the \"Show Me\" Phase of AI? The Motley Fool",
-      "source": "The Motley Fool",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNFRWU4M2ZMX29relVRSHhqeEtKeHpfRGh2czF4X1U4UElQTnZCTHZ2eEFfbGJpRG9zT2xsWTZMclRLYXY1YTZwMUFyd1IxQV9EN0d6bnlrWUdvTzdhUTZDWmFWV3pjeUFEWUVYZ05uLTludnhjb2hva0VScjRaWVF4UTlXdzhFSll0ZG1IdWRNNXdH?oc=5",
-      "published_at": "2026-08-23T00:21:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "c59862bfcab9379d",
-      "title": "DOW Support to the Southern Border in Photos - U.S. Department of War (.gov)",
-      "title_original": "DOW Support to the Southern Border in Photos - U.S. Department of War (.gov)",
-      "description": "DOW Support to the Southern Border in Photos U.S. Department of War (.gov)",
-      "description_original": "DOW Support to the Southern Border in Photos U.S. Department of War (.gov)",
-      "source": "U.S. Department of War (.gov)",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3J3bjRKU3REUTRKT1RWQ3hZVXBHY1R4MU9DUER4dUlqd1FvRU9pWVJPOGFRR3B4bDZiSnpIVE4yVmcxNU51VTE3VEZOXzRpUVVuSDRvMTh2MndDOFJNZjBtend0Sm9hQW9yLXR2dUc2cGRHejZpYkJhOGxnZFJnZzdCMDM2cUxHU3dYc2p0eFZSX0lMSEJQY3JJeXJDRU9oMVE?oc=5",
-      "published_at": "2026-08-23T00:07:58+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "34cdd8793789a36e",
-      "title": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy - Yahoo Finance",
-      "title_original": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy - Yahoo Finance",
-      "description": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy Yahoo Finance",
-      "description_original": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTBZOTk0UFgxd1dFWWxZZkU2WVcweEowZWNibjM2TUJkdXBwdDhrRjkxMjM5d2QyNkNfVjA4U1RFQ3JnWUY4M2NzNndDLXpINUJKSW5uWDh6VElycUVHSDFrVFNHakFOS0EwTUVtOXFaTUhkRXdQdkgzSzFNU3NmNG05bTI5YmdDSVV3c1Z6WFFMSmtmcEtVR0ljOVk?oc=5",
-      "published_at": "2026-08-22T23:59:48+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "cc5d6e3886c02716",
-      "title": "Jim Cramer Was Left Impressed By Microsoft Corporation (NASDAQ:MSFT)’s Conference Call - Yahoo Finance",
-      "title_original": "Jim Cramer Was Left Impressed By Microsoft Corporation (NASDAQ:MSFT)’s Conference Call - Yahoo Finance",
-      "description": "Jim Cramer Was Left Impressed By Microsoft Corporation (NASDAQ:MSFT)’s Conference Call Yahoo Finance",
-      "description_original": "Jim Cramer Was Left Impressed By Microsoft Corporation (NASDAQ:MSFT)’s Conference Call Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlpQOUpVWkU2QmYwTENsZ3Q2ZmNiRWFBZWFpODdmeTBmN0w0MDJrekxmMGtVU1hQbTVCVVJBdVJFekNGaVFMc0dmNG9oZndoT09iaUp5M2paSU40Y0s4NmVPRldmZlpCTjY1MWpuMUpEMVZhdGRrQXk0dWJPQVFuQnl6UG1YR1prNlRQZjVmWWE5blQ5cmFLc0EydndlM29Gd0E?oc=5",
-      "published_at": "2026-08-22T23:54:26+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "0d05f13b2b956eb9",
-      "title": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
-      "title_original": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
-      "description": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] 아시아경제",
-      "description_original": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] 아시아경제",
-      "source": "아시아경제",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RU0toQXdiSTlqU3NJLTI2N0QwRUZQTmdnUUFHUHFFalI2SlBQeEF0UWhDaHJDYkFFc2laQUgwSzAtNE83WTBIX3RGZWNwSlVCUVV2cV9YRVlkUlZtRkc2Uw?oc=5",
-      "published_at": "2026-08-22T23:53:00+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "d774dbc667cfe1f2",
-      "title": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가 - 파이낸셜뉴스",
-      "title_original": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가 - 파이낸셜뉴스",
-      "description": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가 파이낸셜뉴스",
-      "description_original": "8월 금리 '백투백 인상' 촉각…성장·집값 vs 환율·물가 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VTGhzT0RCX2dIVVJPeTVWY3JPNGpHS3FiQXppOWc1SjJDQnRFekc1b3pOYTlFZzNpcVlZY3pLUlJObDhwMGRtTzEyVkhoTEdiTFZMY1QwZGlfQQ?oc=5",
-      "published_at": "2026-08-22T23:20:59+00:00",
-      "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0608e9b4f8943762",
-      "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" - 연합인포맥스",
-      "title_original": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" - 연합인포맥스",
-      "description": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" 연합인포맥스",
-      "description_original": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" 연합인포맥스",
-      "source": "연합인포맥스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5",
-      "published_at": "2026-08-22T23:05:05+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\"",
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic",
-        "domestic"
-      ]
-    },
-    {
-      "id": "f4bd764d8663602c",
-      "title": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장 - 비즈워치",
-      "title_original": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장 - 비즈워치",
-      "description": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장 비즈워치",
-      "description_original": "[공모주달력]흥행 엇갈린 니어스랩·해치텍 잇따라 코스닥 상장 비즈워치",
-      "source": "비즈워치",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WTBPRmtaNVV3c2pQNnR4Mll3WlVoYnpOcGhEMlJ3VlBtbDV3LUZkOXEtWUdhck9yT2NxSkd0U08zaDlrT1VzRllqY2ExazJFSnAxcFRPc0tWaTFiZm1NLXBlUmpKdkxLaEE?oc=5",
-      "published_at": "2026-08-22T23:00:02+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
       ]
     },
     {
       "id": "0977812375b12a40",
       "title": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속 - 한국경제",
+      "title_ko": "",
       "title_original": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속 - 한국경제",
       "description": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속 한국경제",
       "description_original": "\"동결해도 끝 아냐\"…한은 금리 인상 사이클 계속 한국경제",
@@ -803,7 +1222,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpUmZaazZKT0ZlRnJNdkRDWHBIdEhBdkU3RF9LY2duTUFseW1lTWxMbGFpQ3owTm5BUGMtSWdOaG45ZnhYTGJsWVNzbzF3X2tXX1NPbktRbEtHZw?oc=5",
       "published_at": "2026-08-22T22:07:31+00:00",
       "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\""
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "macro"
@@ -812,6 +1231,7 @@
     {
       "id": "40377a4f99b2159e",
       "title": "반도체 반등에도 거래는 ‘뚝’…코스피 회전율 연중 최저 - 연합뉴스TV",
+      "title_ko": "",
       "title_original": "반도체 반등에도 거래는 ‘뚝’…코스피 회전율 연중 최저 - 연합뉴스TV",
       "description": "반도체 반등에도 거래는 ‘뚝’…코스피 회전율 연중 최저 연합뉴스TV",
       "description_original": "반도체 반등에도 거래는 ‘뚝’…코스피 회전율 연중 최저 연합뉴스TV",
@@ -820,24 +1240,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoLXFIc0tfREZsUU85aEEyeHdna0w0bnVtT01Ldk1XQ2pUNG5BQzg2NE9kZ1Qxd2tPWGthY2std0pxNnhBUjZsV2NSZjl3enJFalNkT1JMbVEyODdjTmtBUUFMZ2d5UWs?oc=5",
       "published_at": "2026-08-22T21:24:00+00:00",
       "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "50f7b14bbb935a66",
-      "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 - 연합뉴스",
-      "title_original": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 - 연합뉴스",
-      "description": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 연합뉴스",
-      "description_original": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41LW5CR0hKYm1scnZtVUVhSXcxTnNhRVVGUnNGRTFsLVRUYmE5THRPa2FaMWg0Q3dNT0tQOUlybi1Cd2JCY0lZWlBYLTlRODAwMy1kVGszTmRHWVnSAWBBVV95cUxPdWdobWRYZldldld3SkdBd3RiOGdPWERVc2ZhZGg5TWRTaHZiQjh1aW5rZE9MZnhJSXhCR09qVnlzS0RlQ19MeElGdnhibEJEdlMxQWhFTnluQVFDTmY5aEk?oc=5",
-      "published_at": "2026-08-22T21:00:44+00:00",
-      "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "domestic"
@@ -846,6 +1249,7 @@
     {
       "id": "df7d690bd86e251b",
       "title": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\" - 연합뉴스",
+      "title_ko": "",
       "title_original": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\" - 연합뉴스",
       "description": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\" 연합뉴스",
       "description_original": "기준금리 전망 '혼조'…\"7·8월 연속 인상\" vs \"숨 고르기\" 연합뉴스",
@@ -854,85 +1258,34 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BYXVhcGxjWEsxWTAwaFRtanpkUmpvbHVNVmJvY0wxQUhGQmZxcEM0NTVJWDBXakJwalI5SU5KYmtEX0N2akhaT1VWNkNXZGdQcHl4UUkyNW9MUmfSAWBBVV95cUxPa0hkMFZkTll3UVhoOElOQ1RQWk1MT3k3ajBONzBfbUZEdWFhejh5YThLcHduMlVLYlgxZm5MaGd0c3FsT0xjeF8tbVIwT3Z4SHZzQVJMdVBZcnpTWFB4TnA?oc=5",
       "published_at": "2026-08-22T20:30:00+00:00",
       "matched_queries": [
-        "금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\"",
         "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "macro",
         "macro"
       ]
     },
     {
-      "id": "b46463f292a031d0",
-      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
-      "title_original": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
-      "description": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. Yahoo Finance",
-      "description_original": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB?oc=5",
-      "published_at": "2026-08-22T17:20:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "15b318c8e2fd8b04",
-      "title": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. - Yahoo Finance",
-      "title_original": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. - Yahoo Finance",
-      "description": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. Yahoo Finance",
-      "description_original": "CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%. Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVnVIazdQR0MwNUZ4X0JKZmJyVFo3ekV4QmtReFJfUUNtZTB5dHhyOTI4bmY2ZHVFYU1rQ2tsMVpBMFEyLUFqcGU4ODZCNkdRLWd2YzhPNUphQVplNWZsUUxhWWduOFUzTVhoYkx2NmdPZkNOREFWVFhQb2NaTFluV1VGeHoxSmtlSHY0cThWdWhjYXpDOHVrenl1Rm8?oc=5",
-      "published_at": "2026-08-22T17:05:00+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "465e8421f10171d3",
-      "title": "These stocks are most overbought even as the S&P 500 posts a losing week - CNBC",
-      "title_original": "These stocks are most overbought even as the S&P 500 posts a losing week - CNBC",
-      "description": "These stocks are most overbought even as the S&P 500 posts a losing week CNBC",
-      "description_original": "These stocks are most overbought even as the S&P 500 posts a losing week CNBC",
-      "source": "CNBC",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdktWMkNWVTNwVTFVN1JhamVHbV9pS3ZoN3FUQVRldFBPVVBTdjdWYmR4SGl5U1NtOElndEpBY0IxR09PalNmeEQ2Y3VjWVZBcVF3UjBKeG41N1hUU1NNOFRGNEs3eTM2WGljdTA4T2czWXFKZlNtUWd1NG9LeUU0dkRCN3E1VC05bUJYZXpjc2t0Nzc1VHZYYzNPelB6ekR4UXpjdlVsbDZWYWhL?oc=5",
-      "published_at": "2026-08-22T12:00:01+00:00",
-      "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "9552ce3ea2672bc4",
-      "title": "삼전·SK하닉 ‘150조’ 역대급 환원…시선은 코스피로 - JTBC",
-      "title_original": "삼전·SK하닉 ‘150조’ 역대급 환원…시선은 코스피로 - JTBC",
-      "description": "삼전·SK하닉 ‘150조’ 역대급 환원…시선은 코스피로 JTBC",
-      "description_original": "삼전·SK하닉 ‘150조’ 역대급 환원…시선은 코스피로 JTBC",
-      "source": "JTBC",
+      "id": "af2e0a788e8f0f96",
+      "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
+      "title_ko": "",
+      "title_original": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
+      "description": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 v.daum.net",
+      "description_original": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 v.daum.net",
+      "source": "v.daum.net",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01WXFuYmgzVndhY19IcGRqUk5wQ2dNbGhlblVWdU5UQXJTbEpVQW0zSmZ2Q3JyWjhOaDdSUndnb011V21meFBBbDJHRDBjWVdtVEM3bA?oc=5",
-      "published_at": "2026-08-22T10:34:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWHdfNEcyNXZoWG5YY1NVNVhOdWNNaWpZbjdIMGY3QkNQMjcyR0ZKWGFUNEt5alZTcWFFZlN6d3JmRUt3VDJMa2ZSdUlFeHM?oc=5",
+      "published_at": "2026-08-22T20:21:28+00:00",
       "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "domestic"
+        "macro"
       ]
     },
     {
       "id": "b67cdd3fc3755547",
-      "title": "S&P 500 futures rebound from 3-week low. - CME Group",
+      "title": "S&P 500 선물은 3주 최저치에서 반등했습니다. - CME 그룹",
+      "title_ko": "S&P 500 선물은 3주 최저치에서 반등했습니다. - CME 그룹",
       "title_original": "S&P 500 futures rebound from 3-week low. - CME Group",
       "description": "S&P 500 futures rebound from 3-week low. CME Group",
       "description_original": "S&P 500 futures rebound from 3-week low. CME Group",
@@ -941,34 +1294,16 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFZaVmdkbDF0eUZmUG5IVHI3aWFNMGJiOEVOeEJmQ3BydTJwZHFTOTVwZ0lIdEZrUi1FTjRFX201Qm9IR2hZSWowbF9iZkRBV29mMGYzeWR1amVVV3g2WnZ0QWtTbUoxaU0ybHYyLThvZ0JQSUpiWUxidHY3MUtxOXR5bGdkOGlhR1BqOHZjZVM4MjVCblZXSWU4OA?oc=5",
       "published_at": "2026-08-22T05:23:57+00:00",
       "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow",
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "us",
         "us"
-      ]
-    },
-    {
-      "id": "eb84b67d371667e7",
-      "title": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑",
-      "title_original": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑",
-      "description": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 대한민국 정책브리핑",
-      "description_original": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 대한민국 정책브리핑",
-      "source": "대한민국 정책브리핑",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNXS2EtMjhzcW9CRHVudk9TaHdUM0Y5dm1ZaXl3MDhtLXJYRFNlUmREcUNIdV9DZEZKSmpUNFBicEk1cFMwd0ZrdkRpUlJZa2VjcnFfR05SWm9NNE5BRy0zN2NkNmozZ2VBY2VaNVRUMkxkOHV4bjdMN2ZfX0N6ZTRHMmZHRGNsd0xjTVR3?oc=5",
-      "published_at": "2026-08-22T04:16:51+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
       ]
     },
     {
       "id": "bf4705a8f67c2826",
       "title": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이 - 머니투데이",
+      "title_ko": "",
       "title_original": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이 - 머니투데이",
       "description": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이 머니투데이",
       "description_original": "\"코스피 올해 9300 재돌파\"...지금 팔면 땅치고 후회?[부꾸미] - 머니투데이 머니투데이",
@@ -977,17 +1312,16 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yRzBGX19ZeGp3MGE5ZV84eVNXNmozelROQllEM19heHRDX0VSYlgzSk1qb0ZUVnoydHJtNlk3YWI3UlR2SzZlVlV6S0JYZzQ5Z01HenRqckkwXzVNTHFIbFV6WUxXeHJI0gFuQVVfeXFMTVd5Ykd1eU53RU5aMDRZdjhqUzVqRUFnZXdwQXNyWW9ZMElMQUw0NzRaVnd4eUhMLWREdjZ2R3J5RGtSM0xydTRCbmNaUnNuSFc5VnpEc2llUTZ3YmhxRW5hQTBtTXg2V2QycUlONGc?oc=5",
       "published_at": "2026-08-21T18:30:00+00:00",
       "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\"",
         "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "domestic",
         "domestic"
       ]
     },
     {
       "id": "2cf7d930c585e305",
       "title": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\" - 연합뉴스TV",
+      "title_ko": "",
       "title_original": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\" - 연합뉴스TV",
       "description": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\" 연합뉴스TV",
       "description_original": "공장서 직원 대신 불량 잡는 AI…\"협력사도 함께 해야\" 연합뉴스TV",
@@ -1003,8 +1337,45 @@
       ]
     },
     {
+      "id": "cf09096311492834",
+      "title": "삼전닉스 주주환원 기대에 코스피↑…코스닥은 4%대 ’뚝’ - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "삼전닉스 주주환원 기대에 코스피↑…코스닥은 4%대 ’뚝’ - 연합뉴스TV",
+      "description": "삼전닉스 주주환원 기대에 코스피↑…코스닥은 4%대 ’뚝’ 연합뉴스TV",
+      "description_original": "삼전닉스 주주환원 기대에 코스피↑…코스닥은 4%대 ’뚝’ 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wUkppTzd0cE8zal9JSlFxN2pPelhwSVhPd2VpSDZTSlNTLWs1eGhpMGV2eFByTnpGV3MwUVFKTy1tZW1pUWRBRTlMcmZLeFVLTU84RW1NTHBUQkJNSGszMERoV3RMVm8?oc=5",
+      "published_at": "2026-08-21T12:14:00+00:00",
+      "matched_queries": [
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
+      "id": "ac14a3f3693819cb",
+      "title": "’삼전닉스’가 끌었다…코스피 6,900선 회복 - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "’삼전닉스’가 끌었다…코스피 6,900선 회복 - 연합뉴스TV",
+      "description": "’삼전닉스’가 끌었다…코스피 6,900선 회복 연합뉴스TV",
+      "description_original": "’삼전닉스’가 끌었다…코스피 6,900선 회복 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PdlphOVZfLWszRTN6ZlNYd3IwUGZ4NTBjVVVTdkRhOUdOODVMNDFQd3BzcVZ3N1hnWlk1Qnd5VXl0QWMzUFNkVEVkeTNyT0xHZDNtQXVOSzdITF9fc0k3bWFjMW5Ia0E?oc=5",
+      "published_at": "2026-08-21T12:13:00+00:00",
+      "matched_queries": [
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "domestic"
+      ]
+    },
+    {
       "id": "38f3460ee4ceeafc",
       "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
+      "title_ko": "",
       "title_original": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 - 한겨레",
       "description": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 한겨레",
       "description_original": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯 한겨레",
@@ -1021,7 +1392,8 @@
     },
     {
       "id": "279e62138cd93524",
-      "title": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging - Investor's Business Daily",
+      "title": "다우존스 선물은 약세 시장 신호 이후 상승; 비트코인은 계속 급증하고 있습니다 - Investor's Business Daily",
+      "title_ko": "다우존스 선물은 약세 시장 신호 이후 상승; 비트코인은 계속 급증하고 있습니다 - Investor's Business Daily",
       "title_original": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging - Investor's Business Daily",
       "description": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging Investor's Business Daily",
       "description_original": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging Investor's Business Daily",
@@ -1037,15 +1409,16 @@
       ]
     },
     {
-      "id": "6899a4b1d3bf6182",
-      "title": "S&P Dow Jones Indices upgrades Poland to developed market status - Reuters",
-      "title_original": "S&P Dow Jones Indices upgrades Poland to developed market status - Reuters",
-      "description": "S&P Dow Jones Indices upgrades Poland to developed market status Reuters",
-      "description_original": "S&P Dow Jones Indices upgrades Poland to developed market status Reuters",
-      "source": "Reuters",
+      "id": "565a86cba5e1816e",
+      "title": "주식 시장 할인은 간과된 이 장소에 숨어 있습니다 - WSJ",
+      "title_ko": "주식 시장 할인은 간과된 이 장소에 숨어 있습니다 - WSJ",
+      "title_original": "Stock Market Bargains Are Hiding in This Overlooked Place - WSJ",
+      "description": "Stock Market Bargains Are Hiding in This Overlooked Place WSJ",
+      "description_original": "Stock Market Bargains Are Hiding in This Overlooked Place WSJ",
+      "source": "WSJ",
       "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0d6cUx1YXZTelV0VDVKODVxQVpNWTZnaXdid1BBTm9tZEl4V3IxWkJ3ZUtnMjFLQVVOemRfMU1sNUpBOXNlVFhmWmdEVEljZE0tREsxRWpyUUVTeFgtS0dlRmluMEVvOUxCSkdFb3habC1La2lNLWlqRzBDZkxuOHFGa3VnQVFDekQtaWZjUms1ZlZzQ3FhZU9Uc1pCcFoyWURQVjZlX0w?oc=5",
-      "published_at": "2026-08-21T11:51:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSW9EWUR5dzlYMmN3c1dtLXZ1WGpQR19kazVOcjBodEZ4UlRqUlYxRUo1eDJHRDY2YUdhdTEwYmY0anUtSEwxakYxOGNIWXIxdFVNOVJvSGtFczNwYWY1dkpOekczZVNEeTZOTnVkaFFkNjRJTEIzOVA5WlVmWEpRcDVTVmpRbmlQeDgwYUN4UThlOV9nWHlfYi1wRXN4OVVlbjRB?oc=5",
+      "published_at": "2026-08-21T09:30:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
@@ -1054,76 +1427,45 @@
       ]
     },
     {
-      "id": "a6473a1fba0783fc",
-      "title": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합) - v.daum.net",
-      "title_original": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합) - v.daum.net",
-      "description": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합) v.daum.net",
-      "description_original": "코스피, 삼전 대규모 주주환원 기대에 상승…6,900선 회복(종합) v.daum.net",
-      "source": "v.daum.net",
+      "id": "e5a63c6f15ec1cd3",
+      "title": "카카오, 인적분할 결의…‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 - 카카오",
+      "title_ko": "",
+      "title_original": "카카오, 인적분할 결의…‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 - 카카오",
+      "description": "카카오, 인적분할 결의…‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 카카오",
+      "description_original": "카카오, 인적분할 결의…‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다 카카오",
+      "source": "카카오",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUWZWVG1NeU83YXZta1AtMXdWV0pZZnBiR2UxOG5EVi1MZXJPYzBCSlN3NzAzUG9FdC1mZlR5SWZkSEJZWTRIYlhjM1d3WVU?oc=5",
-      "published_at": "2026-08-21T07:09:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6aEl0ZmQtWUJhZ1o5VmlnVHN4VlB1cUxmV0RsQ2VjcWNUQzF0cTRyanFaSF9ySzRHMkhfaFkyYnJiOGR1RlpqYUMtY3ZzQVV5VVFYT3VB?oc=5",
+      "published_at": "2026-08-21T08:28:53+00:00",
       "matched_queries": [
-        "코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\""
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "domestic"
+        "sector"
       ]
     },
     {
-      "id": "e18917f381aac018",
-      "title": "반도체가 살린 코스피…코스닥은 4%대 급락 - 연합뉴스TV",
-      "title_original": "반도체가 살린 코스피…코스닥은 4%대 급락 - 연합뉴스TV",
-      "description": "반도체가 살린 코스피…코스닥은 4%대 급락 연합뉴스TV",
-      "description_original": "반도체가 살린 코스피…코스닥은 4%대 급락 연합뉴스TV",
-      "source": "연합뉴스TV",
+      "id": "34c9ccaad37cd552",
+      "title": "하이닉스 공장 가동 코앞인데…용인 반도체에 날아든 '지자체 청구서' - 인베스트조선",
+      "title_ko": "",
+      "title_original": "하이닉스 공장 가동 코앞인데…용인 반도체에 날아든 '지자체 청구서' - 인베스트조선",
+      "description": "하이닉스 공장 가동 코앞인데…용인 반도체에 날아든 '지자체 청구서' 인베스트조선",
+      "description_original": "하이닉스 공장 가동 코앞인데…용인 반도체에 날아든 '지자체 청구서' 인베스트조선",
+      "source": "인베스트조선",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LR0M3RzhmcjcyZ2VKbkxncFBiajR1SGhxSm1zWGZ3S1hIQTNSMW4yVkFPRlRoLW1yaUhwTndSTUp5dHd2YzJWWi1TSXVjQzZrakZtbHNISF8teW1sR1Vaa0xscnpJdHM?oc=5",
-      "published_at": "2026-08-21T07:07:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzRoNFBiRjBWZlR3T0VWR3JEemdRSjlKMVRyS1ZWbmYzNjdNdXByTklqeDUtUlZqZXVRYkQwS01yR0liUUNWVVk0Y0diZW85Z2tocElBdnZqeVB5b2NqZUpqREN2SWU3YmZBdE41X0FtOFFDV3ZJS05Nc0hRUnNKaVEySQ?oc=5",
+      "published_at": "2026-08-21T07:00:00+00:00",
       "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "bb05ed6144093a0a",
-      "title": "속보 코스피, 소폭 상승해 6,900선 회복...코스닥 급락 - YTN",
-      "title_original": "속보 코스피, 소폭 상승해 6,900선 회복...코스닥 급락 - YTN",
-      "description": "속보 코스피, 소폭 상승해 6,900선 회복...코스닥 급락 YTN",
-      "description_original": "속보 코스피, 소폭 상승해 6,900선 회복...코스닥 급락 YTN",
-      "source": "YTN",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IV0t3aDJsZHE2RHlFWVpBaW1mWkdVcVoxX29aWmo5U0Z5SWdpRldFQXJwbS1mcngySXNtRldEazNUMXpwbXVTTXNGMDNpM2tBQVZicVlSUTJuZl9GM2c?oc=5",
-      "published_at": "2026-08-21T06:40:00+00:00",
-      "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "a31ca411d2ff1147",
-      "title": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ - 연합뉴스TV",
-      "title_original": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ - 연합뉴스TV",
-      "description": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ 연합뉴스TV",
-      "description_original": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVEpMcS03TE51N0szaDVHYjhLRkVVenhZV3c2VWlmZS04bzh6WEgtNEpOVmhCQXlPdk1xa1hpazZTYnF4VWRtUHVxczE5OGE0M0dFeWJxOVdhbmc2VXUyZkZVS1hib2c?oc=5",
-      "published_at": "2026-08-21T04:03:00+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
+        "sector"
       ]
     },
     {
       "id": "567ee8e1d135fc69",
       "title": "반도체가 살린 코스피…코스닥은 ’매도 사이드카’ - 연합뉴스TV",
+      "title_ko": "",
       "title_original": "반도체가 살린 코스피…코스닥은 ’매도 사이드카’ - 연합뉴스TV",
       "description": "반도체가 살린 코스피…코스닥은 ’매도 사이드카’ 연합뉴스TV",
       "description_original": "반도체가 살린 코스피…코스닥은 ’매도 사이드카’ 연합뉴스TV",
@@ -1139,93 +1481,27 @@
       ]
     },
     {
-      "id": "de10f680e1aaa92d",
-      "title": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스",
-      "title_original": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스",
-      "description": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 연합인포맥스",
-      "description_original": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 연합인포맥스",
-      "source": "연합인포맥스",
+      "id": "0fa8fab4cd7dc48a",
+      "title": "코스피 1.5% 하락 출발...코스닥 '매도 사이드카' - YTN",
+      "title_ko": "",
+      "title_original": "코스피 1.5% 하락 출발...코스닥 '매도 사이드카' - YTN",
+      "description": "코스피 1.5% 하락 출발...코스닥 '매도 사이드카' YTN",
+      "description_original": "코스피 1.5% 하락 출발...코스닥 '매도 사이드카' YTN",
+      "source": "YTN",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5",
-      "published_at": "2026-08-21T02:57:37+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "093d2ec0f199ec87",
-      "title": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력 - 연합뉴스",
-      "title_original": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력 - 연합뉴스",
-      "description": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력 연합뉴스",
-      "description_original": "\"주주환원의 힘\"…美찬바람에도 삼전닉스 강세에 코스피 상승탄력 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QU0VQbDUyMnIwc2l0Uzl2Tk1fLWFBLUY3T1dmbExFVXgzOHAzOTRRc1NwT1JiY0I5bzVVVHRsTG1ORjhiRllSSnRGbEQ3alFhanh4Um14NWdPMGPSAWBBVV95cUxPZjdNMndwbVlUQnhLY2JPaVB4QXF6WmZ1cTZVMGhIX05BbkhWUlhiY3hYMEhseE5ieVdndW55WTZ5Qi1MMEZrZzNIem5KSmh5R2thZGZoZFdRT1Rzdl9OaGQ?oc=5",
-      "published_at": "2026-08-21T02:47:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lVjNIaFMyN2JHNkptdUFwcDlYeElKOUd4TTFrWVRHRENLZ29LSzY4Vm5YSkMxT2VnSWdzbXplOXBjZjN2SkRQeG9HUmJydHVlSE1JalFyVUl0WUdPa3c?oc=5",
+      "published_at": "2026-08-21T02:43:00+00:00",
       "matched_queries": [
         "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "domestic"
-      ]
-    },
-    {
-      "id": "82e318faddcc2382",
-      "title": "한은 8월 기준금리 인상론 고개…0.25%P 유력 - 한겨레",
-      "title_original": "한은 8월 기준금리 인상론 고개…0.25%P 유력 - 한겨레",
-      "description": "한은 8월 기준금리 인상론 고개…0.25%P 유력 한겨레",
-      "description_original": "한은 8월 기준금리 인상론 고개…0.25%P 유력 한겨레",
-      "source": "한겨레",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TlRzc1d6MDcxNksyS3dkUzdHdXFmazZMdlFENk4tUU9wbFpHM1B2dEp4d1hqSGZ1NTRqbk5FZHZFRjh3c29qMzJzbHItNjFWMzAzVkhtdjVLbFh0R0V1YldETk83Qk9NWVhyWFNjbU9MQQ?oc=5",
-      "published_at": "2026-08-21T02:47:00+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "0399162256e8ce73",
-      "title": "코스피, 혼조속 상승 탄력 모색…코스닥 5%대 급락 - 연합뉴스",
-      "title_original": "코스피, 혼조속 상승 탄력 모색…코스닥 5%대 급락 - 연합뉴스",
-      "description": "코스피, 혼조속 상승 탄력 모색…코스닥 5%대 급락 연합뉴스",
-      "description_original": "코스피, 혼조속 상승 탄력 모색…코스닥 5%대 급락 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhZko1T2QxUjR4Y3FUN0tqSjNDeC1maGpFdHA3YlNMMk1YS2ljSzlHVm9IUGlvT2JvSVZqN2s5NENiSUdrYnZaS2EwbzE5bUozYlNEblRNZkNPYWvSAWBBVV95cUxNMkZCaFd2TGpDTzlfc3dfNFphVFhUMWYxdXZCZUp4MTIxemo1SllXdzM0QWJaU2IzR3NsTEpPU3JJdW1JRnhYZUNKM0hSTDlwejlMRTVKMUp1dWhaTjhBLVM?oc=5",
-      "published_at": "2026-08-21T02:20:16+00:00",
-      "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "8af66e0e6f1ab0b1",
-      "title": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계 - 지디넷코리아",
-      "title_original": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계 - 지디넷코리아",
-      "description": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계 지디넷코리아",
-      "description_original": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44MTczc0NBSklhX2FfSDV3ZWhmT3d5ZnA4eVp0UkpaZy04dTlPZ2tjQkJaNEVNWG5SWGpOazAwODgzWnctTDZBc2M4a0p0VEhPRm8xaHBB?oc=5",
-      "published_at": "2026-08-21T01:34:55+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
       ]
     },
     {
       "id": "2c5b1f74045eb352",
       "title": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선",
+      "title_ko": "",
       "title_original": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선",
       "description": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 인베스트조선",
       "description_original": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 인베스트조선",
@@ -1241,76 +1517,9 @@
       ]
     },
     {
-      "id": "9a824c8b806d33be",
-      "title": "[속보]카카오, 2개 회사로 쪼개진다···카카오 AI·카카오X로 인적분할 결의 - 경향신문",
-      "title_original": "[속보]카카오, 2개 회사로 쪼개진다···카카오 AI·카카오X로 인적분할 결의 - 경향신문",
-      "description": "[속보]카카오, 2개 회사로 쪼개진다···카카오 AI·카카오X로 인적분할 결의 경향신문",
-      "description_original": "[속보]카카오, 2개 회사로 쪼개진다···카카오 AI·카카오X로 인적분할 결의 경향신문",
-      "source": "경향신문",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXVFAwS1pxRnd2U1E5TmJkYXE1dk5MaW5QeFBZTkdmMTc0YnBLSGNLREhCMWg1YndDV2h4ZEE0MHVDZjJCRlBCMHJzRWFrVnQ2WHpGbGxPR0wwUdIBX0FVX3lxTE1tdTFVekktMFVHR2xTdWdKZjcxVVJ5OE5TMEFFZkphVG1NSXU4QmhwTXZhSThjcV9zdjZ1cWRtZHBIUkRkeGo2MHJ4RzBndEtQRDdKT091eE5tOGpWSUFB?oc=5",
-      "published_at": "2026-08-21T01:20:00+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "67c8acaba29316bf",
-      "title": "코스닥 4~5% 급락, 매도 사이드카…코스피 보합권 - 연합뉴스",
-      "title_original": "코스닥 4~5% 급락, 매도 사이드카…코스피 보합권 - 연합뉴스",
-      "description": "코스닥 4~5% 급락, 매도 사이드카…코스피 보합권 연합뉴스",
-      "description_original": "코스닥 4~5% 급락, 매도 사이드카…코스피 보합권 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRnRTZUZBNGtXR2Rqbk40SjlJUmY3SGtGUGxFTE1CWnVHUWV0dHBhLW9RelE5ZjVxR0NrRDJIaUVZX0ctNVRLZDlkcUZsSEltaVpObUY1YUVZYUXSAWBBVV95cUxORllQRmlWU25IMVIyaXZjWEF0M0s5a0FDbzFET1NsRnpmTVIzVnpNUnlUMVFjNmlzYUtkTW9neGZDU0E0cWVSZV8wS0FZcWp1bXYxOFBRMnN2TmQ0Z1o0RGo?oc=5",
-      "published_at": "2026-08-21T01:15:55+00:00",
-      "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "edb23d2ef463489d",
-      "title": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일] - v.daum.net",
-      "title_original": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일] - v.daum.net",
-      "description": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일] v.daum.net",
-      "description_original": "'LIG-방사청' 사상 최대 방산비리 적발…부실수사 비판 왜? [취재파일] v.daum.net",
-      "source": "v.daum.net",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xdE82NjQ3SzZoZjRwcHM1V2ZFdS0tQ0hhcFJPcHlKY2drbUJ4MlJfUkpYQlpROVQ5R3hfeEpRSmkzdjA3aDdIYno5a0J4Wlk?oc=5",
-      "published_at": "2026-08-21T00:39:03+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "32deba15dbe8262e",
-      "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-      "title_original": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-      "description": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 KB Think",
-      "description_original": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 KB Think",
-      "source": "KB Think",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-      "published_at": "2026-08-20T23:02:54+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
       "id": "fcd5fd3489996f4a",
-      "title": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fire - Investor's Business Daily",
+      "title": "오늘의 주식 시장: 다우 지수는 700포인트 하락했지만 광부들은 상승했습니다. 석유 주식에 불이 붙다 - Investor's Business Daily",
+      "title_ko": "오늘의 주식 시장: 다우 지수는 700포인트 하락했지만 광부들은 상승했습니다. 석유 주식에 불이 붙다 - Investor's Business Daily",
       "title_original": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fire - Investor's Business Daily",
       "description": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fire Investor's Business Daily",
       "description_original": "Stock Market Today: Dow Tumbles 700 Points But Miners Rise; Oil Stocks Catch Fire Investor's Business Daily",
@@ -1326,25 +1535,27 @@
       ]
     },
     {
-      "id": "008623f87a1adad4",
-      "title": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 - 한겨레",
-      "title_original": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 - 한겨레",
-      "description": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 한겨레",
-      "description_original": "삼전닉스, 광주 반도체 팹 2~3기씩 추가 검토…최대 9기 될 수도 한겨레",
-      "source": "한겨레",
+      "id": "6748ecf4ce11f16b",
+      "title": "매일경제 - 매일경제 마켓",
+      "title_ko": "",
+      "title_original": "매일경제 - 매일경제 마켓",
+      "description": "매일경제 매일경제 마켓",
+      "description_original": "매일경제 매일경제 마켓",
+      "source": "매일경제 마켓",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pMDdvM3Q1NVBnZ1d6SU5ZblZPUGhUako0d3pUQTljMXRmSHQwSHZmVmJGTDdYaGM5djlRcnAwR0pjbzFpOW52bEZrQURIa01vNVFlU090OUxtUjByNWNZRXphVURvUUVBQnc?oc=5",
-      "published_at": "2026-08-20T15:44:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3RjVFY0X2dCU24zTDhKZjA5QlBPZTJQZzRVS2JxLVhnWTNOeVg3MzdhMGw4bjlZVkRzS25yUU1MRDZQRWdjMVYzTnlVdzFkTDdRcEZrYmlEdllMd3FTMGc0NzRfTUdtcTVwaHNCV1JTeVdGZUVmRWtpZjdZLUVnaTZRay1RcHl3cHJSVy01NWYxVS01eGNZ?oc=5",
+      "published_at": "2026-08-20T15:22:54+00:00",
       "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "sector"
+        "domestic"
       ]
     },
     {
       "id": "c16a223a7cf44bac",
-      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings - Investor's Business Daily",
+      "title": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily",
+      "title_ko": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily",
       "title_original": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings - Investor's Business Daily",
       "description": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings Investor's Business Daily",
       "description_original": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings Investor's Business Daily",
@@ -1360,59 +1571,63 @@
       ]
     },
     {
-      "id": "d4e680911b8c8224",
-      "title": "The S&P 500 Index Is Calm. Its Stocks Aren’t. - Penn Mutual Asset Management",
-      "title_original": "The S&P 500 Index Is Calm. Its Stocks Aren’t. - Penn Mutual Asset Management",
-      "description": "The S&P 500 Index Is Calm. Its Stocks Aren’t. Penn Mutual Asset Management",
-      "description_original": "The S&P 500 Index Is Calm. Its Stocks Aren’t. Penn Mutual Asset Management",
-      "source": "Penn Mutual Asset Management",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWdBZ1I2VkJwM05oaFZiMlRYc0VPTjBWazFweVl4YlJNdndBVFZGSVEwZ3hXUjFZR0l4d0ZTQ0xSSl9CcjRUM0tGeXRIMzJnblRXTk83MjlkTWhkVlpmaG1FX3JlWUZnSzVSTUxsRGZ6YmZiaFJJUDBkVWpwYlJKVUVndHpzeW5SdndodzJsX3NYMkw2c2lSemd3U2wzU1FKSFluWldwa3NndWo3eVZaUWJTWkNaZjRWaEdrODFrUThTZllGV2c?oc=5",
-      "published_at": "2026-08-20T11:07:29+00:00",
+      "id": "dc348c35e341b36d",
+      "title": "40조 주주환원에 ’삼전닉스’ 초강세…코스피 6% 가까이 급등 - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "40조 주주환원에 ’삼전닉스’ 초강세…코스피 6% 가까이 급등 - 연합뉴스TV",
+      "description": "40조 주주환원에 ’삼전닉스’ 초강세…코스피 6% 가까이 급등 연합뉴스TV",
+      "description_original": "40조 주주환원에 ’삼전닉스’ 초강세…코스피 6% 가까이 급등 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tV2ZzOFlyUmc1VFpKZkJFbzQ5eGNndXFqeXI5MWdDTk0ydGdUeWpBVlVXSUJwTTdGRFZoSXhXNEszTEd5TU8yZWdpekljSzNnSEpBVVRyVFBnMnR4MG16cHdIRTdvRVk?oc=5",
+      "published_at": "2026-08-20T09:48:00+00:00",
       "matched_queries": [
-        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "us"
+        "domestic"
       ]
     },
     {
-      "id": "8ae97350c7c4086e",
-      "title": "\"삼성전자·SK하이닉스 300조원 환원 시 달러-원 하단 1,325원\" - 연합인포맥스",
-      "title_original": "\"삼성전자·SK하이닉스 300조원 환원 시 달러-원 하단 1,325원\" - 연합인포맥스",
-      "description": "\"삼성전자·SK하이닉스 300조원 환원 시 달러-원 하단 1,325원\" 연합인포맥스",
-      "description_original": "\"삼성전자·SK하이닉스 300조원 환원 시 달러-원 하단 1,325원\" 연합인포맥스",
-      "source": "연합인포맥스",
+      "id": "63041e0a8be0d969",
+      "title": "[퇴근길머니] 코스피 오랜만의 ’불기둥’…삼전·닉스 ’주주환원 기대감’ - 연합뉴스TV",
+      "title_ko": "",
+      "title_original": "[퇴근길머니] 코스피 오랜만의 ’불기둥’…삼전·닉스 ’주주환원 기대감’ - 연합뉴스TV",
+      "description": "[퇴근길머니] 코스피 오랜만의 ’불기둥’…삼전·닉스 ’주주환원 기대감’ 연합뉴스TV",
+      "description_original": "[퇴근길머니] 코스피 오랜만의 ’불기둥’…삼전·닉스 ’주주환원 기대감’ 연합뉴스TV",
+      "source": "연합뉴스TV",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kcWQ1Z29hZ0t6bVNDRDdxUWVqb0Z2V3paVUdYbUY3OF9FM01lb0pZTG93N2w0MXJ3cUZXRkZCcHpDRENZd2RQTkRxMlcxVzRlUnBoWjZhMXdzTEtGQndCVjhpVFpqelZfTHlKRkI0RG4?oc=5",
-      "published_at": "2026-08-20T09:43:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05ZFdGNEticWhVZU5Zd1RyZ293a2xob0JIUVZaM0xJUnd2ei0tcG9GMy1JQzZ0V2xSOWtuamJEZW9QNWFxbFY3eVloZW5adnNiYVV2elRvZlpDTEhGamNHcGJLZnVFQnM?oc=5",
+      "published_at": "2026-08-20T08:19:00+00:00",
       "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "macro"
+        "domestic"
       ]
     },
     {
-      "id": "97c37539448d0766",
-      "title": "한달 새 160원이나 뚝... 원화 환율 1392원대로 - 조선일보",
-      "title_original": "한달 새 160원이나 뚝... 원화 환율 1392원대로 - 조선일보",
-      "description": "한달 새 160원이나 뚝... 원화 환율 1392원대로 조선일보",
-      "description_original": "한달 새 160원이나 뚝... 원화 환율 1392원대로 조선일보",
-      "source": "조선일보",
+      "id": "baf8c0055236dc01",
+      "title": "Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage - KDI 경제교육·정보센터",
+      "title_ko": "",
+      "title_original": "Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage - KDI 경제교육·정보센터",
+      "description": "Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage KDI 경제교육·정보센터",
+      "description_original": "Beyond Exposure: Predicting AI Adoption Based on Comparative Advantage KDI 경제교육·정보센터",
+      "source": "KDI 경제교육·정보센터",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdE9VNkNJRXBSVHY0Z1FXYlBMb1VpaEtnZEhQQ0p6V2tMd05aMzd3UHhMb0tQc2hRV09WdU9TNlRGTkxLb3pJQTMzX2oxTTZfeTIyWHRKVm5sbGpxZmZfTEhMRnlCckNZR0tMZk9rQm1uYWNoTjV0M1AyOFBjZzk2OVM1TXhoekc0bks4MHpB?oc=5",
-      "published_at": "2026-08-20T08:44:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakRVVl92OWxuUTZKSk85V0N0RlJaSTJweEV1SklpcXZkdERXRlZWRTRUVFdHNzZ3aWtyS2ZJeVQ5N0dGdVVadzBOWVAzMTMtd2lCMGh6UURoZzFjaXhGWlNxd1Rma0F3U3ZjeTZtQVNxT3Fqa19QeW5Cc1NFXzFzenh6NGprbGs?oc=5",
+      "published_at": "2026-08-20T07:00:00+00:00",
       "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "macro"
+        "sector"
       ]
     },
     {
       "id": "3930e21f6ed856ba",
       "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져 - AI타임스",
+      "title_ko": "",
       "title_original": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져 - AI타임스",
       "description": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져 AI타임스",
       "description_original": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져 AI타임스",
@@ -1430,6 +1645,7 @@
     {
       "id": "7f97a1355b758f3c",
       "title": "제미나이 1년 무료 혜택과 함께, 알찬 새 학기를 시작해 보세요 - blog.google",
+      "title_ko": "",
       "title_original": "제미나이 1년 무료 혜택과 함께, 알찬 새 학기를 시작해 보세요 - blog.google",
       "description": "제미나이 1년 무료 혜택과 함께, 알찬 새 학기를 시작해 보세요 blog.google",
       "description_original": "제미나이 1년 무료 혜택과 함께, 알찬 새 학기를 시작해 보세요 blog.google",
@@ -1445,15 +1661,70 @@
       ]
     },
     {
-      "id": "301f5513f17fe3cd",
-      "title": "코스피 급등에 매수 사이드카 발동…코스닥도 상승세 - KBS 뉴스",
-      "title_original": "코스피 급등에 매수 사이드카 발동…코스닥도 상승세 - KBS 뉴스",
-      "description": "코스피 급등에 매수 사이드카 발동…코스닥도 상승세 KBS 뉴스",
-      "description_original": "코스피 급등에 매수 사이드카 발동…코스닥도 상승세 KBS 뉴스",
-      "source": "KBS 뉴스",
+      "id": "0e32a6f61933800f",
+      "title": "매파적인 FOMC 회의록이 기술 분야에 부담을 주면서 나스닥 선물은 하락했습니다. - CME 그룹",
+      "title_ko": "매파적인 FOMC 회의록이 기술 분야에 부담을 주면서 나스닥 선물은 하락했습니다. - CME 그룹",
+      "title_original": "Nasdaq futures fall as hawkish FOMC minutes weigh on tech. - CME Group",
+      "description": "Nasdaq futures fall as hawkish FOMC minutes weigh on tech. CME Group",
+      "description_original": "Nasdaq futures fall as hawkish FOMC minutes weigh on tech. CME Group",
+      "source": "CME Group",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3FpRFVjdUc3UWNEWUYySHFnUjl1RHd6Rmxsb0s4MGFvUlprT3dOQVBYYlBBV2ZpTGJseUhnSHQtcktKczh0ZEp6aHVpcXc5MnFZX21BMkRxa2VraWNEZlFWeW44RE4tWFlwbUV1RDBVazRBcFBtZXVod2NUWjZGMTByM21rbXNPMTBjcWtjUmVVLXRQRnIzOC1jMDcwQWgxeUhSYzlZM0lhMnl3Y0ZUTg?oc=5",
+      "published_at": "2026-08-20T04:29:27+00:00",
+      "matched_queries": [
+        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "52b8e2671d26fb5d",
+      "title": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 - KB Think",
+      "title_ko": "",
+      "title_original": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 - KB Think",
+      "description": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 KB Think",
+      "description_original": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 KB Think",
+      "source": "KB Think",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05WnVRUnUwaEZrSHRFNEpHSkUzZ1RHOXpQTzEweFdpN1cyOXZVU2k5ZzRPZTJRRnZsNF9KUkhSY1dVakVmMzdEUUpfcFlyNWhuYlp4ZnpZWDl6YXM?oc=5",
-      "published_at": "2026-08-20T01:07:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sX3VTbEtLNU1wSFFvc3ZhSWFEcWlJaG5GcVE3ZXRsN2pVUHJ2M2NXLVU4UGJYclM5dHpkVTQzUUZVZnpSVlhiUGk3ZTdnOGJSY2hBY2RBVEFVQmFSR3l4SA?oc=5",
+      "published_at": "2026-08-19T23:08:19+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "fcecdabe5f78be51",
+      "title": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 - 뉴스핌",
+      "title_ko": "",
+      "title_original": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 - 뉴스핌",
+      "description": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 뉴스핌",
+      "description_original": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 뉴스핌",
+      "source": "뉴스핌",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wVEpBR0dnUVdwYXFLSU9MMFUxUDVsY3liNGpxbDE4LVhwMUNZb2lEZVozMTBNY1IzWnIxVTViQ3k3X2RXVzJHUlZNNHdjbWFBS1dWNG1fZ0ZBNWF4?oc=5",
+      "published_at": "2026-08-19T20:47:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "b762d976f80accc6",
+      "title": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 - 중앙일보",
+      "title_ko": "",
+      "title_original": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 - 중앙일보",
+      "description": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 중앙일보",
+      "description_original": "“삼전닉스 주가 이미 반영”…한국 피터린치가 찍은 코스피 3 중앙일보",
+      "source": "중앙일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pMnFMQVFrOFBYd1dqWDRqOUFrRFlHYVM2NHB5YVNfUDJ2VzJmWHlOd0lURElKb0dyT3piWGpmXzAtX2p4TFAwYmVWSERIOFRQTDlnQVl3?oc=5",
+      "published_at": "2026-08-19T20:00:02+00:00",
       "matched_queries": [
         "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
@@ -1462,93 +1733,81 @@
       ]
     },
     {
-      "id": "a14c2c7a949f23d3",
-      "title": "SK하이닉스 또 해냈다…HBM 넘어 '빛 반도체' 개념 제시 - 한국경제",
-      "title_original": "SK하이닉스 또 해냈다…HBM 넘어 '빛 반도체' 개념 제시 - 한국경제",
-      "description": "SK하이닉스 또 해냈다…HBM 넘어 '빛 반도체' 개념 제시 한국경제",
-      "description_original": "SK하이닉스 또 해냈다…HBM 넘어 '빛 반도체' 개념 제시 한국경제",
-      "source": "한국경제",
+      "id": "a39e1395a1069d3b",
+      "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
+      "title_ko": "",
+      "title_original": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
+      "description": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 한겨레",
+      "description_original": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 한겨레",
+      "source": "한겨레",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hSFlyc0Noa3c0anNVeDd3bno2SEhOU2VOX21zX0JuMlRJRnZGcFhlSkk4WDVDQVhmN2FSMGJJSV83aHJpSWhBckZMTXMxdEZuU3JDMVNTVkZtdw?oc=5",
-      "published_at": "2026-08-20T01:01:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
+      "published_at": "2026-08-19T16:25:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "f78fc95a87ce5590",
+      "title": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다 - 연합인포맥스",
+      "title_ko": "",
+      "title_original": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다 - 연합인포맥스",
+      "description": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다 연합인포맥스",
+      "description_original": "금융위기 직전 수준 美 장기금리…베선트, '기습 바이백'으로 맞섰다 연합인포맥스",
+      "source": "연합인포맥스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pcHZqbko2cmx6TGdZb051Uk42TU1JSnhSWmk1WUwzLWVMNnRmRDF0a3F1VXN3TmV3Rks0Mkloc0pCUF9qckttclVZdUc1cDFwWDVKalVhWkxadl9JV1AxZTlRMU05MFRFRE9YLVpnUFo?oc=5",
+      "published_at": "2026-08-19T16:25:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "2baaf9d6fdcb77e5",
+      "title": "월스트리트가 잔혹한 채권 대패가 이제 막 시작되었다고 생각하는 이유 - WSJ",
+      "title_ko": "월스트리트가 잔혹한 채권 대패가 이제 막 시작되었다고 생각하는 이유 - WSJ",
+      "title_original": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started - WSJ",
+      "description": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started WSJ",
+      "description_original": "Why Wall Street Thinks the Brutal Bond Rout Is Just Getting Started WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVFrOE04MTFDMkhPd3BOOXVIdnY1VVFHdXhLOWhLYjhYYzIwZ0JWUGpBbG5DbHZxMlpiM3pVWm16bzR4NXl5XzRNMnhLMnJxdlJjbHpxWXRMVGVQTUNXWUMwQkRhQ250RVByZ0hBOVJ3WHYwVjZ3d0RScmJKeHdJOTFWWEszTTBucjdjbE50ZUtRNWZlSEYwTDY0OE92VGFoWG1xbQ?oc=5",
+      "published_at": "2026-08-19T10:04:00+00:00",
+      "matched_queries": [
+        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "3c5c5b3ed9ff0cf7",
+      "title": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑",
+      "title_ko": "",
+      "title_original": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑",
+      "description": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 대한민국 정책브리핑",
+      "description_original": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 대한민국 정책브리핑",
+      "source": "대한민국 정책브리핑",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5",
+      "published_at": "2026-08-19T08:09:41+00:00",
       "matched_queries": [
         "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
         "sector"
-      ]
-    },
-    {
-      "id": "a2e300c85903c288",
-      "title": "오픈AI는 훈련 중단, 구글은 출시 연기…AI 경쟁, 속도서 안전·완성도로 - 조선일보",
-      "title_original": "오픈AI는 훈련 중단, 구글은 출시 연기…AI 경쟁, 속도서 안전·완성도로 - 조선일보",
-      "description": "오픈AI는 훈련 중단, 구글은 출시 연기…AI 경쟁, 속도서 안전·완성도로 조선일보",
-      "description_original": "오픈AI는 훈련 중단, 구글은 출시 연기…AI 경쟁, 속도서 안전·완성도로 조선일보",
-      "source": "조선일보",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHBlXzJtcHc2WHFqZHdNNmVPTW03dlhKcmR6dnBoSy1LaVdpeFZkWXRjT3pDTkhrWkNuRUxxNk9peTExWHk4ODJuOEF2T1JvckZpdF9zN19WdGlpdEtnWEhaa3V2LTg2MG5hNzQzYm81YlloczI5MV9xaTlPQTRYcFVqcw?oc=5",
-      "published_at": "2026-08-19T23:09:25+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "9a9395f29d34fcf7",
-      "title": "美재무부 '장기채 바이백 2배'에 금리 급락…고금리 전망은 지속 - 연합뉴스",
-      "title_original": "美재무부 '장기채 바이백 2배'에 금리 급락…고금리 전망은 지속 - 연합뉴스",
-      "description": "美재무부 '장기채 바이백 2배'에 금리 급락…고금리 전망은 지속 연합뉴스",
-      "description_original": "美재무부 '장기채 바이백 2배'에 금리 급락…고금리 전망은 지속 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uMTZ2Z2RCcTRLTEVSclBoT3hFZi13MGJ5Z25OWmVPWEwycWVweTRzS2xVZ04yZEZnWXE1Smt6Z1RWaUs2VXgyLXBSekxMd2dyeTM4ckVfeTVFN1XSAWBBVV95cUxQVHJTYllkRzRQd0l5UXg3OHItMTJjUHEzTUFQczQwSEMzU2NoU0JrdTdweHRaRHB0S2NlNmViTkhSdlNTVkR5V0RsT085c2tWYmRLcXdqbVUzTUhrVVcyQXg?oc=5",
-      "published_at": "2026-08-19T15:43:55+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "a702431944e706a4",
-      "title": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’ - 중앙일보",
-      "title_original": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’ - 중앙일보",
-      "description": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’ 중앙일보",
-      "description_original": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’ 중앙일보",
-      "source": "중앙일보",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZFVvU1pjVi1wM05pVFB3cU9KNXNxUmRySkxjUmZjUlNIejQ4QzFRRGNxNFdjS2dsb3RrU25pa05zSFQtY19JY2c1TUZMNkFHX2dDYThB?oc=5",
-      "published_at": "2026-08-19T15:21:01+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
-      "id": "f2790b390906f49c",
-      "title": "환율 다시 1300원대로... 11개월 만에 내려왔다 - 조선일보",
-      "title_original": "환율 다시 1300원대로... 11개월 만에 내려왔다 - 조선일보",
-      "description": "환율 다시 1300원대로... 11개월 만에 내려왔다 조선일보",
-      "description_original": "환율 다시 1300원대로... 11개월 만에 내려왔다 조선일보",
-      "source": "조선일보",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3J5aFlMdW1ldjVCMDNyam9DbzgyMTJaZGxUek5WN3dXMnBWWG4zUG9jZ1BJRUtMZUtaWC01Wk9YQXpPcDNzRWFONnh0c2dULTdRQV9aVlFRX2IyNU1FeGFrTmRpY2Fpd2NiRXhfMjdBNDhGdnRuYWhNRFlaekNRMGtfSzdWVTIxektNU1BR?oc=5",
-      "published_at": "2026-08-19T08:11:00+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
       ]
     },
     {
       "id": "3c80d9045e405717",
       "title": "미 금리 충격에 코스피 5.8%↓...매도 사이드카 발동 - YTN",
+      "title_ko": "",
       "title_original": "미 금리 충격에 코스피 5.8%↓...매도 사이드카 발동 - YTN",
       "description": "미 금리 충격에 코스피 5.8%↓...매도 사이드카 발동 YTN",
       "description_original": "미 금리 충격에 코스피 5.8%↓...매도 사이드카 발동 YTN",
@@ -1568,6 +1827,7 @@
     {
       "id": "708e6f6377d6c15a",
       "title": "12시간 후 FOMC 의사록 공개…美 장기금리·반도체 흐름 변수 - 머니투데이 - 머니투데이",
+      "title_ko": "",
       "title_original": "12시간 후 FOMC 의사록 공개…美 장기금리·반도체 흐름 변수 - 머니투데이 - 머니투데이",
       "description": "12시간 후 FOMC 의사록 공개…美 장기금리·반도체 흐름 변수 - 머니투데이 머니투데이",
       "description_original": "12시간 후 FOMC 의사록 공개…美 장기금리·반도체 흐름 변수 - 머니투데이 머니투데이",
@@ -1583,25 +1843,27 @@
       ]
     },
     {
-      "id": "1c2162e58e046ee8",
-      "title": "[속보] 원·달러 환율 10개월 반 만에 1300원 대로 하락 - 한국경제",
-      "title_original": "[속보] 원·달러 환율 10개월 반 만에 1300원 대로 하락 - 한국경제",
-      "description": "[속보] 원·달러 환율 10개월 반 만에 1300원 대로 하락 한국경제",
-      "description_original": "[속보] 원·달러 환율 10개월 반 만에 1300원 대로 하락 한국경제",
-      "source": "한국경제",
+      "id": "495fbdeead033fdb",
+      "title": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 - MTN 머니투데이방송",
+      "title_ko": "",
+      "title_original": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 - MTN 머니투데이방송",
+      "description": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 MTN 머니투데이방송",
+      "description_original": "현대vs대우… 용인 반도체 국가산단 1공구 심의, 다음달 실시 MTN 머니투데이방송",
+      "source": "MTN 머니투데이방송",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qalk1SlU0SU5TdElKT1B6bW1QSkUzdzdlbUQzR0hxcHlhUkh5c2dsOXI1eGduRkRaUmJrY2V4dlhoYjhjalMtMDJuczJIN05zZ1JZZnpZZFEzUQ?oc=5",
-      "published_at": "2026-08-19T03:05:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrdXVxOW01YVRaMkZkMXlqRmMyZm1NbTd5M3puUjF5N0hIU3RPSHc2aTdwTUp2c203bm84RkJzX3FXdVd2VUg5M1BKeWF6a2hMVGF2TktWUTYza18xVmNqcVhVR3A?oc=5",
+      "published_at": "2026-08-19T04:00:01+00:00",
       "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "macro"
+        "sector"
       ]
     },
     {
       "id": "762afb884ab3a31b",
       "title": "美 금리 충격에 코스피 급락…매도 사이드카 발동 - 연합뉴스TV",
+      "title_ko": "",
       "title_original": "美 금리 충격에 코스피 급락…매도 사이드카 발동 - 연합뉴스TV",
       "description": "美 금리 충격에 코스피 급락…매도 사이드카 발동 연합뉴스TV",
       "description_original": "美 금리 충격에 코스피 급락…매도 사이드카 발동 연합뉴스TV",
@@ -1617,25 +1879,9 @@
       ]
     },
     {
-      "id": "fa97351c057577a8",
-      "title": "[김종인] 미국 장기 국채금리 급등…원인과 전망은 - 지디넷코리아",
-      "title_original": "[김종인] 미국 장기 국채금리 급등…원인과 전망은 - 지디넷코리아",
-      "description": "[김종인] 미국 장기 국채금리 급등…원인과 전망은 지디넷코리아",
-      "description_original": "[김종인] 미국 장기 국채금리 급등…원인과 전망은 지디넷코리아",
-      "source": "지디넷코리아",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSTVlaUFuNG9EUTRrSVZUMFdMLUFmTlRrY2JkRUxlSHk2a0VkQUlleVZzYTFsdV84aG8yVGRVay0xX2tXYjJTLVQyelJQY3RzMVVTQ1dB?oc=5",
-      "published_at": "2026-08-19T01:16:30+00:00",
-      "matched_queries": [
-        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "macro"
-      ]
-    },
-    {
       "id": "62ca606898089e2e",
       "title": "코스피 급락에 매도 사이드카 발동…코스닥도 동반 하락 - KBS 뉴스",
+      "title_ko": "",
       "title_original": "코스피 급락에 매도 사이드카 발동…코스닥도 동반 하락 - KBS 뉴스",
       "description": "코스피 급락에 매도 사이드카 발동…코스닥도 동반 하락 KBS 뉴스",
       "description_original": "코스피 급락에 매도 사이드카 발동…코스닥도 동반 하락 KBS 뉴스",
@@ -1651,44 +1897,27 @@
       ]
     },
     {
-      "id": "58ed66e2f8fda3c6",
-      "title": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
-      "title_original": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
-      "description": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
-      "description_original": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
-      "source": "Reuters",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "published_at": "2026-08-18T22:58:54+00:00",
+      "id": "04c9336bb9f53b44",
+      "title": "코스피, 장초반 5∼6%대 급락…매도 사이드카 발동 - 연합뉴스",
+      "title_ko": "",
+      "title_original": "코스피, 장초반 5∼6%대 급락…매도 사이드카 발동 - 연합뉴스",
+      "description": "코스피, 장초반 5∼6%대 급락…매도 사이드카 발동 연합뉴스",
+      "description_original": "코스피, 장초반 5∼6%대 급락…매도 사이드카 발동 연합뉴스",
+      "source": "연합뉴스",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYT0RHc0JCV2I2WHJabTRQOTVBQWRQelVUcVV5bVVWYmlKNjZrcUN5S0JhOUxOamJ6eHNhZmNuZVRwTEFLYUROUGg0TEdtbDlBT0I0cWdqQkxkbDTSAWBBVV95cUxPQWw0alRRbk5yVlRqT1U1aVYwNWVrQTZYUVVKcXBUaVBFcktCbkVkWlBnNVRMQ09xTm9mVm1hYUl2Z1VzV2oxYlpobTN6ZEYtWmN0V01sQ0xpZmZCNFJnLWw?oc=5",
+      "published_at": "2026-08-19T00:14:11+00:00",
       "matched_queries": [
-        "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow",
-        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
       "topic_hints": [
-        "us",
-        "us"
-      ]
-    },
-    {
-      "id": "6018f4c57f27b9e6",
-      "title": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires - WSJ",
-      "title_original": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires - WSJ",
-      "description": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires WSJ",
-      "description_original": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires WSJ",
-      "source": "WSJ",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmRqMTFNdi1lN1hfSHJtRWhPaUZqRW5abERIdDdNZmJXOEU3ZWRXWklabm90YnlPZUpiUHUtdEIwdXdjRzVVZHdRSkxGT1lpUGZRRW05M3dfTnZ2d0h6RVdIemY5Q3NDNklBNFdUMV83OWR6cXVFOU5yTEFyOFMtZEhaN25RTlBUbHBsX1puaDFYNlVrZ0F3ZWtURkw0b19tZ29JTmRBNFl6NmhOTU5JVkNneTlVZw?oc=5",
-      "published_at": "2026-08-18T20:46:00+00:00",
-      "matched_queries": [
-        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "us"
+        "domestic"
       ]
     },
     {
       "id": "1366d3a99a0fcd32",
       "title": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 - 조선일보",
+      "title_ko": "",
       "title_original": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 - 조선일보",
       "description": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 조선일보",
       "description_original": "호남 반도체 부지 옆에 ‘람사르 신청 습지’ 변수 조선일보",
@@ -1704,15 +1933,34 @@
       ]
     },
     {
-      "id": "149dba0923cf342b",
-      "title": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목 - 한국경제",
-      "title_original": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목 - 한국경제",
-      "description": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목 한국경제",
-      "description_original": "코스피에 또 '뭉칫돈' 몰렸다…외국인 '7조' 쓸어담은 종목 한국경제",
-      "source": "한국경제",
+      "id": "47d43deb66d75c18",
+      "title": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 결정 - AI타임스",
+      "title_ko": "",
+      "title_original": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 결정 - AI타임스",
+      "description": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 결정 AI타임스",
+      "description_original": "'모두의 AI' 프로젝트 공모에 6개 컨소시엄 출사표...이달 말 결정 AI타임스",
+      "source": "AI타임스",
       "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43d1hLRUlLbjZQVnJxUUhCMEd0Z3lVcjZVN01GNUYzY2RVT0d1d0JYa2gzT3d4QWEwLUNEOWxHRk1OSFNrS0MzUGtHRUlQekdLMVZUSTF2ZEdfQQ?oc=5",
-      "published_at": "2026-08-18T12:10:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ycTlDV2hQdnVfM3pTZXpmR0hiY1dJTzFZOURpeUFiM0FWcnEwWmQ0VEpWR3pQd1JQX0NWT1MxNjkyLV9BZjVOalRUSGlQT2pJSkZ4NUh3ckRQa0lQc052Vk1tcGp2ck81YXc?oc=5",
+      "published_at": "2026-08-18T12:30:00+00:00",
+      "matched_queries": [
+        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "sector"
+      ]
+    },
+    {
+      "id": "fc621abe501152d7",
+      "title": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\" - 조선일보",
+      "title_ko": "",
+      "title_original": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\" - 조선일보",
+      "description": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\" 조선일보",
+      "description_original": "韓 닥터둠 \"지표는 거짓말 안해, 코스피 5000 아래로 붕괴될 것\" 조선일보",
+      "source": "조선일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5TVUh4UUliM0RPMDdaS2s1RG9xeVBwOXQ5YzFXaUdjeEFOTko3RVItWHJKbkNXbjFQSTg5Ums1M0kxOUg0dmdrNHRsNUxzS09JdEg5OV80c09GRnVxQk8xOGRLVTBSNUJBMlFWM3NNdEJWYWFPOElwdEV6aUVQUQ?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
       "matched_queries": [
         "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
       ],
@@ -1721,15 +1969,16 @@
       ]
     },
     {
-      "id": "66b8d919be4ad8a8",
-      "title": "Nasdaq confirms 23-hour trading from December with overnight session - Euronews.com",
-      "title_original": "Nasdaq confirms 23-hour trading from December with overnight session - Euronews.com",
-      "description": "Nasdaq confirms 23-hour trading from December with overnight session Euronews.com",
-      "description_original": "Nasdaq confirms 23-hour trading from December with overnight session Euronews.com",
-      "source": "Euronews.com",
+      "id": "58ed66e2f8fda3c6",
+      "title": "채권수익률 상승으로 기술 매도가 월스트리트를 압박 - Reuters",
+      "title_ko": "채권수익률 상승으로 기술 매도가 월스트리트를 압박 - Reuters",
+      "title_original": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
+      "description": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
+      "description_original": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
+      "source": "Reuters",
       "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzdWSWtUazBaUkhidXpQS2J1YWZrRjhuWVU5YldIODJobFQwa05sRGNxOUh5YTREYlJrNzJwRklmVF9LVDM4LV9mSkhrVjU1U2FBazVpN0h5enRscG5kV3ZiSUN4WVNoNjUxbmJRVzJUbEM0ekxHQnY1Z2JTYjJWWWl3LUI3ZHlKVWhFMVVyU0I5a0s1QlNQMkladk9pQkN5U1RnUk5pR1VlQmN0ZHp1UkpVWTFmLTda?oc=5",
-      "published_at": "2026-08-18T09:05:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
@@ -1738,83 +1987,16 @@
       ]
     },
     {
-      "id": "8b6c5e5cfe93bc70",
-      "title": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅' - 한국경제",
-      "title_original": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅' - 한국경제",
-      "description": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅' 한국경제",
-      "description_original": "\"코스피 다시 오른다\"…간 큰 개미들 '18조 아찔한 베팅' 한국경제",
-      "source": "한국경제",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtMlh3Q0NqX3ZoMHZGbVBIOE8ybWNNX19EZWxUWkNiR1BtcjNDejhHQ3lKUXBuZ2lIWXVaVnFlaVBTUEVuMndqSGVmdWFZVktyOXZzb3R0Ulo3UQ?oc=5",
-      "published_at": "2026-08-18T05:00:03+00:00",
-      "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "5a8a3fe4d3973ccb",
-      "title": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락 - AI타임스",
-      "title_original": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락 - AI타임스",
-      "description": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락 AI타임스",
-      "description_original": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락 AI타임스",
-      "source": "AI타임스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcnYwbk5uVFhDdHZhckRkODIwRkVBYWdnMDJyQnd1OG1SYXFSVkZhWUM1ckNYclQwS2c1XzFxYkpHR1lLeUFXV1Rpd1U0MFJLYnB2OUE5WEc1TjRYeDZTXzlqTTdRdnlTWnc?oc=5",
-      "published_at": "2026-08-18T03:19:11+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "25de1dcb370318ca",
-      "title": "LG·SKT·업스테이지 독파모 3파전…한국 AI 글로벌 3위(종합) - 연합뉴스",
-      "title_original": "LG·SKT·업스테이지 독파모 3파전…한국 AI 글로벌 3위(종합) - 연합뉴스",
-      "description": "LG·SKT·업스테이지 독파모 3파전…한국 AI 글로벌 3위(종합) 연합뉴스",
-      "description_original": "LG·SKT·업스테이지 독파모 3파전…한국 AI 글로벌 3위(종합) 연합뉴스",
-      "source": "연합뉴스",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01cHVyQmtpOTgycTZjdUllRGtJT0g3OVFVN0dNQWYyaUJCTDZ5U2VyREp0WU1CX2lreHdvcnZkYmdraWJEd0NvUDBJNmpDTnVTU0djT2JaclcwcDjSAWBBVV95cUxONlNXYWJDcWpxODNMOV9ZUHNzWllNREo5VnFfdVRxWF80c0lHNG1tam5BRWdsaC1qMEpYVDhRcUZzWFVVNGxjbE9rd240a2I2ZFNrdFo4Rnp1TFVNbkFmMjE?oc=5",
-      "published_at": "2026-08-18T02:39:34+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "bc33ecdbb6ed09d0",
-      "title": "코스피, 장중 하락 전환...코스닥, 낙폭 확대 - YTN",
-      "title_original": "코스피, 장중 하락 전환...코스닥, 낙폭 확대 - YTN",
-      "description": "코스피, 장중 하락 전환...코스닥, 낙폭 확대 YTN",
-      "description_original": "코스피, 장중 하락 전환...코스닥, 낙폭 확대 YTN",
-      "source": "YTN",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LTEdFd3lxOTJ1NllwUFlLOUdfdnBmcGdXclplaDk4Wlo0Qjk2MlBTdG5IdnZSSm82NXFNOUhoZ1V3aDF2TnlMS2FaNnpDenBvMFFjdmNMckhsb18yRFE?oc=5",
-      "published_at": "2026-08-18T02:38:00+00:00",
-      "matched_queries": [
-        "(코스피 OR 코스닥 OR \"국내 증시\" OR \"한국 증시\" OR \"서울 증시\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "domestic"
-      ]
-    },
-    {
-      "id": "6766609c218f8dc4",
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies - Investor's Business Daily",
-      "title_original": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies - Investor's Business Daily",
-      "description": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies Investor's Business Daily",
-      "description_original": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies Investor's Business Daily",
-      "source": "Investor's Business Daily",
+      "id": "899c1741a86259b5",
+      "title": "나스닥, 새로운 익일 세션으로 12월부터 23시간 거래 확인 - Yahoo Finance",
+      "title_ko": "나스닥, 새로운 익일 세션으로 12월부터 23시간 거래 확인 - Yahoo Finance",
+      "title_original": "Nasdaq confirms 23-hour trading from December with new overnight session - Yahoo Finance",
+      "description": "Nasdaq confirms 23-hour trading from December with new overnight session Yahoo Finance",
+      "description_original": "Nasdaq confirms 23-hour trading from December with new overnight session Yahoo Finance",
+      "source": "Yahoo Finance",
       "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaUloYnZwNkRGSGhWNUZHZEcxMDAwQnZpeGRpNDE4ajJSTzVMZ25WSXRxekJuSU9CNXg3b1Q0enpfQTNqdXl6SFNpVVRLMzgxNEQwbTRPbEctZl9jNTJBZ1kxdW9wdHNBMC10NXFTQ1pHUlV2aEtrZy1OMXFCdHo1bE9SSWlJbUlUZGtxOFg2UE85Z2JCVUlEd0FkTUJWX1ZnTGhtX2hFYUJjSUtNMll2RUN1LVhjcHZIVnhROXdIdWwzY2VSWklDTEhR?oc=5",
-      "published_at": "2026-08-18T02:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdE9PMlI0YjlZYjEyN00tU01VSFBGMmdIelhubFAxWDNkazl0UjdZdDVIT0I3YVN5ZDdiT3BUSFF2Nm1wX3N3amwzQ0NNN0ZMQk1zNHZUbWJrbGp6aERHX3Z1eWRBYUtzODlvTE9qaklqN0pUYThWdnc0ZnNEVUNxcl8xTkxrbGRvaEV6V0FWb2pObmtDcXhNcDktaFU?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
@@ -1824,14 +2006,87 @@
     },
     {
       "id": "a4ea2ec49bd4e192",
-      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow - Reuters",
+      "title": "나스닥 하락, 중동 갈등 우려 커져 수익률 상승 - 로이터",
+      "title_ko": "나스닥 하락, 중동 갈등 우려 커져 수익률 상승 - 로이터",
       "title_original": "Nasdaq slides, yields elevated as Mideast conflict fears grow - Reuters",
       "description": "Nasdaq slides, yields elevated as Mideast conflict fears grow Reuters",
       "description_original": "Nasdaq slides, yields elevated as Mideast conflict fears grow Reuters",
       "source": "Reuters",
       "source_locale": "US",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
-      "published_at": "2026-08-18T01:20:16+00:00",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "matched_queries": [
+        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "6018f4c57f27b9e6",
+      "title": "채권수익률이 10년 최고치를 기록하면서 미국 기술주 하락; 이란 휴전 만료 - WSJ",
+      "title_ko": "채권수익률이 10년 최고치를 기록하면서 미국 기술주 하락; 이란 휴전 만료 - WSJ",
+      "title_original": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires - WSJ",
+      "description": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires WSJ",
+      "description_original": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires WSJ",
+      "source": "WSJ",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmRqMTFNdi1lN1hfSHJtRWhPaUZqRW5abERIdDdNZmJXOEU3ZWRXWklabm90YnlPZUpiUHUtdEIwdXdjRzVVZHdRSkxGT1lpUGZRRW05M3dfTnZ2d0h6RVdIemY5Q3NDNklBNFdUMV83OWR6cXVFOU5yTEFyOFMtZEhaN25RTlBUbHBsX1puaDFYNlVrZ0F3ZWtURkw0b19tZ29JTmRBNFl6NmhOTU5JVkNneTlVZw?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "matched_queries": [
+        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "6d8256bc8e92efb6",
+      "title": "2026년 S&P 500 지수에 대한 주요 증권사의 전망 - Reuters",
+      "title_ko": "2026년 S&P 500 지수에 대한 주요 증권사의 전망 - Reuters",
+      "title_original": "Major brokerages' forecasts for S&P 500 index in 2026 - Reuters",
+      "description": "Major brokerages' forecasts for S&P 500 index in 2026 Reuters",
+      "description_original": "Major brokerages' forecasts for S&P 500 index in 2026 Reuters",
+      "source": "Reuters",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd19pZFlkWWhCRk9oZFV4Uk9VNzVPaTBSRU52U2FKc002cDFIRmNnWUh3NmU3V3AyUjBQOHhIci11MnlaQjBEWng3SWRnaEZqQnpFZklfUEVMUHhIbl96Skp3ZGNIOTNLMk42MnByZjBqTk8wWExJb3M5U0JvM0hOMTdHSGcwUWxJWkE1dkV2V24za3ZSYklOTmxDWTlldDdaSmM5cUlpZnppT3RFZExTUnJQZDhHVzhwWF9B?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "matched_queries": [
+        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "us"
+      ]
+    },
+    {
+      "id": "de57be8cefa0f2ce",
+      "title": "금리의 역습, 美·英·日 국채금리 급등 - 조선일보",
+      "title_ko": "",
+      "title_original": "금리의 역습, 美·英·日 국채금리 급등 - 조선일보",
+      "description": "금리의 역습, 美·英·日 국채금리 급등 조선일보",
+      "description_original": "금리의 역습, 美·英·日 국채금리 급등 조선일보",
+      "source": "조선일보",
+      "source_locale": "KR",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMElYNFo0bUtSYjQxRkh5dlpIcGRZSEEtdWFpQUo4TmxTUUhyU2p2Wi0zZGR2QzczTnNfYkhkWXR6cFJNRkwxdDVxV2NWeERTc1paaElEc1BzaVN5RmM2V3U5dEVNdGVMaDdiYUl3SGQ3YjZ0SGFIbVBWY2FlWUxkNmxPVW8wMWUtaGZR?oc=5",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "matched_queries": [
+        "(금리 OR 환율 OR 유가 OR 원자재 OR \"금값\" OR \"금 선물\" OR \"은 가격\" OR \"은 선물\" OR 구리 OR 천연가스 OR 달러 OR 원화 OR FOMC OR Fed OR CPI OR \"국채 금리\") after:2026-08-17 before:2026-08-23"
+      ],
+      "topic_hints": [
+        "macro"
+      ]
+    },
+    {
+      "id": "590288720217dd17",
+      "title": "전쟁 명령부(Department of War Orders)는 30개 학술 기관의 보안 감사를 연구합니다 - 미국 전쟁부(.gov)",
+      "title_ko": "전쟁 명령부(Department of War Orders)는 30개 학술 기관의 보안 감사를 연구합니다 - 미국 전쟁부(.gov)",
+      "title_original": "Department of War Orders Research Security Audits at 30 Academic Institutions - U.S. Department of War (.gov)",
+      "description": "Department of War Orders Research Security Audits at 30 Academic Institutions U.S. Department of War (.gov)",
+      "description_original": "Department of War Orders Research Security Audits at 30 Academic Institutions U.S. Department of War (.gov)",
+      "source": "U.S. Department of War (.gov)",
+      "source_locale": "US",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVpjWFk3bk14TzRYLVhIZlQtemlvWHJvY1UxVng3dU1faEloTW1Pamtzei1hdkg1QkQ5NUdEcG5CYzctSjExRV9uMmJNSkg4QkxGLUtFZnpfUVp4SllUTk9KTFVaOWt5VXh4X19PdTNKajhNc0ZyY2lBM2M2cThsZ3pCcXJNRG1VbUZmZnBZWVlhMm5keHJEQkREQlhoa1NGNEJvZncxSXBoS2lUYS1VVjJkUjVvTGxRbGFnR1pPRUZwOU1uWkgxcHk5QnJyWFJaUmc?oc=5",
+      "published_at": "2026-08-17T07:00:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
@@ -1841,14 +2096,15 @@
     },
     {
       "id": "26ce6c1679438ac5",
-      "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+      "title": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters",
+      "title_ko": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters",
       "title_original": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
       "description": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
       "description_original": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
       "source": "Reuters",
       "source_locale": "US",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
-      "published_at": "2026-08-17T22:44:27+00:00",
+      "published_at": "2026-08-17T07:00:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],
@@ -1857,49 +2113,16 @@
       ]
     },
     {
-      "id": "8aeb55ebfed74ef6",
-      "title": "\"AI 말만 믿고\"…농약 뿌린 다음 날 농작물 싹 죽었다 - 연합뉴스TV",
-      "title_original": "\"AI 말만 믿고\"…농약 뿌린 다음 날 농작물 싹 죽었다 - 연합뉴스TV",
-      "description": "\"AI 말만 믿고\"…농약 뿌린 다음 날 농작물 싹 죽었다 연합뉴스TV",
-      "description_original": "\"AI 말만 믿고\"…농약 뿌린 다음 날 농작물 싹 죽었다 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "source_locale": "KR",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fLVpocmlPZUUwSWIwMkhEdXRSUUxPd1ctV1BwN2MzQ2pvQTMtYmpQczJDZ25WVXlvQkFMWklTQVFxU3d5SFBTenA3NTh3dzF2T0dxdDFMTFplQ2F0R2xUbVNJMmhPMlE?oc=5",
-      "published_at": "2026-08-17T20:30:00+00:00",
-      "matched_queries": [
-        "(반도체 OR AI OR \"2차전지\" OR 바이오 OR 조선 OR 방산 OR \"증시 테마\") after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "sector"
-      ]
-    },
-    {
-      "id": "590288720217dd17",
-      "title": "Department of War Orders Research Security Audits at 30 Academic Institutions - U.S. Department of War (.gov)",
-      "title_original": "Department of War Orders Research Security Audits at 30 Academic Institutions - U.S. Department of War (.gov)",
-      "description": "Department of War Orders Research Security Audits at 30 Academic Institutions U.S. Department of War (.gov)",
-      "description_original": "Department of War Orders Research Security Audits at 30 Academic Institutions U.S. Department of War (.gov)",
-      "source": "U.S. Department of War (.gov)",
-      "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVpjWFk3bk14TzRYLVhIZlQtemlvWHJvY1UxVng3dU1faEloTW1Pamtzei1hdkg1QkQ5NUdEcG5CYzctSjExRV9uMmJNSkg4QkxGLUtFZnpfUVp4SllUTk9KTFVaOWt5VXh4X19PdTNKajhNc0ZyY2lBM2M2cThsZ3pCcXJNRG1VbUZmZnBZWVlhMm5keHJEQkREQlhoa1NGNEJvZncxSXBoS2lUYS1VVjJkUjVvTGxRbGFnR1pPRUZwOU1uWkgxcHk5QnJyWFJaUmc?oc=5",
-      "published_at": "2026-08-17T14:02:34+00:00",
-      "matched_queries": [
-        "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
-      ],
-      "topic_hints": [
-        "us"
-      ]
-    },
-    {
-      "id": "b008ce6e6027fde5",
-      "title": "Tech Futures Rise, Bullish Move For Sandisk; 5 Stocks In Buy Zones - Investor's Business Daily",
-      "title_original": "Tech Futures Rise, Bullish Move For Sandisk; 5 Stocks In Buy Zones - Investor's Business Daily",
-      "description": "Tech Futures Rise, Bullish Move For Sandisk; 5 Stocks In Buy Zones Investor's Business Daily",
-      "description_original": "Tech Futures Rise, Bullish Move For Sandisk; 5 Stocks In Buy Zones Investor's Business Daily",
+      "id": "e85bb028e30f0cb7",
+      "title": "워렌 버핏의 포트폴리오는 다우존스 지수와 더욱 유사해 보입니다. 이것이 바로 이유입니다. - 투자자경제신문",
+      "title_ko": "워렌 버핏의 포트폴리오는 다우존스 지수와 더욱 유사해 보입니다. 이것이 바로 이유입니다. - 투자자경제신문",
+      "title_original": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why. - Investor's Business Daily",
+      "description": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why. Investor's Business Daily",
+      "description_original": "Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why. Investor's Business Daily",
       "source": "Investor's Business Daily",
       "source_locale": "US",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTZsSXI3TWI0OGpoa0V0TFRNRFh0M3g2dGJlQTM5a1E3V0Z5QTNWeGRUMVBzQmZOYVA5eXp6Y2RTUHNyMFVGQm5iX2phNktBd1lUcU5tTEdoYlFXM25WVk8yXzRRZWFxbmltTVhSWEFhTXV3TTQzNXQ0SzNDelEwVzk3cml2M2tQWXJocVhGVE9oRWZEaWNGRUw4SldXdlU5MlR6R1J2ZDJLaVNWWlBOUGE2SDFYSHJ4NVd3VElzYkJiQy1TQkE?oc=5",
-      "published_at": "2026-08-17T11:57:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU094UnFNNXFWUThIbE9XdFltMEREakdGTXZfak5WTVdLYUlyNVFlTUh6dV9rVlBJZUtCOVRPSkNTWm9OeG1kNUY1UXVFOEdZSXRaMXhtWks2b0VoQlh6OHhWSDRSZzR5bEVldEhvSlY5bGRaVl9XZ3VFaHVDZ2x5dE1MVlNLSFF2YkJCVW1BZmc1M1U4ek9XLU1LZTFLR2lYbjRydnlR?oc=5",
+      "published_at": "2026-08-17T07:00:00+00:00",
       "matched_queries": [
         "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23"
       ],

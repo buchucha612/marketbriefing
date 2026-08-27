@@ -34,6 +34,7 @@ jobs:
         run: |
           python collectors/news.py
           python collectors/prices.py
+          python collectors/fear_greed.py
           python processing/build_briefing.py
 
       - name: Prepare site artifact

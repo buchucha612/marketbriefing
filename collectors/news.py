@@ -152,6 +152,19 @@ def translate_headline(text: str) -> str:
     return translated or text
 
 
+def is_likely_english(text: str) -> bool:
+    letters = re.findall(r"[A-Za-z]", text or "")
+    korean = re.findall(r"[가-힣]", text or "")
+    return len(letters) >= 12 and len(letters) > len(korean) * 2
+
+
+def translated_display_title(title: str, should_translate: bool) -> tuple[str, str]:
+    if should_translate and is_likely_english(title):
+        translated = translate_headline(title)
+        return translated, translated
+    return title, ""
+
+
 def collect_news() -> dict:
     collected_dt = datetime.now(timezone.utc)
     collected_at = collected_dt.isoformat()
@@ -179,10 +192,9 @@ def collect_news() -> dict:
             published_at = parse_date(node.findtext("pubDate"))
             source_node = node.find("source")
             source = clean_text(source_node.text if source_node is not None else "")
-            display_title = (
-                translate_headline(original_title)
-                if config["translate_headline"]
-                else original_title
+            display_title, title_ko = translated_display_title(
+                original_title,
+                config["translate_headline"] or config["gl"] == "US",
             )
             stable = hashlib.sha1(f"{original_title}|{link}".encode("utf-8")).hexdigest()[:16]
 
@@ -190,6 +202,7 @@ def collect_news() -> dict:
                 by_id[stable] = {
                     "id": stable,
                     "title": display_title,
+                    "title_ko": title_ko,
                     "title_original": original_title,
                     "description": original_description,
                     "description_original": original_description,
@@ -200,6 +213,9 @@ def collect_news() -> dict:
                     "matched_queries": [],
                     "topic_hints": [],
                 }
+            elif title_ko:
+                by_id[stable]["title"] = title_ko
+                by_id[stable]["title_ko"] = title_ko
             by_id[stable]["matched_queries"].append(query)
             by_id[stable]["topic_hints"].append(config["topic_hint"])
 
@@ -225,6 +241,20 @@ def load_previous_news(path: Path) -> dict | None:
     return None
 
 
+def refresh_translated_titles(payload: dict) -> dict:
+    refreshed_items = []
+    for item in payload.get("items", []):
+        refreshed = dict(item)
+        should_translate = refreshed.get("source_locale") == "US" or "us" in refreshed.get("topic_hints", [])
+        title = refreshed.get("title_original") or refreshed.get("title", "")
+        if should_translate and is_likely_english(refreshed.get("title", "")):
+            translated, title_ko = translated_display_title(title, True)
+            refreshed["title"] = translated
+            refreshed["title_ko"] = title_ko
+        refreshed_items.append(refreshed)
+    return {**payload, "items": refreshed_items}
+
+
 def main() -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / "news_dynamic.json"
@@ -241,6 +271,7 @@ def main() -> None:
                 "latest_errors": payload["errors"],
             }
 
+    payload = refresh_translated_titles(payload)
     output_path.write_text(
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",

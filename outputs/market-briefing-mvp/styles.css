@@ -442,6 +442,138 @@ h2 {
   color: var(--accent);
 }
 
+.feargreed-shell-item {
+  min-height: auto;
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.feargreed-dashboard {
+  display: grid;
+  gap: 14px;
+}
+
+.feargreed-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.feargreed-card {
+  display: grid;
+  gap: 14px;
+  min-height: 220px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-top: 5px solid #857b6e;
+  border-radius: 7px;
+  background: #fffdf8;
+}
+
+.feargreed-card-head {
+  display: grid;
+  gap: 5px;
+}
+
+.feargreed-card-head span {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 900;
+}
+
+.feargreed-card-head strong {
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.feargreed-gauge {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.feargreed-gauge b {
+  color: var(--ink);
+  font-size: 48px;
+  line-height: 0.95;
+}
+
+.feargreed-gauge span {
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.feargreed-bar {
+  overflow: hidden;
+  height: 10px;
+  border-radius: 999px;
+  background: #ece7dd;
+}
+
+.feargreed-bar i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: #857b6e;
+}
+
+.feargreed-change,
+.feargreed-meta {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.feargreed-change {
+  color: var(--ink);
+  font-weight: 900;
+}
+
+.feargreed-meta {
+  color: var(--muted);
+}
+
+.feargreed-card.fear-extreme,
+.feargreed-card.fear-extreme .feargreed-bar i {
+  border-top-color: #b64b44;
+  background-color: #b64b44;
+}
+
+.feargreed-card.fear,
+.feargreed-card.fear .feargreed-bar i {
+  border-top-color: #d48638;
+  background-color: #d48638;
+}
+
+.feargreed-card.neutral,
+.feargreed-card.neutral .feargreed-bar i {
+  border-top-color: #8c8f58;
+  background-color: #8c8f58;
+}
+
+.feargreed-card.greed,
+.feargreed-card.greed .feargreed-bar i {
+  border-top-color: #408b66;
+  background-color: #408b66;
+}
+
+.feargreed-card.greed-extreme,
+.feargreed-card.greed-extreme .feargreed-bar i {
+  border-top-color: #176f75;
+  background-color: #176f75;
+}
+
+.feargreed-card.fear-extreme,
+.feargreed-card.fear,
+.feargreed-card.neutral,
+.feargreed-card.greed,
+.feargreed-card.greed-extreme {
+  background: #fffdf8;
+}
+
 .schedule-shell-item {
   min-height: auto;
   padding: 0;
@@ -821,6 +953,10 @@ h2 {
   }
 
   .earnings-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .feargreed-grid {
     grid-template-columns: 1fr;
   }
 

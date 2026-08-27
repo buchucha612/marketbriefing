@@ -24,6 +24,7 @@ SECTION_LABELS = {
     "sector": "섹터/테마",
     "weekly": "금주의 브리핑",
     "schedule": "주요 일정 정리",
+    "feargreed": "공포탐욕지수",
     "uncategorized": "미분류",
 }
 
@@ -689,6 +690,20 @@ def build_schedule_section(generated_at: datetime) -> dict:
     }
 
 
+def build_fear_greed_section(fear_greed_payload: dict) -> dict:
+    items = fear_greed_payload.get("items", [])
+    return {
+        "id": "feargreed",
+        "title": SECTION_LABELS["feargreed"],
+        "summary": "미국 주식시장, 코스피, 암호화폐의 투자심리 지표를 한 화면에 모았습니다.",
+        "prices": [],
+        "articles": [],
+        "article_count": len(items),
+        "indicators": items,
+        "empty_message": "공포탐욕지수 데이터가 아직 수집되지 않았습니다.",
+    }
+
+
 def topic_score(text: str, keywords: list[str]) -> tuple[int, list[str]]:
     matched = []
     lower_text = text.lower()
@@ -947,7 +962,7 @@ def classification_summary(news_items: list[dict]) -> dict:
     }
 
 
-def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
+def build_briefing(prices_payload: dict, news_payload: dict, fear_greed_payload: dict) -> dict:
     price_items = prices_payload.get("items", [])
     news_items = dedupe_news(news_payload.get("items", []))
     news_groups = group_news(news_items)
@@ -971,6 +986,7 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
         "sector": build_section("sector", [], sector_news),
         "weekly": build_weekly_section(news_items, generated_dt),
         "schedule": build_schedule_section(generated_dt),
+        "feargreed": build_fear_greed_section(fear_greed_payload),
         "uncategorized": build_section("uncategorized", [], news_groups.get("uncategorized", [])),
     }
 
@@ -985,14 +1001,17 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
         "sector": sections["sector"],
         "weekly": sections["weekly"],
         "schedule": sections["schedule"],
+        "feargreed": sections["feargreed"],
         "uncategorized": sections["uncategorized"],
         "classification_summary": classification_summary(news_items),
         "collection_status": {
             "news_source": news_payload.get("source"),
             "price_source": prices_payload.get("source"),
+            "fear_greed_source": fear_greed_payload.get("source"),
             "news_query_counts": news_payload.get("query_counts", {}),
             "news_errors": news_payload.get("errors", []),
             "price_errors": prices_payload.get("errors", []),
+            "fear_greed_errors": fear_greed_payload.get("errors", []),
         },
         "meta": {
             "mode": "dynamic-content-classified-us-market",
@@ -1004,7 +1023,8 @@ def build_briefing(prices_payload: dict, news_payload: dict) -> dict:
 def main() -> None:
     prices = load_json(RAW_DIR / "prices_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
     news = load_json(RAW_DIR / "news_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
-    briefing = build_briefing(prices, news)
+    fear_greed = load_json(RAW_DIR / "fear_greed_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
+    briefing = build_briefing(prices, news, fear_greed)
 
     DAILY_DIR.mkdir(parents=True, exist_ok=True)
     SERVING_DIR.mkdir(parents=True, exist_ok=True)

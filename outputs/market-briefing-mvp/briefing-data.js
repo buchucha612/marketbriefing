@@ -1,97 +1,99 @@
 window.DAILY_MARKET_BRIEFING = {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-24T02:58:42.114243+00:00",
-  "headline": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS / 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보 / 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T01:02:14.326627+00:00",
+  "headline": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스 / [이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net / [포토] 코스피, 장초반 2%대 상승 - 아시아경제",
   "sections": {
     "domestic": {
       "id": "domestic",
       "title": "국내 증시",
-      "summary": "국내 증시 핵심 기사: 스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
+      "summary": "국내 증시 핵심 기사: [포토] 코스피, 장초반 2%대 상승 - 아시아경제",
       "prices": [
         "코스피: 6,912.95 (전일 대비 0.88% 상승, 2026-08-21 기준)",
         "코스닥: 801.94 (전일 대비 4.63% 하락, 2026-08-21 기준)"
       ],
       "articles": [
         {
-          "title": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
-          "source": "MEDI:GATE NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MU3dDT2VLNGduTWE1eExoM19RSDQ0T3hsSGNaSkZMRWt4U3dBQnNDSkNyal9nNGpvOF9LcU9KRm8wbkpNQUYxd0NhS1YyTjhuZ3JPRTZB?oc=5",
-          "published_at": "2026-08-23T05:12:00+00:00",
+          "title": "[포토] 코스피, 장초반 2%대 상승 - 아시아경제",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EV1FpcVpxdF94bm9FVm1BWkNzN00wSmJLeW5jZ0RDTjNNMzVPaktpeHFzVGxJN3Q5blBURGMzaURQaHNLcUNEX2RJbGRqb0hzQUpGMFk0cGNKd0xJX1pFcg?oc=5",
+          "published_at": "2026-08-27T00:33:39+00:00",
           "primary_topic": "domestic",
           "secondary_topics": []
         },
         {
-          "title": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 - 뉴데일리",
-          "source": "뉴데일리",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vazV6TnhuZnJwUXBwbWlJelZjSThjRk9CNXNVRTRvcV80cEhVcWpSWTVsTXNCZEZTdDhPQ3NGTnh0ZVJDci1TdkhwV2E0Y0xnSHFHOFAxWm1raWtJWWQ0cEw1aDFTOTRxUU1FWEVSNWtYMC1jSHZ2YVpRRdIBgAFBVV95cUxOYUFzNTc0cnZiSGZObllXWHFJak1GZ2lCTmJJSzl2UGxaSkJhNUNVLWg5MlJWNHNIb3UtY1h0OVFnbGF3RVFNV01ldUFWTXowQ1RJREJ1QXhBdEZ2bTdQN3hKTWo0SHNJdkxVdlNPSGU5S1lIMWpiS1M2eHk2SDhWNg?oc=5",
-          "published_at": "2026-08-23T02:44:07+00:00",
+          "title": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OY2FuSEVORnBZaUk3LVlOMTNKaE5RS1hDLWdWRjctUzJUeTUtZUYycmdzazhGQ3R6TFo2R2l6X19INmduV0NYVEVTOHNDcFU?oc=5",
+          "published_at": "2026-08-27T00:32:38+00:00",
           "primary_topic": "domestic",
           "secondary_topics": []
         },
         {
-          "title": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 - 전자신문",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xTXhnZlRZR0pIVEN1aUI0SGpfWWR6REJvVVd6d2RrbHFoX0NUNXpmTDdkMXFVV1JoVlUwbmpUZ1phdjFLdXlJR0dQNVRKQQ?oc=5",
-          "published_at": "2026-08-23T02:40:00+00:00",
+          "title": "코스피·코스닥 상승세 출발 - 뉴스핌",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yREJQb0NGdTZKN19Nd1U3WkpWM05SUGlKTm1aNkNCV2RGdXEtZ0NlV0dZcDlMcHY4X0FpQko0RVZYWjRPZHBPdGNhQUF2YVNoZ0Z1SVF5TWE0NE44?oc=5",
+          "published_at": "2026-08-27T00:23:00+00:00",
           "primary_topic": "domestic",
           "secondary_topics": []
         },
         {
-          "title": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 - 브릿지경제",
-          "source": "브릿지경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjlzcmxCaVRBUGVEM2F4dnpyTV9xcXZCMjBZTkFMd2xjaURMdkxCcC12eFV4Ym5kWmgwWnF6YnBaWkxyOThyV1oya0NiTmF4UU9jVG9IYXVadw?oc=5",
-          "published_at": "2026-08-23T01:11:00+00:00",
+          "title": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 - 매일경제 마켓",
+          "source": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14bFBBNzRhSjNPTDdTVDh4WTUtOVdZcE5TMXo1WU5rUl9YUmdCUEg0V3g2NXJ3U21UYzlla3FZcXNzR3d6VWRfekVwV2hCRG1vbHc?oc=5",
+          "published_at": "2026-08-27T00:19:24+00:00",
           "primary_topic": "domestic",
           "secondary_topics": [
-            "sector"
-          ]
-        },
-        {
-          "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] - 에너지경제신문",
-          "source": "에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5",
-          "published_at": "2026-08-23T01:02:43+00:00",
-          "primary_topic": "domestic",
-          "secondary_topics": [
-            "macro",
             "sector",
             "us"
           ]
         },
         {
-          "title": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
-          "source": "한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRVlNajlFZU5Pd0c0Mm1DRnhod0l5Wng3YTFKbENCMWhvU1ZEY21YdG9aNWpzb3Q0dXVYT09fM09weXQ2aFhhZVFoSjMxUW9hWmx1UkxYU2paUQ?oc=5",
-          "published_at": "2026-08-23T01:00:55+00:00",
-          "primary_topic": "domestic",
-          "secondary_topics": []
-        },
-        {
-          "title": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
-          "source": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RU0toQXdiSTlqU3NJLTI2N0QwRUZQTmdnUUFHUHFFalI2SlBQeEF0UWhDaHJDYkFFc2laQUgwSzAtNE83WTBIX3RGZWNwSlVCUVV2cV9YRVlkUlZtRkc2Uw?oc=5",
-          "published_at": "2026-08-22T23:53:00+00:00",
-          "primary_topic": "domestic",
-          "secondary_topics": []
-        },
-        {
-          "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" - 연합인포맥스",
-          "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5",
-          "published_at": "2026-08-22T23:05:05+00:00",
+          "title": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnExMVJQb0FWQ2VjbkF4NS1IeGdCYzJKUnRmNjhlMzhoRnlFRldYcDNnN3VMYmlPa0Y3bm9oUW8xZXB1VmUyaWFBUnNMQWdzS2JfRlJmdGJjY0ZIQnlNX216MlV4SnpXYjIwTTJQZWo0eXlkRmpab1d3V2VEN1VCM0FTX3NnLVNy0gGcAUFVX3lxTFBNbDVHODhOQ2loaHRORU96NUZna21KQm5TMXMtemxxcXY3NGRPNVdGSlRYR1dNVWVCclFHclNMcndYZEZUUXFyNlNfWVo5WS1jQ2lrem96cFNLSVB1bzFodzQxaU9WRmlneEVSZ05qMV9aM1dMN3o2SjMwUTRvRjg0UFRNdGtxRlc1ZE1oTnRHOGNraUVEcExPOG4yeQ?oc=5",
+          "published_at": "2026-08-27T00:13:31+00:00",
           "primary_topic": "domestic",
           "secondary_topics": [
-            "macro"
+            "sector",
+            "us"
+          ]
+        },
+        {
+          "title": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 - 연합인포맥스",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14SzVGVy0wUVB4OWtOQTc1ejRiZExQdVZlZjcwTG15SUV6Ym1OMmVOYUU3d0tmS20yR0RBOW53VDdXWERhS0RLZ0c2aml5N09sSEw1eWRHUTRPV0NTLVFKYWNXb3BvZTFoZElOejYwTmk?oc=5",
+          "published_at": "2026-08-27T00:09:54+00:00",
+          "primary_topic": "domestic",
+          "secondary_topics": [
+            "us"
+          ]
+        },
+        {
+          "title": "[속보] 코스피 2%대 상승…7,000선 근접 출발 - 연합뉴스TV",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTGp3UTNUb0Q3aWR4dXlMWmpMTjZkVF8yc2t6SlpKeXBWSl9jY0JnQVlQa05PdXZmVkNnVmplNnpiUS1nR2QzZ2E2VnItbnFDMjFrM21LNjN6RUhyclRwdGc3MHFGYzA?oc=5",
+          "published_at": "2026-08-27T00:09:00+00:00",
+          "primary_topic": "domestic",
+          "secondary_topics": []
+        },
+        {
+          "title": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 - 연합인포맥스",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eG1JVW42Y3VqbjhRVFN2RjJXdTJzb3pvRXFTYU1RNG1xMmdPMWg0UEU1WUpKSjlqOVdkX1hBLXd6OThhU1RvR2V1Q0tndlBfRkJKY1JTbUFCbWd6TnYzVDNZRlM4czFlNVc3ZHQxdlnSAXRBVV95cUxQNkZQVzYwYzNyZnlMY1NFS2s2Zmc2ODhZU253TFI2SUdHT1cwRkVVMEdxQU1pV0FOSFZBVjBMSE9CN2NWeUZKUEpHTVhkLVFvWEF0d1g1akxBUkFjTFVES3BtSmVrY1lMblp1Y1NUbzIwZG12LQ?oc=5",
+          "published_at": "2026-08-27T00:06:43+00:00",
+          "primary_topic": "domestic",
+          "secondary_topics": [
+            "us"
           ]
         }
       ],
-      "article_count": 34,
+      "article_count": 36,
       "empty_message": ""
     },
     "us": {
       "id": "us",
       "title": "미국 증시",
-      "summary": "미국 증시 핵심 기사: Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
+      "summary": "미국 증시 핵심 기사: 엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
       "prices": [
         "S&P 500: 7,674.37 (전일 대비 0.43% 상승, 2026-08-21 기준)",
         "나스닥 종합: 26,180.46 (전일 대비 0.43% 상승, 2026-08-21 기준)",
@@ -99,91 +101,90 @@ window.DAILY_MARKET_BRIEFING = {
       ],
       "articles": [
         {
-          "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkR0Mk1hdnJPQVZHWEJYWXQ2UENlazJ1OG1EWTVtNFVYLTdMVHpfbVRIQ09zMmtMRnlLT1dnd0VyVzh1cTQzVm1jMS1keHR1TUNXOXBPSXEwWE10bFNoTi1Sd1ptX1lDcHhzaG5OaTFwTzE0UlBvTzgzTHpGVkVQeUoyY2szcks3RkFENTdPbmRVUVFWMjZaWF93cFpXcnZEUEM3d21BTGpKcWZJblEtcEhJVjA?oc=5",
-          "published_at": "2026-08-23T03:01:00+00:00",
+          "title": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+          "published_at": "2026-08-26T23:27:00+00:00",
           "primary_topic": "us",
           "secondary_topics": [
             "sector"
           ]
         },
         {
-          "title": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed - FOREX.com",
-          "source": "FOREX.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUxXWUFkSTM1NEhPVDNQSWs5SGMzVXlCWXpNSEx1VmE3ejBWeDU2cWdJM2VmWGFUY1hDdGlQSWo1N3hyNndVeVFxLWcyY0NyRENwLTZZZy1rS0FiNWFZVXJ1dHEtUl95emJHdW5vMjNZTm12SXRESFc4TnlsanZpczJRQkpKNHRpdDZnLUtmNGJ1VjBHRlN2dzBhQkR3eVFxV3Y1dm9PLUVORVBEdGEwV0tzbmxaRV9RTm1zOERNZGVQcWZvel8wN0NHWQ?oc=5",
-          "published_at": "2026-08-23T03:00:38+00:00",
+          "title": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+          "published_at": "2026-08-26T22:50:54+00:00",
           "primary_topic": "us",
           "secondary_topics": [
             "macro"
           ]
         },
         {
-          "title": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkxvMF8yUnB3RTNVVTRySmxTWUF0QnZ5N3M5aGpMSGxJTDA2LUtaZHlMNWRaZjF0aWtoSmNUQlNlM2RQZU9uTUM5a3lOY3ZKYUwtLXE5OTZKWF9OZ2dMc2IyM2JGMnh2TXF4VVNrQW9QY2RjZzhBSXYwMEd2MERCYmdyaHljUVZkRnMtQmxHUWdKR2R6eXYxV3k0MA?oc=5",
-          "published_at": "2026-08-23T00:27:00+00:00",
+          "title": "Nvidia의 전망에 나스닥 선물, AI 주식 상승: 시장 랩 - Bloomberg",
+          "source": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0ZyNEs4VHlpUTE2VEsyU3R2Rmpxb3pZYTBjTFZENzBnWnk3MkpMU0gwUEwxRUJOVUtaeGx5bGJSR3RaRDBhd2ZNa0ZXS3U2aDhkRElxUE52S3ZrUmFQdE5fSVEyVmFGWmUwSnF2RXRJR281cWd2Nmpwcm9fQnhoRldrZHRkblNlNzNSZy1WT0xSUXNEMEE5M0hYakJqb2lzcU1rZUUwUlFOLVJuUnktVkNqLUM?oc=5",
+          "published_at": "2026-08-26T22:10:37+00:00",
           "primary_topic": "us",
           "secondary_topics": [
             "sector"
           ]
         },
         {
-          "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3R2TXZITUdkVloyVXF3YnhBNUtJa0xyTnMxbnFHUERNd1ZISmRyckRGV3RCcy00amxFb2pEclJ0Vm51bU5CYXVvUndZWVVVUHBMa1B5ZHdNZldtRjd1anowdkZXZUVxNWZzNjlZdmhZUVB2M0M1OTYwV1JFZVkyRXRueE4yQ09CZzVqZ1BaTFFBTDdSSzJZ?oc=5",
-          "published_at": "2026-08-23T00:22:00+00:00",
-          "primary_topic": "us",
-          "secondary_topics": [
-            "sector"
-          ]
-        },
-        {
-          "title": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFdqSW1McXV5eTh6Y1ZqWlU1VkJiMGV5RXJsemwyblQwblJBSkdXUk1lOEFlaEpvSEtOLWU2S3dRU19IZk5xaE90RGFVRjRhTjY5RFhIcUlOTzhDenBHLV9DdjdtQmE5NWFkX0dzcFBqdkVXcFJhQmRYd3pqbVkwSUhpQ2g3eW5DVDkxc3ExYmowb3I1ZkxwMGRWc3dUQQ?oc=5",
-          "published_at": "2026-08-23T00:21:00+00:00",
-          "primary_topic": "us",
-          "secondary_topics": [
-            "sector"
-          ]
-        },
-        {
-          "title": "Has Wall Street Entered the \"Show Me\" Phase of AI? - The Motley Fool",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNFRWU4M2ZMX29relVRSHhqeEtKeHpfRGh2czF4X1U4UElQTnZCTHZ2eEFfbGJpRG9zT2xsWTZMclRLYXY1YTZwMUFyd1IxQV9EN0d6bnlrWUdvTzdhUTZDWmFWV3pjeUFEWUVYZ05uLTludnhjb2hva0VScjRaWVF4UTlXdzhFSll0ZG1IdWRNNXdH?oc=5",
-          "published_at": "2026-08-23T00:21:00+00:00",
-          "primary_topic": "us",
-          "secondary_topics": [
-            "sector"
-          ]
-        },
-        {
-          "title": "DOW Support to the Southern Border in Photos - U.S. Department of War (.gov)",
-          "source": "U.S. Department of War (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3J3bjRKU3REUTRKT1RWQ3hZVXBHY1R4MU9DUER4dUlqd1FvRU9pWVJPOGFRR3B4bDZiSnpIVE4yVmcxNU51VTE3VEZOXzRpUVVuSDRvMTh2MndDOFJNZjBtend0Sm9hQW9yLXR2dUc2cGRHejZpYkJhOGxnZFJnZzdCMDM2cUxHU3dYc2p0eFZSX0lMSEJQY3JJeXJDRU9oMVE?oc=5",
-          "published_at": "2026-08-23T00:07:58+00:00",
+          "title": "독점 | CIA 국장의 깜짝 모스크바 방문은 러시아에게 NATO를 공격하지 말라고 경고하기 위한 것이었다 - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWtGc09MMnF0d3BnOGdVblZkdTRhdmdZZTdrdU81VVF2Q2JGbXdDdE5FTlI2bXBTVFltaWVaZ1ZXN2tmc2F0TjVzalloRTFrbkk5MmJ2T2kzRWlCdmYtaTRpTXlsZ2JjR01YaXJRa2w3RTBJU25YU1lrQy1RUUE5Y3FCWjJtTjRRSS1YVXFXdDVUUHJoNGJUUVI2YTEzRE1TdjRqWFlPaGdGbmZzZURka1kzNEU?oc=5",
+          "published_at": "2026-08-26T22:10:00+00:00",
           "primary_topic": "us",
           "secondary_topics": []
         },
         {
-          "title": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTBZOTk0UFgxd1dFWWxZZkU2WVcweEowZWNibjM2TUJkdXBwdDhrRjkxMjM5d2QyNkNfVjA4U1RFQ3JnWUY4M2NzNndDLXpINUJKSW5uWDh6VElycUVHSDFrVFNHakFOS0EwTUVtOXFaTUhkRXdQdkgzSzFNU3NmNG05bTI5YmdDSVV3c1Z6WFFMSmtmcEtVR0ljOVk?oc=5",
-          "published_at": "2026-08-22T23:59:48+00:00",
+          "title": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzBiRmFiNDdidEUxSTZxeExZY1ZRenl0OUdENXBSX2FUWElKSF9fSmlEcTg1alhxOXltcHBPbmhoR0swZWx0TDdLZUxyZm1VZFdSU1pTOXV3OFkzbTY3eDZNUFV6M21yaDY4bFFZREZnUTczUkxfc0RWcTFuOGkxYW1KQWZCTmNQWjBYQkdaZzUwMVBHaEFVbTRSdDFvT3AtYVo3aU14SWZiUlFUYlZGZ1p5Tlk?oc=5",
+          "published_at": "2026-08-26T21:13:00+00:00",
+          "primary_topic": "us",
+          "secondary_topics": []
+        },
+        {
+          "title": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
+          "published_at": "2026-08-26T20:26:00+00:00",
           "primary_topic": "us",
           "secondary_topics": [
+            "macro",
             "sector"
+          ]
+        },
+        {
+          "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지하고 있습니다 | 전국 뉴스 | 2news.com - KTVN",
+          "source": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1gzYk1tNUk5V2lPb1ZuUE5UUzIyZEJMWTFHZGpVekRkMWs3LW1ybFZoZlY2bDFGODNVbDQ4UGlCT0M0T054VU1aVHQ1R1VBajh4QjJDUlJEWERSMThDM09zZ1g2Vl9kOEl3ODF0Y0p2cHZSYW41QTlWMXZyU01TejRGQy1QWFlnNGw2VHNzSW5DRzNzMlZfZXB5ZEZYV3ZFQ0xiWm5KeXV1NlFGUk1uYUpkSUJ2WVI2LVRLcXNSODZEb0szQ3g3bDRhWjZCR3lmc3h6N2FReG4tbnNpbUptWm9FdkJTVG0yUmN2Sg?oc=5",
+          "published_at": "2026-08-26T20:22:24+00:00",
+          "primary_topic": "us",
+          "secondary_topics": [
+            "macro"
+          ]
+        },
+        {
+          "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지했습니다. - Union-Bulletin",
+          "source": "Union-Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX1dBQnRuRXRacERmVE4wYzV6SEh5eWhnRnlVcXFoVWhQZVlGTUZieDhqVkVTZ21UTmZMUm1INERSb0ZFbDdFRXhWNnYwNHZId2dfeUxRVkZBOTZ2MEk4cllFRk9XUGt0NUJYVHhmbllCR2d2dzRNckpwaGV5Z296OVdSS3FQaVBTdHdrSjZIVzkzcXM2amFFVm5MTXhnSFA4c2ljQlVFcUdkRUI2S0NrZkdSM0Zuc2RJZW9QbnhjZmRUSkkzMlQzODlpdDYyMzM3YXZhN0FJc2ppdmFrOWVjeWExcEZZc1dDNEFDR2F3ZlBINElacDFZ?oc=5",
+          "published_at": "2026-08-26T20:03:58+00:00",
+          "primary_topic": "us",
+          "secondary_topics": [
+            "macro"
           ]
         }
       ],
-      "article_count": 27,
+      "article_count": 28,
       "empty_message": ""
     },
     "macro": {
       "id": "macro",
       "title": "시장지표 관련",
-      "summary": "시장지표 관련 핵심 기사: 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
+      "summary": "시장지표 관련 핵심 기사: 과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
       "prices": [
         "원/달러 환율: 1,383.90원 (전일 대비 0.50% 하락, 2026-08-23 기준)",
         "원/엔 환율(100엔): 869.40원 (전일 대비 0.69% 하락, 2026-08-21 기준)",
@@ -200,166 +201,163 @@ window.DAILY_MARKET_BRIEFING = {
       ],
       "articles": [
         {
-          "title": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMC1ZQjRndURiM2d6Y1ZYTDNEZ2RQV3p5bnpaemU1dlVFRUNVbVVnN1U0SV9JMjhBeWZHVGtmZHA3ZzYxM2FPWUp2ZFdac0c3Z0diUDNlcWdPalhiWkVVYjVabFJxRlU?oc=5",
-          "published_at": "2026-08-23T04:39:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
-        },
-        {
-          "title": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 - KB Think",
-          "source": "KB Think",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kYmVtWkZPMG1OaGNES05taHVFN3ZlcFJScWhfUUJfOGYzR2FjRHN5dlNtY3U5dXczZHUycjhkYkJpQjQ1RDRYeHR5Z1RGeVBPZldfUjRUMXprYnA0emJYSHBYTkhTNV9RY21QYVVTMmVlUQ?oc=5",
-          "published_at": "2026-08-23T04:00:01+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
-        },
-        {
-          "title": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 - YTN",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaSXZGUXUwb0ZPNU5FQVN3UmhXSDRUQzVKcl84MXdGZVNJVDQwUk8tRklYUllWSnNvWElMSDQ5czBiRW9KZVV0aWVGcGt1R3hzQTZnY0ZZRmFRNnVwNnc?oc=5",
-          "published_at": "2026-08-23T04:00:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": [
-            "us"
-          ]
-        },
-        {
-          "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpGTjkzbkpOM3RFSDJYMno3dWx6LW1vR25IYTlKaVFXaTg1SklzWVlpOER3LWJhcmlKaFdvQ3JoazRRUDBoWVpaX0dsdUZzeWxTcUxlUk5fSnN6RkVua0pzLVVoaTRvRUt3M0NhV0ctczFESXN2SUgtRHJ5SVgzcVhWT29tZ29PNnNIWlZB?oc=5",
-          "published_at": "2026-08-23T03:09:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": [
-            "sector"
-          ]
-        },
-        {
-          "title": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" - 연합인포맥스",
+          "title": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
           "source": "연합인포맥스",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yRlplRTF2endSUk10N3Y3anpyek5SVHF6Y3JGaXZTblpoVXZhQTUya0JPdDhBWDhRd2I3Qlg1VEZlV0RlV3pCbkVTcTVPeVc1RUhBWEZYTkdtTndQS2h4UFFvbk1oODFDREljUHRrQ0vSAXRBVV95cUxNTlQ1S00wZ2g1STBFVENlekRfMnFqaTFBYXpPVEhocVhBc1dvb1ZudWFuT3hLV2hMcDVPOS1PQi1UUE12UlRjLXRURFRaeFJzRFAzd0ZGaXNEZF8tQ0s2elU0Ymc0b1ZFU1hZQUdleE1qak5tYQ?oc=5",
-          "published_at": "2026-08-23T03:00:10+00:00",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZFZ0ZEVZRWtUbnhZTHlrQmNJX0pBX3k2TEtwN0Q0S1hyalpNd2JGZ3dsdEpSNUs1SUozWXRrVDZfSWhObnV0dzhVWEVDYlZ5UVVNZEZzQy0weV9YREhVdFFyRjFvVS1neFFlT3YyNk0?oc=5",
+          "published_at": "2026-08-27T00:43:01+00:00",
           "primary_topic": "macro",
           "secondary_topics": []
         },
         {
-          "title": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ - 전자신문",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jYXM4T3NWLW9YbVNTTHBRUzhQSjh0YnA2Q05xZEl4MEV2RUN4Q1BQM2J0Q2FtYmZCbTNzRVhnUExJM2VnR0w2ai1tMnJSZw?oc=5",
-          "published_at": "2026-08-23T03:00:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
-        },
-        {
-          "title": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
-          "published_at": "2026-08-23T02:24:00+00:00",
+          "title": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNfZjVVczFfMGpOSkZ3MVk5WkRiRzJXRHF6MTdRQkNCeWh6M2M3Mm5DLWYzWEZUREppREk5WDNZMF9RZjlLOVhGVThzeUw3LWFCdkdmdkhPNmRlaFJNWUVYS25SYVNOaE1oaDBmakNvVE5sWUNMUmU1WC16N3ZBS2IyNU9Gd9IBmgFBVV95cUxNLVlUTzd5TnZWa0tBakNZaDF0dnJhVUJiZndPdmxyS196SWlrRWg0TjNrM01SbzJOOGhDTTZEQ3paNk9Qa0tqdXFSLW54NFV2MVhUbWp5bGRzajY0aVJ6aDV0X0FvR1laajVLaFdZZWJDWUFtT0o5WlUtcU0wRnlLelBQOHZMOElxbFFuSGxocVJwckwzRmpVQTlR?oc=5",
+          "published_at": "2026-08-27T00:24:00+00:00",
           "primary_topic": "macro",
           "secondary_topics": [
             "sector"
           ]
         },
         {
-          "title": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? - YTN",
-          "source": "YTN",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oOE5hTWdXVEtCVFZONUZOWWhYWXBEeG1sWHlHRldXbXV2YWI4Smw1WGdMOXNvTXcxU2JQZFBkSElROHNKUXVkcWo5WHh0dUVFSjQ4ZzRzbHphQ3ZxMUE?oc=5",
-          "published_at": "2026-08-23T02:11:00+00:00",
+          "title": "국채선물 약세 출발…美금리 추종·금통위 대기 - KB Think",
+          "source": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVjNoQUJpcVBOSFk5a01YWDNQRWlBNlBvRkJ3bzBvRXZUSzk4NUJsSG5RSllnNXBKNjFlNkJpUm5zTE5qWjJFNWotODZkLVFiN195QmlPRnUwZ0dHcjZnam9TRHAySDN4ejREZHhqU1V6Zw?oc=5",
+          "published_at": "2026-08-27T00:04:39+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "중동 외교 기대감에 국제유가 4거래일 연속 하락 - Investing.com 한국어",
+          "source": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vcnd4cG1SX093MzhaZUNPMkhKelAtOXU1cXoxSDFJZ05YazNRRUhPZzNFRUZCMFpMTXdqOXZRWTJIeTlBaFhaaVFwWVN6N3pYaE1iTDNQQWo5UFNJbUFHUHk0d3owajVYQkc2STJhVQ?oc=5",
+          "published_at": "2026-08-26T23:54:00+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' - 전자신문",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02Mjl4Z19kYUlXTE5yQmZWNjNONVlJQl8xX093RWpKeHlVZTNwd3A4dkRhTDk0Z2hsOWJrdV9PbnZWeUZYNXBGdUpkdXBrQQ?oc=5",
+          "published_at": "2026-08-26T23:08:43+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 - 연합인포맥스",
+          "source": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZjE5TVlDMHZsNjlIT1A5dDlXUk5fUjBia3gweUUzUWFsNnQtakJlamtSQ1pJOUVpdFZBeHlXY2lvcS1OeS1XN0NtaHZXUlZMbGlKSDZucHh5RDVtTEVwalhLR3ZYOE9JZ2xFRU1aWVk?oc=5",
+          "published_at": "2026-08-26T22:30:20+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQXYtdTl5ZExkaE9Na0NicmRmVUM0bHpoMG9EOGowWGxNTzRoZkFxVXFhUC1zaFR0SGpHQzZBc1Rzb1RjQVZ5MTF3UjBobFU?oc=5",
+          "published_at": "2026-08-26T22:03:04+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 - 한겨레",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOVZCanJFcnJ3QjJCS2NvczhwRW1RcDQ2WDc2cHkySDM1Uy0tQWcxOEtvTXJMT29nUDZwN3RWQk9wcUFXbXBUa21tamtfaE1DWVc0QWZPTGpSb01nckt4MnJDcjR6M2c?oc=5",
+          "published_at": "2026-08-26T21:59:00+00:00",
           "primary_topic": "macro",
           "secondary_topics": []
         }
       ],
-      "article_count": 30,
+      "article_count": 32,
       "empty_message": ""
     },
     "sector": {
       "id": "sector",
       "title": "섹터/테마",
-      "summary": "섹터/테마 핵심 기사: 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
+      "summary": "섹터/테마 핵심 기사: [이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
       "prices": [],
       "articles": [
         {
-          "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
-          "published_at": "2026-08-23T04:55:00+00:00",
+          "title": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcVFsTXl1Q0FtRVNTSG1Lczd2SnZURHVQUVRSd0R6NE9uUm5TelR2MGV5QkNES09KUzlWd2psZ2VWOURXZjdHVkdZXzFmc1U?oc=5",
+          "published_at": "2026-08-27T00:34:18+00:00",
+          "primary_topic": "sector",
+          "secondary_topics": [
+            "domestic",
+            "us"
+          ]
+        },
+        {
+          "title": "SKT, 사이버 보안 특화 AI 모델 개발 도전 - SK텔레콤 뉴스룸",
+          "source": "SK텔레콤 뉴스룸",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XLVMwVlJObTBYR2g3amM5ZFc0RjNqSFA0c3pYdGdfX1ZmS2NDMDJzS0ROMzFuLXEzbE9nNFFmNGV4bS1Pek1EMQ?oc=5",
+          "published_at": "2026-08-27T00:17:58+00:00",
+          "primary_topic": "sector",
+          "secondary_topics": []
+        },
+        {
+          "title": "큰 수익으로 선물 상승: NVDA, CRM, CRWD Jump - Investor's Business Daily",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
+          "published_at": "2026-08-27T00:16:00+00:00",
           "primary_topic": "sector",
           "secondary_topics": [
             "us"
           ]
         },
         {
-          "title": "네이버가 ‘모두의 AI’에 불참한 속내 - 조선일보",
+          "title": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 - 조선일보",
           "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzBpbjlUM294anl0ZGNicTVOeGhOQ0VJdmh0TXdUamhwd2pUN1ZOdTJiUVIwS2Rjd0g3VzAxeWhGYzVOVGhDU1dSRXZQeTRLcThrcVBwV0hDMkU5b1BINHpkU2lJcXFvVzZaektJSVRmaTJJY0JhbUhYQVFjQ0dWcEdfQQ?oc=5",
-          "published_at": "2026-08-23T04:31:00+00:00",
-          "primary_topic": "sector",
-          "secondary_topics": [
-            "domestic"
-          ]
-        },
-        {
-          "title": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 - 조선일보",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0JSMlhHN3pBS3MxWEpvWmpuQWNkdVplakFGZEtndW56RllGUjZ6UGl1b3o5U0h3N1Q3cVVLT2F2WjJhclBTZHFqSll0Y3Fwak1aZzRhU0hpSFhLTEtGeXYwY1JOLUlGdzFjdHhaTzFFRGk3Nl9WYTVfOTZOSkY5eUtuVQ?oc=5",
-          "published_at": "2026-08-23T03:23:00+00:00",
-          "primary_topic": "sector",
-          "secondary_topics": []
-        },
-        {
-          "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 - 전자신문",
-          "source": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
-          "published_at": "2026-08-23T03:03:06+00:00",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcERXMlJERERRUng5UVYwWGxuV3JLWC1udUxvNV9hcURLSGJRbS1HWVNiR214YUN2ei1SSm95NGRjd2ktUVRsYXlyM1NDOEc3OUVoRXlCQWJiOVhoX05JUnZWNTVKX3lGb2Fnd0QxWl95LTk0Rk9BOUlTanNLSEJXLQ?oc=5",
+          "published_at": "2026-08-27T00:11:00+00:00",
           "primary_topic": "sector",
           "secondary_topics": [
             "us"
           ]
         },
         {
-          "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 - AI타임스",
-          "source": "AI타임스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtOW1haElrZl8tZi0xN2ZpOEFLVDhpSi16TmpQYzJPbTduUllKbXZzVkdDNHRDU0N0SDFwdC0taGxqc2dCaWZSa2pvQ0xkTFlfVFhjbVQ2aTNSUE04V1dzaDU4eFJHWU5FX3c?oc=5",
-          "published_at": "2026-08-23T02:48:18+00:00",
+          "title": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선일보",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVMzR0dsT2FNR256aVJzeTE3WnluemZkbEE3RDNDUGRLd1hJeXJtVHVvYVNTOV8zTEd5TnE2SHZ1WHlfd1Zla1c1ZVFVOVBibkk5S0tWMXl4MllRdV92ZktyaHd2SUZDMmhpazdRYkRIWXJ1aGlHYzdRMnBTV0d6MA?oc=5",
+          "published_at": "2026-08-27T00:06:37+00:00",
           "primary_topic": "sector",
           "secondary_topics": []
         },
         {
-          "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 - 지디넷코리아",
-          "source": "지디넷코리아",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWd1Zqa09BOEo2MFNIbkN0eGRyX1d3dDBKSk5WZldMTW00MDJ2RmQtbTd4RVRTZDJ3aVJ2X2ZlQm95ajZPQjBwRk1OUTF0bm5ReVAzSWZn?oc=5",
-          "published_at": "2026-08-23T02:30:02+00:00",
+          "title": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 - blog.google",
+          "source": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDlkdW1aaS1iSVFqTVZ0QlB2Rl9lRVNKeUo2ejhDV1ZNZFIxX3oxaWUydWlvcm96MFZlSWZ5ZS15YlBWRzJkUDFTUVcwSDdMZ1M1RjBmbFU2SHJDam5rTzlLSGJoQS1HaFVxWVVDcEh1US1CZ1g5YkdJOXpIZURPUFpmcGQxSzEzUE1j?oc=5",
+          "published_at": "2026-08-27T00:06:24+00:00",
           "primary_topic": "sector",
           "secondary_topics": []
         },
         {
-          "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 - AI타임스",
-          "source": "AI타임스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOENFUjFpUkg3bWZJWlhSM3dVSnU1NXhqWHVkNG5Vc2JEYWw0VUZVOU5iM1VMSHl0cENYNWlIOXpEdDBIMUh2Ri1uMk9adXE3NFlGRmd4NUVuWHFxbmtuaUZ3Y254eWcwc2c?oc=5",
-          "published_at": "2026-08-23T02:28:08+00:00",
+          "title": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" - 연합뉴스TV",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSFJYck9aMmMwcUpIcWk0dUFMSENMUjhPakN3Y3ROOVlQRDRCNGthZWNwN2NaWlduQ3R4Z2ZNUk1TWWluRUQybnFNUklLOG9RLUhKa3NKTE5tMFo1N2Rib3I5dGxNeEU?oc=5",
+          "published_at": "2026-08-27T00:02:00+00:00",
           "primary_topic": "sector",
           "secondary_topics": []
         },
         {
-          "title": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 - 연합뉴스",
-          "source": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNNIBYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNA?oc=5",
-          "published_at": "2026-08-23T02:24:25+00:00",
+          "title": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" - 바이오스펙테이터",
+          "source": "바이오스펙테이터",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcnZqRUdUYnJqcjBQeVVXdUhFWGZlX3NmdXBsamtqT2UzN3VROUNleXdpTGpVSXp6ekdfeTB0dTRvUDF2U044bjFhdEQtRXpLQXVSR2Vncw?oc=5",
+          "published_at": "2026-08-26T23:56:00+00:00",
           "primary_topic": "sector",
           "secondary_topics": []
         }
       ],
-      "article_count": 31,
+      "article_count": 32,
       "empty_message": ""
     },
     "weekly": {
       "id": "weekly",
       "title": "금주의 브리핑",
-      "summary": "8월 17일~8월 22일 기준으로 수집된 기사 59건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+      "summary": "8월 17일~8월 22일 기준으로 수집된 기사 47건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
       "prices": [],
       "articles": [],
-      "article_count": 59,
+      "article_count": 47,
       "weekly_period": {
         "start": "2026-08-17",
         "end": "2026-08-22",
@@ -370,26 +368,34 @@ window.DAILY_MARKET_BRIEFING = {
         {
           "title": "한 주간 반복적으로 강했던 테마·섹터",
           "items": [
-            "반도체·AI: 관련 기사 23건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 한겨레",
-            "조선·방산: 관련 기사 6건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선, v.daum.net",
-            "에너지·원자재: 관련 기사 2건, 관찰일 2일, 주요 출처 대한민국 정책브리핑, 연합뉴스TV",
-            "미국 빅테크: 관련 기사 2건, 관찰일 1일, 주요 출처 Euronews.com, Reuters"
+            "반도체·AI: 관련 기사 19건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 인베스트조선",
+            "조선·방산: 관련 기사 5건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선",
+            "미국 빅테크: 관련 기사 4건, 관찰일 2일, 주요 출처 CME Group, Yahoo Finance, Reuters",
+            "에너지·원자재: 관련 기사 3건, 관찰일 2일, 주요 출처 Investor's Business Daily, 뉴스핌, Reuters"
           ]
         },
         {
           "title": "주요 뉴스·정책·수급과 상승 촉매",
           "items": [
             {
-              "text": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 22일)",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNXS2EtMjhzcW9CRHVudk9TaHdUM0Y5dm1ZaXl3MDhtLXJYRFNlUmREcUNIdV9DZEZKSmpUNFBicEk1cFMwd0ZrdkRpUlJZa2VjcnFfR05SWm9NNE5BRy0zN2NkNmozZ2VBY2VaNVRUMkxkOHV4bjdMN2ZfX0N6ZTRHMmZHRGNsd0xjTVR3?oc=5"
-            },
-            {
               "text": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선 (인베스트조선, 8월 21일)",
               "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pBTFFlS05veExuaVBua1lsWVc1ckdKdnZWY3RGMWlDb3dtTWM2MlBZNEpzdlNqcWV3YXJmQ0YzaGRVN0NDejl2cllVWVVuMmFOVjByenB1TnpaT0F6ejFHcUNmYmtEaTlZaFEwVV9MQ1hWeFRJakVvbHlSaXI4R2w5TQ?oc=5"
             },
             {
-              "text": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
+              "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
               "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+            },
+            {
+              "text": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 19일)",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5"
+            },
+            {
+              "text": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters (Reuters, 8월 17일)",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
+            },
+            {
+              "text": "워렌 버핏의 포트폴리오는 다우존스 지수와 더욱 유사해 보입니다. 이것이 바로 이유입니다. - 투자자경제신문 (Investor's Business Daily, 8월 17일)",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU094UnFNNXFWUThIbE9XdFltMEREakdGTXZfak5WTVdLYUlyNVFlTUh6dV9rVlBJZUtCOVRPSkNTWm9OeG1kNUY1UXVFOEdZSXRaMXhtWks2b0VoQlh6OHhWSDRSZzR5bEVldEhvSlY5bGRaVl9XZ3VFaHVDZ2x5dE1MVlNLSFF2YkJCVW1BZmc1M1U4ek9XLU1LZTFLR2lYbjRydnlR?oc=5"
             }
           ]
         },
@@ -397,24 +403,24 @@ window.DAILY_MARKET_BRIEFING = {
           "title": "다음 주 주요 일정과 위험 요인",
           "items": [
             {
-              "text": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 22일)",
-              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNXS2EtMjhzcW9CRHVudk9TaHdUM0Y5dm1ZaXl3MDhtLXJYRFNlUmREcUNIdV9DZEZKSmpUNFBicEk1cFMwd0ZrdkRpUlJZa2VjcnFfR05SWm9NNE5BRy0zN2NkNmozZ2VBY2VaNVRUMkxkOHV4bjdMN2ZfX0N6ZTRHMmZHRGNsd0xjTVR3?oc=5"
+              "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
             },
             {
-              "text": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ - 연합뉴스TV (연합뉴스TV, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVEpMcS03TE51N0szaDVHYjhLRkVVenhZV3c2VWlmZS04bzh6WEgtNEpOVmhCQXlPdk1xa1hpazZTYnF4VWRtUHVxczE5OGE0M0dFeWJxOVdhbmc2VXUyZkZVS1hib2c?oc=5"
+              "text": "매파적인 FOMC 회의록이 기술 분야에 부담을 주면서 나스닥 선물은 하락했습니다. - CME 그룹 (CME Group, 8월 20일)",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3FpRFVjdUc3UWNEWUYySHFnUjl1RHd6Rmxsb0s4MGFvUlprT3dOQVBYYlBBV2ZpTGJseUhnSHQtcktKczh0ZEp6aHVpcXc5MnFZX21BMkRxa2VraWNEZlFWeW44RE4tWFlwbUV1RDBVazRBcFBtZXVod2NUWjZGMTByM21rbXNPMTBjcWtjUmVVLXRQRnIzOC1jMDcwQWgxeUhSYzlZM0lhMnl3Y0ZUTg?oc=5"
             },
             {
-              "text": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스 (연합인포맥스, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5"
+              "text": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 - KB Think (KB Think, 8월 20일)",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sX3VTbEtLNU1wSFFvc3ZhSWFEcWlJaG5GcVE3ZXRsN2pVUHJ2M2NXLVU4UGJYclM5dHpkVTQzUUZVZnpSVlhiUGk3ZTdnOGJSY2hBY2RBVEFVQmFSR3l4SA?oc=5"
             },
             {
-              "text": "한은 8월 기준금리 인상론 고개…0.25%P 유력 - 한겨레 (한겨레, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TlRzc1d6MDcxNksyS3dkUzdHdXFmazZMdlFENk4tUU9wbFpHM1B2dEp4d1hqSGZ1NTRqbk5FZHZFRjh3c29qMzJzbHItNjFWMzAzVkhtdjVLbFh0R0V1YldETk83Qk9NWVhyWFNjbU9MQQ?oc=5"
+              "text": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 - 뉴스핌 (뉴스핌, 8월 20일)",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wVEpBR0dnUVdwYXFLSU9MMFUxUDVsY3liNGpxbDE4LVhwMUNZb2lEZVozMTBNY1IzWnIxVTViQ3k3X2RXVzJHUlZNNHdjbWFBS1dWNG1fZ0ZBNWF4?oc=5"
             },
             {
-              "text": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think (KB Think, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5"
+              "text": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레 (한겨레, 8월 20일)",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5"
             }
           ]
         }
@@ -671,7 +677,7 @@ window.DAILY_MARKET_BRIEFING = {
             "date": "2026-08-24",
             "day": 24,
             "in_month": true,
-            "is_today": true,
+            "is_today": false,
             "event_count": 0,
             "has_high_impact": false
           },
@@ -695,7 +701,7 @@ window.DAILY_MARKET_BRIEFING = {
             "date": "2026-08-27",
             "day": 27,
             "in_month": true,
-            "is_today": false,
+            "is_today": true,
             "event_count": 2,
             "has_high_impact": true
           },
@@ -1013,7 +1019,7 @@ window.DAILY_MARKET_BRIEFING = {
                 "date": "2026-08-24",
                 "day": 24,
                 "in_month": true,
-                "is_today": true,
+                "is_today": false,
                 "event_count": 0,
                 "has_high_impact": false
               },
@@ -1037,7 +1043,7 @@ window.DAILY_MARKET_BRIEFING = {
                 "date": "2026-08-27",
                 "day": 27,
                 "in_month": true,
-                "is_today": false,
+                "is_today": true,
                 "event_count": 2,
                 "has_high_impact": true
               },
@@ -2793,6 +2799,59 @@ window.DAILY_MARKET_BRIEFING = {
       ],
       "empty_message": "이번 주에 등록된 주요 일정이 없습니다."
     },
+    "feargreed": {
+      "id": "feargreed",
+      "title": "공포탐욕지수",
+      "summary": "미국 주식시장, 코스피, 암호화폐의 투자심리 지표를 한 화면에 모았습니다.",
+      "prices": [],
+      "articles": [],
+      "article_count": 3,
+      "indicators": [
+        {
+          "id": "us-fear-greed",
+          "name": "미국 공포탐욕지수",
+          "market": "미국",
+          "value": 55,
+          "label": "탐욕",
+          "updated_at": "2026-08-26T23:59:58+00:00",
+          "source_name": "CNN Fear & Greed Index",
+          "source_url": "https://www.cnn.com/markets/fear-and-greed",
+          "method": "CNN Fear & Greed Index 공개 데이터",
+          "previous_value": 59,
+          "change": -4,
+          "direction": "하락"
+        },
+        {
+          "id": "kospi-fear-greed",
+          "name": "코스피 공포탐욕지수",
+          "market": "국내",
+          "value": 100,
+          "label": "극단적 탐욕",
+          "updated_at": "2026-08-27T00:00:00+00:00",
+          "source_name": "Yahoo Finance KOSPI chart",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "method": "최근 1개월 KOSPI 종가의 일간 변화율, 구간 위치, 이동평균 모멘텀 기반 자체 산출",
+          "previous_value": 98,
+          "change": 2,
+          "direction": "상승"
+        },
+        {
+          "id": "crypto-fear-greed",
+          "name": "암호화폐 공포탐욕지수",
+          "market": "가상자산",
+          "value": 71,
+          "label": "탐욕",
+          "updated_at": "2026-08-27T00:00:00+00:00",
+          "source_name": "Alternative.me Crypto Fear & Greed Index",
+          "source_url": "https://alternative.me/crypto/fear-and-greed-index/",
+          "method": "Alternative.me Crypto Fear & Greed Index 공개 API",
+          "previous_value": 65,
+          "change": 6,
+          "direction": "상승"
+        }
+      ],
+      "empty_message": "공포탐욕지수 데이터가 아직 수집되지 않았습니다."
+    },
     "uncategorized": {
       "id": "uncategorized",
       "title": "미분류",
@@ -2806,92 +2865,94 @@ window.DAILY_MARKET_BRIEFING = {
   "domestic": {
     "id": "domestic",
     "title": "국내 증시",
-    "summary": "국내 증시 핵심 기사: 스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
+    "summary": "국내 증시 핵심 기사: [포토] 코스피, 장초반 2%대 상승 - 아시아경제",
     "prices": [
       "코스피: 6,912.95 (전일 대비 0.88% 상승, 2026-08-21 기준)",
       "코스닥: 801.94 (전일 대비 4.63% 하락, 2026-08-21 기준)"
     ],
     "articles": [
       {
-        "title": "스카이랩스, 코스닥 상장 추진…커프리스 혈압계 기반 의료데이터 플랫폼 - MEDI:GATE NEWS",
-        "source": "MEDI:GATE NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MU3dDT2VLNGduTWE1eExoM19RSDQ0T3hsSGNaSkZMRWt4U3dBQnNDSkNyal9nNGpvOF9LcU9KRm8wbkpNQUYxd0NhS1YyTjhuZ3JPRTZB?oc=5",
-        "published_at": "2026-08-23T05:12:00+00:00",
+        "title": "[포토] 코스피, 장초반 2%대 상승 - 아시아경제",
+        "source": "아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EV1FpcVpxdF94bm9FVm1BWkNzN00wSmJLeW5jZ0RDTjNNMzVPaktpeHFzVGxJN3Q5blBURGMzaURQaHNLcUNEX2RJbGRqb0hzQUpGMFk0cGNKd0xJX1pFcg?oc=5",
+        "published_at": "2026-08-27T00:33:39+00:00",
         "primary_topic": "domestic",
         "secondary_topics": []
       },
       {
-        "title": "코스피 6900선 회복에도 투심 '냉랭' … 회전율 연중 최저, IPO 시장도 위축 - 뉴데일리",
-        "source": "뉴데일리",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vazV6TnhuZnJwUXBwbWlJelZjSThjRk9CNXNVRTRvcV80cEhVcWpSWTVsTXNCZEZTdDhPQ3NGTnh0ZVJDci1TdkhwV2E0Y0xnSHFHOFAxWm1raWtJWWQ0cEw1aDFTOTRxUU1FWEVSNWtYMC1jSHZ2YVpRRdIBgAFBVV95cUxOYUFzNTc0cnZiSGZObllXWHFJak1GZ2lCTmJJSzl2UGxaSkJhNUNVLWg5MlJWNHNIb3UtY1h0OVFnbGF3RVFNV01ldUFWTXowQ1RJREJ1QXhBdEZ2bTdQN3hKTWo0SHNJdkxVdlNPSGU5S1lIMWpiS1M2eHk2SDhWNg?oc=5",
-        "published_at": "2026-08-23T02:44:07+00:00",
+        "title": "코스피, 장초반 2%대 상승해 7천피 탈환시도(종합) - v.daum.net",
+        "source": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OY2FuSEVORnBZaUk3LVlOMTNKaE5RS1hDLWdWRjctUzJUeTUtZUYycmdzazhGQ3R6TFo2R2l6X19INmduV0NYVEVTOHNDcFU?oc=5",
+        "published_at": "2026-08-27T00:32:38+00:00",
         "primary_topic": "domestic",
         "secondary_topics": []
       },
       {
-        "title": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저 - 전자신문",
-        "source": "전자신문",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xTXhnZlRZR0pIVEN1aUI0SGpfWWR6REJvVVd6d2RrbHFoX0NUNXpmTDdkMXFVV1JoVlUwbmpUZ1phdjFLdXlJR0dQNVRKQQ?oc=5",
-        "published_at": "2026-08-23T02:40:00+00:00",
+        "title": "코스피·코스닥 상승세 출발 - 뉴스핌",
+        "source": "뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yREJQb0NGdTZKN19Nd1U3WkpWM05SUGlKTm1aNkNCV2RGdXEtZ0NlV0dZcDlMcHY4X0FpQko0RVZYWjRPZHBPdGNhQUF2YVNoZ0Z1SVF5TWE0NE44?oc=5",
+        "published_at": "2026-08-27T00:23:00+00:00",
         "primary_topic": "domestic",
         "secondary_topics": []
       },
       {
-        "title": "[주간증시전망] 코스피, AI 반도체 훈풍 타고 7000선 넘을까 - 브릿지경제",
-        "source": "브릿지경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMjlzcmxCaVRBUGVEM2F4dnpyTV9xcXZCMjBZTkFMd2xjaURMdkxCcC12eFV4Ym5kWmgwWnF6YnBaWkxyOThyV1oya0NiTmF4UU9jVG9IYXVadw?oc=5",
-        "published_at": "2026-08-23T01:11:00+00:00",
+        "title": "엔비디아 ‘호실적’에 반도체株 훈풍…삼성전자 3% SK하이닉스 4% 상승 - 매일경제 마켓",
+        "source": "매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14bFBBNzRhSjNPTDdTVDh4WTUtOVdZcE5TMXo1WU5rUl9YUmdCUEg0V3g2NXJ3U21UYzlla3FZcXNzR3d6VWRfekVwV2hCRG1vbHc?oc=5",
+        "published_at": "2026-08-27T00:19:24+00:00",
         "primary_topic": "domestic",
         "secondary_topics": [
-          "sector"
-        ]
-      },
-      {
-        "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시] - 에너지경제신문",
-        "source": "에너지경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWg3UEFRbENSNkZTVklGaFZVYm5EdHdXeS1ZMnNkc3VSTjJCQVBYcTN2RVdaN2FXdW5iT3M4bFd6WW9BdGU0UkJiRHBIWTE4WlpfcndYZmk5SnRzSUE?oc=5",
-        "published_at": "2026-08-23T01:02:43+00:00",
-        "primary_topic": "domestic",
-        "secondary_topics": [
-          "macro",
           "sector",
           "us"
         ]
       },
       {
-        "title": "코스피 급락 맞춘 이재만 실장이 꼽은 '내년에 삼전닉스 능가할 두 업종' - 한국경제",
-        "source": "한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CRVlNajlFZU5Pd0c0Mm1DRnhod0l5Wng3YTFKbENCMWhvU1ZEY21YdG9aNWpzb3Q0dXVYT09fM09weXQ2aFhhZVFoSjMxUW9hWmx1UkxYU2paUQ?oc=5",
-        "published_at": "2026-08-23T01:00:55+00:00",
-        "primary_topic": "domestic",
-        "secondary_topics": []
-      },
-      {
-        "title": "\"코스피 빠져도 얘들은 간다\"…지금 눈여겨 볼 '알파' 6종목 [주末머니] - 아시아경제",
-        "source": "아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RU0toQXdiSTlqU3NJLTI2N0QwRUZQTmdnUUFHUHFFalI2SlBQeEF0UWhDaHJDYkFFc2laQUgwSzAtNE83WTBIX3RGZWNwSlVCUVV2cV9YRVlkUlZtRkc2Uw?oc=5",
-        "published_at": "2026-08-22T23:53:00+00:00",
-        "primary_topic": "domestic",
-        "secondary_topics": []
-      },
-      {
-        "title": "금리에 막힌 코스피, 주주환원이 받친다…\"대형주 딱 붙어있어라\" - 연합인포맥스",
-        "source": "연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQ0hBb2FyMUpoSkktekdBLVY0WUtqalZaMGZ2ZzNjSmd6bG5NZndrVnRxSWhpWldSTEg4Yjh0Z0x5bE9IQk93RnlQWF96a1dXQjdrUEl3QXJUbmlrX093STVpMkJ3SFJjN0JJS2k3eDXSAXRBVV95cUxOMW5OZE80TzZUMGwyWXFnQk1GWE5OcXd1M0UtajhrZUl0UEdoV0l0WXRMTmZXaW9ZODdCS2Y1Y1o3MG5DZjhWaTZsN1QzQW1BMUx0dlFkVHdPb1RtTjR3SWs0ZHVOdFVSdTNTN1VrNWV1SFRnTQ?oc=5",
-        "published_at": "2026-08-22T23:05:05+00:00",
+        "title": "코스피, 7000선 근접 출발… 엔비디아 호실적에 반도체주 상승 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnExMVJQb0FWQ2VjbkF4NS1IeGdCYzJKUnRmNjhlMzhoRnlFRldYcDNnN3VMYmlPa0Y3bm9oUW8xZXB1VmUyaWFBUnNMQWdzS2JfRlJmdGJjY0ZIQnlNX216MlV4SnpXYjIwTTJQZWo0eXlkRmpab1d3V2VEN1VCM0FTX3NnLVNy0gGcAUFVX3lxTFBNbDVHODhOQ2loaHRORU96NUZna21KQm5TMXMtemxxcXY3NGRPNVdGSlRYR1dNVWVCclFHclNMcndYZEZUUXFyNlNfWVo5WS1jQ2lrem96cFNLSVB1bzFodzQxaU9WRmlneEVSZ05qMV9aM1dMN3o2SjMwUTRvRjg0UFRNdGtxRlc1ZE1oTnRHOGNraUVEcExPOG4yeQ?oc=5",
+        "published_at": "2026-08-27T00:13:31+00:00",
         "primary_topic": "domestic",
         "secondary_topics": [
-          "macro"
+          "sector",
+          "us"
+        ]
+      },
+      {
+        "title": "코스피, 엔비디아發 훈풍에 '7천피' 회복 시도…삼전닉스 강세 - 연합인포맥스",
+        "source": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14SzVGVy0wUVB4OWtOQTc1ejRiZExQdVZlZjcwTG15SUV6Ym1OMmVOYUU3d0tmS20yR0RBOW53VDdXWERhS0RLZ0c2aml5N09sSEw1eWRHUTRPV0NTLVFKYWNXb3BvZTFoZElOejYwTmk?oc=5",
+        "published_at": "2026-08-27T00:09:54+00:00",
+        "primary_topic": "domestic",
+        "secondary_topics": [
+          "us"
+        ]
+      },
+      {
+        "title": "[속보] 코스피 2%대 상승…7,000선 근접 출발 - 연합뉴스TV",
+        "source": "연합뉴스TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wTGp3UTNUb0Q3aWR4dXlMWmpMTjZkVF8yc2t6SlpKeXBWSl9jY0JnQVlQa05PdXZmVkNnVmplNnpiUS1nR2QzZ2E2VnItbnFDMjFrM21LNjN6RUhyclRwdGc3MHFGYzA?oc=5",
+        "published_at": "2026-08-27T00:09:00+00:00",
+        "primary_topic": "domestic",
+        "secondary_topics": []
+      },
+      {
+        "title": "코스피, 엔비디아發 훈풍에 상승 출발…삼전닉스 강세 - 연합인포맥스",
+        "source": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15eG1JVW42Y3VqbjhRVFN2RjJXdTJzb3pvRXFTYU1RNG1xMmdPMWg0UEU1WUpKSjlqOVdkX1hBLXd6OThhU1RvR2V1Q0tndlBfRkJKY1JTbUFCbWd6TnYzVDNZRlM4czFlNVc3ZHQxdlnSAXRBVV95cUxQNkZQVzYwYzNyZnlMY1NFS2s2Zmc2ODhZU253TFI2SUdHT1cwRkVVMEdxQU1pV0FOSFZBVjBMSE9CN2NWeUZKUEpHTVhkLVFvWEF0d1g1akxBUkFjTFVES3BtSmVrY1lMblp1Y1NUbzIwZG12LQ?oc=5",
+        "published_at": "2026-08-27T00:06:43+00:00",
+        "primary_topic": "domestic",
+        "secondary_topics": [
+          "us"
         ]
       }
     ],
-    "article_count": 34,
+    "article_count": 36,
     "empty_message": ""
   },
   "us": {
     "id": "us",
     "title": "미국 증시",
-    "summary": "미국 증시 핵심 기사: Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
+    "summary": "미국 증시 핵심 기사: 엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
     "prices": [
       "S&P 500: 7,674.37 (전일 대비 0.43% 상승, 2026-08-21 기준)",
       "나스닥 종합: 26,180.46 (전일 대비 0.43% 상승, 2026-08-21 기준)",
@@ -2899,91 +2960,90 @@ window.DAILY_MARKET_BRIEFING = {
     ],
     "articles": [
       {
-        "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkR0Mk1hdnJPQVZHWEJYWXQ2UENlazJ1OG1EWTVtNFVYLTdMVHpfbVRIQ09zMmtMRnlLT1dnd0VyVzh1cTQzVm1jMS1keHR1TUNXOXBPSXEwWE10bFNoTi1Sd1ptX1lDcHhzaG5OaTFwTzE0UlBvTzgzTHpGVkVQeUoyY2szcks3RkFENTdPbmRVUVFWMjZaWF93cFpXcnZEUEM3d21BTGpKcWZJblEtcEhJVjA?oc=5",
-        "published_at": "2026-08-23T03:01:00+00:00",
+        "title": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+        "published_at": "2026-08-26T23:27:00+00:00",
         "primary_topic": "us",
         "secondary_topics": [
           "sector"
         ]
       },
       {
-        "title": "S&P 500, Nasdaq, Dow Forecast: Rising Yields Test Rally Ahead of Nvidia, Fed - FOREX.com",
-        "source": "FOREX.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUxXWUFkSTM1NEhPVDNQSWs5SGMzVXlCWXpNSEx1VmE3ejBWeDU2cWdJM2VmWGFUY1hDdGlQSWo1N3hyNndVeVFxLWcyY0NyRENwLTZZZy1rS0FiNWFZVXJ1dHEtUl95emJHdW5vMjNZTm12SXRESFc4TnlsanZpczJRQkpKNHRpdDZnLUtmNGJ1VjBHRlN2dzBhQkR3eVFxV3Y1dm9PLUVORVBEdGEwV0tzbmxaRV9RTm1zOERNZGVQcWZvel8wN0NHWQ?oc=5",
-        "published_at": "2026-08-23T03:00:38+00:00",
+        "title": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5",
+        "published_at": "2026-08-26T22:50:54+00:00",
         "primary_topic": "us",
         "secondary_topics": [
           "macro"
         ]
       },
       {
-        "title": "Don’t Sell SanDisk Corporation (NASDAQ:SNDK) Because A Billionaire Did So, Says Jim Cramer - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUkxvMF8yUnB3RTNVVTRySmxTWUF0QnZ5N3M5aGpMSGxJTDA2LUtaZHlMNWRaZjF0aWtoSmNUQlNlM2RQZU9uTUM5a3lOY3ZKYUwtLXE5OTZKWF9OZ2dMc2IyM2JGMnh2TXF4VVNrQW9QY2RjZzhBSXYwMEd2MERCYmdyaHljUVZkRnMtQmxHUWdKR2R6eXYxV3k0MA?oc=5",
-        "published_at": "2026-08-23T00:27:00+00:00",
+        "title": "Nvidia의 전망에 나스닥 선물, AI 주식 상승: 시장 랩 - Bloomberg",
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0ZyNEs4VHlpUTE2VEsyU3R2Rmpxb3pZYTBjTFZENzBnWnk3MkpMU0gwUEwxRUJOVUtaeGx5bGJSR3RaRDBhd2ZNa0ZXS3U2aDhkRElxUE52S3ZrUmFQdE5fSVEyVmFGWmUwSnF2RXRJR281cWd2Nmpwcm9fQnhoRldrZHRkblNlNzNSZy1WT0xSUXNEMEE5M0hYakJqb2lzcU1rZUUwUlFOLVJuUnktVkNqLUM?oc=5",
+        "published_at": "2026-08-26T22:10:37+00:00",
         "primary_topic": "us",
         "secondary_topics": [
           "sector"
         ]
       },
       {
-        "title": "Jim Cramer Said NVIDIA Corp. (NASDAQ:NVDA) Doesn’t Need Anyone But Elon Musk - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3R2TXZITUdkVloyVXF3YnhBNUtJa0xyTnMxbnFHUERNd1ZISmRyckRGV3RCcy00amxFb2pEclJ0Vm51bU5CYXVvUndZWVVVUHBMa1B5ZHdNZldtRjd1anowdkZXZUVxNWZzNjlZdmhZUVB2M0M1OTYwV1JFZVkyRXRueE4yQ09CZzVqZ1BaTFFBTDdSSzJZ?oc=5",
-        "published_at": "2026-08-23T00:22:00+00:00",
-        "primary_topic": "us",
-        "secondary_topics": [
-          "sector"
-        ]
-      },
-      {
-        "title": "Jim Cramer Shared Insights Into Space Exploration Technologies Corp. (NASDAQ:SPCX) Short Selling - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFdqSW1McXV5eTh6Y1ZqWlU1VkJiMGV5RXJsemwyblQwblJBSkdXUk1lOEFlaEpvSEtOLWU2S3dRU19IZk5xaE90RGFVRjRhTjY5RFhIcUlOTzhDenBHLV9DdjdtQmE5NWFkX0dzcFBqdkVXcFJhQmRYd3pqbVkwSUhpQ2g3eW5DVDkxc3ExYmowb3I1ZkxwMGRWc3dUQQ?oc=5",
-        "published_at": "2026-08-23T00:21:00+00:00",
-        "primary_topic": "us",
-        "secondary_topics": [
-          "sector"
-        ]
-      },
-      {
-        "title": "Has Wall Street Entered the \"Show Me\" Phase of AI? - The Motley Fool",
-        "source": "The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzNFRWU4M2ZMX29relVRSHhqeEtKeHpfRGh2czF4X1U4UElQTnZCTHZ2eEFfbGJpRG9zT2xsWTZMclRLYXY1YTZwMUFyd1IxQV9EN0d6bnlrWUdvTzdhUTZDWmFWV3pjeUFEWUVYZ05uLTludnhjb2hva0VScjRaWVF4UTlXdzhFSll0ZG1IdWRNNXdH?oc=5",
-        "published_at": "2026-08-23T00:21:00+00:00",
-        "primary_topic": "us",
-        "secondary_topics": [
-          "sector"
-        ]
-      },
-      {
-        "title": "DOW Support to the Southern Border in Photos - U.S. Department of War (.gov)",
-        "source": "U.S. Department of War (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3J3bjRKU3REUTRKT1RWQ3hZVXBHY1R4MU9DUER4dUlqd1FvRU9pWVJPOGFRR3B4bDZiSnpIVE4yVmcxNU51VTE3VEZOXzRpUVVuSDRvMTh2MndDOFJNZjBtend0Sm9hQW9yLXR2dUc2cGRHejZpYkJhOGxnZFJnZzdCMDM2cUxHU3dYc2p0eFZSX0lMSEJQY3JJeXJDRU9oMVE?oc=5",
-        "published_at": "2026-08-23T00:07:58+00:00",
+        "title": "독점 | CIA 국장의 깜짝 모스크바 방문은 러시아에게 NATO를 공격하지 말라고 경고하기 위한 것이었다 - WSJ",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWtGc09MMnF0d3BnOGdVblZkdTRhdmdZZTdrdU81VVF2Q2JGbXdDdE5FTlI2bXBTVFltaWVaZ1ZXN2tmc2F0TjVzalloRTFrbkk5MmJ2T2kzRWlCdmYtaTRpTXlsZ2JjR01YaXJRa2w3RTBJU25YU1lrQy1RUUE5Y3FCWjJtTjRRSS1YVXFXdDVUUHJoNGJUUVI2YTEzRE1TdjRqWFlPaGdGbmZzZURka1kzNEU?oc=5",
+        "published_at": "2026-08-26T22:10:00+00:00",
         "primary_topic": "us",
         "secondary_topics": []
       },
       {
-        "title": "Jim Cramer Said Affirm Holdings, Inc. (NASDAQ:AFRM) Was The One To Buy - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTBZOTk0UFgxd1dFWWxZZkU2WVcweEowZWNibjM2TUJkdXBwdDhrRjkxMjM5d2QyNkNfVjA4U1RFQ3JnWUY4M2NzNndDLXpINUJKSW5uWDh6VElycUVHSDFrVFNHakFOS0EwTUVtOXFaTUhkRXdQdkgzSzFNU3NmNG05bTI5YmdDSVV3c1Z6WFFMSmtmcEtVR0ljOVk?oc=5",
-        "published_at": "2026-08-22T23:59:48+00:00",
+        "title": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzBiRmFiNDdidEUxSTZxeExZY1ZRenl0OUdENXBSX2FUWElKSF9fSmlEcTg1alhxOXltcHBPbmhoR0swZWx0TDdLZUxyZm1VZFdSU1pTOXV3OFkzbTY3eDZNUFV6M21yaDY4bFFZREZnUTczUkxfc0RWcTFuOGkxYW1KQWZCTmNQWjBYQkdaZzUwMVBHaEFVbTRSdDFvT3AtYVo3aU14SWZiUlFUYlZGZ1p5Tlk?oc=5",
+        "published_at": "2026-08-26T21:13:00+00:00",
+        "primary_topic": "us",
+        "secondary_topics": []
+      },
+      {
+        "title": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
+        "published_at": "2026-08-26T20:26:00+00:00",
         "primary_topic": "us",
         "secondary_topics": [
+          "macro",
           "sector"
+        ]
+      },
+      {
+        "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지하고 있습니다 | 전국 뉴스 | 2news.com - KTVN",
+        "source": "KTVN",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR1gzYk1tNUk5V2lPb1ZuUE5UUzIyZEJMWTFHZGpVekRkMWs3LW1ybFZoZlY2bDFGODNVbDQ4UGlCT0M0T054VU1aVHQ1R1VBajh4QjJDUlJEWERSMThDM09zZ1g2Vl9kOEl3ODF0Y0p2cHZSYW41QTlWMXZyU01TejRGQy1QWFlnNGw2VHNzSW5DRzNzMlZfZXB5ZEZYV3ZFQ0xiWm5KeXV1NlFGUk1uYUpkSUJ2WVI2LVRLcXNSODZEb0szQ3g3bDRhWjZCR3lmc3h6N2FReG4tbnNpbUptWm9FdkJTVG0yUmN2Sg?oc=5",
+        "published_at": "2026-08-26T20:22:24+00:00",
+        "primary_topic": "us",
+        "secondary_topics": [
+          "macro"
+        ]
+      },
+      {
+        "title": "월스트리트는 인플레이션에 대한 최신 업데이트 이후 대부분 안정세를 유지했습니다. - Union-Bulletin",
+        "source": "Union-Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQX1dBQnRuRXRacERmVE4wYzV6SEh5eWhnRnlVcXFoVWhQZVlGTUZieDhqVkVTZ21UTmZMUm1INERSb0ZFbDdFRXhWNnYwNHZId2dfeUxRVkZBOTZ2MEk4cllFRk9XUGt0NUJYVHhmbllCR2d2dzRNckpwaGV5Z296OVdSS3FQaVBTdHdrSjZIVzkzcXM2amFFVm5MTXhnSFA4c2ljQlVFcUdkRUI2S0NrZkdSM0Zuc2RJZW9QbnhjZmRUSkkzMlQzODlpdDYyMzM3YXZhN0FJc2ppdmFrOWVjeWExcEZZc1dDNEFDR2F3ZlBINElacDFZ?oc=5",
+        "published_at": "2026-08-26T20:03:58+00:00",
+        "primary_topic": "us",
+        "secondary_topics": [
+          "macro"
         ]
       }
     ],
-    "article_count": 27,
+    "article_count": 28,
     "empty_message": ""
   },
   "macro": {
     "id": "macro",
     "title": "시장지표 관련",
-    "summary": "시장지표 관련 핵심 기사: 기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
+    "summary": "시장지표 관련 핵심 기사: 과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
     "prices": [
       "원/달러 환율: 1,383.90원 (전일 대비 0.50% 하락, 2026-08-23 기준)",
       "원/엔 환율(100엔): 869.40원 (전일 대비 0.69% 하락, 2026-08-21 기준)",
@@ -3000,166 +3060,163 @@ window.DAILY_MARKET_BRIEFING = {
     ],
     "articles": [
       {
-        "title": "기준금리 인상? 인하?…트럼프·美연준 ’동상이몽’ - 연합뉴스TV",
-        "source": "연합뉴스TV",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tMC1ZQjRndURiM2d6Y1ZYTDNEZ2RQV3p5bnpaemU1dlVFRUNVbVVnN1U0SV9JMjhBeWZHVGtmZHA3ZzYxM2FPWUp2ZFdac0c3Z0diUDNlcWdPalhiWkVVYjVabFJxRlU?oc=5",
-        "published_at": "2026-08-23T04:39:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
-      },
-      {
-        "title": "[외환-주간] 한미 통화정책에 촉각…월말 수급 지형 변할까 - KB Think",
-        "source": "KB Think",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kYmVtWkZPMG1OaGNES05taHVFN3ZlcFJScWhfUUJfOGYzR2FjRHN5dlNtY3U5dXczZHUycjhkYkJpQjQ1RDRYeHR5Z1RGeVBPZldfUjRUMXprYnA0emJYSHBYTkhTNV9RY21QYVVTMmVlUQ?oc=5",
-        "published_at": "2026-08-23T04:00:01+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
-      },
-      {
-        "title": "증시 향방, 엔비디아·잭슨홀 변수...금리도 주목 - YTN",
-        "source": "YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaSXZGUXUwb0ZPNU5FQVN3UmhXSDRUQzVKcl84MXdGZVNJVDQwUk8tRklYUllWSnNvWElMSDQ5czBiRW9KZVV0aWVGcGt1R3hzQTZnY0ZZRmFRNnVwNnc?oc=5",
-        "published_at": "2026-08-23T04:00:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": [
-          "us"
-        ]
-      },
-      {
-        "title": "정부 환율 관리 압박에 수출기업 달러 쏟아냈다…상반기 달러 순매도 1869억달러, 작년의 3배 - 조선일보",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclpGTjkzbkpOM3RFSDJYMno3dWx6LW1vR25IYTlKaVFXaTg1SklzWVlpOER3LWJhcmlKaFdvQ3JoazRRUDBoWVpaX0dsdUZzeWxTcUxlUk5fSnN6RkVua0pzLVVoaTRvRUt3M0NhV0ctczFESXN2SUgtRHJ5SVgzcVhWT29tZ29PNnNIWlZB?oc=5",
-        "published_at": "2026-08-23T03:09:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": [
-          "sector"
-        ]
-      },
-      {
-        "title": "보험硏 \"금리 상승에 보험사 단기적 부담…위험관리 강화해야\" - 연합인포맥스",
+        "title": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스",
         "source": "연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yRlplRTF2endSUk10N3Y3anpyek5SVHF6Y3JGaXZTblpoVXZhQTUya0JPdDhBWDhRd2I3Qlg1VEZlV0RlV3pCbkVTcTVPeVc1RUhBWEZYTkdtTndQS2h4UFFvbk1oODFDREljUHRrQ0vSAXRBVV95cUxNTlQ1S00wZ2g1STBFVENlekRfMnFqaTFBYXpPVEhocVhBc1dvb1ZudWFuT3hLV2hMcDVPOS1PQi1UUE12UlRjLXRURFRaeFJzRFAzd0ZGaXNEZF8tQ0s2elU0Ymc0b1ZFU1hZQUdleE1qak5tYQ?oc=5",
-        "published_at": "2026-08-23T03:00:10+00:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50ZFZ0ZEVZRWtUbnhZTHlrQmNJX0pBX3k2TEtwN0Q0S1hyalpNd2JGZ3dsdEpSNUs1SUozWXRrVDZfSWhObnV0dzhVWEVDYlZ5UVVNZEZzQy0weV9YREhVdFFyRjFvVS1neFFlT3YyNk0?oc=5",
+        "published_at": "2026-08-27T00:43:01+00:00",
         "primary_topic": "macro",
         "secondary_topics": []
       },
       {
-        "title": "이자이익 32조 벌고도…유가증권 손실에 상반기 은행 순이익 6.4%↓ - 전자신문",
-        "source": "전자신문",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jYXM4T3NWLW9YbVNTTHBRUzhQSjh0YnA2Q05xZEl4MEV2RUN4Q1BQM2J0Q2FtYmZCbTNzRVhnUExJM2VnR0w2ai1tMnJSZw?oc=5",
-        "published_at": "2026-08-23T03:00:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
-      },
-      {
-        "title": "환율 1300원대 내려오자 달러예금 ‘역대 최대’…금·예금엔 뭉칫돈, ETF·‘빚투’는 감소 - 조선일보",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjI4QU90QlkwZmhnTDF5bHo3OVJQUUxrbENzVXNIZ3A0MV9aNWVJSlFjNERUOWc5T1oxZjhraURReXZlbEpiOHFrR2g2UW13SnJvckYxNzlFdnBXMzVTMUU4VXZqRFpaUmx1T0Z6VHJIQk9BUlY4M2VsMm1UWFl4alVYMFdacHVDT0dSaWRB?oc=5",
-        "published_at": "2026-08-23T02:24:00+00:00",
+        "title": "원·달러 환율, 1.1원 내린 1383.7원 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclNfZjVVczFfMGpOSkZ3MVk5WkRiRzJXRHF6MTdRQkNCeWh6M2M3Mm5DLWYzWEZUREppREk5WDNZMF9RZjlLOVhGVThzeUw3LWFCdkdmdkhPNmRlaFJNWUVYS25SYVNOaE1oaDBmakNvVE5sWUNMUmU1WC16N3ZBS2IyNU9Gd9IBmgFBVV95cUxNLVlUTzd5TnZWa0tBakNZaDF0dnJhVUJiZndPdmxyS196SWlrRWg0TjNrM01SbzJOOGhDTTZEQ3paNk9Qa0tqdXFSLW54NFV2MVhUbWp5bGRzajY0aVJ6aDV0X0FvR1laajVLaFdZZWJDWUFtT0o5WlUtcU0wRnlLelBQOHZMOElxbFFuSGxocVJwckwzRmpVQTlR?oc=5",
+        "published_at": "2026-08-27T00:24:00+00:00",
         "primary_topic": "macro",
         "secondary_topics": [
           "sector"
         ]
       },
       {
-        "title": "이번 주 주식 시장 전망...기준 금리 인상 가능성은? - YTN",
-        "source": "YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oOE5hTWdXVEtCVFZONUZOWWhYWXBEeG1sWHlHRldXbXV2YWI4Smw1WGdMOXNvTXcxU2JQZFBkSElROHNKUXVkcWo5WHh0dUVFSjQ4ZzRzbHphQ3ZxMUE?oc=5",
-        "published_at": "2026-08-23T02:11:00+00:00",
+        "title": "국채선물 약세 출발…美금리 추종·금통위 대기 - KB Think",
+        "source": "KB Think",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVjNoQUJpcVBOSFk5a01YWDNQRWlBNlBvRkJ3bzBvRXZUSzk4NUJsSG5RSllnNXBKNjFlNkJpUm5zTE5qWjJFNWotODZkLVFiN195QmlPRnUwZ0dHcjZnam9TRHAySDN4ejREZHhqU1V6Zw?oc=5",
+        "published_at": "2026-08-27T00:04:39+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "중동 외교 기대감에 국제유가 4거래일 연속 하락 - Investing.com 한국어",
+        "source": "Investing.com 한국어",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vcnd4cG1SX093MzhaZUNPMkhKelAtOXU1cXoxSDFJZ05YazNRRUhPZzNFRUZCMFpMTXdqOXZRWTJIeTlBaFhaaVFwWVN6N3pYaE1iTDNQQWo5UFNJbUFHUHk0d3owajVYQkc2STJhVQ?oc=5",
+        "published_at": "2026-08-26T23:54:00+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "한은 금통위, 오늘 기준금리 결정…긴축 속도 조절 vs 추가 인상 '팽팽' - 전자신문",
+        "source": "전자신문",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02Mjl4Z19kYUlXTE5yQmZWNjNONVlJQl8xX093RWpKeHlVZTNwd3A4dkRhTDk0Z2hsOWJrdV9PbnZWeUZYNXBGdUpkdXBrQQ?oc=5",
+        "published_at": "2026-08-26T23:08:43+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "[뉴욕환시] 달러 상승…美 인플레 여전히 '걱정'+유가 낙폭 축소 - 연합인포맥스",
+        "source": "연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiZjE5TVlDMHZsNjlIT1A5dDlXUk5fUjBia3gweUUzUWFsNnQtakJlamtSQ1pJOUVpdFZBeHlXY2lvcS1OeS1XN0NtaHZXUlZMbGlKSDZucHh5RDVtTEVwalhLR3ZYOE9JZ2xFRU1aWVk?oc=5",
+        "published_at": "2026-08-26T22:30:20+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "오늘 한은 기준금리 결정…연속 인상이냐? 동결이냐? - v.daum.net",
+        "source": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BQXYtdTl5ZExkaE9Na0NicmRmVUM0bHpoMG9EOGowWGxNTzRoZkFxVXFhUC1zaFR0SGpHQzZBc1Rzb1RjQVZ5MTF3UjBobFU?oc=5",
+        "published_at": "2026-08-26T22:03:04+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "미 재무부 ‘비상금 통장’ 활용 적중…국채 금리 진정세로 - 한겨레",
+        "source": "한겨레",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOVZCanJFcnJ3QjJCS2NvczhwRW1RcDQ2WDc2cHkySDM1Uy0tQWcxOEtvTXJMT29nUDZwN3RWQk9wcUFXbXBUa21tamtfaE1DWVc0QWZPTGpSb01nckt4MnJDcjR6M2c?oc=5",
+        "published_at": "2026-08-26T21:59:00+00:00",
         "primary_topic": "macro",
         "secondary_topics": []
       }
     ],
-    "article_count": 30,
+    "article_count": 32,
     "empty_message": ""
   },
   "sector": {
     "id": "sector",
     "title": "섹터/테마",
-    "summary": "섹터/테마 핵심 기사: 메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
+    "summary": "섹터/테마 핵심 기사: [이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
     "prices": [],
     "articles": [
       {
-        "title": "메모리 품귀에… 美 엔비디아도 항복, AI 서버값 15% 올린다 - 조선일보",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkFLRlo2eVlqSXE1emRxVUpnaXZrNE1PT05JNUVvQlFBd2h0MVZSZEtnV3FiOFdpYjc5VFBzX1Vvb1BBVURIUGpmVXlHOGJydTItYnV3ZHVlWEh5SEdIQXVJMHRCbVlGQ0JrXzZ0LTlYV0NuNnphZ2Z1REVGRktKWmNNNA?oc=5",
-        "published_at": "2026-08-23T04:55:00+00:00",
+        "title": "[이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net",
+        "source": "v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QcVFsTXl1Q0FtRVNTSG1Lczd2SnZURHVQUVRSd0R6NE9uUm5TelR2MGV5QkNES09KUzlWd2psZ2VWOURXZjdHVkdZXzFmc1U?oc=5",
+        "published_at": "2026-08-27T00:34:18+00:00",
+        "primary_topic": "sector",
+        "secondary_topics": [
+          "domestic",
+          "us"
+        ]
+      },
+      {
+        "title": "SKT, 사이버 보안 특화 AI 모델 개발 도전 - SK텔레콤 뉴스룸",
+        "source": "SK텔레콤 뉴스룸",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XLVMwVlJObTBYR2g3amM5ZFc0RjNqSFA0c3pYdGdfX1ZmS2NDMDJzS0ROMzFuLXEzbE9nNFFmNGV4bS1Pek1EMQ?oc=5",
+        "published_at": "2026-08-27T00:17:58+00:00",
+        "primary_topic": "sector",
+        "secondary_topics": []
+      },
+      {
+        "title": "큰 수익으로 선물 상승: NVDA, CRM, CRWD Jump - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
+        "published_at": "2026-08-27T00:16:00+00:00",
         "primary_topic": "sector",
         "secondary_topics": [
           "us"
         ]
       },
       {
-        "title": "네이버가 ‘모두의 AI’에 불참한 속내 - 조선일보",
+        "title": "엔비디아 어닝 서프라이즈…AI 거품론 밀어내고 관련주 동반 상승 - 조선일보",
         "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzBpbjlUM294anl0ZGNicTVOeGhOQ0VJdmh0TXdUamhwd2pUN1ZOdTJiUVIwS2Rjd0g3VzAxeWhGYzVOVGhDU1dSRXZQeTRLcThrcVBwV0hDMkU5b1BINHpkU2lJcXFvVzZaektJSVRmaTJJY0JhbUhYQVFjQ0dWcEdfQQ?oc=5",
-        "published_at": "2026-08-23T04:31:00+00:00",
-        "primary_topic": "sector",
-        "secondary_topics": [
-          "domestic"
-        ]
-      },
-      {
-        "title": "알리바바, AI 음악 생성 모델 공개...불붙은 미·중 ‘AI 음악’ 전쟁 - 조선일보",
-        "source": "조선일보",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0JSMlhHN3pBS3MxWEpvWmpuQWNkdVplakFGZEtndW56RllGUjZ6UGl1b3o5U0h3N1Q3cVVLT2F2WjJhclBTZHFqSll0Y3Fwak1aZzRhU0hpSFhLTEtGeXYwY1JOLUlGdzFjdHhaTzFFRGk3Nl9WYTVfOTZOSkY5eUtuVQ?oc=5",
-        "published_at": "2026-08-23T03:23:00+00:00",
-        "primary_topic": "sector",
-        "secondary_topics": []
-      },
-      {
-        "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고 - 전자신문",
-        "source": "전자신문",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTUDFpdjF5ek5WVVV5dGxjRWVKMm1zeG9PWGw0ZGRwRG1XcS1QSklJemw0LTRyYWZfdnB0NHp5eU9sMVFucnVBN0ctc0ZCUQ?oc=5",
-        "published_at": "2026-08-23T03:03:06+00:00",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcERXMlJERERRUng5UVYwWGxuV3JLWC1udUxvNV9hcURLSGJRbS1HWVNiR214YUN2ei1SSm95NGRjd2ktUVRsYXlyM1NDOEc3OUVoRXlCQWJiOVhoX05JUnZWNTVKX3lGb2Fnd0QxWl95LTk0Rk9BOUlTanNLSEJXLQ?oc=5",
+        "published_at": "2026-08-27T00:11:00+00:00",
         "primary_topic": "sector",
         "secondary_topics": [
           "us"
         ]
       },
       {
-        "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증 - AI타임스",
-        "source": "AI타임스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtOW1haElrZl8tZi0xN2ZpOEFLVDhpSi16TmpQYzJPbTduUllKbXZzVkdDNHRDU0N0SDFwdC0taGxqc2dCaWZSa2pvQ0xkTFlfVFhjbVQ2aTNSUE04V1dzaDU4eFJHWU5FX3c?oc=5",
-        "published_at": "2026-08-23T02:48:18+00:00",
+        "title": "건설株, 미국·이란 휴전 가능성에 급등...호남 반도체 단지 등 국내 대형 사업도 속도 - 조선일보",
+        "source": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVMzR0dsT2FNR256aVJzeTE3WnluemZkbEE3RDNDUGRLd1hJeXJtVHVvYVNTOV8zTEd5TnE2SHZ1WHlfd1Zla1c1ZVFVOVBibkk5S0tWMXl4MllRdV92ZktyaHd2SUZDMmhpazdRYkRIWXJ1aGlHYzdRMnBTV0d6MA?oc=5",
+        "published_at": "2026-08-27T00:06:37+00:00",
         "primary_topic": "sector",
         "secondary_topics": []
       },
       {
-        "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도 - 지디넷코리아",
-        "source": "지디넷코리아",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWd1Zqa09BOEo2MFNIbkN0eGRyX1d3dDBKSk5WZldMTW00MDJ2RmQtbTd4RVRTZDJ3aVJ2X2ZlQm95ajZPQjBwRk1OUTF0bm5ReVAzSWZn?oc=5",
-        "published_at": "2026-08-23T02:30:02+00:00",
+        "title": "한국의 AI 활용 수준, 글로벌 평균 대비 1.7배 정교…AI 역량이 만드는 일과 교육의 변화 - blog.google",
+        "source": "blog.google",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMDlkdW1aaS1iSVFqTVZ0QlB2Rl9lRVNKeUo2ejhDV1ZNZFIxX3oxaWUydWlvcm96MFZlSWZ5ZS15YlBWRzJkUDFTUVcwSDdMZ1M1RjBmbFU2SHJDam5rTzlLSGJoQS1HaFVxWVVDcEh1US1CZ1g5YkdJOXpIZURPUFpmcGQxSzEzUE1j?oc=5",
+        "published_at": "2026-08-27T00:06:24+00:00",
         "primary_topic": "sector",
         "secondary_topics": []
       },
       {
-        "title": "아이벡스, 오염 데이터 극복한 AI 이상탐지 기술 개발...‘AI 완전 무인 자동화’ 시동 - AI타임스",
-        "source": "AI타임스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOENFUjFpUkg3bWZJWlhSM3dVSnU1NXhqWHVkNG5Vc2JEYWw0VUZVOU5iM1VMSHl0cENYNWlIOXpEdDBIMUh2Ri1uMk9adXE3NFlGRmd4NUVuWHFxbmtuaUZ3Y254eWcwc2c?oc=5",
-        "published_at": "2026-08-23T02:28:08+00:00",
+        "title": "빌 게이츠 \"AI 격동기…인간전용구역 제안\" - 연합뉴스TV",
+        "source": "연합뉴스TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SSFJYck9aMmMwcUpIcWk0dUFMSENMUjhPakN3Y3ROOVlQRDRCNGthZWNwN2NaWlduQ3R4Z2ZNUk1TWWluRUQybnFNUklLOG9RLUhKa3NKTE5tMFo1N2Rib3I5dGxNeEU?oc=5",
+        "published_at": "2026-08-27T00:02:00+00:00",
         "primary_topic": "sector",
         "secondary_topics": []
       },
       {
-        "title": "[AI픽] KT, '모두의 AI' 풀스택 승부…국산 NPU부터 클라우드까지 - 연합뉴스",
-        "source": "연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNNIBYEFVX3lxTE9Scmh1MXpodkxVZFNnMjBmYjZVMGttZFhydzlOUlNJb1A2NlhaUkdMRDE5OFNjN0NlcENtTVB2WTJkLVJwTHBpUXJ6ZFVhWjBZOWpvQXNNUjlvNndnTnpuNA?oc=5",
-        "published_at": "2026-08-23T02:24:25+00:00",
+        "title": "'반지형 혈압계' 스카이랩스 \"기기 넘어 의료AI 플랫폼\" - 바이오스펙테이터",
+        "source": "바이오스펙테이터",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TcnZqRUdUYnJqcjBQeVVXdUhFWGZlX3NmdXBsamtqT2UzN3VROUNleXdpTGpVSXp6ekdfeTB0dTRvUDF2U044bjFhdEQtRXpLQXVSR2Vncw?oc=5",
+        "published_at": "2026-08-26T23:56:00+00:00",
         "primary_topic": "sector",
         "secondary_topics": []
       }
     ],
-    "article_count": 31,
+    "article_count": 32,
     "empty_message": ""
   },
   "weekly": {
     "id": "weekly",
     "title": "금주의 브리핑",
-    "summary": "8월 17일~8월 22일 기준으로 수집된 기사 59건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+    "summary": "8월 17일~8월 22일 기준으로 수집된 기사 47건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
     "prices": [],
     "articles": [],
-    "article_count": 59,
+    "article_count": 47,
     "weekly_period": {
       "start": "2026-08-17",
       "end": "2026-08-22",
@@ -3170,26 +3227,34 @@ window.DAILY_MARKET_BRIEFING = {
       {
         "title": "한 주간 반복적으로 강했던 테마·섹터",
         "items": [
-          "반도체·AI: 관련 기사 23건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 한겨레",
-          "조선·방산: 관련 기사 6건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선, v.daum.net",
-          "에너지·원자재: 관련 기사 2건, 관찰일 2일, 주요 출처 대한민국 정책브리핑, 연합뉴스TV",
-          "미국 빅테크: 관련 기사 2건, 관찰일 1일, 주요 출처 Euronews.com, Reuters"
+          "반도체·AI: 관련 기사 19건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 인베스트조선",
+          "조선·방산: 관련 기사 5건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선",
+          "미국 빅테크: 관련 기사 4건, 관찰일 2일, 주요 출처 CME Group, Yahoo Finance, Reuters",
+          "에너지·원자재: 관련 기사 3건, 관찰일 2일, 주요 출처 Investor's Business Daily, 뉴스핌, Reuters"
         ]
       },
       {
         "title": "주요 뉴스·정책·수급과 상승 촉매",
         "items": [
           {
-            "text": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 22일)",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNXS2EtMjhzcW9CRHVudk9TaHdUM0Y5dm1ZaXl3MDhtLXJYRFNlUmREcUNIdV9DZEZKSmpUNFBicEk1cFMwd0ZrdkRpUlJZa2VjcnFfR05SWm9NNE5BRy0zN2NkNmozZ2VBY2VaNVRUMkxkOHV4bjdMN2ZfX0N6ZTRHMmZHRGNsd0xjTVR3?oc=5"
-          },
-          {
             "text": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선 (인베스트조선, 8월 21일)",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pBTFFlS05veExuaVBua1lsWVc1ckdKdnZWY3RGMWlDb3dtTWM2MlBZNEpzdlNqcWV3YXJmQ0YzaGRVN0NDejl2cllVWVVuMmFOVjByenB1TnpaT0F6ejFHcUNmYmtEaTlZaFEwVV9MQ1hWeFRJakVvbHlSaXI4R2w5TQ?oc=5"
           },
           {
-            "text": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
+            "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+          },
+          {
+            "text": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 19일)",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5"
+          },
+          {
+            "text": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters (Reuters, 8월 17일)",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
+          },
+          {
+            "text": "워렌 버핏의 포트폴리오는 다우존스 지수와 더욱 유사해 보입니다. 이것이 바로 이유입니다. - 투자자경제신문 (Investor's Business Daily, 8월 17일)",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU094UnFNNXFWUThIbE9XdFltMEREakdGTXZfak5WTVdLYUlyNVFlTUh6dV9rVlBJZUtCOVRPSkNTWm9OeG1kNUY1UXVFOEdZSXRaMXhtWks2b0VoQlh6OHhWSDRSZzR5bEVldEhvSlY5bGRaVl9XZ3VFaHVDZ2x5dE1MVlNLSFF2YkJCVW1BZmc1M1U4ek9XLU1LZTFLR2lYbjRydnlR?oc=5"
           }
         ]
       },
@@ -3197,24 +3262,24 @@ window.DAILY_MARKET_BRIEFING = {
         "title": "다음 주 주요 일정과 위험 요인",
         "items": [
           {
-            "text": "정부는 호르무즈해협 상황과 국제유가 수준 등 제반적인 여건을 고려하여 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 22일)",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOVNXS2EtMjhzcW9CRHVudk9TaHdUM0Y5dm1ZaXl3MDhtLXJYRFNlUmREcUNIdV9DZEZKSmpUNFBicEk1cFMwd0ZrdkRpUlJZa2VjcnFfR05SWm9NNE5BRy0zN2NkNmozZ2VBY2VaNVRUMkxkOHV4bjdMN2ZfX0N6ZTRHMmZHRGNsd0xjTVR3?oc=5"
+            "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
           },
           {
-            "text": "미, ’이란 경제 압박’ 강화…국제유가 2%대↑ - 연합뉴스TV (연합뉴스TV, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVEpMcS03TE51N0szaDVHYjhLRkVVenhZV3c2VWlmZS04bzh6WEgtNEpOVmhCQXlPdk1xa1hpazZTYnF4VWRtUHVxczE5OGE0M0dFeWJxOVdhbmc2VXUyZkZVS1hib2c?oc=5"
+            "text": "매파적인 FOMC 회의록이 기술 분야에 부담을 주면서 나스닥 선물은 하락했습니다. - CME 그룹 (CME Group, 8월 20일)",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3FpRFVjdUc3UWNEWUYySHFnUjl1RHd6Rmxsb0s4MGFvUlprT3dOQVBYYlBBV2ZpTGJseUhnSHQtcktKczh0ZEp6aHVpcXc5MnFZX21BMkRxa2VraWNEZlFWeW44RE4tWFlwbUV1RDBVazRBcFBtZXVod2NUWjZGMTByM21rbXNPMTBjcWtjUmVVLXRQRnIzOC1jMDcwQWgxeUhSYzlZM0lhMnl3Y0ZUTg?oc=5"
           },
           {
-            "text": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스 (연합인포맥스, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5"
+            "text": "[환율 전망] 역내 수출 네고와 미 달러 약세에 환율 급락 - KB Think (KB Think, 8월 20일)",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sX3VTbEtLNU1wSFFvc3ZhSWFEcWlJaG5GcVE3ZXRsN2pVUHJ2M2NXLVU4UGJYclM5dHpkVTQzUUZVZnpSVlhiUGk3ZTdnOGJSY2hBY2RBVEFVQmFSR3l4SA?oc=5"
           },
           {
-            "text": "한은 8월 기준금리 인상론 고개…0.25%P 유력 - 한겨레 (한겨레, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TlRzc1d6MDcxNksyS3dkUzdHdXFmazZMdlFENk4tUU9wbFpHM1B2dEp4d1hqSGZ1NTRqbk5FZHZFRjh3c29qMzJzbHItNjFWMzAzVkhtdjVLbFh0R0V1YldETk83Qk9NWVhyWFNjbU9MQQ?oc=5"
+            "text": "[금/유가] 美 장기금리 급락에 금값 3% 급등…유가도 4주래 최고 - 뉴스핌 (뉴스핌, 8월 20일)",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wVEpBR0dnUVdwYXFLSU9MMFUxUDVsY3liNGpxbDE4LVhwMUNZb2lEZVozMTBNY1IzWnIxVTViQ3k3X2RXVzJHUlZNNHdjbWFBS1dWNG1fZ0ZBNWF4?oc=5"
           },
           {
-            "text": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think (KB Think, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5"
+            "text": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레 (한겨레, 8월 20일)",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5"
           }
         ]
       }
@@ -3471,7 +3536,7 @@ window.DAILY_MARKET_BRIEFING = {
           "date": "2026-08-24",
           "day": 24,
           "in_month": true,
-          "is_today": true,
+          "is_today": false,
           "event_count": 0,
           "has_high_impact": false
         },
@@ -3495,7 +3560,7 @@ window.DAILY_MARKET_BRIEFING = {
           "date": "2026-08-27",
           "day": 27,
           "in_month": true,
-          "is_today": false,
+          "is_today": true,
           "event_count": 2,
           "has_high_impact": true
         },
@@ -3813,7 +3878,7 @@ window.DAILY_MARKET_BRIEFING = {
               "date": "2026-08-24",
               "day": 24,
               "in_month": true,
-              "is_today": true,
+              "is_today": false,
               "event_count": 0,
               "has_high_impact": false
             },
@@ -3837,7 +3902,7 @@ window.DAILY_MARKET_BRIEFING = {
               "date": "2026-08-27",
               "day": 27,
               "in_month": true,
-              "is_today": false,
+              "is_today": true,
               "event_count": 2,
               "has_high_impact": true
             },
@@ -5593,6 +5658,59 @@ window.DAILY_MARKET_BRIEFING = {
     ],
     "empty_message": "이번 주에 등록된 주요 일정이 없습니다."
   },
+  "feargreed": {
+    "id": "feargreed",
+    "title": "공포탐욕지수",
+    "summary": "미국 주식시장, 코스피, 암호화폐의 투자심리 지표를 한 화면에 모았습니다.",
+    "prices": [],
+    "articles": [],
+    "article_count": 3,
+    "indicators": [
+      {
+        "id": "us-fear-greed",
+        "name": "미국 공포탐욕지수",
+        "market": "미국",
+        "value": 55,
+        "label": "탐욕",
+        "updated_at": "2026-08-26T23:59:58+00:00",
+        "source_name": "CNN Fear & Greed Index",
+        "source_url": "https://www.cnn.com/markets/fear-and-greed",
+        "method": "CNN Fear & Greed Index 공개 데이터",
+        "previous_value": 59,
+        "change": -4,
+        "direction": "하락"
+      },
+      {
+        "id": "kospi-fear-greed",
+        "name": "코스피 공포탐욕지수",
+        "market": "국내",
+        "value": 100,
+        "label": "극단적 탐욕",
+        "updated_at": "2026-08-27T00:00:00+00:00",
+        "source_name": "Yahoo Finance KOSPI chart",
+        "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+        "method": "최근 1개월 KOSPI 종가의 일간 변화율, 구간 위치, 이동평균 모멘텀 기반 자체 산출",
+        "previous_value": 98,
+        "change": 2,
+        "direction": "상승"
+      },
+      {
+        "id": "crypto-fear-greed",
+        "name": "암호화폐 공포탐욕지수",
+        "market": "가상자산",
+        "value": 71,
+        "label": "탐욕",
+        "updated_at": "2026-08-27T00:00:00+00:00",
+        "source_name": "Alternative.me Crypto Fear & Greed Index",
+        "source_url": "https://alternative.me/crypto/fear-and-greed-index/",
+        "method": "Alternative.me Crypto Fear & Greed Index 공개 API",
+        "previous_value": 65,
+        "change": 6,
+        "direction": "상승"
+      }
+    ],
+    "empty_message": "공포탐욕지수 데이터가 아직 수집되지 않았습니다."
+  },
   "uncategorized": {
     "id": "uncategorized",
     "title": "미분류",
@@ -5605,10 +5723,10 @@ window.DAILY_MARKET_BRIEFING = {
   "classification_summary": {
     "method": "content_keyword_score",
     "counts": {
-      "domestic": 28,
-      "sector": 31,
-      "macro": 30,
-      "us": 22
+      "macro": 32,
+      "sector": 32,
+      "domestic": 31,
+      "us": 23
     },
     "labels": {
       "domestic": "국내 증시",
@@ -5617,12 +5735,14 @@ window.DAILY_MARKET_BRIEFING = {
       "sector": "섹터/테마",
       "weekly": "금주의 브리핑",
       "schedule": "주요 일정 정리",
+      "feargreed": "공포탐욕지수",
       "uncategorized": "미분류"
     }
   },
   "collection_status": {
     "news_source": "google-news-rss",
     "price_source": "dynamic-public-chart",
+    "fear_greed_source": "dynamic-public-fear-greed",
     "news_query_counts": {
       "domestic": 15,
       "us": 15,
@@ -5634,7 +5754,8 @@ window.DAILY_MARKET_BRIEFING = {
       "sector_weekly": 15
     },
     "news_errors": [],
-    "price_errors": []
+    "price_errors": [],
+    "fear_greed_errors": []
   },
   "meta": {
     "mode": "dynamic-content-classified-us-market",

@@ -1,4 +1,4 @@
-const SECTION_ORDER = ["domestic", "us", "macro", "sector", "weekly", "schedule"];
+const SECTION_ORDER = ["domestic", "us", "macro", "sector", "weekly", "schedule", "feargreed"];
 const SECTION_INDEX = {
   domestic: "01",
   us: "02",
@@ -6,6 +6,7 @@ const SECTION_INDEX = {
   sector: "04",
   weekly: "05",
   schedule: "06",
+  feargreed: "07",
 };
 
 function formatDateTime(value) {
@@ -32,6 +33,7 @@ function topicLabel(topic) {
     sector: "섹터",
     weekly: "주간",
     schedule: "일정",
+    feargreed: "공포탐욕",
     uncategorized: "미분류",
   };
   return labels[topic] || topic;
@@ -415,6 +417,83 @@ function renderSchedule(section) {
   setActiveMonth(activeMonthIndex);
 }
 
+function formatIndicatorDate(value) {
+  if (!value) return "업데이트 시간 없음";
+  return formatDateTime(value);
+}
+
+function fearGreedTone(value) {
+  if (value <= 24) return "fear-extreme";
+  if (value <= 44) return "fear";
+  if (value <= 55) return "neutral";
+  if (value <= 75) return "greed";
+  return "greed-extreme";
+}
+
+function renderFearGreed(section) {
+  const list = document.querySelector("#activeArticles");
+  clearChildren(list);
+
+  const shellItem = document.createElement("li");
+  const dashboard = document.createElement("div");
+  const cards = document.createElement("div");
+
+  shellItem.className = "feargreed-shell-item";
+  dashboard.className = "feargreed-dashboard";
+  cards.className = "feargreed-grid";
+
+  if (!section.indicators?.length) {
+    const empty = document.createElement("p");
+    empty.className = "empty";
+    empty.textContent = section.empty_message || "공포탐욕지수 데이터가 아직 없습니다.";
+    dashboard.appendChild(empty);
+  } else {
+    section.indicators.forEach((indicator) => {
+      const card = document.createElement("article");
+      const head = document.createElement("div");
+      const market = document.createElement("span");
+      const title = document.createElement("strong");
+      const gauge = document.createElement("div");
+      const value = document.createElement("b");
+      const label = document.createElement("span");
+      const bar = document.createElement("div");
+      const fill = document.createElement("i");
+      const change = document.createElement("p");
+      const meta = document.createElement("p");
+
+      const score = Number(indicator.value || 0);
+      const direction = indicator.direction || "비교 불가";
+      const changeValue = indicator.change === null || indicator.change === undefined
+        ? ""
+        : ` ${Math.abs(indicator.change)}p`;
+
+      card.className = `feargreed-card ${fearGreedTone(score)}`;
+      head.className = "feargreed-card-head";
+      market.textContent = indicator.market || "시장";
+      title.textContent = indicator.name;
+      gauge.className = "feargreed-gauge";
+      value.textContent = score;
+      label.textContent = indicator.label || "";
+      bar.className = "feargreed-bar";
+      fill.style.width = `${Math.max(0, Math.min(100, score))}%`;
+      change.className = "feargreed-change";
+      change.textContent = `전일 대비 ${direction}${changeValue}`;
+      meta.className = "feargreed-meta";
+      meta.textContent = `${formatIndicatorDate(indicator.updated_at)} · ${indicator.method || indicator.source_name || ""}`;
+
+      head.append(market, title);
+      gauge.append(value, label);
+      bar.appendChild(fill);
+      card.append(head, gauge, bar, change, meta);
+      cards.appendChild(card);
+    });
+    dashboard.appendChild(cards);
+  }
+
+  shellItem.appendChild(dashboard);
+  list.appendChild(shellItem);
+}
+
 function setActiveTab(sectionId) {
   document.querySelectorAll(".tab-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.section === sectionId);
@@ -424,17 +503,24 @@ function setActiveTab(sectionId) {
 function renderSection(briefing, sectionId) {
   const section = briefing.sections?.[sectionId] || briefing[sectionId];
   if (!section) return;
+  const summary = document.querySelector("#activeSectionSummary");
+  const showSummary = sectionId === "weekly";
 
   document.querySelector("#activeSectionKicker").textContent = `Section ${SECTION_INDEX[sectionId] || "--"}`;
   document.querySelector("#activeSectionTitle").textContent = section.title;
   document.querySelector("#activeArticleCount").textContent =
-    sectionId === "weekly" || sectionId === "schedule" ? `${section.article_count || 0}건` : `${section.article_count || 0} articles`;
-  document.querySelector("#activeSectionSummary").textContent = sectionId === "schedule" ? "" : section.summary || "";
+    sectionId === "weekly" || sectionId === "schedule" || sectionId === "feargreed"
+      ? `${section.article_count || 0}건`
+      : `${section.article_count || 0} articles`;
+  summary.textContent = showSummary ? section.summary || "" : "";
+  summary.hidden = !summary.textContent;
   renderPrices(section.prices || [], sectionId);
   if (sectionId === "weekly") {
     renderWeeklyBlocks(section);
   } else if (sectionId === "schedule") {
     renderSchedule(section);
+  } else if (sectionId === "feargreed") {
+    renderFearGreed(section);
   } else {
     renderArticles(section, sectionId);
   }
