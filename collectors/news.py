@@ -202,34 +202,8 @@ def is_usable_korean_translation(text: str) -> bool:
         return False
 
     body = text.rsplit(" - ", 1)[0]
-    allowed = {
-        "ai",
-        "amd",
-        "cnbc",
-        "cia",
-        "crm",
-        "crwd",
-        "dow",
-        "fed",
-        "fomc",
-        "fy",
-        "goog",
-        "googl",
-        "ipo",
-        "meta",
-        "micron",
-        "nasdaq",
-        "nato",
-        "nvda",
-        "nvidia",
-        "okta",
-        "salesforce",
-        "sp",
-        "wsj",
-    }
-    english_words = [word.lower() for word in re.findall(r"[A-Za-z]{2,}", body)]
-    unhandled_words = [word for word in english_words if word not in allowed]
-    return len(unhandled_words) <= 1
+    letters = re.findall(r"[A-Za-z]", body)
+    return len(letters) <= max(35, len(korean) * 2)
 
 
 def translated_display_title(title: str, should_translate: bool) -> tuple[str, str]:
@@ -275,7 +249,6 @@ def collect_news() -> dict:
             )
             if config["gl"] == "US" and not title_ko:
                 errors.append({"query": query, "title": original_title, "error": "headline_translation_failed"})
-                continue
             stable = hashlib.sha1(f"{original_title}|{link}".encode("utf-8")).hexdigest()[:16]
 
             if stable not in by_id:
