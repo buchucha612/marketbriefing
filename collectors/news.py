@@ -133,7 +133,7 @@ def rss_url(config: dict) -> str:
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
 
 
-def translate_headline(text: str) -> str:
+def translate_with_google(text: str) -> str:
     if not text:
         return text
     params = {
@@ -150,6 +150,39 @@ def translate_headline(text: str) -> str:
         return text
     translated = "".join(part[0] for part in payload[0] if part and part[0])
     return postprocess_translated_headline(translated or text)
+
+
+def translate_with_mymemory(text: str) -> str:
+    if not text:
+        return text
+    params = {
+        "q": text,
+        "langpair": "en|ko",
+    }
+    url = "https://api.mymemory.translated.net/get?" + urllib.parse.urlencode(params)
+    try:
+        payload = json.loads(fetch(url, "application/json").decode("utf-8"))
+    except Exception:
+        return text
+    translated = payload.get("responseData", {}).get("translatedText", "")
+    return postprocess_translated_headline(clean_text(translated) or text)
+
+
+def translate_headline(text: str) -> str:
+    for translator in (translate_with_google, translate_with_mymemory):
+        translated = translator(text)
+        if is_usable_korean_translation(translated):
+            return translated
+    return text
+
+
+def split_source_suffix(title: str, source: str = "") -> str:
+    if not title:
+        return ""
+    body = re.sub(r"\s+-\s+[^-]{2,80}$", "", title).strip()
+    if source:
+        body = re.sub(rf"\s+-\s+{re.escape(source)}$", "", body).strip()
+    return body or title
 
 
 def postprocess_translated_headline(text: str) -> str:
@@ -206,9 +239,10 @@ def is_usable_korean_translation(text: str) -> bool:
     return len(letters) <= max(35, len(korean) * 2)
 
 
-def translated_display_title(title: str, should_translate: bool) -> tuple[str, str]:
+def translated_display_title(title: str, should_translate: bool, source: str = "") -> tuple[str, str]:
     if should_translate and is_likely_english(title):
-        translated = translate_headline(title)
+        translatable_title = split_source_suffix(title, source)
+        translated = translate_headline(translatable_title)
         translated = postprocess_translated_headline(translated)
         if is_usable_korean_translation(translated):
             return translated, translated
@@ -233,7 +267,7 @@ def collect_news() -> dict:
             query_counts[query_label] = 0
             continue
 
-        nodes = root.findall("./channel/item")[:15]
+        nodes = root.findall("./channel/item")[:30]
         query_counts[query_label] = len(nodes)
 
         for node in nodes:
@@ -246,6 +280,7 @@ def collect_news() -> dict:
             display_title, title_ko = translated_display_title(
                 original_title,
                 config["translate_headline"] or config["gl"] == "US",
+                source,
             )
             if config["gl"] == "US" and not title_ko:
                 errors.append({"query": query, "title": original_title, "error": "headline_translation_failed"})

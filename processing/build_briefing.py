@@ -961,7 +961,9 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
         news = [
             item
             for item in news
-            if "미국 증시 헤드라인:" not in (item.get("title_ko") or item.get("title", ""))
+            if item.get("title_ko")
+            and "미국 증시 헤드라인:" not in item.get("title_ko", "")
+            and len(re.findall(r"[가-힣]", item.get("title_ko", ""))) >= 8
         ]
     cards = [
         {
@@ -987,7 +989,7 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
 
 def empty_section_message(topic: str, original_news_count: int = 0) -> str:
     if topic == "us" and original_news_count:
-        return "표시 조건을 통과한 미국 증시 기사가 아직 없습니다. 다음 자동 갱신 때 다시 확인합니다."
+        return "한글 번역이 완료된 미국 증시 기사가 아직 없습니다. 다음 자동 갱신 때 다시 확인합니다."
     if topic == "us":
         return "아직 수집된 미국 증시 기사가 없습니다."
     if topic == "macro":
