@@ -859,18 +859,49 @@ def linked_article_reference(item: dict) -> dict:
     }
 
 
-def build_weekly_blocks(news: list[dict]) -> list[dict]:
-    themes = matched_theme_counts(news)
-    repeated = [theme for theme in themes if theme["count"] >= 2 or theme["days"] >= 2]
+def stock_flow_reference(item: dict) -> dict:
+    change = item.get("weekly_change_pct", 0)
+    direction = "상승" if change > 0 else "하락" if change < 0 else "보합"
+    text = (
+        f'{item.get("name", "종목명 없음")} ({item.get("market", "시장 미상")}): '
+        f'최근 5거래일 {abs(change):.2f}% {direction}, '
+        f'거래량 {item.get("volume_ratio", 0):.2f}배, '
+        f'평균 거래대금 {format_turnover(item.get("avg_turnover", 0))}'
+    )
+    return {
+        "type": "stock_flow",
+        "text": text,
+        "url": item.get("source_url", ""),
+        "name": item.get("name", "종목명 없음"),
+        "market": item.get("market", "시장 미상"),
+        "weekly_change_pct": round(change, 2),
+        "direction": direction,
+        "volume_ratio": item.get("volume_ratio", 0),
+        "avg_turnover_label": format_turnover(item.get("avg_turnover", 0)),
+        "as_of": item.get("as_of", ""),
+    }
+
+
+def format_turnover(value: float | int) -> str:
+    try:
+        amount = float(value)
+    except (TypeError, ValueError):
+        return "확인 불가"
+    if amount >= 1_000_000_000_000:
+        return f"{amount / 1_000_000_000_000:.2f}조"
+    if amount >= 100_000_000:
+        return f"{amount / 100_000_000:.0f}억"
+    return f"{amount:,.0f}"
+
+
+def build_weekly_blocks(news: list[dict], stock_flow_payload: dict) -> list[dict]:
+    stock_flows = stock_flow_payload.get("items", [])
     catalysts = filter_by_keywords(news, CATALYST_KEYWORDS, 5) or news[:5]
     risks = filter_by_keywords(news, RISK_KEYWORDS, 5)
 
-    recurring_items = [
-        f'{theme["name"]}: 관련 기사 {theme["count"]}건, 관찰일 {theme["days"]}일, 주요 출처 {", ".join(theme["sources"])}'
-        for theme in (repeated or themes[:5])
-    ]
-    if not recurring_items:
-        recurring_items = ["해당 주 수집 기사에서 반복 강도가 뚜렷한 테마·섹터가 감지되지 않았습니다."]
+    stock_flow_items = [stock_flow_reference(item) for item in stock_flows[:8]]
+    if not stock_flow_items:
+        stock_flow_items = ["해당 주 증권 데이터에서 수급 강도 후보 종목이 아직 수집되지 않았습니다."]
 
     catalyst_items = [linked_article_reference(item) for item in catalysts]
     if not catalyst_items:
@@ -883,13 +914,13 @@ def build_weekly_blocks(news: list[dict]) -> list[dict]:
         ]
 
     return [
-        {"title": "한 주간 반복적으로 강했던 테마·섹터", "items": recurring_items},
+        {"title": "한 주간 수급 관심이 강했던 종목", "items": stock_flow_items},
         {"title": "주요 뉴스·정책·수급과 상승 촉매", "items": catalyst_items},
         {"title": "다음 주 주요 일정과 위험 요인", "items": schedule_items},
     ]
 
 
-def build_weekly_section(news_items: list[dict], generated_at: datetime) -> dict:
+def build_weekly_section(news_items: list[dict], stock_flow_payload: dict, generated_at: datetime) -> dict:
     start_date, end_date = weekly_window(generated_at)
     weekly_news = [
         item
@@ -910,7 +941,7 @@ def build_weekly_section(news_items: list[dict], generated_at: datetime) -> dict
             "label": period,
             "rule": "토요일 마감 기준. 토요일 전에는 직전 완료 구간을 표시합니다.",
         },
-        "weekly_blocks": build_weekly_blocks(weekly_news),
+        "weekly_blocks": build_weekly_blocks(weekly_news, stock_flow_payload),
         "empty_message": "해당 주간 구간에 포함되는 수집 기사가 아직 없습니다.",
     }
 
@@ -962,7 +993,12 @@ def classification_summary(news_items: list[dict]) -> dict:
     }
 
 
-def build_briefing(prices_payload: dict, news_payload: dict, fear_greed_payload: dict) -> dict:
+def build_briefing(
+    prices_payload: dict,
+    news_payload: dict,
+    fear_greed_payload: dict,
+    stock_flow_payload: dict,
+) -> dict:
     price_items = prices_payload.get("items", [])
     news_items = dedupe_news(news_payload.get("items", []))
     news_groups = group_news(news_items)
@@ -984,7 +1020,7 @@ def build_briefing(prices_payload: dict, news_payload: dict, fear_greed_payload:
         "us": build_section("us", price_groups.get("us", []), us_news),
         "macro": build_section("macro", price_groups.get("macro", []), macro_news),
         "sector": build_section("sector", [], sector_news),
-        "weekly": build_weekly_section(news_items, generated_dt),
+        "weekly": build_weekly_section(news_items, stock_flow_payload, generated_dt),
         "schedule": build_schedule_section(generated_dt),
         "feargreed": build_fear_greed_section(fear_greed_payload),
         "uncategorized": build_section("uncategorized", [], news_groups.get("uncategorized", [])),
@@ -1008,10 +1044,12 @@ def build_briefing(prices_payload: dict, news_payload: dict, fear_greed_payload:
             "news_source": news_payload.get("source"),
             "price_source": prices_payload.get("source"),
             "fear_greed_source": fear_greed_payload.get("source"),
+            "stock_flow_source": stock_flow_payload.get("source"),
             "news_query_counts": news_payload.get("query_counts", {}),
             "news_errors": news_payload.get("errors", []),
             "price_errors": prices_payload.get("errors", []),
             "fear_greed_errors": fear_greed_payload.get("errors", []),
+            "stock_flow_errors": stock_flow_payload.get("errors", []),
         },
         "meta": {
             "mode": "dynamic-content-classified-us-market",
@@ -1024,7 +1062,8 @@ def main() -> None:
     prices = load_json(RAW_DIR / "prices_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
     news = load_json(RAW_DIR / "news_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
     fear_greed = load_json(RAW_DIR / "fear_greed_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
-    briefing = build_briefing(prices, news, fear_greed)
+    stock_flows = load_json(RAW_DIR / "stock_flows_dynamic.json", {"source": "not-collected", "items": [], "errors": []})
+    briefing = build_briefing(prices, news, fear_greed, stock_flows)
 
     DAILY_DIR.mkdir(parents=True, exist_ok=True)
     SERVING_DIR.mkdir(parents=True, exist_ok=True)

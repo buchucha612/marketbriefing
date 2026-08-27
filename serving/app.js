@@ -131,6 +131,7 @@ function renderWeeklyBlocks(section) {
     const number = document.createElement("span");
     const title = document.createElement("strong");
     const nested = document.createElement("ul");
+    const isStockFlowBlock = (block.items || []).some((entry) => entry?.type === "stock_flow");
 
     item.className = "weekly-card";
     number.className = "story-number";
@@ -139,24 +140,73 @@ function renderWeeklyBlocks(section) {
     title.textContent = block.title;
     nested.className = "weekly-list";
 
-    (block.items || []).forEach((entry) => {
-      const nestedItem = document.createElement("li");
-      if (entry && typeof entry === "object" && entry.url) {
-        const link = document.createElement("a");
-        link.href = entry.url;
-        link.target = "_blank";
-        link.rel = "noreferrer";
-        link.textContent = entry.text || entry.url;
-        nestedItem.appendChild(link);
-      } else {
-        nestedItem.textContent = typeof entry === "object" ? entry.text || "" : entry;
-      }
-      nested.appendChild(nestedItem);
-    });
-
-    item.append(number, title, nested);
+    if (isStockFlowBlock) {
+      item.append(number, title, renderStockFlowTable(block.items || []));
+    } else {
+      (block.items || []).forEach((entry) => {
+        const nestedItem = document.createElement("li");
+        if (entry && typeof entry === "object" && entry.url) {
+          const link = document.createElement("a");
+          link.href = entry.url;
+          link.target = "_blank";
+          link.rel = "noreferrer";
+          link.textContent = entry.text || entry.url;
+          nestedItem.appendChild(link);
+        } else {
+          nestedItem.textContent = typeof entry === "object" ? entry.text || "" : entry;
+        }
+        nested.appendChild(nestedItem);
+      });
+      item.append(number, title, nested);
+    }
     list.appendChild(item);
   });
+}
+
+function renderStockFlowTable(items) {
+  const wrap = document.createElement("div");
+  const table = document.createElement("table");
+  const thead = document.createElement("thead");
+  const tbody = document.createElement("tbody");
+  const headerRow = document.createElement("tr");
+
+  wrap.className = "stock-flow-table-wrap";
+  table.className = "stock-flow-table";
+  ["종목", "시장", "5거래일", "거래량", "평균 거래대금"].forEach((label) => {
+    const th = document.createElement("th");
+    th.textContent = label;
+    headerRow.appendChild(th);
+  });
+  thead.appendChild(headerRow);
+
+  items.forEach((entry) => {
+    const row = document.createElement("tr");
+    const name = document.createElement("td");
+    const market = document.createElement("td");
+    const change = document.createElement("td");
+    const volume = document.createElement("td");
+    const turnover = document.createElement("td");
+    const link = document.createElement("a");
+    const changeValue = Number(entry.weekly_change_pct || 0);
+
+    link.href = entry.url || "#";
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = entry.name || "종목명 없음";
+    name.appendChild(link);
+    market.textContent = entry.market || "-";
+    change.className = changeValue > 0 ? "up" : changeValue < 0 ? "down" : "flat";
+    change.textContent = `${Math.abs(changeValue).toFixed(2)}% ${entry.direction || "보합"}`;
+    volume.textContent = `${Number(entry.volume_ratio || 0).toFixed(2)}배`;
+    turnover.textContent = entry.avg_turnover_label || "-";
+
+    row.append(name, market, change, volume, turnover);
+    tbody.appendChild(row);
+  });
+
+  table.append(thead, tbody);
+  wrap.appendChild(table);
+  return wrap;
 }
 
 function formatDateLabel(value) {

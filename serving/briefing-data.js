@@ -1,6 +1,6 @@
 window.DAILY_MARKET_BRIEFING = {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T01:02:14.326627+00:00",
+  "generated_at": "2026-08-27T05:23:48.938674+00:00",
   "headline": "과거 '백투백' 금리인상 때 달러-원 환율 어땠나 - 연합인포맥스 / [이 시각 시황] 코스피 7천피 도전…엔비디아발 AI·반도체 훈풍 확산 - v.daum.net / [포토] 코스피, 장초반 2%대 상승 - 아시아경제",
   "sections": {
     "domestic": {
@@ -366,12 +366,104 @@ window.DAILY_MARKET_BRIEFING = {
       },
       "weekly_blocks": [
         {
-          "title": "한 주간 반복적으로 강했던 테마·섹터",
+          "title": "한 주간 수급 관심이 강했던 종목",
           "items": [
-            "반도체·AI: 관련 기사 19건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 인베스트조선",
-            "조선·방산: 관련 기사 5건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선",
-            "미국 빅테크: 관련 기사 4건, 관찰일 2일, 주요 출처 CME Group, Yahoo Finance, Reuters",
-            "에너지·원자재: 관련 기사 3건, 관찰일 2일, 주요 출처 Investor's Business Daily, 뉴스핌, Reuters"
+            {
+              "type": "stock_flow",
+              "text": "두산에너빌리티 (국내): 최근 5거래일 17.74% 상승, 거래량 1.70배, 평균 거래대금 3067억",
+              "url": "https://finance.yahoo.com/quote/034020.KS",
+              "name": "두산에너빌리티",
+              "market": "국내",
+              "weekly_change_pct": 17.74,
+              "direction": "상승",
+              "volume_ratio": 1.7,
+              "avg_turnover_label": "3067억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "카카오 (국내): 최근 5거래일 0.84% 상승, 거래량 1.48배, 평균 거래대금 1298억",
+              "url": "https://finance.yahoo.com/quote/035720.KS",
+              "name": "카카오",
+              "market": "국내",
+              "weekly_change_pct": 0.84,
+              "direction": "상승",
+              "volume_ratio": 1.48,
+              "avg_turnover_label": "1298억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "LG에너지솔루션 (국내): 최근 5거래일 7.57% 상승, 거래량 0.85배, 평균 거래대금 922억",
+              "url": "https://finance.yahoo.com/quote/373220.KS",
+              "name": "LG에너지솔루션",
+              "market": "국내",
+              "weekly_change_pct": 7.57,
+              "direction": "상승",
+              "volume_ratio": 0.85,
+              "avg_turnover_label": "922억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "HD현대중공업 (국내): 최근 5거래일 2.98% 상승, 거래량 0.73배, 평균 거래대금 848억",
+              "url": "https://finance.yahoo.com/quote/329180.KS",
+              "name": "HD현대중공업",
+              "market": "국내",
+              "weekly_change_pct": 2.98,
+              "direction": "상승",
+              "volume_ratio": 0.73,
+              "avg_turnover_label": "848억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "한화오션 (국내): 최근 5거래일 5.58% 상승, 거래량 0.49배, 평균 거래대금 585억",
+              "url": "https://finance.yahoo.com/quote/042660.KS",
+              "name": "한화오션",
+              "market": "국내",
+              "weekly_change_pct": 5.58,
+              "direction": "상승",
+              "volume_ratio": 0.49,
+              "avg_turnover_label": "585억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "한화에어로스페이스 (국내): 최근 5거래일 5.35% 상승, 거래량 0.49배, 평균 거래대금 1229억",
+              "url": "https://finance.yahoo.com/quote/012450.KS",
+              "name": "한화에어로스페이스",
+              "market": "국내",
+              "weekly_change_pct": 5.35,
+              "direction": "상승",
+              "volume_ratio": 0.49,
+              "avg_turnover_label": "1229억",
+              "as_of": "2026-08-27"
+            },
+            {
+              "type": "stock_flow",
+              "text": "엔비디아 (미국): 최근 5거래일 3.32% 하락, 거래량 1.06배, 평균 거래대금 265억",
+              "url": "https://finance.yahoo.com/quote/NVDA",
+              "name": "엔비디아",
+              "market": "미국",
+              "weekly_change_pct": -3.32,
+              "direction": "하락",
+              "volume_ratio": 1.06,
+              "avg_turnover_label": "265억",
+              "as_of": "2026-08-26"
+            },
+            {
+              "type": "stock_flow",
+              "text": "메타 (미국): 최근 5거래일 5.55% 상승, 거래량 0.94배, 평균 거래대금 92억",
+              "url": "https://finance.yahoo.com/quote/META",
+              "name": "메타",
+              "market": "미국",
+              "weekly_change_pct": 5.55,
+              "direction": "상승",
+              "volume_ratio": 0.94,
+              "avg_turnover_label": "92억",
+              "as_of": "2026-08-26"
+            }
           ]
         },
         {
@@ -3225,12 +3317,104 @@ window.DAILY_MARKET_BRIEFING = {
     },
     "weekly_blocks": [
       {
-        "title": "한 주간 반복적으로 강했던 테마·섹터",
+        "title": "한 주간 수급 관심이 강했던 종목",
         "items": [
-          "반도체·AI: 관련 기사 19건, 관찰일 5일, 주요 출처 Investor's Business Daily, 연합뉴스TV, 인베스트조선",
-          "조선·방산: 관련 기사 5건, 관찰일 3일, 주요 출처 조선일보, 인베스트조선",
-          "미국 빅테크: 관련 기사 4건, 관찰일 2일, 주요 출처 CME Group, Yahoo Finance, Reuters",
-          "에너지·원자재: 관련 기사 3건, 관찰일 2일, 주요 출처 Investor's Business Daily, 뉴스핌, Reuters"
+          {
+            "type": "stock_flow",
+            "text": "두산에너빌리티 (국내): 최근 5거래일 17.74% 상승, 거래량 1.70배, 평균 거래대금 3067억",
+            "url": "https://finance.yahoo.com/quote/034020.KS",
+            "name": "두산에너빌리티",
+            "market": "국내",
+            "weekly_change_pct": 17.74,
+            "direction": "상승",
+            "volume_ratio": 1.7,
+            "avg_turnover_label": "3067억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "카카오 (국내): 최근 5거래일 0.84% 상승, 거래량 1.48배, 평균 거래대금 1298억",
+            "url": "https://finance.yahoo.com/quote/035720.KS",
+            "name": "카카오",
+            "market": "국내",
+            "weekly_change_pct": 0.84,
+            "direction": "상승",
+            "volume_ratio": 1.48,
+            "avg_turnover_label": "1298억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "LG에너지솔루션 (국내): 최근 5거래일 7.57% 상승, 거래량 0.85배, 평균 거래대금 922억",
+            "url": "https://finance.yahoo.com/quote/373220.KS",
+            "name": "LG에너지솔루션",
+            "market": "국내",
+            "weekly_change_pct": 7.57,
+            "direction": "상승",
+            "volume_ratio": 0.85,
+            "avg_turnover_label": "922억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "HD현대중공업 (국내): 최근 5거래일 2.98% 상승, 거래량 0.73배, 평균 거래대금 848억",
+            "url": "https://finance.yahoo.com/quote/329180.KS",
+            "name": "HD현대중공업",
+            "market": "국내",
+            "weekly_change_pct": 2.98,
+            "direction": "상승",
+            "volume_ratio": 0.73,
+            "avg_turnover_label": "848억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "한화오션 (국내): 최근 5거래일 5.58% 상승, 거래량 0.49배, 평균 거래대금 585억",
+            "url": "https://finance.yahoo.com/quote/042660.KS",
+            "name": "한화오션",
+            "market": "국내",
+            "weekly_change_pct": 5.58,
+            "direction": "상승",
+            "volume_ratio": 0.49,
+            "avg_turnover_label": "585억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "한화에어로스페이스 (국내): 최근 5거래일 5.35% 상승, 거래량 0.49배, 평균 거래대금 1229억",
+            "url": "https://finance.yahoo.com/quote/012450.KS",
+            "name": "한화에어로스페이스",
+            "market": "국내",
+            "weekly_change_pct": 5.35,
+            "direction": "상승",
+            "volume_ratio": 0.49,
+            "avg_turnover_label": "1229억",
+            "as_of": "2026-08-27"
+          },
+          {
+            "type": "stock_flow",
+            "text": "엔비디아 (미국): 최근 5거래일 3.32% 하락, 거래량 1.06배, 평균 거래대금 265억",
+            "url": "https://finance.yahoo.com/quote/NVDA",
+            "name": "엔비디아",
+            "market": "미국",
+            "weekly_change_pct": -3.32,
+            "direction": "하락",
+            "volume_ratio": 1.06,
+            "avg_turnover_label": "265억",
+            "as_of": "2026-08-26"
+          },
+          {
+            "type": "stock_flow",
+            "text": "메타 (미국): 최근 5거래일 5.55% 상승, 거래량 0.94배, 평균 거래대금 92억",
+            "url": "https://finance.yahoo.com/quote/META",
+            "name": "메타",
+            "market": "미국",
+            "weekly_change_pct": 5.55,
+            "direction": "상승",
+            "volume_ratio": 0.94,
+            "avg_turnover_label": "92억",
+            "as_of": "2026-08-26"
+          }
         ]
       },
       {
@@ -5743,6 +5927,7 @@ window.DAILY_MARKET_BRIEFING = {
     "news_source": "google-news-rss",
     "price_source": "dynamic-public-chart",
     "fear_greed_source": "dynamic-public-fear-greed",
+    "stock_flow_source": "dynamic-public-stock-flow",
     "news_query_counts": {
       "domestic": 15,
       "us": 15,
@@ -5755,7 +5940,8 @@ window.DAILY_MARKET_BRIEFING = {
     },
     "news_errors": [],
     "price_errors": [],
-    "fear_greed_errors": []
+    "fear_greed_errors": [],
+    "stock_flow_errors": []
   },
   "meta": {
     "mode": "dynamic-content-classified-us-market",
