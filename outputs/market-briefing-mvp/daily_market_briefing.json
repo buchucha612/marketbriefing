@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T07:08:33.503685+00:00",
+  "generated_at": "2026-08-27T07:12:31.189997+00:00",
   "headline": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 / 속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN",
   "sections": {
     "domestic": {
@@ -177,7 +177,7 @@
           "secondary_topics": []
         }
       ],
-      "article_count": 26,
+      "article_count": 29,
       "empty_message": ""
     },
     "macro": {
@@ -2949,7 +2949,7 @@
       "prices": [],
       "articles": [],
       "article_count": 0,
-      "empty_message": "내용 기반 분류 결과 이 섹션에 배치된 기사가 없습니다."
+      "empty_message": "아직 이 섹션에 표시할 기사가 없습니다."
     }
   },
   "domestic": {
@@ -3126,7 +3126,7 @@
         "secondary_topics": []
       }
     ],
-    "article_count": 26,
+    "article_count": 29,
     "empty_message": ""
   },
   "macro": {
@@ -5898,7 +5898,7 @@
     "prices": [],
     "articles": [],
     "article_count": 0,
-    "empty_message": "내용 기반 분류 결과 이 섹션에 배치된 기사가 없습니다."
+    "empty_message": "아직 이 섹션에 표시할 기사가 없습니다."
   },
   "classification_summary": {
     "method": "content_keyword_score",

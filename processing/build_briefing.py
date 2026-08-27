@@ -956,6 +956,7 @@ def summarize_section(topic: str, news: list[dict], prices: list[dict]) -> str:
 
 
 def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
+    original_news_count = len(news)
     if topic == "us":
         news = [
             item
@@ -981,9 +982,23 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
         "summary": summarize_section(topic, news, prices),
         "prices": [price_line(item) for item in prices],
         "articles": cards,
-        "article_count": len(news),
-        "empty_message": "내용 기반 분류 결과 이 섹션에 배치된 기사가 없습니다." if not cards else "",
+        "article_count": len(news) if topic != "us" else original_news_count,
+        "empty_message": empty_section_message(topic, original_news_count) if not cards else "",
     }
+
+
+def empty_section_message(topic: str, original_news_count: int = 0) -> str:
+    if topic == "us" and original_news_count:
+        return "번역 품질 기준을 통과한 미국 증시 기사가 아직 없습니다. 다음 자동 갱신 때 다시 확인합니다."
+    if topic == "us":
+        return "아직 수집된 미국 증시 기사가 없습니다."
+    if topic == "macro":
+        return "아직 수집된 시장지표 관련 기사가 없습니다."
+    if topic == "sector":
+        return "아직 수집된 섹터/테마 기사가 없습니다."
+    if topic == "domestic":
+        return "아직 수집된 국내 증시 기사가 없습니다."
+    return "아직 이 섹션에 표시할 기사가 없습니다."
 
 
 def build_headline(news_items: list[dict]) -> str:
@@ -1022,6 +1037,13 @@ def build_briefing(
     if sector_news:
         domestic_news = domestic_news + [item for item in sector_news if "domestic" in item.get("secondary_topics", [])]
         us_news = us_news + [item for item in sector_news if "us" in item.get("secondary_topics", [])]
+    if len(us_news) < 8:
+        us_news = us_news + [
+            item
+            for item in news_items
+            if "us" in item.get("topic_hints", [])
+            and item not in us_news
+        ]
 
     sections = {
         "domestic": build_section("domestic", price_groups.get("domestic", []), domestic_news),
