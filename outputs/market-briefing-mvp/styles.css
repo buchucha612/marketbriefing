@@ -462,11 +462,10 @@ h2 {
 
 .feargreed-card {
   display: grid;
-  gap: 14px;
-  min-height: 220px;
-  padding: 18px;
+  gap: 12px;
+  min-height: 300px;
+  padding: 18px 18px 16px;
   border: 1px solid var(--line);
-  border-top: 5px solid #857b6e;
   border-radius: 7px;
   background: #fffdf8;
 }
@@ -489,35 +488,105 @@ h2 {
 }
 
 .feargreed-gauge {
+  display: grid;
+  justify-items: center;
+  gap: 8px;
+  padding-top: 6px;
+}
+
+.feargreed-arc {
+  position: relative;
+  width: min(100%, 260px);
+  aspect-ratio: 2 / 1;
+  overflow: hidden;
+}
+
+.feargreed-arc::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 999px 999px 0 0;
+  background:
+    conic-gradient(
+      from 270deg at 50% 100%,
+      #a92b24 0deg 36deg,
+      #d84e48 36deg 72deg,
+      #efc84a 72deg 108deg,
+      #68bd67 108deg 144deg,
+      #3f7f5f 144deg 180deg,
+      transparent 180deg 360deg
+    );
+}
+
+.feargreed-arc::after {
+  content: "";
+  position: absolute;
+  left: 12%;
+  right: 12%;
+  bottom: 0;
+  height: 76%;
+  border-radius: 999px 999px 0 0;
+  background: #fffdf8;
+}
+
+.feargreed-needle {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  z-index: 2;
+  width: 8px;
+  height: 76%;
+  border-radius: 999px;
+  background: #111;
+  transform-origin: 50% 100%;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05);
+}
+
+.feargreed-hub {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  z-index: 3;
+  width: 34px;
+  height: 34px;
+  border: 10px solid #111;
+  border-radius: 50%;
+  background: #fffdf8;
+  transform: translate(-50%, 50%);
+}
+
+.feargreed-scale {
   display: flex;
-  align-items: baseline;
-  gap: 10px;
+  justify-content: space-between;
+  width: min(100%, 260px);
+  color: #776e64;
+  font-size: 18px;
+  font-weight: 900;
 }
 
 .feargreed-gauge b {
   color: var(--ink);
-  font-size: 48px;
-  line-height: 0.95;
+  font-size: 40px;
+  line-height: 1;
 }
 
-.feargreed-gauge span {
-  color: var(--muted);
-  font-size: 14px;
+.feargreed-current {
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1;
+  margin-top: -2px;
   font-weight: 900;
 }
 
-.feargreed-bar {
-  overflow: hidden;
-  height: 10px;
-  border-radius: 999px;
-  background: #ece7dd;
+.feargreed-gauge .feargreed-scale span {
+  color: #776e64;
+  font-size: 18px;
 }
 
-.feargreed-bar i {
-  display: block;
-  height: 100%;
-  border-radius: inherit;
-  background: #857b6e;
+.feargreed-sentiment {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 900;
 }
 
 .feargreed-change,
@@ -537,33 +606,33 @@ h2 {
 }
 
 .feargreed-card.fear-extreme,
-.feargreed-card.fear-extreme .feargreed-bar i {
+.feargreed-card.fear-extreme .feargreed-sentiment {
   border-top-color: #b64b44;
-  background-color: #b64b44;
+  color: #b64b44;
 }
 
 .feargreed-card.fear,
-.feargreed-card.fear .feargreed-bar i {
+.feargreed-card.fear .feargreed-sentiment {
   border-top-color: #d48638;
-  background-color: #d48638;
+  color: #d48638;
 }
 
 .feargreed-card.neutral,
-.feargreed-card.neutral .feargreed-bar i {
+.feargreed-card.neutral .feargreed-sentiment {
   border-top-color: #8c8f58;
-  background-color: #8c8f58;
+  color: #8c8f58;
 }
 
 .feargreed-card.greed,
-.feargreed-card.greed .feargreed-bar i {
+.feargreed-card.greed .feargreed-sentiment {
   border-top-color: #408b66;
-  background-color: #408b66;
+  color: #408b66;
 }
 
 .feargreed-card.greed-extreme,
-.feargreed-card.greed-extreme .feargreed-bar i {
+.feargreed-card.greed-extreme .feargreed-sentiment {
   border-top-color: #176f75;
-  background-color: #176f75;
+  color: #176f75;
 }
 
 .feargreed-card.fear-extreme,
@@ -571,6 +640,7 @@ h2 {
 .feargreed-card.neutral,
 .feargreed-card.greed,
 .feargreed-card.greed-extreme {
+  border-top-width: 5px;
   background: #fffdf8;
 }
 

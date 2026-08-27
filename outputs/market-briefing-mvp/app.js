@@ -454,14 +454,19 @@ function renderFearGreed(section) {
       const market = document.createElement("span");
       const title = document.createElement("strong");
       const gauge = document.createElement("div");
+      const arc = document.createElement("div");
+      const needle = document.createElement("i");
+      const hub = document.createElement("span");
+      const scale = document.createElement("div");
+      const currentText = document.createElement("span");
       const value = document.createElement("b");
       const label = document.createElement("span");
-      const bar = document.createElement("div");
-      const fill = document.createElement("i");
       const change = document.createElement("p");
       const meta = document.createElement("p");
 
       const score = Number(indicator.value || 0);
+      const boundedScore = Math.max(0, Math.min(100, score));
+      const rotation = -90 + (boundedScore * 1.8);
       const direction = indicator.direction || "비교 불가";
       const changeValue = indicator.change === null || indicator.change === undefined
         ? ""
@@ -472,19 +477,26 @@ function renderFearGreed(section) {
       market.textContent = indicator.market || "시장";
       title.textContent = indicator.name;
       gauge.className = "feargreed-gauge";
+      arc.className = "feargreed-arc";
+      needle.className = "feargreed-needle";
+      needle.style.transform = `translateX(-50%) rotate(${rotation}deg)`;
+      hub.className = "feargreed-hub";
+      scale.className = "feargreed-scale";
+      scale.innerHTML = "<span>0</span><span>100</span>";
+      currentText.className = "feargreed-current";
+      currentText.textContent = "현재 지수";
       value.textContent = score;
+      label.className = "feargreed-sentiment";
       label.textContent = indicator.label || "";
-      bar.className = "feargreed-bar";
-      fill.style.width = `${Math.max(0, Math.min(100, score))}%`;
       change.className = "feargreed-change";
       change.textContent = `전일 대비 ${direction}${changeValue}`;
       meta.className = "feargreed-meta";
       meta.textContent = `${formatIndicatorDate(indicator.updated_at)} · ${indicator.method || indicator.source_name || ""}`;
 
       head.append(market, title);
-      gauge.append(value, label);
-      bar.appendChild(fill);
-      card.append(head, gauge, bar, change, meta);
+      arc.append(needle, hub);
+      gauge.append(arc, scale, currentText, value, label);
+      card.append(head, gauge, change, meta);
       cards.appendChild(card);
     });
     dashboard.appendChild(cards);
