@@ -152,6 +152,100 @@ def translate_headline(text: str) -> str:
     return translated or text
 
 
+def fallback_translate_headline(text: str) -> str:
+    if not text:
+        return text
+    source = ""
+    body = text
+    if " - " in text:
+        body, source = text.rsplit(" - ", 1)
+        source = f" - {source}"
+
+    replacements = [
+        ("Dow Jones Futures", "다우존스 선물"),
+        ("Nasdaq Futures", "나스닥 선물"),
+        ("S&P 500 Futures", "S&P 500 선물"),
+        ("Wall Street stocks", "월스트리트 주식"),
+        ("U.S. Stocks", "미국 주식"),
+        ("Stock Market Today", "오늘의 주식시장"),
+        ("Market Rally", "시장 랠리"),
+        ("Earnings Movers", "실적 관련 변동 종목"),
+        ("hot inflation data", "높은 인플레이션 지표"),
+        ("sales forecast", "매출 전망"),
+        ("strong quarter", "강한 분기 실적"),
+        ("eye-popping", "깜짝"),
+        ("Investors Brace", "투자자들이 대비"),
+        ("Chip Giant", "반도체 대형주"),
+        ("Healthcare", "헬스케어"),
+        ("Wall Street", "월스트리트"),
+        ("Nvidia", "엔비디아"),
+        ("Microsoft", "마이크로소프트"),
+        ("Apple", "애플"),
+        ("Alphabet", "알파벳"),
+        ("Google", "구글"),
+        ("Amazon", "아마존"),
+        ("Meta", "메타"),
+        ("Tesla", "테슬라"),
+        ("Salesforce", "세일즈포스"),
+        ("CrowdStrike", "크라우드스트라이크"),
+        ("Okta", "옥타"),
+        ("Micron", "마이크론"),
+        ("Dow", "다우"),
+        ("Nasdaq", "나스닥"),
+        ("stocks", "주식"),
+        ("stock", "주식"),
+        ("futures", "선물"),
+        ("rise", "상승"),
+        ("rises", "상승"),
+        ("higher", "상승"),
+        ("gain", "상승"),
+        ("gains", "상승"),
+        ("surge", "급등"),
+        ("jumps", "급등"),
+        ("slides", "하락"),
+        ("lower", "하락"),
+        ("mixed", "혼조"),
+        ("ends", "마감"),
+        ("end", "마감"),
+        ("ahead of", "앞두고"),
+        ("after", "이후"),
+        ("with", "함께"),
+        ("as", "속"),
+        ("lead", "주도"),
+        ("results", "실적"),
+        ("earnings", "실적"),
+        ("forecast", "전망"),
+        ("inflation", "인플레이션"),
+        ("data", "지표"),
+        ("investors", "투자자들"),
+        ("serve", "서비스"),
+        ("wows", "긍정적 반응 유도"),
+        ("wow", "긍정적 반응 유도"),
+        ("quarter", "분기 실적"),
+        ("sales", "매출"),
+        ("forecast", "전망"),
+        ("results", "실적"),
+        ("less-than-perfect", "기대 이하"),
+        ("pull", "끌어내림"),
+        ("pulls", "끌어내림"),
+        ("healthcare", "헬스케어"),
+        ("should", ""),
+        ("not", "아닌"),
+        ("and", "및"),
+        ("or", "또는"),
+        ("the", ""),
+        ("a", ""),
+        ("an", ""),
+    ]
+    translated = body
+    for source_text, target_text in replacements:
+        translated = re.sub(re.escape(source_text), target_text, translated, flags=re.IGNORECASE)
+    translated = re.sub(r"\s+", " ", translated).strip(" ;:|")
+    if is_likely_english(translated):
+        translated = f"미국 증시 헤드라인: {translated}"
+    return translated + source
+
+
 def is_likely_english(text: str) -> bool:
     letters = re.findall(r"[A-Za-z]", text or "")
     korean = re.findall(r"[가-힣]", text or "")
@@ -161,6 +255,8 @@ def is_likely_english(text: str) -> bool:
 def translated_display_title(title: str, should_translate: bool) -> tuple[str, str]:
     if should_translate and is_likely_english(title):
         translated = translate_headline(title)
+        if is_likely_english(translated):
+            translated = fallback_translate_headline(title)
         return translated, translated
     return title, ""
 

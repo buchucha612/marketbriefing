@@ -958,7 +958,7 @@ def summarize_section(topic: str, news: list[dict], prices: list[dict]) -> str:
 def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
     cards = [
         {
-            "title": item["title"],
+            "title": item.get("title_ko") or item["title"],
             "source": item.get("source", ""),
             "url": item.get("url", ""),
             "published_at": item.get("published_at", ""),
