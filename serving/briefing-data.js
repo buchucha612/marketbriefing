@@ -1,7 +1,7 @@
 window.DAILY_MARKET_BRIEFING = {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T07:01:12.781501+00:00",
-  "headline": "구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원 - AI타임스 / 한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스",
+  "generated_at": "2026-08-27T07:08:33.503685+00:00",
+  "headline": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 / 속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN",
   "sections": {
     "domestic": {
       "id": "domestic",
@@ -51,6 +51,14 @@ window.DAILY_MARKET_BRIEFING = {
           "secondary_topics": []
         },
         {
+          "title": "코스피, 1.53% 상승 마감…코스닥도 1.3%↑ - 연합뉴스TV",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mMzNKUFpuclBiTjFRd3NLUWNYd3BiRzh6QVFPRzFvWURidHVwdVNibFFfem04V1p5alJrVTZueG1DNFF0UXgzTWFjM0Y1MVRXTndHUlVrajNobjdqTGx3RTV3RWdZYk0?oc=5",
+          "published_at": "2026-08-27T06:35:00+00:00",
+          "primary_topic": "domestic",
+          "secondary_topics": []
+        },
+        {
           "title": "코스피, 엔비디아 온기에 7000선 눈앞… 한은 금리 인상 충격 제한적 - 조선비즈 - Chosunbiz",
           "source": "Chosunbiz",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3VwRWNzTmQ0ZEw3amNtanhQQnI1MUtyUTRBcFBuQU9JSnlHT3F5QWlFcEVqdjhhcEFKOGc1RlFjQ2p1RWlvR1pzZ2pHUENtM1FpTFhPVmZ5cWt3THJHN003TW9vMF9TdHlJU0c1MVAxTGk2ZVR4NmgtTldoWG53VHFaeC1LWURx0gGcAUFVX3lxTFBTenVHRHdxcFNDQTJoQ1FYSUFHbmRyMnphLWM3T0NzX3hyNkNKTE1lX3BJMjEwWkpWVVBUNnBMNlRyVnZzVEpvODA0UmY2MDRjZ1BYaTZva3ZyRjRDV0xLTzdQbW1lNm1IVlR1UUlJaXFQa2pWd0lzNDNmZGpxZFVzZmJ5dzYzbnJhM1FlTUZRWmlnMEVrZU9fU0J1Yw?oc=5",
@@ -79,20 +87,9 @@ window.DAILY_MARKET_BRIEFING = {
           "secondary_topics": [
             "sector"
           ]
-        },
-        {
-          "title": "엔비디아발 훈풍에 웃는 코스피…금리인상에 상승폭 1%로 축소 - 경향신문",
-          "source": "경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41REtWX1FFYUl4YzA3RjRzbC0xcWtlZjY2enJhWm1IX3lFcXZYMjhJbkJ3elhqMUVKckVTWXZmbWZHZXVmbXNjV3dzMGpJY0tlR3dGME5ySTAwZ9IBX0FVX3lxTFBaYzZHU0JuaW5sWTRmODNlUEoyVjBRSVd6YllvUzNveHh6UllGVjYxNWJxYkdKNFY3Mlh4RXJfc08zRW5reFhkczRpR3RCa1Nqems0RTdLZHJHWjk1SktZ?oc=5",
-          "published_at": "2026-08-27T01:38:00+00:00",
-          "primary_topic": "domestic",
-          "secondary_topics": [
-            "macro",
-            "us"
-          ]
         }
       ],
-      "article_count": 36,
+      "article_count": 35,
       "empty_message": ""
     },
     "us": {
@@ -116,7 +113,7 @@ window.DAILY_MARKET_BRIEFING = {
           ]
         },
         {
-          "title": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 주도 실적 관련 변동 종목 - Investor's Business Daily",
+          "title": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 실적 변동 종목을 주도 - Investor's Business Daily",
           "source": "Investor's Business Daily",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
           "published_at": "2026-08-27T02:59:00+00:00",
@@ -126,7 +123,7 @@ window.DAILY_MARKET_BRIEFING = {
           ]
         },
         {
-          "title": "Nvidia는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC",
+          "title": "엔비디아는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC",
           "source": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BhMFhpNnl1SnpmVDRfLTFSLXNCNXFMM3hPYjRxMTFHSnR6YTNGNk5SSkM0WUl5VFZLXzRRR2dqdkk5bDA0aWFFMnU5cnRwSEhNeEd6S2NiS0RUd1JuZWppQ0pPbTdPaUF6TzVHZXlQMV95bnV1aDVKb2t4cGQ0R2cxZkVKZlV0WnhuNTVIckJhaXUxY0hpRzU3Z0l1MkVyQmg2QUZGZWV0WHBLeEE?oc=5",
           "published_at": "2026-08-27T00:46:00+00:00",
@@ -134,6 +131,14 @@ window.DAILY_MARKET_BRIEFING = {
           "secondary_topics": [
             "macro"
           ]
+        },
+        {
+          "title": "S&P 500, Dow, Nasdaq 선물은 강력한 2028 회계연도 매출 전망에 엔비디아 주가 상승 흐름을 따라갑니다 — NVDA, CRM, META, CRWD, OKTA 주목 - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbE11c2s1NllZQTBjMnhCR1cxc0xYNUQ3MUdlT3Vna24zOWlwQm40TDlxdHR0OVpHWnJ0U192TldzdlU0bTNwWUI3UnRhN3hIQnc3eDZwVk95aFRmb2ZOclI0Y216Q2FiLWI1V0pyUHUxZGRoSkRka2dfZFBuQl9uV1FiN0ZteTJkNmZSQkx2d3hhTGc?oc=5",
+          "published_at": "2026-08-26T23:53:54+00:00",
+          "primary_topic": "us",
+          "secondary_topics": []
         },
         {
           "title": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
@@ -164,32 +169,21 @@ window.DAILY_MARKET_BRIEFING = {
           "secondary_topics": []
         },
         {
-          "title": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+          "title": "투자자들은 완벽하지 않은 엔비디아 결과에 대비하고 주가 하락 - WSJ",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzBiRmFiNDdidEUxSTZxeExZY1ZRenl0OUdENXBSX2FUWElKSF9fSmlEcTg1alhxOXltcHBPbmhoR0swZWx0TDdLZUxyZm1VZFdSU1pTOXV3OFkzbTY3eDZNUFV6M21yaDY4bFFZREZnUTczUkxfc0RWcTFuOGkxYW1KQWZCTmNQWjBYQkdaZzUwMVBHaEFVbTRSdDFvT3AtYVo3aU14SWZiUlFUYlZGZ1p5Tlk?oc=5",
           "published_at": "2026-08-26T21:13:00+00:00",
           "primary_topic": "us",
           "secondary_topics": []
-        },
-        {
-          "title": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
-          "published_at": "2026-08-26T20:26:00+00:00",
-          "primary_topic": "us",
-          "secondary_topics": [
-            "macro",
-            "sector"
-          ]
         }
       ],
-      "article_count": 28,
+      "article_count": 26,
       "empty_message": ""
     },
     "macro": {
       "id": "macro",
       "title": "시장지표 관련",
-      "summary": "시장지표 관련 핵심 기사: 아시아 외환 혼조세, 잭슨홀 앞두고 달러 강세 유지…원화 한은 금리인상에 상승 - Investing.com",
+      "summary": "시장지표 관련 핵심 기사: 기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토",
       "prices": [
         "원/달러 환율: 1,383.90원 (전일 대비 0.50% 하락, 2026-08-23 기준)",
         "원/엔 환율(100엔): 869.40원 (전일 대비 0.69% 하락, 2026-08-21 기준)",
@@ -205,6 +199,24 @@ window.DAILY_MARKET_BRIEFING = {
         "이더리움: $2,394.00 (전일 대비 1.25% 하락, 2026-08-23 기준)"
       ],
       "articles": [
+        {
+          "title": "기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토",
+          "source": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQ092NldySkE4d1hyWXBtaWpieE10OHZNS29ybWdtb1lIWWRSdlFNWlVnWk5xR2F3Z2NYSjhGcm8zZzVlVmJvNDBLNjBRSnI0dE9BT09ybzVvX2h2N1h2Wg?oc=5",
+          "published_at": "2026-08-27T06:07:09+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": []
+        },
+        {
+          "title": "한은, 기준금리 0.25%포인트 올려…코로나 후 첫 연속 인상 - 조선일보",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmU2djBkLS0xX3VMcGNHX0p4SmZtQWVkSVhyMHJkMUxKSzEtNHVNZlhTV2hiX0J5X2FyVEtWQ1B1S1AtNThQX1I1Qzh6RFVwTWtrMTNuMERRc0ZnZkNQVVpFeEI0cFpDV182Sm5kWXpieExqa1JMdmZ0UXBtczlLSnVYZkIwQ2o0TldPRGdR?oc=5",
+          "published_at": "2026-08-27T06:03:37+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": [
+            "sector"
+          ]
+        },
         {
           "title": "아시아 외환 혼조세, 잭슨홀 앞두고 달러 강세 유지…원화 한은 금리인상에 상승 - Investing.com",
           "source": "Investing.com",
@@ -254,22 +266,6 @@ window.DAILY_MARKET_BRIEFING = {
           "published_at": "2026-08-27T03:11:48+00:00",
           "primary_topic": "macro",
           "secondary_topics": []
-        },
-        {
-          "title": "[속보] 한은 총재 \"환율 아직 높아…원화 좀 더 강해져야 바람직\" - 연합뉴스TV",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LVpTUWt5eVM0eEtjakJibGJlX3YwZFdNYTBnNXJodEV1VlhYUWNyczMxRWlFVHhpY040aGlTOGl3bHV5ZURDOTdybG9uUkkxbmROR251VDJ0Z0hQZ1ptdUt2bWhWcHM?oc=5",
-          "published_at": "2026-08-27T02:51:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
-        },
-        {
-          "title": "한국은행, 기준금리 0.25%p 인상…두번 연속 올려 3.0% 진입 - 연합뉴스TV",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ob3BXQVdEZ2hwR2lrMXo5c3kzZnNPaVZrZXhVWl83R2tfc2o1aFdqUUxscDBKV0RITkhsd09RZk5SSkVHaHI0c19WZ28wV01sbXFnTWxfWXZBR3ZuRlNTdFpRYXdOLWM?oc=5",
-          "published_at": "2026-08-27T01:07:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
         }
       ],
       "article_count": 32,
@@ -278,17 +274,9 @@ window.DAILY_MARKET_BRIEFING = {
     "sector": {
       "id": "sector",
       "title": "섹터/테마",
-      "summary": "섹터/테마 핵심 기사: 구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원 - AI타임스",
+      "summary": "섹터/테마 핵심 기사: 빌 게이츠, AI 대혼란 경고… \"인간 전용 영역·로봇세 필요\" - 조선일보",
       "prices": [],
       "articles": [
-        {
-          "title": "구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원 - AI타임스",
-          "source": "AI타임스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMGJTeWE5YzdFdzhHWnJkeUIzUnZxVHJFSXBfTjRWYlFLalpTT0xRV191eS1ENW9Ebmh1cmJiVTRPZHlZb3NnY2NFbUJ5NnNOMGUtZlY0Ym5fekZfYnA2YktiZXQ1MzM2emc?oc=5",
-          "published_at": "2026-08-27T06:46:39+00:00",
-          "primary_topic": "sector",
-          "secondary_topics": []
-        },
         {
           "title": "빌 게이츠, AI 대혼란 경고… \"인간 전용 영역·로봇세 필요\" - 조선일보",
           "source": "조선일보",
@@ -302,6 +290,16 @@ window.DAILY_MARKET_BRIEFING = {
           "source": "연합인포맥스",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SGZ1aUlraHRQMk44dTJTeTgwZHZrX3I0a3F2MXZMVExnQnUzaS0wVVZrWHE5VmtrQUh1WTgySDQwRkU1YlVGeEJ1dlRxODF2T2g1MHNnNURDLWlTU1F6cmFGaVdjaWRKNlRfaWlPZmw?oc=5",
           "published_at": "2026-08-27T06:33:12+00:00",
+          "primary_topic": "sector",
+          "secondary_topics": [
+            "us"
+          ]
+        },
+        {
+          "title": "엔비디아, 2분기 매출 두배 껑충…“AI 성장세 안 꺾였다” - 농민신문",
+          "source": "농민신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZ21MRGF1ejNzRlZvOU1GbXBFZUl3V2lncVMtejBvQzhzMzhnbWZoUFlFazBkUkVuU09HZ2lZajNuc1ZIdHdoMEZ5NmI2XzZhVTdTSFg0UFdwQQ?oc=5",
+          "published_at": "2026-08-27T06:30:00+00:00",
           "primary_topic": "sector",
           "secondary_topics": [
             "us"
@@ -332,34 +330,32 @@ window.DAILY_MARKET_BRIEFING = {
           "secondary_topics": []
         },
         {
-          "title": "AI에 대한 빌 게이츠의 5,784 단어 경고에서 세 가지 시사점: '계획은 없다' - WSJ",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjIxOHE0MUFHcnhtSUdqQzdlWUFtU3Yxay1OM3NGd0M3TzFjRjVwUUE5VGtVa1diOXN3NE5SSFpZaVF3cUJhamgzeUI5bHpDUXhRZE1uWG9hR2NxQzhJbGIzM1hEMUtmVEdqR1VBY3huTE05dDhxUGhQQjZlZEo2LWUxZDJQdnBzWXdFYWIyNWYxa1VwVGRpYjFSbkVuc2c1YXpMSTdSRkVJOWkwZjlOeQ?oc=5",
-          "published_at": "2026-08-27T05:43:57+00:00",
-          "primary_topic": "sector",
-          "secondary_topics": [
-            "us"
-          ]
-        },
-        {
           "title": "[AI픽] 과기2차관 \"한국 AI 35점…피지컬 AI는 세계 1강 목표\" - v.daum.net",
           "source": "v.daum.net",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sQVZ5eWdOTzk5QW5NeU5UVlFPQnRmcEtSQTNUMk83T0JhYTN3bUdmZS1sU0Z1ODdsU3g2OUFBSkpDTGprcG1HT2hOa0lkcUk?oc=5",
           "published_at": "2026-08-27T05:24:37+00:00",
           "primary_topic": "sector",
           "secondary_topics": []
+        },
+        {
+          "title": "KT, ‘모두의 AI’ 청사진 발표...“국민의 일상에 AI” - 디일렉",
+          "source": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RXpydmJMYWctSndUcUpDT2l6MDFvd3o3NFNWTHYzVmFtM1VqVHVIdjJfTDZPQTJpcF9tZER3dFJURzg2Y040VmRjTFhfVG1BdjJrZ21ZTFA3YVB0RVdMRjNPU2kxUQ?oc=5",
+          "published_at": "2026-08-27T05:20:13+00:00",
+          "primary_topic": "sector",
+          "secondary_topics": []
         }
       ],
-      "article_count": 33,
+      "article_count": 32,
       "empty_message": ""
     },
     "weekly": {
       "id": "weekly",
       "title": "금주의 브리핑",
-      "summary": "8월 17일~8월 22일 기준으로 수집된 기사 52건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+      "summary": "8월 17일~8월 22일 기준으로 수집된 기사 51건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
       "prices": [],
       "articles": [],
-      "article_count": 52,
+      "article_count": 51,
       "weekly_period": {
         "start": "2026-08-17",
         "end": "2026-08-22",
@@ -3004,6 +3000,14 @@ window.DAILY_MARKET_BRIEFING = {
         "secondary_topics": []
       },
       {
+        "title": "코스피, 1.53% 상승 마감…코스닥도 1.3%↑ - 연합뉴스TV",
+        "source": "연합뉴스TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mMzNKUFpuclBiTjFRd3NLUWNYd3BiRzh6QVFPRzFvWURidHVwdVNibFFfem04V1p5alJrVTZueG1DNFF0UXgzTWFjM0Y1MVRXTndHUlVrajNobjdqTGx3RTV3RWdZYk0?oc=5",
+        "published_at": "2026-08-27T06:35:00+00:00",
+        "primary_topic": "domestic",
+        "secondary_topics": []
+      },
+      {
         "title": "코스피, 엔비디아 온기에 7000선 눈앞… 한은 금리 인상 충격 제한적 - 조선비즈 - Chosunbiz",
         "source": "Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb3VwRWNzTmQ0ZEw3amNtanhQQnI1MUtyUTRBcFBuQU9JSnlHT3F5QWlFcEVqdjhhcEFKOGc1RlFjQ2p1RWlvR1pzZ2pHUENtM1FpTFhPVmZ5cWt3THJHN003TW9vMF9TdHlJU0c1MVAxTGk2ZVR4NmgtTldoWG53VHFaeC1LWURx0gGcAUFVX3lxTFBTenVHRHdxcFNDQTJoQ1FYSUFHbmRyMnphLWM3T0NzX3hyNkNKTE1lX3BJMjEwWkpWVVBUNnBMNlRyVnZzVEpvODA0UmY2MDRjZ1BYaTZva3ZyRjRDV0xLTzdQbW1lNm1IVlR1UUlJaXFQa2pWd0lzNDNmZGpxZFVzZmJ5dzYzbnJhM1FlTUZRWmlnMEVrZU9fU0J1Yw?oc=5",
@@ -3032,20 +3036,9 @@ window.DAILY_MARKET_BRIEFING = {
         "secondary_topics": [
           "sector"
         ]
-      },
-      {
-        "title": "엔비디아발 훈풍에 웃는 코스피…금리인상에 상승폭 1%로 축소 - 경향신문",
-        "source": "경향신문",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41REtWX1FFYUl4YzA3RjRzbC0xcWtlZjY2enJhWm1IX3lFcXZYMjhJbkJ3elhqMUVKckVTWXZmbWZHZXVmbXNjV3dzMGpJY0tlR3dGME5ySTAwZ9IBX0FVX3lxTFBaYzZHU0JuaW5sWTRmODNlUEoyVjBRSVd6YllvUzNveHh6UllGVjYxNWJxYkdKNFY3Mlh4RXJfc08zRW5reFhkczRpR3RCa1Nqems0RTdLZHJHWjk1SktZ?oc=5",
-        "published_at": "2026-08-27T01:38:00+00:00",
-        "primary_topic": "domestic",
-        "secondary_topics": [
-          "macro",
-          "us"
-        ]
       }
     ],
-    "article_count": 36,
+    "article_count": 35,
     "empty_message": ""
   },
   "us": {
@@ -3069,7 +3062,7 @@ window.DAILY_MARKET_BRIEFING = {
         ]
       },
       {
-        "title": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 주도 실적 관련 변동 종목 - Investor's Business Daily",
+        "title": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 실적 변동 종목을 주도 - Investor's Business Daily",
         "source": "Investor's Business Daily",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
         "published_at": "2026-08-27T02:59:00+00:00",
@@ -3079,7 +3072,7 @@ window.DAILY_MARKET_BRIEFING = {
         ]
       },
       {
-        "title": "Nvidia는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC",
+        "title": "엔비디아는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC",
         "source": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BhMFhpNnl1SnpmVDRfLTFSLXNCNXFMM3hPYjRxMTFHSnR6YTNGNk5SSkM0WUl5VFZLXzRRR2dqdkk5bDA0aWFFMnU5cnRwSEhNeEd6S2NiS0RUd1JuZWppQ0pPbTdPaUF6TzVHZXlQMV95bnV1aDVKb2t4cGQ0R2cxZkVKZlV0WnhuNTVIckJhaXUxY0hpRzU3Z0l1MkVyQmg2QUZGZWV0WHBLeEE?oc=5",
         "published_at": "2026-08-27T00:46:00+00:00",
@@ -3087,6 +3080,14 @@ window.DAILY_MARKET_BRIEFING = {
         "secondary_topics": [
           "macro"
         ]
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq 선물은 강력한 2028 회계연도 매출 전망에 엔비디아 주가 상승 흐름을 따라갑니다 — NVDA, CRM, META, CRWD, OKTA 주목 - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbE11c2s1NllZQTBjMnhCR1cxc0xYNUQ3MUdlT3Vna24zOWlwQm40TDlxdHR0OVpHWnJ0U192TldzdlU0bTNwWUI3UnRhN3hIQnc3eDZwVk95aFRmb2ZOclI0Y216Q2FiLWI1V0pyUHUxZGRoSkRka2dfZFBuQl9uV1FiN0ZteTJkNmZSQkx2d3hhTGc?oc=5",
+        "published_at": "2026-08-26T23:53:54+00:00",
+        "primary_topic": "us",
+        "secondary_topics": []
       },
       {
         "title": "엔비디아, 분기 대실패 보고, AI 칩에 대한 수요가 더욱 뜨거워지고 있다고 말 - WSJ",
@@ -3117,32 +3118,21 @@ window.DAILY_MARKET_BRIEFING = {
         "secondary_topics": []
       },
       {
-        "title": "투자자들은 완벽하지 않은 Nvidia 결과에 대비하고 주가 하락 - WSJ",
+        "title": "투자자들은 완벽하지 않은 엔비디아 결과에 대비하고 주가 하락 - WSJ",
         "source": "WSJ",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQzBiRmFiNDdidEUxSTZxeExZY1ZRenl0OUdENXBSX2FUWElKSF9fSmlEcTg1alhxOXltcHBPbmhoR0swZWx0TDdLZUxyZm1VZFdSU1pTOXV3OFkzbTY3eDZNUFV6M21yaDY4bFFZREZnUTczUkxfc0RWcTFuOGkxYW1KQWZCTmNQWjBYQkdaZzUwMVBHaEFVbTRSdDFvT3AtYVo3aU14SWZiUlFUYlZGZ1p5Tlk?oc=5",
         "published_at": "2026-08-26T21:13:00+00:00",
         "primary_topic": "us",
         "secondary_topics": []
-      },
-      {
-        "title": "오늘의 주식시장: 인플레이션에 다우지수가 하락; Nvidia는 수익보다 앞서 손실, Micron은 상승 - Investor's Business Daily",
-        "source": "Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGlsbDRLVnA4ZnRBVjA1SHAySFRpV1ZyOFF1YnVkZUVYR1ROX2ZfNk9aMWJKLXAzVEE1aGEwQngwS19oYUotc3NZWUdYTGFHMk04U3BwOWk1Q3ZLTEdBSVJTOWNnN0R6S3h5dXY0SG54c3pyOGlORXBOdlhTd18xQnU5cGJwc1B4NXZYc0dZZ3NJLThoczM3NktqdDBCbXlUVEtUU0E0NGl6ajVGVzB2UTBoOTd1TGp4UU5sRUdfM0Q?oc=5",
-        "published_at": "2026-08-26T20:26:00+00:00",
-        "primary_topic": "us",
-        "secondary_topics": [
-          "macro",
-          "sector"
-        ]
       }
     ],
-    "article_count": 28,
+    "article_count": 26,
     "empty_message": ""
   },
   "macro": {
     "id": "macro",
     "title": "시장지표 관련",
-    "summary": "시장지표 관련 핵심 기사: 아시아 외환 혼조세, 잭슨홀 앞두고 달러 강세 유지…원화 한은 금리인상에 상승 - Investing.com",
+    "summary": "시장지표 관련 핵심 기사: 기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토",
     "prices": [
       "원/달러 환율: 1,383.90원 (전일 대비 0.50% 하락, 2026-08-23 기준)",
       "원/엔 환율(100엔): 869.40원 (전일 대비 0.69% 하락, 2026-08-21 기준)",
@@ -3158,6 +3148,24 @@ window.DAILY_MARKET_BRIEFING = {
       "이더리움: $2,394.00 (전일 대비 1.25% 하락, 2026-08-23 기준)"
     ],
     "articles": [
+      {
+        "title": "기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토",
+        "source": "뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQ092NldySkE4d1hyWXBtaWpieE10OHZNS29ybWdtb1lIWWRSdlFNWlVnWk5xR2F3Z2NYSjhGcm8zZzVlVmJvNDBLNjBRSnI0dE9BT09ybzVvX2h2N1h2Wg?oc=5",
+        "published_at": "2026-08-27T06:07:09+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": []
+      },
+      {
+        "title": "한은, 기준금리 0.25%포인트 올려…코로나 후 첫 연속 인상 - 조선일보",
+        "source": "조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmU2djBkLS0xX3VMcGNHX0p4SmZtQWVkSVhyMHJkMUxKSzEtNHVNZlhTV2hiX0J5X2FyVEtWQ1B1S1AtNThQX1I1Qzh6RFVwTWtrMTNuMERRc0ZnZkNQVVpFeEI0cFpDV182Sm5kWXpieExqa1JMdmZ0UXBtczlLSnVYZkIwQ2o0TldPRGdR?oc=5",
+        "published_at": "2026-08-27T06:03:37+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": [
+          "sector"
+        ]
+      },
       {
         "title": "아시아 외환 혼조세, 잭슨홀 앞두고 달러 강세 유지…원화 한은 금리인상에 상승 - Investing.com",
         "source": "Investing.com",
@@ -3207,22 +3215,6 @@ window.DAILY_MARKET_BRIEFING = {
         "published_at": "2026-08-27T03:11:48+00:00",
         "primary_topic": "macro",
         "secondary_topics": []
-      },
-      {
-        "title": "[속보] 한은 총재 \"환율 아직 높아…원화 좀 더 강해져야 바람직\" - 연합뉴스TV",
-        "source": "연합뉴스TV",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LVpTUWt5eVM0eEtjakJibGJlX3YwZFdNYTBnNXJodEV1VlhYUWNyczMxRWlFVHhpY040aGlTOGl3bHV5ZURDOTdybG9uUkkxbmROR251VDJ0Z0hQZ1ptdUt2bWhWcHM?oc=5",
-        "published_at": "2026-08-27T02:51:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
-      },
-      {
-        "title": "한국은행, 기준금리 0.25%p 인상…두번 연속 올려 3.0% 진입 - 연합뉴스TV",
-        "source": "연합뉴스TV",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ob3BXQVdEZ2hwR2lrMXo5c3kzZnNPaVZrZXhVWl83R2tfc2o1aFdqUUxscDBKV0RITkhsd09RZk5SSkVHaHI0c19WZ28wV01sbXFnTWxfWXZBR3ZuRlNTdFpRYXdOLWM?oc=5",
-        "published_at": "2026-08-27T01:07:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
       }
     ],
     "article_count": 32,
@@ -3231,17 +3223,9 @@ window.DAILY_MARKET_BRIEFING = {
   "sector": {
     "id": "sector",
     "title": "섹터/테마",
-    "summary": "섹터/테마 핵심 기사: 구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원 - AI타임스",
+    "summary": "섹터/테마 핵심 기사: 빌 게이츠, AI 대혼란 경고… \"인간 전용 영역·로봇세 필요\" - 조선일보",
     "prices": [],
     "articles": [
-      {
-        "title": "구글 \"AI 역량이 채용 성패 가른다\"...'AI 올림'으로 인재 양성 지원 - AI타임스",
-        "source": "AI타임스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMGJTeWE5YzdFdzhHWnJkeUIzUnZxVHJFSXBfTjRWYlFLalpTT0xRV191eS1ENW9Ebmh1cmJiVTRPZHlZb3NnY2NFbUJ5NnNOMGUtZlY0Ym5fekZfYnA2YktiZXQ1MzM2emc?oc=5",
-        "published_at": "2026-08-27T06:46:39+00:00",
-        "primary_topic": "sector",
-        "secondary_topics": []
-      },
       {
         "title": "빌 게이츠, AI 대혼란 경고… \"인간 전용 영역·로봇세 필요\" - 조선일보",
         "source": "조선일보",
@@ -3255,6 +3239,16 @@ window.DAILY_MARKET_BRIEFING = {
         "source": "연합인포맥스",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1SGZ1aUlraHRQMk44dTJTeTgwZHZrX3I0a3F2MXZMVExnQnUzaS0wVVZrWHE5VmtrQUh1WTgySDQwRkU1YlVGeEJ1dlRxODF2T2g1MHNnNURDLWlTU1F6cmFGaVdjaWRKNlRfaWlPZmw?oc=5",
         "published_at": "2026-08-27T06:33:12+00:00",
+        "primary_topic": "sector",
+        "secondary_topics": [
+          "us"
+        ]
+      },
+      {
+        "title": "엔비디아, 2분기 매출 두배 껑충…“AI 성장세 안 꺾였다” - 농민신문",
+        "source": "농민신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQZ21MRGF1ejNzRlZvOU1GbXBFZUl3V2lncVMtejBvQzhzMzhnbWZoUFlFazBkUkVuU09HZ2lZajNuc1ZIdHdoMEZ5NmI2XzZhVTdTSFg0UFdwQQ?oc=5",
+        "published_at": "2026-08-27T06:30:00+00:00",
         "primary_topic": "sector",
         "secondary_topics": [
           "us"
@@ -3285,34 +3279,32 @@ window.DAILY_MARKET_BRIEFING = {
         "secondary_topics": []
       },
       {
-        "title": "AI에 대한 빌 게이츠의 5,784 단어 경고에서 세 가지 시사점: '계획은 없다' - WSJ",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjIxOHE0MUFHcnhtSUdqQzdlWUFtU3Yxay1OM3NGd0M3TzFjRjVwUUE5VGtVa1diOXN3NE5SSFpZaVF3cUJhamgzeUI5bHpDUXhRZE1uWG9hR2NxQzhJbGIzM1hEMUtmVEdqR1VBY3huTE05dDhxUGhQQjZlZEo2LWUxZDJQdnBzWXdFYWIyNWYxa1VwVGRpYjFSbkVuc2c1YXpMSTdSRkVJOWkwZjlOeQ?oc=5",
-        "published_at": "2026-08-27T05:43:57+00:00",
-        "primary_topic": "sector",
-        "secondary_topics": [
-          "us"
-        ]
-      },
-      {
         "title": "[AI픽] 과기2차관 \"한국 AI 35점…피지컬 AI는 세계 1강 목표\" - v.daum.net",
         "source": "v.daum.net",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sQVZ5eWdOTzk5QW5NeU5UVlFPQnRmcEtSQTNUMk83T0JhYTN3bUdmZS1sU0Z1ODdsU3g2OUFBSkpDTGprcG1HT2hOa0lkcUk?oc=5",
         "published_at": "2026-08-27T05:24:37+00:00",
         "primary_topic": "sector",
         "secondary_topics": []
+      },
+      {
+        "title": "KT, ‘모두의 AI’ 청사진 발표...“국민의 일상에 AI” - 디일렉",
+        "source": "디일렉",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RXpydmJMYWctSndUcUpDT2l6MDFvd3o3NFNWTHYzVmFtM1VqVHVIdjJfTDZPQTJpcF9tZER3dFJURzg2Y040VmRjTFhfVG1BdjJrZ21ZTFA3YVB0RVdMRjNPU2kxUQ?oc=5",
+        "published_at": "2026-08-27T05:20:13+00:00",
+        "primary_topic": "sector",
+        "secondary_topics": []
       }
     ],
-    "article_count": 33,
+    "article_count": 32,
     "empty_message": ""
   },
   "weekly": {
     "id": "weekly",
     "title": "금주의 브리핑",
-    "summary": "8월 17일~8월 22일 기준으로 수집된 기사 52건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+    "summary": "8월 17일~8월 22일 기준으로 수집된 기사 51건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
     "prices": [],
     "articles": [],
-    "article_count": 52,
+    "article_count": 51,
     "weekly_period": {
       "start": "2026-08-17",
       "end": "2026-08-22",
@@ -5911,10 +5903,10 @@ window.DAILY_MARKET_BRIEFING = {
   "classification_summary": {
     "method": "content_keyword_score",
     "counts": {
-      "sector": 33,
-      "domestic": 31,
-      "us": 24,
-      "macro": 32
+      "domestic": 30,
+      "sector": 32,
+      "macro": 32,
+      "us": 24
     },
     "labels": {
       "domestic": "국내 증시",
@@ -5942,7 +5934,18 @@ window.DAILY_MARKET_BRIEFING = {
       "macro_weekly": 15,
       "sector_weekly": 15
     },
-    "news_errors": [],
+    "news_errors": [
+      {
+        "query": "\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow",
+        "title": "U.S. Stocks Mixed as Investors Brace for Chip Giant’s Results - WSJ",
+        "error": "headline_translation_failed"
+      },
+      {
+        "query": "(\"US stock market\" OR \"Wall Street\" OR Nasdaq OR \"S&P 500\" OR Dow) after:2026-08-17 before:2026-08-23",
+        "title": "Department of War Orders Research Security Audits at 30 Academic Institutions - U.S. Department of War (.gov)",
+        "error": "headline_translation_failed"
+      }
+    ],
     "price_errors": [],
     "fear_greed_errors": [],
     "stock_flow_errors": []

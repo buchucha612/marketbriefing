@@ -956,6 +956,14 @@ def summarize_section(topic: str, news: list[dict], prices: list[dict]) -> str:
 
 
 def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
+    if topic == "us":
+        news = [
+            item
+            for item in news
+            if item.get("title_ko")
+            and "미국 증시 헤드라인:" not in item.get("title_ko", "")
+            and len(re.findall(r"[가-힣]", item.get("title_ko", ""))) >= 8
+        ]
     cards = [
         {
             "title": item.get("title_ko") or item["title"],
