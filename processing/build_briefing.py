@@ -520,6 +520,19 @@ TOPIC_RULES = {
     },
 }
 
+FOCUS_GROUPS = [
+    ("nvidia", ["엔비디아", "nvidia", "nvda"]),
+    ("tesla", ["테슬라", "tesla", "tsla"]),
+    ("apple", ["애플", "apple", "aapl"]),
+    ("microsoft", ["마이크로소프트", "microsoft", "msft"]),
+    ("meta", ["메타", "meta"]),
+    ("alphabet", ["알파벳", "구글", "alphabet", "google", "goog", "googl"]),
+    ("amazon", ["아마존", "amazon", "amzn"]),
+    ("semiconductor", ["반도체", "hbm", "마이크론", "micron", "amd", "sk하이닉스", "삼성전자"]),
+    ("ai", [" ai ", "인공지능", "피지컬 ai", "생성형 ai"]),
+    ("rates", ["금리", "fed", "fomc", "국채", "yield", "treasury"]),
+]
+
 
 def load_json(path: Path, default: dict) -> dict:
     if not path.exists():
@@ -756,14 +769,80 @@ def classify_article(item: dict) -> dict:
     return classified
 
 
+def article_url_key(item: dict) -> str:
+    url = item.get("url", "")
+    if not url:
+        return ""
+    return re.sub(r"([?&](utm_[^=&]+|oc|ved|usg)=[^&]+)", "", url).strip().lower()
+
+
+def article_title_key(title: str) -> str:
+    title = normalize_text(title or "")
+    title = re.sub(r"\s+-\s+[^-]{2,80}$", "", title)
+    title = re.sub(r"[^0-9a-z가-힣]+", " ", title.lower())
+    return re.sub(r"\s+", " ", title).strip()
+
+
+def article_tokens(title: str) -> set[str]:
+    normalized = article_title_key(title)
+    tokens = set(re.findall(r"[0-9a-z가-힣]{2,}", normalized))
+    stopwords = {
+        "the",
+        "and",
+        "for",
+        "with",
+        "after",
+        "from",
+        "over",
+        "증시",
+        "시장",
+        "주식",
+        "기자",
+    }
+    return tokens - stopwords
+
+
+def is_similar_article(item: dict, previous: dict) -> bool:
+    current_titles = [
+        item.get("title_original", ""),
+        item.get("title", ""),
+    ]
+    previous_titles = [
+        previous.get("title_original", ""),
+        previous.get("title", ""),
+    ]
+    for current_title in current_titles:
+        current_tokens = article_tokens(current_title)
+        if len(current_tokens) < 4:
+            continue
+        for previous_title in previous_titles:
+            previous_tokens = article_tokens(previous_title)
+            if len(previous_tokens) < 4:
+                continue
+            overlap = current_tokens & previous_tokens
+            similarity = len(overlap) / max(len(current_tokens), len(previous_tokens))
+            if similarity >= 0.72:
+                return True
+    return False
+
+
 def dedupe_news(items: list[dict]) -> list[dict]:
     seen = set()
     deduped = []
     for item in sorted(items, key=lambda row: row.get("published_at", ""), reverse=True):
-        key = (item.get("title", "").strip().lower(), item.get("source", ""))
-        if key in seen or not item.get("title"):
+        if not item.get("title"):
             continue
-        seen.add(key)
+        candidate_keys = {
+            article_url_key(item),
+            article_title_key(item.get("title_original", "")),
+            article_title_key(item.get("title", "")),
+        }
+        candidate_keys = {key for key in candidate_keys if key}
+        if candidate_keys & seen:
+            continue
+        if any(is_similar_article(item, previous) for previous in deduped):
+            continue
+        seen.update(candidate_keys)
         deduped.append(classify_article(item))
     return deduped
 
@@ -955,6 +1034,82 @@ def summarize_section(topic: str, news: list[dict], prices: list[dict]) -> str:
     return f"{SECTION_LABELS[topic]}에 배치된 기사가 없습니다."
 
 
+def article_focus_groups(item: dict) -> set[str]:
+    text = normalize_text(
+        f'{item.get("title", "")} '
+        f'{item.get("title_ko", "")} '
+        f'{item.get("title_original", "")} '
+        f'{item.get("description", "")}'
+    )
+    padded = f" {text.lower()} "
+    groups = set()
+    for group_name, keywords in FOCUS_GROUPS:
+        if any(keyword.lower() in padded for keyword in keywords):
+            groups.add(group_name)
+    return groups
+
+
+def diversify_articles(news: list[dict], limit: int = 8, max_per_focus: int = 3) -> list[dict]:
+    selected = []
+    focus_counts: Counter[str] = Counter()
+
+    for item in news:
+        groups = article_focus_groups(item)
+        if groups and any(focus_counts[group] >= max_per_focus for group in groups):
+            continue
+        selected.append(item)
+        for group in groups:
+            focus_counts[group] += 1
+        if len(selected) >= limit:
+            return selected
+
+    return selected
+
+
+def is_relevant_section_article(topic: str, item: dict) -> bool:
+    if topic != "us":
+        return True
+    text = normalize_text(
+        f'{item.get("title", "")} '
+        f'{item.get("title_ko", "")} '
+        f'{item.get("title_original", "")} '
+        f'{item.get("description", "")}'
+    ).lower()
+    market_terms = [
+        "stock",
+        "stocks",
+        "equity",
+        "equities",
+        "market",
+        "markets",
+        "futures",
+        "earnings",
+        "shares",
+        "s&p",
+        "nasdaq",
+        "dow",
+        "증시",
+        "주식",
+        "선물",
+        "실적",
+        "나스닥",
+        "다우",
+        "엔비디아",
+        "월스트리트",
+    ]
+    exclude_terms = [
+        "not wall street",
+        "월스트리트가 아닌",
+        "cia",
+        "nato",
+        "crypto index",
+        "암호화폐 지수",
+    ]
+    if any(term in text for term in exclude_terms):
+        return False
+    return any(term in text for term in market_terms)
+
+
 def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
     original_news_count = len(news)
     if topic == "us":
@@ -965,6 +1120,8 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
             and "미국 증시 헤드라인:" not in item.get("title_ko", "")
             and len(re.findall(r"[가-힣]", item.get("title_ko", ""))) >= 8
         ]
+    news = [item for item in news if is_relevant_section_article(topic, item)]
+    selected_news = diversify_articles(news, 8)
     cards = [
         {
             "title": item.get("title_ko") or item["title"],
@@ -974,7 +1131,7 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
             "primary_topic": item.get("primary_topic", ""),
             "secondary_topics": item.get("secondary_topics", []),
         }
-        for item in news[:8]
+        for item in selected_news
     ]
     return {
         "id": topic,
@@ -1034,14 +1191,12 @@ def build_briefing(
     macro_news = news_groups.get("macro", [])
     sector_news = news_groups.get("sector", [])
 
-    if sector_news:
-        domestic_news = domestic_news + [item for item in sector_news if "domestic" in item.get("secondary_topics", [])]
-        us_news = us_news + [item for item in sector_news if "us" in item.get("secondary_topics", [])]
     if len(us_news) < 8:
         us_news = us_news + [
             item
             for item in news_items
             if "us" in item.get("topic_hints", [])
+            and item.get("primary_topic") == "us"
             and item not in us_news
         ]
 
