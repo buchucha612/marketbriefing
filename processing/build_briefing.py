@@ -521,6 +521,12 @@ TOPIC_RULES = {
 }
 
 FOCUS_GROUPS = [
+    ("samsung_electronics", ["삼성전자", "samsung electronics"]),
+    ("sk_hynix", ["sk하이닉스", "sk hynix", "하이닉스"]),
+    ("hyundai_motor", ["현대차", "기아", "hyundai motor", "kia"]),
+    ("kakao_naver", ["네이버", "카카오", "naver", "kakao"]),
+    ("korea_rates", ["한은", "한국은행", "기준금리", "금리 인상", "금리하락", "금리 하락"]),
+    ("korea_flows", ["외국인", "기관", "개인투자자", "수급"]),
     ("nvidia", ["엔비디아", "nvidia", "nvda"]),
     ("tesla", ["테슬라", "tesla", "tsla"]),
     ("apple", ["애플", "apple", "aapl"]),
@@ -1049,15 +1055,32 @@ def article_focus_groups(item: dict) -> set[str]:
     return groups
 
 
-def diversify_articles(news: list[dict], limit: int = 8, max_per_focus: int = 3) -> list[dict]:
+def focus_limit(topic: str, group: str) -> int:
+    if topic == "domestic":
+        return {
+            "korea_rates": 3,
+            "rates": 3,
+            "nvidia": 2,
+            "semiconductor": 3,
+        }.get(group, 3)
+    return 3
+
+
+def diversify_articles(topic: str, news: list[dict], limit: int = 8) -> list[dict]:
     selected = []
     focus_counts: Counter[str] = Counter()
+    source_counts: Counter[str] = Counter()
 
     for item in news:
         groups = article_focus_groups(item)
-        if groups and any(focus_counts[group] >= max_per_focus for group in groups):
+        source = item.get("source", "")
+        if source and source_counts[source] >= 2:
+            continue
+        if groups and any(focus_counts[group] >= focus_limit(topic, group) for group in groups):
             continue
         selected.append(item)
+        if source:
+            source_counts[source] += 1
         for group in groups:
             focus_counts[group] += 1
         if len(selected) >= limit:
@@ -1121,7 +1144,7 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
             and len(re.findall(r"[가-힣]", item.get("title_ko", ""))) >= 8
         ]
     news = [item for item in news if is_relevant_section_article(topic, item)]
-    selected_news = diversify_articles(news, 8)
+    selected_news = diversify_articles(topic, news, 8)
     cards = [
         {
             "title": item.get("title_ko") or item["title"],

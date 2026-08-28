@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T01:26:53.700935+00:00",
+  "generated_at": "2026-08-28T03:20:13.043289+00:00",
   "headline": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 / 속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN",
   "sections": {
     "domestic": {
@@ -224,14 +224,6 @@
           "secondary_topics": []
         },
         {
-          "title": "[속보] 한은 총재 \"환율 아직 높아…원화 좀 더 강해져야 바람직\" - 연합뉴스TV",
-          "source": "연합뉴스TV",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LVpTUWt5eVM0eEtjakJibGJlX3YwZFdNYTBnNXJodEV1VlhYUWNyczMxRWlFVHhpY040aGlTOGl3bHV5ZURDOTdybG9uUkkxbmROR251VDJ0Z0hQZ1ptdUt2bWhWcHM?oc=5",
-          "published_at": "2026-08-27T02:51:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": []
-        },
-        {
           "title": "메타, 아동 안전 문제에 대해 48개 주와 180억 달러 합의 - WSJ",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZGdWs2MmdkZ1ZIME8tYUN1RmIxOHR5aUhmX2ktRmc0ZDRsUm5GUWxyWmZnMzlOdGY2djVoUHlheWFkXzhzcGNhcFJNQ2psLUl4ZFRjOXZELXF0aWE5UmNLYU1oQTgzemUzWU1pMURnUWcwOXBtRDAwcUt3Q181UEYwNEhYS2ZleERRR0FpUThPb01Nc05pVERuQ0ljV1RySHVQWC1KandFcU9U?oc=5",
@@ -267,6 +259,16 @@
           "published_at": "2026-08-20T08:27:00+00:00",
           "primary_topic": "macro",
           "secondary_topics": []
+        },
+        {
+          "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
+          "published_at": "2026-08-19T16:25:00+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": [
+            "domestic"
+          ]
         }
       ],
       "article_count": 32,
@@ -3174,14 +3176,6 @@
         "secondary_topics": []
       },
       {
-        "title": "[속보] 한은 총재 \"환율 아직 높아…원화 좀 더 강해져야 바람직\" - 연합뉴스TV",
-        "source": "연합뉴스TV",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LVpTUWt5eVM0eEtjakJibGJlX3YwZFdNYTBnNXJodEV1VlhYUWNyczMxRWlFVHhpY040aGlTOGl3bHV5ZURDOTdybG9uUkkxbmROR251VDJ0Z0hQZ1ptdUt2bWhWcHM?oc=5",
-        "published_at": "2026-08-27T02:51:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": []
-      },
-      {
         "title": "메타, 아동 안전 문제에 대해 48개 주와 180억 달러 합의 - WSJ",
         "source": "WSJ",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDZGdWs2MmdkZ1ZIME8tYUN1RmIxOHR5aUhmX2ktRmc0ZDRsUm5GUWxyWmZnMzlOdGY2djVoUHlheWFkXzhzcGNhcFJNQ2psLUl4ZFRjOXZELXF0aWE5UmNLYU1oQTgzemUzWU1pMURnUWcwOXBtRDAwcUt3Q181UEYwNEhYS2ZleERRR0FpUThPb01Nc05pVERuQ0ljV1RySHVQWC1KandFcU9U?oc=5",
@@ -3217,6 +3211,16 @@
         "published_at": "2026-08-20T08:27:00+00:00",
         "primary_topic": "macro",
         "secondary_topics": []
+      },
+      {
+        "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
+        "source": "한겨레",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
+        "published_at": "2026-08-19T16:25:00+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": [
+          "domestic"
+        ]
       }
     ],
     "article_count": 32,
