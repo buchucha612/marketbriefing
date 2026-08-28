@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T03:20:13.043289+00:00",
+  "generated_at": "2026-08-28T05:52:17.300714+00:00",
   "headline": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 / 속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN",
   "sections": {
     "domestic": {
@@ -175,7 +175,7 @@
           "secondary_topics": []
         }
       ],
-      "article_count": 24,
+      "article_count": 23,
       "empty_message": ""
     },
     "macro": {
@@ -253,25 +253,26 @@
           "secondary_topics": []
         },
         {
+          "title": "오늘의 주식 시장: 다우 지수는 700포인트 하락했지만 광부들은 상승했습니다. 석유 주식에 불이 붙다 - Investor's Business Daily",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGVyOGkzVnFXZ2JtUV83amUyVmlNTVJGaVJxanQzLWhRY3lNYU5vdkFkQVRwWk9vdGo4TklfZVdULXZBNFIydkpVb296MjYyRHF0Um0tQV9GcHJiODRWYTJzTUNMV2tFSzZJWTFjVFo1dGQ5eFhmQzhVMThlaXJDM1JwSGdLRDdxdHBzclJ4b0FBeWtWMDBUZ0JrczR1ZXFhZTdqY3NjV3lMUHpqTHVEM1daLTlNMTFF?oc=5",
+          "published_at": "2026-08-20T20:34:00+00:00",
+          "primary_topic": "macro",
+          "secondary_topics": [
+            "sector",
+            "us"
+          ]
+        },
+        {
           "title": "오늘은 1392원, ‘하락 사이클’ 탄 원·달러 환율···어디까지 내릴까 - 경향신문",
           "source": "경향신문",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOTFFYllBNFRtWlZId2w1S1R4RXVDOTVTOVVUaFpNc0lpQWxZSElYRFhDQWxPNHFEYmg1TEhRQU5FLXdGSVdCVTZGZTBoTm1SbTBDdGw5aUFZQdIBX0FVX3lxTFB5MnJxTTNnSUVCbnhSd01wYkozOHczTzdJZV9nbjIxemM4QlNjTlIyd2lBaFpFV0p4bllOa0Fwc005ejJndG9VWmNWaWprdXQ4ak5qeEFsVWx3THBGeXNj?oc=5",
           "published_at": "2026-08-20T08:27:00+00:00",
           "primary_topic": "macro",
           "secondary_topics": []
-        },
-        {
-          "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
-          "source": "한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
-          "published_at": "2026-08-19T16:25:00+00:00",
-          "primary_topic": "macro",
-          "secondary_topics": [
-            "domestic"
-          ]
         }
       ],
-      "article_count": 32,
+      "article_count": 33,
       "empty_message": ""
     },
     "sector": {
@@ -3127,7 +3128,7 @@
         "secondary_topics": []
       }
     ],
-    "article_count": 24,
+    "article_count": 23,
     "empty_message": ""
   },
   "macro": {
@@ -3205,25 +3206,26 @@
         "secondary_topics": []
       },
       {
+        "title": "오늘의 주식 시장: 다우 지수는 700포인트 하락했지만 광부들은 상승했습니다. 석유 주식에 불이 붙다 - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGVyOGkzVnFXZ2JtUV83amUyVmlNTVJGaVJxanQzLWhRY3lNYU5vdkFkQVRwWk9vdGo4TklfZVdULXZBNFIydkpVb296MjYyRHF0Um0tQV9GcHJiODRWYTJzTUNMV2tFSzZJWTFjVFo1dGQ5eFhmQzhVMThlaXJDM1JwSGdLRDdxdHBzclJ4b0FBeWtWMDBUZ0JrczR1ZXFhZTdqY3NjV3lMUHpqTHVEM1daLTlNMTFF?oc=5",
+        "published_at": "2026-08-20T20:34:00+00:00",
+        "primary_topic": "macro",
+        "secondary_topics": [
+          "sector",
+          "us"
+        ]
+      },
+      {
         "title": "오늘은 1392원, ‘하락 사이클’ 탄 원·달러 환율···어디까지 내릴까 - 경향신문",
         "source": "경향신문",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOTFFYllBNFRtWlZId2w1S1R4RXVDOTVTOVVUaFpNc0lpQWxZSElYRFhDQWxPNHFEYmg1TEhRQU5FLXdGSVdCVTZGZTBoTm1SbTBDdGw5aUFZQdIBX0FVX3lxTFB5MnJxTTNnSUVCbnhSd01wYkozOHczTzdJZV9nbjIxemM4QlNjTlIyd2lBaFpFV0p4bllOa0Fwc005ejJndG9VWmNWaWprdXQ4ak5qeEFsVWx3THBGeXNj?oc=5",
         "published_at": "2026-08-20T08:27:00+00:00",
         "primary_topic": "macro",
         "secondary_topics": []
-      },
-      {
-        "title": "환율 11개월 만에 1300원대로↓…코스피 5% 급락해 6471 - 한겨레",
-        "source": "한겨레",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ULUFVWnVxOFlERXgwRTB0SUUwZzdjaUxNN1hQUHR4MW95VjZlcVQ2WFUxMTZUN1pGa2h3YndxdHdOWmVLZHVlSGUyY25tNjBGdzR2S0lBdno5Tm01UXpqenFfWHlSc2M?oc=5",
-        "published_at": "2026-08-19T16:25:00+00:00",
-        "primary_topic": "macro",
-        "secondary_topics": [
-          "domestic"
-        ]
       }
     ],
-    "article_count": 32,
+    "article_count": 33,
     "empty_message": ""
   },
   "sector": {
@@ -5911,8 +5913,8 @@
     "counts": {
       "domestic": 29,
       "sector": 32,
-      "macro": 32,
-      "us": 24
+      "macro": 33,
+      "us": 23
     },
     "labels": {
       "domestic": "국내 증시",

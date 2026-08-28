@@ -35,7 +35,7 @@ QUERY_CONFIGS = [
     },
     {
         "topic_hint": "us",
-        "query": '"US stock market" OR "Wall Street" OR Nasdaq OR "S&P 500" OR Dow',
+        "query": '"US stock market" OR "Wall Street" OR Nasdaq OR "S&P 500" OR "Dow Jones" OR "Dow futures"',
         "hl": "en-US",
         "gl": "US",
         "ceid": "US:en",
