@@ -570,7 +570,8 @@ function visibleItemCount(section, sectionId) {
     return (section.week_events?.length || 0) + domestic + us;
   }
   if (sectionId === "feargreed") return section.indicators?.length || 0;
-  return section.articles?.length || 0;
+  if (Array.isArray(section.articles)) return section.articles.length;
+  return section.article_count || 0;
 }
 
 function renderSection(briefing, sectionId) {
@@ -585,7 +586,7 @@ function renderSection(briefing, sectionId) {
   document.querySelector("#activeArticleCount").textContent =
     sectionId === "weekly" || sectionId === "schedule" || sectionId === "feargreed"
       ? `${count}건`
-      : `${count} articles`;
+      : `${count}건`;
   summary.textContent = showSummary ? section.summary || "" : "";
   summary.hidden = !summary.textContent;
   renderPrices(section.prices || [], sectionId);
