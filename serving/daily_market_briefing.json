@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T05:52:17.300714+00:00",
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:14:14.142471+00:00",
   "headline": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 / [증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 / 속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN",
   "sections": {
     "domestic": {
@@ -356,14 +356,14 @@
     "weekly": {
       "id": "weekly",
       "title": "금주의 브리핑",
-      "summary": "8월 17일~8월 22일 기준으로 수집된 기사 51건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+      "summary": "8월 24일~8월 29일 기준으로 수집된 기사 58건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
       "prices": [],
       "articles": [],
-      "article_count": 51,
+      "article_count": 58,
       "weekly_period": {
-        "start": "2026-08-17",
-        "end": "2026-08-22",
-        "label": "8월 17일~8월 22일",
+        "start": "2026-08-24",
+        "end": "2026-08-29",
+        "label": "8월 24일~8월 29일",
         "rule": "토요일 마감 기준. 토요일 전에는 직전 완료 구간을 표시합니다."
       },
       "weekly_blocks": [
@@ -472,24 +472,24 @@
           "title": "주요 뉴스·정책·수급과 상승 촉매",
           "items": [
             {
-              "text": "카카오, ‘AI’와 ‘투자’로 나눈다...주가는 7.49%↓ - 조선일보 (조선일보, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX01RTjdpWHdyMkxIM2dHdFZpSHFKLTRRRzVmMDg5M1VTdjljekN5TWw3amttWGhacTRPVlFETUlzeEZ0bE1MUUxfSzB0MFZmNkVLNUVXNU5TeW44U0l0TjJTN1AySHA3bFlwMHNWckw2WVR1VXZGX1h0ek90NU83bmROMA?oc=5"
+              "text": "(설명) 조선일보, \"호남 반도체 공장, 노동쟁의 대상 되나\" 기사 관련 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVlINU9EVUEtTmpLTm5fbzNnU3ViNzgxcmczbk01YmJSQll1bzlrcUdIN1VPZWsxLWh5dk42aUxhN3ZoemhmMkdvTWwxYWRwSVY4SnlqOENEYW12OExJQjQ0a2VKUDQwNXFLVVROSTREdUphODFUT3RsX3RhNEhaTm5FamlsZk1RMU5ycGNOSi1zQQ?oc=5"
             },
             {
-              "text": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선 (인베스트조선, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pBTFFlS05veExuaVBua1lsWVc1ckdKdnZWY3RGMWlDb3dtTWM2MlBZNEpzdlNqcWV3YXJmQ0YzaGRVN0NDejl2cllVWVVuMmFOVjByenB1TnpaT0F6ejFHcUNmYmtEaTlZaFEwVV9MQ1hWeFRJakVvbHlSaXI4R2w5TQ?oc=5"
+              "text": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 실적 변동 종목을 주도 - Investor's Business Daily (Investor's Business Daily, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5"
             },
             {
-              "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+              "text": "코스피, 엔비디아 실적 호조에 2.15% 상승 출발 - 전자신문 (전자신문, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xME83eDFQcVJWbi1ZU2ZNSGUxQkxoNXh5UVhQXy1BZGlBMlo3RjRPczJpR1M0TUVlTVVhQk5Bc0hlSmYxWG44a0l0MEtyQQ?oc=5"
             },
             {
-              "text": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 19일)",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5"
+              "text": "엔비디아는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC (CNBC, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BhMFhpNnl1SnpmVDRfLTFSLXNCNXFMM3hPYjRxMTFHSnR6YTNGNk5SSkM0WUl5VFZLXzRRR2dqdkk5bDA0aWFFMnU5cnRwSEhNeEd6S2NiS0RUd1JuZWppQ0pPbTdPaUF6TzVHZXlQMV95bnV1aDVKb2t4cGQ0R2cxZkVKZlV0WnhuNTVIckJhaXUxY0hpRzU3Z0l1MkVyQmg2QUZGZWV0WHBLeEE?oc=5"
             },
             {
-              "text": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters (Reuters, 8월 17일)",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
+              "text": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters (Reuters, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5"
             }
           ]
         },
@@ -497,24 +497,24 @@
           "title": "다음 주 주요 일정과 위험 요인",
           "items": [
             {
-              "text": "\"8월 금리인상 전망…점도표 중간값 3.25%·3.5% 팽팽\" - 연합인포맥스 (연합인포맥스, 8월 22일)",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUHdqd0x0VmFQYlNkeXRsTVlVR3hzVEc1QXlLNi1qZk8tNUZKaDlmWThLaUNvTXVaN2hYN211bzVUR19TYlk4SVJBNENjbnhVZDdpMklSS1pPU3ozdFRBcDYxMFNYZGNSX044d25NTVHSAXRBVV95cUxQbExPSFFfZC16bjZVTjlDazdKb1dZb3RVbXdYQ1UxOUI2Q01aaERZQk5kV09mUGNFaEszMXZXZWRZekgzX3drQVlFZVFfTTI0a09pZ2laaHZlUExTTG9YMFdRZW1sZURDendHX1c3YmZ6MkIxOA?oc=5"
+              "text": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 (연합인포맥스, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWlEwWVVpVVRVMmhzWDJ2UVlxME1PUmZGVm9kcVd0ejFjeXBlMktSelJtT0ZYWl8tSmdtTHo3bzdWS3o3RktseENfMTNaLXpKM3NyeG5ESzNUQnl1dVk4V2JvLUEwanYwd0JPWnh2Rmg?oc=5"
             },
             {
-              "text": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니] - v.daum.net (v.daum.net, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RHhYMDdzaVRrNjRBTXJ6UDBkN2RPTmU3dDJoRkJYdjMwNHJwNzliZ0VjdFl1ZENRU2NZbXlMWmZMMTNYXzIwMkV3WUlQNVU?oc=5"
+              "text": "[증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 (연합인포맥스, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55bWdwbFBkME90SHNIYUhyNEdzVk9qVlRMbHNOaUVjUVJTdDlpbFlYcjdlYVVjWFpCOURLVURnS05TOGFyN1BrZ1JaMkhGSVp2UjNmRWVQRUNwTDQ3R2FCRVkzbXlURUphYkdINXhlcEk?oc=5"
             },
             {
-              "text": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스 (연합인포맥스, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5"
+              "text": "속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN (YTN, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNTUxVGFKYURzNXhyM1FZQkZ1SEctNWkzTnQ5OHdIVGxDTGpHc2k1TWpSLTlGM3FxV3JLSW5YdlFndnptaC1vWGNCSjl6cEIwT0Y1OWN1UEJfeVA5T2c?oc=5"
             },
             {
-              "text": "[3분증시] 뉴욕증시, 국채금리 반등에 동반 하락 - 연합뉴스TV (연합뉴스TV, 8월 21일)",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EWkV5Vi1oX2pGbmFLNXljallqRUJ0c2NDcWMzenNfQnVFYkNseWw0NllUYnZjalYtaFVuaTNJZmxWNkxiT3hsdUdaSmdZQ3h5M0hRb2dVLVl6Y2lrMjNGSkpqZHoxalE?oc=5"
+              "text": "기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토 (뉴스토마토, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQ092NldySkE4d1hyWXBtaWpieE10OHZNS29ybWdtb1lIWWRSdlFNWlVnWk5xR2F3Z2NYSjhGcm8zZzVlVmJvNDBLNjBRSnI0dE9BT09ybzVvX2h2N1h2Wg?oc=5"
             },
             {
-              "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
-              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+              "text": "한은, 기준금리 0.25%포인트 올려…코로나 후 첫 연속 인상 - 조선일보 (조선일보, 8월 27일)",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmU2djBkLS0xX3VMcGNHX0p4SmZtQWVkSVhyMHJkMUxKSzEtNHVNZlhTV2hiX0J5X2FyVEtWQ1B1S1AtNThQX1I1Qzh6RFVwTWtrMTNuMERRc0ZnZkNQVVpFeEI0cFpDV182Sm5kWXpieExqa1JMdmZ0UXBtczlLSnVYZkIwQ2o0TldPRGdR?oc=5"
             }
           ]
         }
@@ -524,301 +524,21 @@
     "schedule": {
       "id": "schedule",
       "title": "주요 일정 정리",
-      "summary": "8월 23일~8월 29일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
+      "summary": "8월 30일~9월 5일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
       "prices": [],
       "articles": [],
-      "article_count": 5,
+      "article_count": 2,
       "calendar": {
-        "month": "2026-08",
-        "month_label": "2026년 8월",
-        "week_start": "2026-08-23",
-        "week_end": "2026-08-29",
-        "week_label": "8월 23일~8월 29일",
+        "month": "2026-09",
+        "month_label": "2026년 9월",
+        "week_start": "2026-08-30",
+        "week_end": "2026-09-05",
+        "week_label": "8월 30일~9월 5일",
         "days": [
-          {
-            "date": "2026-07-26",
-            "day": 26,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-07-27",
-            "day": 27,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-07-28",
-            "day": 28,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-07-29",
-            "day": 29,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-07-30",
-            "day": 30,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-07-31",
-            "day": 31,
-            "in_month": false,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-01",
-            "day": 1,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-02",
-            "day": 2,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-03",
-            "day": 3,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-04",
-            "day": 4,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-05",
-            "day": 5,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-06",
-            "day": 6,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-07",
-            "day": 7,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-08",
-            "day": 8,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-09",
-            "day": 9,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-10",
-            "day": 10,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-11",
-            "day": 11,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-12",
-            "day": 12,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-13",
-            "day": 13,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-14",
-            "day": 14,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-15",
-            "day": 15,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-16",
-            "day": 16,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-17",
-            "day": 17,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-18",
-            "day": 18,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-19",
-            "day": 19,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-20",
-            "day": 20,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-21",
-            "day": 21,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-22",
-            "day": 22,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-23",
-            "day": 23,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-24",
-            "day": 24,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-25",
-            "day": 25,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 0,
-            "has_high_impact": false
-          },
-          {
-            "date": "2026-08-26",
-            "day": 26,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 3,
-            "has_high_impact": true
-          },
-          {
-            "date": "2026-08-27",
-            "day": 27,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 2,
-            "has_high_impact": true
-          },
-          {
-            "date": "2026-08-28",
-            "day": 28,
-            "in_month": true,
-            "is_today": true,
-            "event_count": 1,
-            "has_high_impact": true
-          },
-          {
-            "date": "2026-08-29",
-            "day": 29,
-            "in_month": true,
-            "is_today": false,
-            "event_count": 1,
-            "has_high_impact": true
-          },
           {
             "date": "2026-08-30",
             "day": 30,
-            "in_month": true,
+            "in_month": false,
             "is_today": false,
             "event_count": 0,
             "has_high_impact": false
@@ -826,7 +546,7 @@
           {
             "date": "2026-08-31",
             "day": 31,
-            "in_month": true,
+            "in_month": false,
             "is_today": false,
             "event_count": 1,
             "has_high_impact": false
@@ -834,7 +554,7 @@
           {
             "date": "2026-09-01",
             "day": 1,
-            "in_month": false,
+            "in_month": true,
             "is_today": false,
             "event_count": 0,
             "has_high_impact": false
@@ -842,7 +562,7 @@
           {
             "date": "2026-09-02",
             "day": 2,
-            "in_month": false,
+            "in_month": true,
             "is_today": false,
             "event_count": 1,
             "has_high_impact": true
@@ -850,15 +570,15 @@
           {
             "date": "2026-09-03",
             "day": 3,
-            "in_month": false,
-            "is_today": false,
+            "in_month": true,
+            "is_today": true,
             "event_count": 0,
             "has_high_impact": false
           },
           {
             "date": "2026-09-04",
             "day": 4,
-            "in_month": false,
+            "in_month": true,
             "is_today": false,
             "event_count": 0,
             "has_high_impact": false
@@ -866,6 +586,230 @@
           {
             "date": "2026-09-05",
             "day": 5,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-06",
+            "day": 6,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-07",
+            "day": 7,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-08",
+            "day": 8,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-09",
+            "day": 9,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-10",
+            "day": 10,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-11",
+            "day": 11,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-12",
+            "day": 12,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-13",
+            "day": 13,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-14",
+            "day": 14,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-15",
+            "day": 15,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-09-16",
+            "day": 16,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-09-17",
+            "day": 17,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-18",
+            "day": 18,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-19",
+            "day": 19,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-20",
+            "day": 20,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-21",
+            "day": 21,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-22",
+            "day": 22,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-23",
+            "day": 23,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-24",
+            "day": 24,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-25",
+            "day": 25,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-26",
+            "day": 26,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-27",
+            "day": 27,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-28",
+            "day": 28,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-29",
+            "day": 29,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-09-30",
+            "day": 30,
+            "in_month": true,
+            "is_today": false,
+            "event_count": 1,
+            "has_high_impact": true
+          },
+          {
+            "date": "2026-10-01",
+            "day": 1,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-10-02",
+            "day": 2,
+            "in_month": false,
+            "is_today": false,
+            "event_count": 0,
+            "has_high_impact": false
+          },
+          {
+            "date": "2026-10-03",
+            "day": 3,
             "in_month": false,
             "is_today": false,
             "event_count": 0,
@@ -1145,7 +1089,7 @@
                 "date": "2026-08-28",
                 "day": 28,
                 "in_month": true,
-                "is_today": true,
+                "is_today": false,
                 "event_count": 1,
                 "has_high_impact": true
               },
@@ -1193,7 +1137,7 @@
                 "date": "2026-09-03",
                 "day": 3,
                 "in_month": false,
-                "is_today": false,
+                "is_today": true,
                 "event_count": 0,
                 "has_high_impact": false
               },
@@ -1255,7 +1199,7 @@
                 "date": "2026-09-03",
                 "day": 3,
                 "in_month": true,
-                "is_today": false,
+                "is_today": true,
                 "event_count": 0,
                 "has_high_impact": false
               },
@@ -2573,311 +2517,6 @@
       ],
       "week_events": [
         {
-          "id": "us-gdp-2026-q2-second",
-          "start": "2026-08-26",
-          "title": "미국 2분기 GDP 2차 추정",
-          "region": "미국",
-          "category": "성장",
-          "impact": "중간",
-          "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
-          "source": "U.S. BEA",
-          "source_url": "https://www.bea.gov/news/schedule",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "us-pce-2026-08",
-          "start": "2026-08-26",
-          "title": "미국 PCE 물가·개인소득/지출 발표",
-          "region": "미국",
-          "category": "물가",
-          "impact": "높음",
-          "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
-          "source": "U.S. BEA",
-          "source_url": "https://www.bea.gov/news/schedule",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "bok-interest-rates-2026-07",
-          "start": "2026-08-26",
-          "title": "한국 7월 시장금리 통계",
-          "region": "국내",
-          "category": "금리",
-          "impact": "중간",
-          "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
-          "source": "Bank of Korea",
-          "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "jackson-hole-2026",
-          "start": "2026-08-27",
-          "end": "2026-08-29",
-          "title": "잭슨홀 경제정책 심포지엄",
-          "region": "미국",
-          "category": "중앙은행",
-          "impact": "높음",
-          "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
-          "source": "Federal Reserve Bank of Kansas City",
-          "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
-          "date_label": "8월 27일~8월 29일"
-        },
-        {
-          "id": "bok-rate-2026-08",
-          "start": "2026-08-27",
-          "title": "한국은행 금융통화위원회 기준금리 결정",
-          "region": "국내",
-          "category": "금리",
-          "impact": "높음",
-          "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
-          "source": "Bank of Korea",
-          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
-          "end": "2026-08-27",
-          "date_label": "8월 27일"
-        }
-      ],
-      "earnings": [
-        {
-          "id": "earnings-us-pdd-2026-08-24",
-          "date": "2026-08-24",
-          "region": "미국",
-          "ticker": "PDD",
-          "company": "PDD Holdings",
-          "timing": "시간 미정",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-xpev-2026-08-24",
-          "date": "2026-08-24",
-          "region": "미국",
-          "ticker": "XPEV",
-          "company": "XPeng",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-intu-2026-08-25",
-          "date": "2026-08-25",
-          "region": "미국",
-          "ticker": "INTU",
-          "company": "Intuit",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-crm-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "CRM",
-          "company": "Salesforce",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-crwd-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "CRWD",
-          "company": "CrowdStrike",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-nvda-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "NVDA",
-          "company": "NVIDIA",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-snps-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "SNPS",
-          "company": "Synopsys",
-          "timing": "장후",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-adsk-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "ADSK",
-          "company": "Autodesk",
-          "timing": "장후",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-bby-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "BBY",
-          "company": "Best Buy",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-dltr-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "DLTR",
-          "company": "Dollar Tree",
-          "timing": "장전",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-ulta-2026-08-27",
-          "date": "2026-08-27",
-          "region": "미국",
-          "ticker": "ULTA",
-          "company": "Ulta Beauty",
-          "timing": "장후",
-          "importance": "중간",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        }
-      ],
-      "week_earnings": {
-        "domestic": [],
-        "us": [
-          {
-            "id": "earnings-us-intu-2026-08-25",
-            "date": "2026-08-25",
-            "region": "미국",
-            "ticker": "INTU",
-            "company": "Intuit",
-            "timing": "장후",
-            "importance": "높음",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-crm-2026-08-26",
-            "date": "2026-08-26",
-            "region": "미국",
-            "ticker": "CRM",
-            "company": "Salesforce",
-            "timing": "장후",
-            "importance": "높음",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-crwd-2026-08-26",
-            "date": "2026-08-26",
-            "region": "미국",
-            "ticker": "CRWD",
-            "company": "CrowdStrike",
-            "timing": "장후",
-            "importance": "높음",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          },
-          {
-            "id": "earnings-us-nvda-2026-08-26",
-            "date": "2026-08-26",
-            "region": "미국",
-            "ticker": "NVDA",
-            "company": "NVIDIA",
-            "timing": "장후",
-            "importance": "높음",
-            "source": "EarningsCountdown",
-            "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-          }
-        ],
-        "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
-      },
-      "month_events": [
-        {
-          "id": "us-gdp-2026-q2-second",
-          "start": "2026-08-26",
-          "title": "미국 2분기 GDP 2차 추정",
-          "region": "미국",
-          "category": "성장",
-          "impact": "중간",
-          "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
-          "source": "U.S. BEA",
-          "source_url": "https://www.bea.gov/news/schedule",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "us-pce-2026-08",
-          "start": "2026-08-26",
-          "title": "미국 PCE 물가·개인소득/지출 발표",
-          "region": "미국",
-          "category": "물가",
-          "impact": "높음",
-          "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
-          "source": "U.S. BEA",
-          "source_url": "https://www.bea.gov/news/schedule",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "bok-interest-rates-2026-07",
-          "start": "2026-08-26",
-          "title": "한국 7월 시장금리 통계",
-          "region": "국내",
-          "category": "금리",
-          "impact": "중간",
-          "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
-          "source": "Bank of Korea",
-          "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
-          "end": "2026-08-26",
-          "date_label": "8월 26일"
-        },
-        {
-          "id": "jackson-hole-2026",
-          "start": "2026-08-27",
-          "end": "2026-08-29",
-          "title": "잭슨홀 경제정책 심포지엄",
-          "region": "미국",
-          "category": "중앙은행",
-          "impact": "높음",
-          "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
-          "source": "Federal Reserve Bank of Kansas City",
-          "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
-          "date_label": "8월 27일~8월 29일"
-        },
-        {
-          "id": "bok-rate-2026-08",
-          "start": "2026-08-27",
-          "title": "한국은행 금융통화위원회 기준금리 결정",
-          "region": "국내",
-          "category": "금리",
-          "impact": "높음",
-          "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
-          "source": "Bank of Korea",
-          "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
-          "end": "2026-08-27",
-          "date_label": "8월 27일"
-        },
-        {
           "id": "kr-industrial-2026-07",
           "start": "2026-08-31",
           "title": "한국 7월 산업활동동향",
@@ -2889,6 +2528,301 @@
           "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
           "end": "2026-08-31",
           "date_label": "8월 31일"
+        },
+        {
+          "id": "kr-cpi-2026-08",
+          "start": "2026-09-02",
+          "title": "한국 8월 소비자물가동향",
+          "region": "국내",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+          "source": "Ministry of Data and Statistics",
+          "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+          "end": "2026-09-02",
+          "date_label": "9월 2일"
+        }
+      ],
+      "earnings": [
+        {
+          "id": "earnings-us-pdd-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "PDD",
+          "company": "PDD Holdings",
+          "timing": "시간 미정",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 3,
+            "sector": "중국 플랫폼",
+            "indexes": [
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-xpev-2026-08-24",
+          "date": "2026-08-24",
+          "region": "미국",
+          "ticker": "XPEV",
+          "company": "XPeng",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "manual_importance"
+          }
+        },
+        {
+          "id": "earnings-us-intu-2026-08-25",
+          "date": "2026-08-25",
+          "region": "미국",
+          "ticker": "INTU",
+          "company": "Intuit",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 2,
+            "sector": "소프트웨어",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-crm-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRM",
+          "company": "Salesforce",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 2,
+            "sector": "소프트웨어",
+            "indexes": [
+              "S&P 500"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-crwd-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "CRWD",
+          "company": "CrowdStrike",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 3,
+            "sector": "사이버보안",
+            "indexes": [
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-nvda-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 1,
+            "sector": "반도체·AI",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-snps-2026-08-26",
+          "date": "2026-08-26",
+          "region": "미국",
+          "ticker": "SNPS",
+          "company": "Synopsys",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 3,
+            "sector": "반도체 설계",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-adsk-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ADSK",
+          "company": "Autodesk",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 3,
+            "sector": "소프트웨어",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        },
+        {
+          "id": "earnings-us-bby-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "BBY",
+          "company": "Best Buy",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "manual_importance"
+          }
+        },
+        {
+          "id": "earnings-us-dltr-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "DLTR",
+          "company": "Dollar Tree",
+          "timing": "장전",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "manual_importance"
+          }
+        },
+        {
+          "id": "earnings-us-ulta-2026-08-27",
+          "date": "2026-08-27",
+          "region": "미국",
+          "ticker": "ULTA",
+          "company": "Ulta Beauty",
+          "timing": "장후",
+          "importance": "중간",
+          "source": "EarningsCountdown",
+          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+          "importance_basis": {
+            "method": "manual_importance"
+          }
+        },
+        {
+          "id": "earnings-us-avgo-2026-09-02",
+          "date": "2026-09-02",
+          "region": "미국",
+          "ticker": "AVGO",
+          "company": "Broadcom",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "Broadcom IR",
+          "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 1,
+            "sector": "반도체·AI",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        }
+      ],
+      "week_earnings": {
+        "domestic": [],
+        "us": [
+          {
+            "id": "earnings-us-avgo-2026-09-02",
+            "date": "2026-09-02",
+            "region": "미국",
+            "ticker": "AVGO",
+            "company": "Broadcom",
+            "timing": "장후",
+            "importance": "높음",
+            "source": "Broadcom IR",
+            "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+            "importance_basis": {
+              "method": "major_us_company_universe",
+              "tier": 1,
+              "sector": "반도체·AI",
+              "indexes": [
+                "S&P 500",
+                "Nasdaq 100"
+              ]
+            }
+          }
+        ],
+        "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
+      },
+      "month_events": [
+        {
+          "id": "kr-cpi-2026-08",
+          "start": "2026-09-02",
+          "title": "한국 8월 소비자물가동향",
+          "region": "국내",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+          "source": "Ministry of Data and Statistics",
+          "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+          "end": "2026-09-02",
+          "date_label": "9월 2일"
+        },
+        {
+          "id": "us-fomc-2026-09",
+          "start": "2026-09-15",
+          "end": "2026-09-16",
+          "title": "미국 FOMC 정례회의",
+          "region": "미국",
+          "category": "금리",
+          "impact": "높음",
+          "detail": "점도표와 경제전망이 함께 나오는 회의입니다.",
+          "source": "Federal Reserve",
+          "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+          "date_label": "9월 15일~9월 16일"
+        },
+        {
+          "id": "us-pce-2026-09",
+          "start": "2026-09-30",
+          "title": "미국 PCE 물가·개인소득/지출 발표",
+          "region": "미국",
+          "category": "물가",
+          "impact": "높음",
+          "detail": "BEA Personal Income and Outlays, August 2026입니다.",
+          "source": "U.S. BEA",
+          "source_url": "https://www.bea.gov/news/schedule",
+          "end": "2026-09-30",
+          "date_label": "9월 30일"
         }
       ],
       "empty_message": "이번 주에 등록된 주요 일정이 없습니다."
@@ -3309,14 +3243,14 @@
   "weekly": {
     "id": "weekly",
     "title": "금주의 브리핑",
-    "summary": "8월 17일~8월 22일 기준으로 수집된 기사 51건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
+    "summary": "8월 24일~8월 29일 기준으로 수집된 기사 58건을 묶어 주간 테마와 위험 요인을 정리했습니다.",
     "prices": [],
     "articles": [],
-    "article_count": 51,
+    "article_count": 58,
     "weekly_period": {
-      "start": "2026-08-17",
-      "end": "2026-08-22",
-      "label": "8월 17일~8월 22일",
+      "start": "2026-08-24",
+      "end": "2026-08-29",
+      "label": "8월 24일~8월 29일",
       "rule": "토요일 마감 기준. 토요일 전에는 직전 완료 구간을 표시합니다."
     },
     "weekly_blocks": [
@@ -3425,24 +3359,24 @@
         "title": "주요 뉴스·정책·수급과 상승 촉매",
         "items": [
           {
-            "text": "카카오, ‘AI’와 ‘투자’로 나눈다...주가는 7.49%↓ - 조선일보 (조선일보, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX01RTjdpWHdyMkxIM2dHdFZpSHFKLTRRRzVmMDg5M1VTdjljekN5TWw3amttWGhacTRPVlFETUlzeEZ0bE1MUUxfSzB0MFZmNkVLNUVXNU5TeW44U0l0TjJTN1AySHA3bFlwMHNWckw2WVR1VXZGX1h0ek90NU83bmROMA?oc=5"
+            "text": "(설명) 조선일보, \"호남 반도체 공장, 노동쟁의 대상 되나\" 기사 관련 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVlINU9EVUEtTmpLTm5fbzNnU3ViNzgxcmczbk01YmJSQll1bzlrcUdIN1VPZWsxLWh5dk42aUxhN3ZoemhmMkdvTWwxYWRwSVY4SnlqOENEYW12OExJQjQ0a2VKUDQwNXFLVVROSTREdUphODFUT3RsX3RhNEhaTm5FamlsZk1RMU5ycGNOSi1zQQ?oc=5"
           },
           {
-            "text": "카카오, '카카오AI·카카오X'로 인적분할…AI 사업·투자 부문 분리 - 인베스트조선 (인베스트조선, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS3pBTFFlS05veExuaVBua1lsWVc1ckdKdnZWY3RGMWlDb3dtTWM2MlBZNEpzdlNqcWV3YXJmQ0YzaGRVN0NDejl2cllVWVVuMmFOVjByenB1TnpaT0F6ejFHcUNmYmtEaTlZaFEwVV9MQ1hWeFRJakVvbHlSaXI4R2w5TQ?oc=5"
+            "text": "다우존스 선물 상승; 엔비디아, 크라우드스트라이크, 옥타, 세일즈포스 실적 변동 종목을 주도 - Investor's Business Daily (Investor's Business Daily, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5"
           },
           {
-            "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+            "text": "코스피, 엔비디아 실적 호조에 2.15% 상승 출발 - 전자신문 (전자신문, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xME83eDFQcVJWbi1ZU2ZNSGUxQkxoNXh5UVhQXy1BZGlBMlo3RjRPczJpR1M0TUVlTVVhQk5Bc0hlSmYxWG44a0l0MEtyQQ?oc=5"
           },
           {
-            "text": "취약계층·농어촌 고교생 12만 명에게 '유료 AI 서비스' 제공 - 대한민국 정책브리핑 (대한민국 정책브리핑, 8월 19일)",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DdVRqdFRhbHZUZVZfZjdHZDZVUTBzLUJ5Z1ZRZWp0d1QwNVljaTgtSUpYS0ZWQUVEMmU2N184MGYxbkdFU0F4Q3BSdkRjSW5ENXNRNG81WTlRU29pa1pPMjdST1dBdEJwTkwwYQ?oc=5"
+            "text": "엔비디아는 강력한 분기 실적과 놀라운 매출 예측으로 월스트리트를 놀라게 했습니다 - CNBC (CNBC, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BhMFhpNnl1SnpmVDRfLTFSLXNCNXFMM3hPYjRxMTFHSnR6YTNGNk5SSkM0WUl5VFZLXzRRR2dqdkk5bDA0aWFFMnU5cnRwSEhNeEd6S2NiS0RUd1JuZWppQ0pPbTdPaUF6TzVHZXlQMV95bnV1aDVKb2t4cGQ0R2cxZkVKZlV0WnhuNTVIckJhaXUxY0hpRzU3Z0l1MkVyQmg2QUZGZWV0WHBLeEE?oc=5"
           },
           {
-            "text": "유가 상승으로 월스트리트 지수 하락, 소매 실적 기대 - Reuters (Reuters, 8월 17일)",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
+            "text": "엔비디아 실적에 앞서 뜨거운 인플레이션 데이터 이후 월스트리트 주식은 소폭 하락 마감 - Reuters (Reuters, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5"
           }
         ]
       },
@@ -3450,24 +3384,24 @@
         "title": "다음 주 주요 일정과 위험 요인",
         "items": [
           {
-            "text": "\"8월 금리인상 전망…점도표 중간값 3.25%·3.5% 팽팽\" - 연합인포맥스 (연합인포맥스, 8월 22일)",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUHdqd0x0VmFQYlNkeXRsTVlVR3hzVEc1QXlLNi1qZk8tNUZKaDlmWThLaUNvTXVaN2hYN211bzVUR19TYlk4SVJBNENjbnhVZDdpMklSS1pPU3ozdFRBcDYxMFNYZGNSX044d25NTVHSAXRBVV95cUxQbExPSFFfZC16bjZVTjlDazdKb1dZb3RVbXdYQ1UxOUI2Q01aaERZQk5kV09mUGNFaEszMXZXZWRZekgzX3drQVlFZVFfTTI0a09pZ2laaHZlUExTTG9YMFdRZW1sZURDendHX1c3YmZ6MkIxOA?oc=5"
+            "text": "한투證 \"코스닥 반등 조건은 금리하락…PER은 2020년 이후 최저\" - 연합인포맥스 (연합인포맥스, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCWlEwWVVpVVRVMmhzWDJ2UVlxME1PUmZGVm9kcVd0ejFjeXBlMktSelJtT0ZYWl8tSmdtTHo3bzdWS3o3RktseENfMTNaLXpKM3NyeG5ESzNUQnl1dVk4V2JvLUEwanYwd0JPWnh2Rmg?oc=5"
           },
           {
-            "text": "\"떨어질 줄 알았는데 올라가네\"…금리 상승에도 꺾이지 않는 금값의 비밀[주末머니] - v.daum.net (v.daum.net, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54RHhYMDdzaVRrNjRBTXJ6UDBkN2RPTmU3dDJoRkJYdjMwNHJwNzliZ0VjdFl1ZENRU2NZbXlMWmZMMTNYXzIwMkV3WUlQNVU?oc=5"
+            "text": "[증시-마감] 코스피, 7천선 앞둔 줄다리기…금리 인상에 상승폭 반납 - 연합인포맥스 (연합인포맥스, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55bWdwbFBkME90SHNIYUhyNEdzVk9qVlRMbHNOaUVjUVJTdDlpbFlYcjdlYVVjWFpCOURLVURnS05TOGFyN1BrZ1JaMkhGSVp2UjNmRWVQRUNwTDQ3R2FCRVkzbXlURUphYkdINXhlcEk?oc=5"
           },
           {
-            "text": "이토록 하락하는 환율에도 도도한 금리…괴리 얼마나 이어질까 - 연합인포맥스 (연합인포맥스, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNFVUbGQ4c3JHMEtNSmlQN0JiTHNVYjBnLU9uN3V2alFBa3oxb05sN2ZnLXlVYk9rMGMtSldwRzFxUlU0dUtZR0tyTXZsN2Rpek1jUzRmenBYUUVQaHBMYzRsTHN1a01tNk9iOHg3U3E?oc=5"
+            "text": "속보 한은 연속 금리인상에도 코스피 1.53% 상승 마감 - YTN (YTN, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tNTUxVGFKYURzNXhyM1FZQkZ1SEctNWkzTnQ5OHdIVGxDTGpHc2k1TWpSLTlGM3FxV3JLSW5YdlFndnptaC1vWGNCSjl6cEIwT0Y1OWN1UEJfeVA5T2c?oc=5"
           },
           {
-            "text": "[3분증시] 뉴욕증시, 국채금리 반등에 동반 하락 - 연합뉴스TV (연합뉴스TV, 8월 21일)",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EWkV5Vi1oX2pGbmFLNXljallqRUJ0c2NDcWMzenNfQnVFYkNseWw0NllUYnZjalYtaFVuaTNJZmxWNkxiT3hsdUdaSmdZQ3h5M0hRb2dVLVl6Y2lrMjNGSkpqZHoxalE?oc=5"
+            "text": "기준금리 3% 시대…벼랑 끝 몰린 차주들 - 뉴스토마토 (뉴스토마토, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQ092NldySkE4d1hyWXBtaWpieE10OHZNS29ybWdtb1lIWWRSdlFNWlVnWk5xR2F3Z2NYSjhGcm8zZzVlVmJvNDBLNjBRSnI0dE9BT09ybzVvX2h2N1h2Wg?oc=5"
           },
           {
-            "text": "유가, 비트코인 ​​점프로 다우존스 선물 하락; 월마트, 실적 하락 - Investor's Business Daily (Investor's Business Daily, 8월 20일)",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5"
+            "text": "한은, 기준금리 0.25%포인트 올려…코로나 후 첫 연속 인상 - 조선일보 (조선일보, 8월 27일)",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmU2djBkLS0xX3VMcGNHX0p4SmZtQWVkSVhyMHJkMUxKSzEtNHVNZlhTV2hiX0J5X2FyVEtWQ1B1S1AtNThQX1I1Qzh6RFVwTWtrMTNuMERRc0ZnZkNQVVpFeEI0cFpDV182Sm5kWXpieExqa1JMdmZ0UXBtczlLSnVYZkIwQ2o0TldPRGdR?oc=5"
           }
         ]
       }
@@ -3477,301 +3411,21 @@
   "schedule": {
     "id": "schedule",
     "title": "주요 일정 정리",
-    "summary": "8월 23일~8월 29일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
+    "summary": "8월 30일~9월 5일 주요 매크로·정책 일정을 달력과 리스트로 정리했습니다.",
     "prices": [],
     "articles": [],
-    "article_count": 5,
+    "article_count": 2,
     "calendar": {
-      "month": "2026-08",
-      "month_label": "2026년 8월",
-      "week_start": "2026-08-23",
-      "week_end": "2026-08-29",
-      "week_label": "8월 23일~8월 29일",
+      "month": "2026-09",
+      "month_label": "2026년 9월",
+      "week_start": "2026-08-30",
+      "week_end": "2026-09-05",
+      "week_label": "8월 30일~9월 5일",
       "days": [
-        {
-          "date": "2026-07-26",
-          "day": 26,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-07-27",
-          "day": 27,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-07-28",
-          "day": 28,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-07-29",
-          "day": 29,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-07-30",
-          "day": 30,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-07-31",
-          "day": 31,
-          "in_month": false,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-01",
-          "day": 1,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-02",
-          "day": 2,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-03",
-          "day": 3,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-04",
-          "day": 4,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-05",
-          "day": 5,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-06",
-          "day": 6,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-07",
-          "day": 7,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-08",
-          "day": 8,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-09",
-          "day": 9,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-10",
-          "day": 10,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-11",
-          "day": 11,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-12",
-          "day": 12,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-13",
-          "day": 13,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-14",
-          "day": 14,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-15",
-          "day": 15,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-16",
-          "day": 16,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-17",
-          "day": 17,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-18",
-          "day": 18,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-19",
-          "day": 19,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-20",
-          "day": 20,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-21",
-          "day": 21,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-22",
-          "day": 22,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-23",
-          "day": 23,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-24",
-          "day": 24,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-25",
-          "day": 25,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 0,
-          "has_high_impact": false
-        },
-        {
-          "date": "2026-08-26",
-          "day": 26,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 3,
-          "has_high_impact": true
-        },
-        {
-          "date": "2026-08-27",
-          "day": 27,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 2,
-          "has_high_impact": true
-        },
-        {
-          "date": "2026-08-28",
-          "day": 28,
-          "in_month": true,
-          "is_today": true,
-          "event_count": 1,
-          "has_high_impact": true
-        },
-        {
-          "date": "2026-08-29",
-          "day": 29,
-          "in_month": true,
-          "is_today": false,
-          "event_count": 1,
-          "has_high_impact": true
-        },
         {
           "date": "2026-08-30",
           "day": 30,
-          "in_month": true,
+          "in_month": false,
           "is_today": false,
           "event_count": 0,
           "has_high_impact": false
@@ -3779,7 +3433,7 @@
         {
           "date": "2026-08-31",
           "day": 31,
-          "in_month": true,
+          "in_month": false,
           "is_today": false,
           "event_count": 1,
           "has_high_impact": false
@@ -3787,7 +3441,7 @@
         {
           "date": "2026-09-01",
           "day": 1,
-          "in_month": false,
+          "in_month": true,
           "is_today": false,
           "event_count": 0,
           "has_high_impact": false
@@ -3795,7 +3449,7 @@
         {
           "date": "2026-09-02",
           "day": 2,
-          "in_month": false,
+          "in_month": true,
           "is_today": false,
           "event_count": 1,
           "has_high_impact": true
@@ -3803,15 +3457,15 @@
         {
           "date": "2026-09-03",
           "day": 3,
-          "in_month": false,
-          "is_today": false,
+          "in_month": true,
+          "is_today": true,
           "event_count": 0,
           "has_high_impact": false
         },
         {
           "date": "2026-09-04",
           "day": 4,
-          "in_month": false,
+          "in_month": true,
           "is_today": false,
           "event_count": 0,
           "has_high_impact": false
@@ -3819,6 +3473,230 @@
         {
           "date": "2026-09-05",
           "day": 5,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-06",
+          "day": 6,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-07",
+          "day": 7,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-08",
+          "day": 8,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-09",
+          "day": 9,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-10",
+          "day": 10,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-11",
+          "day": 11,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-12",
+          "day": 12,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-13",
+          "day": 13,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-14",
+          "day": 14,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-15",
+          "day": 15,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-09-16",
+          "day": 16,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-09-17",
+          "day": 17,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-18",
+          "day": 18,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-19",
+          "day": 19,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-20",
+          "day": 20,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-21",
+          "day": 21,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-22",
+          "day": 22,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-23",
+          "day": 23,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-24",
+          "day": 24,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-25",
+          "day": 25,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-26",
+          "day": 26,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-27",
+          "day": 27,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-28",
+          "day": 28,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-29",
+          "day": 29,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-09-30",
+          "day": 30,
+          "in_month": true,
+          "is_today": false,
+          "event_count": 1,
+          "has_high_impact": true
+        },
+        {
+          "date": "2026-10-01",
+          "day": 1,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-10-02",
+          "day": 2,
+          "in_month": false,
+          "is_today": false,
+          "event_count": 0,
+          "has_high_impact": false
+        },
+        {
+          "date": "2026-10-03",
+          "day": 3,
           "in_month": false,
           "is_today": false,
           "event_count": 0,
@@ -4098,7 +3976,7 @@
               "date": "2026-08-28",
               "day": 28,
               "in_month": true,
-              "is_today": true,
+              "is_today": false,
               "event_count": 1,
               "has_high_impact": true
             },
@@ -4146,7 +4024,7 @@
               "date": "2026-09-03",
               "day": 3,
               "in_month": false,
-              "is_today": false,
+              "is_today": true,
               "event_count": 0,
               "has_high_impact": false
             },
@@ -4208,7 +4086,7 @@
               "date": "2026-09-03",
               "day": 3,
               "in_month": true,
-              "is_today": false,
+              "is_today": true,
               "event_count": 0,
               "has_high_impact": false
             },
@@ -5526,311 +5404,6 @@
     ],
     "week_events": [
       {
-        "id": "us-gdp-2026-q2-second",
-        "start": "2026-08-26",
-        "title": "미국 2분기 GDP 2차 추정",
-        "region": "미국",
-        "category": "성장",
-        "impact": "중간",
-        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
-        "source": "U.S. BEA",
-        "source_url": "https://www.bea.gov/news/schedule",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "us-pce-2026-08",
-        "start": "2026-08-26",
-        "title": "미국 PCE 물가·개인소득/지출 발표",
-        "region": "미국",
-        "category": "물가",
-        "impact": "높음",
-        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
-        "source": "U.S. BEA",
-        "source_url": "https://www.bea.gov/news/schedule",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "bok-interest-rates-2026-07",
-        "start": "2026-08-26",
-        "title": "한국 7월 시장금리 통계",
-        "region": "국내",
-        "category": "금리",
-        "impact": "중간",
-        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
-        "source": "Bank of Korea",
-        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "jackson-hole-2026",
-        "start": "2026-08-27",
-        "end": "2026-08-29",
-        "title": "잭슨홀 경제정책 심포지엄",
-        "region": "미국",
-        "category": "중앙은행",
-        "impact": "높음",
-        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
-        "source": "Federal Reserve Bank of Kansas City",
-        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
-        "date_label": "8월 27일~8월 29일"
-      },
-      {
-        "id": "bok-rate-2026-08",
-        "start": "2026-08-27",
-        "title": "한국은행 금융통화위원회 기준금리 결정",
-        "region": "국내",
-        "category": "금리",
-        "impact": "높음",
-        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
-        "source": "Bank of Korea",
-        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
-        "end": "2026-08-27",
-        "date_label": "8월 27일"
-      }
-    ],
-    "earnings": [
-      {
-        "id": "earnings-us-pdd-2026-08-24",
-        "date": "2026-08-24",
-        "region": "미국",
-        "ticker": "PDD",
-        "company": "PDD Holdings",
-        "timing": "시간 미정",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-xpev-2026-08-24",
-        "date": "2026-08-24",
-        "region": "미국",
-        "ticker": "XPEV",
-        "company": "XPeng",
-        "timing": "장전",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-intu-2026-08-25",
-        "date": "2026-08-25",
-        "region": "미국",
-        "ticker": "INTU",
-        "company": "Intuit",
-        "timing": "장후",
-        "importance": "높음",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-crm-2026-08-26",
-        "date": "2026-08-26",
-        "region": "미국",
-        "ticker": "CRM",
-        "company": "Salesforce",
-        "timing": "장후",
-        "importance": "높음",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-crwd-2026-08-26",
-        "date": "2026-08-26",
-        "region": "미국",
-        "ticker": "CRWD",
-        "company": "CrowdStrike",
-        "timing": "장후",
-        "importance": "높음",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-nvda-2026-08-26",
-        "date": "2026-08-26",
-        "region": "미국",
-        "ticker": "NVDA",
-        "company": "NVIDIA",
-        "timing": "장후",
-        "importance": "높음",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-snps-2026-08-26",
-        "date": "2026-08-26",
-        "region": "미국",
-        "ticker": "SNPS",
-        "company": "Synopsys",
-        "timing": "장후",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-adsk-2026-08-27",
-        "date": "2026-08-27",
-        "region": "미국",
-        "ticker": "ADSK",
-        "company": "Autodesk",
-        "timing": "장후",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-bby-2026-08-27",
-        "date": "2026-08-27",
-        "region": "미국",
-        "ticker": "BBY",
-        "company": "Best Buy",
-        "timing": "장전",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-dltr-2026-08-27",
-        "date": "2026-08-27",
-        "region": "미국",
-        "ticker": "DLTR",
-        "company": "Dollar Tree",
-        "timing": "장전",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      },
-      {
-        "id": "earnings-us-ulta-2026-08-27",
-        "date": "2026-08-27",
-        "region": "미국",
-        "ticker": "ULTA",
-        "company": "Ulta Beauty",
-        "timing": "장후",
-        "importance": "중간",
-        "source": "EarningsCountdown",
-        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-      }
-    ],
-    "week_earnings": {
-      "domestic": [],
-      "us": [
-        {
-          "id": "earnings-us-intu-2026-08-25",
-          "date": "2026-08-25",
-          "region": "미국",
-          "ticker": "INTU",
-          "company": "Intuit",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-crm-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "CRM",
-          "company": "Salesforce",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-crwd-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "CRWD",
-          "company": "CrowdStrike",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        },
-        {
-          "id": "earnings-us-nvda-2026-08-26",
-          "date": "2026-08-26",
-          "region": "미국",
-          "ticker": "NVDA",
-          "company": "NVIDIA",
-          "timing": "장후",
-          "importance": "높음",
-          "source": "EarningsCountdown",
-          "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/"
-        }
-      ],
-      "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
-    },
-    "month_events": [
-      {
-        "id": "us-gdp-2026-q2-second",
-        "start": "2026-08-26",
-        "title": "미국 2분기 GDP 2차 추정",
-        "region": "미국",
-        "category": "성장",
-        "impact": "중간",
-        "detail": "미국 경기 강도와 금리 전망을 같이 흔들 수 있는 성장 지표입니다.",
-        "source": "U.S. BEA",
-        "source_url": "https://www.bea.gov/news/schedule",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "us-pce-2026-08",
-        "start": "2026-08-26",
-        "title": "미국 PCE 물가·개인소득/지출 발표",
-        "region": "미국",
-        "category": "물가",
-        "impact": "높음",
-        "detail": "BEA Personal Income and Outlays, July 2026. 연준이 선호하는 물가 지표라 금리 기대에 민감합니다.",
-        "source": "U.S. BEA",
-        "source_url": "https://www.bea.gov/news/schedule",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "bok-interest-rates-2026-07",
-        "start": "2026-08-26",
-        "title": "한국 7월 시장금리 통계",
-        "region": "국내",
-        "category": "금리",
-        "impact": "중간",
-        "detail": "한국은행 통계 공표 일정의 Interest Rates in July 2026입니다.",
-        "source": "Bank of Korea",
-        "source_url": "https://www.bok.or.kr/eng/stats/statsPublictSchdul/listCldr.do?menuNo=400359",
-        "end": "2026-08-26",
-        "date_label": "8월 26일"
-      },
-      {
-        "id": "jackson-hole-2026",
-        "start": "2026-08-27",
-        "end": "2026-08-29",
-        "title": "잭슨홀 경제정책 심포지엄",
-        "region": "미국",
-        "category": "중앙은행",
-        "impact": "높음",
-        "detail": "2026년 주제는 Financial Innovation: Implications for Payments and Policy입니다. 연준 및 주요 중앙은행 발언에 주목합니다.",
-        "source": "Federal Reserve Bank of Kansas City",
-        "source_url": "https://www.kansascityfed.org/research/jackson-hole-economic-symposium/jackson-hole-faqs/",
-        "date_label": "8월 27일~8월 29일"
-      },
-      {
-        "id": "bok-rate-2026-08",
-        "start": "2026-08-27",
-        "title": "한국은행 금융통화위원회 기준금리 결정",
-        "region": "국내",
-        "category": "금리",
-        "impact": "높음",
-        "detail": "기준금리 결정과 경제전망 코멘트가 국내 금리, 환율, 금융주에 영향을 줄 수 있습니다.",
-        "source": "Bank of Korea",
-        "source_url": "https://www.bok.or.kr/eng/bbs/E0000627/view.do?menuNo=400022&nttId=10094301",
-        "end": "2026-08-27",
-        "date_label": "8월 27일"
-      },
-      {
         "id": "kr-industrial-2026-07",
         "start": "2026-08-31",
         "title": "한국 7월 산업활동동향",
@@ -5842,6 +5415,301 @@
         "source_url": "https://mods.go.kr/schdl.es?mid=a20301000000",
         "end": "2026-08-31",
         "date_label": "8월 31일"
+      },
+      {
+        "id": "kr-cpi-2026-08",
+        "start": "2026-09-02",
+        "title": "한국 8월 소비자물가동향",
+        "region": "국내",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+        "end": "2026-09-02",
+        "date_label": "9월 2일"
+      }
+    ],
+    "earnings": [
+      {
+        "id": "earnings-us-pdd-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "PDD",
+        "company": "PDD Holdings",
+        "timing": "시간 미정",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 3,
+          "sector": "중국 플랫폼",
+          "indexes": [
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-xpev-2026-08-24",
+        "date": "2026-08-24",
+        "region": "미국",
+        "ticker": "XPEV",
+        "company": "XPeng",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "manual_importance"
+        }
+      },
+      {
+        "id": "earnings-us-intu-2026-08-25",
+        "date": "2026-08-25",
+        "region": "미국",
+        "ticker": "INTU",
+        "company": "Intuit",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 2,
+          "sector": "소프트웨어",
+          "indexes": [
+            "S&P 500",
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-crm-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRM",
+        "company": "Salesforce",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 2,
+          "sector": "소프트웨어",
+          "indexes": [
+            "S&P 500"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-crwd-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "CRWD",
+        "company": "CrowdStrike",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 3,
+          "sector": "사이버보안",
+          "indexes": [
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-nvda-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "NVDA",
+        "company": "NVIDIA",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 1,
+          "sector": "반도체·AI",
+          "indexes": [
+            "S&P 500",
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-snps-2026-08-26",
+        "date": "2026-08-26",
+        "region": "미국",
+        "ticker": "SNPS",
+        "company": "Synopsys",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 3,
+          "sector": "반도체 설계",
+          "indexes": [
+            "S&P 500",
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-adsk-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ADSK",
+        "company": "Autodesk",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 3,
+          "sector": "소프트웨어",
+          "indexes": [
+            "S&P 500",
+            "Nasdaq 100"
+          ]
+        }
+      },
+      {
+        "id": "earnings-us-bby-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "BBY",
+        "company": "Best Buy",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "manual_importance"
+        }
+      },
+      {
+        "id": "earnings-us-dltr-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "DLTR",
+        "company": "Dollar Tree",
+        "timing": "장전",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "manual_importance"
+        }
+      },
+      {
+        "id": "earnings-us-ulta-2026-08-27",
+        "date": "2026-08-27",
+        "region": "미국",
+        "ticker": "ULTA",
+        "company": "Ulta Beauty",
+        "timing": "장후",
+        "importance": "중간",
+        "source": "EarningsCountdown",
+        "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
+        "importance_basis": {
+          "method": "manual_importance"
+        }
+      },
+      {
+        "id": "earnings-us-avgo-2026-09-02",
+        "date": "2026-09-02",
+        "region": "미국",
+        "ticker": "AVGO",
+        "company": "Broadcom",
+        "timing": "장후",
+        "importance": "높음",
+        "source": "Broadcom IR",
+        "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+        "importance_basis": {
+          "method": "major_us_company_universe",
+          "tier": 1,
+          "sector": "반도체·AI",
+          "indexes": [
+            "S&P 500",
+            "Nasdaq 100"
+          ]
+        }
+      }
+    ],
+    "week_earnings": {
+      "domestic": [],
+      "us": [
+        {
+          "id": "earnings-us-avgo-2026-09-02",
+          "date": "2026-09-02",
+          "region": "미국",
+          "ticker": "AVGO",
+          "company": "Broadcom",
+          "timing": "장후",
+          "importance": "높음",
+          "source": "Broadcom IR",
+          "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+          "importance_basis": {
+            "method": "major_us_company_universe",
+            "tier": 1,
+            "sector": "반도체·AI",
+            "indexes": [
+              "S&P 500",
+              "Nasdaq 100"
+            ]
+          }
+        }
+      ],
+      "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다."
+    },
+    "month_events": [
+      {
+        "id": "kr-cpi-2026-08",
+        "start": "2026-09-02",
+        "title": "한국 8월 소비자물가동향",
+        "region": "국내",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "국내 물가 압력과 한국은행 금리 경로 기대에 영향을 줄 수 있습니다.",
+        "source": "Ministry of Data and Statistics",
+        "source_url": "https://mods.go.kr/cpiOaSchdlView.es?mid=b70203020000",
+        "end": "2026-09-02",
+        "date_label": "9월 2일"
+      },
+      {
+        "id": "us-fomc-2026-09",
+        "start": "2026-09-15",
+        "end": "2026-09-16",
+        "title": "미국 FOMC 정례회의",
+        "region": "미국",
+        "category": "금리",
+        "impact": "높음",
+        "detail": "점도표와 경제전망이 함께 나오는 회의입니다.",
+        "source": "Federal Reserve",
+        "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "date_label": "9월 15일~9월 16일"
+      },
+      {
+        "id": "us-pce-2026-09",
+        "start": "2026-09-30",
+        "title": "미국 PCE 물가·개인소득/지출 발표",
+        "region": "미국",
+        "category": "물가",
+        "impact": "높음",
+        "detail": "BEA Personal Income and Outlays, August 2026입니다.",
+        "source": "U.S. BEA",
+        "source_url": "https://www.bea.gov/news/schedule",
+        "end": "2026-09-30",
+        "date_label": "9월 30일"
       }
     ],
     "empty_message": "이번 주에 등록된 주요 일정이 없습니다."

@@ -333,9 +333,88 @@ EARNINGS_EVENTS = [
         "source": "EarningsCountdown",
         "source_url": "https://earningscountdown.com/earnings-calendar/2026-08-24/",
     },
+    {
+        "id": "earnings-us-avgo-2026-09-02",
+        "date": "2026-09-02",
+        "region": "미국",
+        "ticker": "AVGO",
+        "company": "Broadcom",
+        "timing": "장후",
+        "importance": "자동",
+        "source": "Broadcom IR",
+        "source_url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+    },
 ]
 
 MAX_WEEKLY_EARNINGS = 15
+
+MAJOR_EARNINGS_COMPANIES = {
+    "AAPL": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "MSFT": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "NVDA": {"tier": 1, "sector": "반도체·AI", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "AVGO": {"tier": 1, "sector": "반도체·AI", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "AMZN": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "GOOGL": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "GOOG": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "META": {"tier": 1, "sector": "빅테크", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "TSLA": {"tier": 1, "sector": "전기차", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "CRM": {"tier": 2, "sector": "소프트웨어", "indexes": ["S&P 500"]},
+    "ORCL": {"tier": 2, "sector": "소프트웨어", "indexes": ["S&P 500"]},
+    "INTU": {"tier": 2, "sector": "소프트웨어", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "ADBE": {"tier": 2, "sector": "소프트웨어", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "AMD": {"tier": 2, "sector": "반도체·AI", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "QCOM": {"tier": 2, "sector": "반도체", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "TXN": {"tier": 2, "sector": "반도체", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "MU": {"tier": 2, "sector": "반도체", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "JPM": {"tier": 2, "sector": "금융", "indexes": ["S&P 500"]},
+    "BAC": {"tier": 2, "sector": "금융", "indexes": ["S&P 500"]},
+    "GS": {"tier": 2, "sector": "금융", "indexes": ["S&P 500"]},
+    "WMT": {"tier": 2, "sector": "소비", "indexes": ["S&P 500"]},
+    "COST": {"tier": 2, "sector": "소비", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "HD": {"tier": 2, "sector": "소비", "indexes": ["S&P 500"]},
+    "UNH": {"tier": 2, "sector": "헬스케어", "indexes": ["S&P 500"]},
+    "LLY": {"tier": 2, "sector": "헬스케어", "indexes": ["S&P 500"]},
+    "JNJ": {"tier": 2, "sector": "헬스케어", "indexes": ["S&P 500"]},
+    "XOM": {"tier": 2, "sector": "에너지", "indexes": ["S&P 500"]},
+    "CVX": {"tier": 2, "sector": "에너지", "indexes": ["S&P 500"]},
+    "CRWD": {"tier": 3, "sector": "사이버보안", "indexes": ["Nasdaq 100"]},
+    "SNPS": {"tier": 3, "sector": "반도체 설계", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "ADSK": {"tier": 3, "sector": "소프트웨어", "indexes": ["S&P 500", "Nasdaq 100"]},
+    "PDD": {"tier": 3, "sector": "중국 플랫폼", "indexes": ["Nasdaq 100"]},
+}
+
+MAJOR_DOMESTIC_EARNINGS_COMPANIES = {
+    "005930": {"tier": 1, "sector": "반도체·IT", "indexes": ["KOSPI 200"]},
+    "000660": {"tier": 1, "sector": "반도체·AI", "indexes": ["KOSPI 200"]},
+    "373220": {"tier": 1, "sector": "2차전지", "indexes": ["KOSPI 200"]},
+    "207940": {"tier": 1, "sector": "바이오", "indexes": ["KOSPI 200"]},
+    "005380": {"tier": 1, "sector": "자동차", "indexes": ["KOSPI 200"]},
+    "000270": {"tier": 1, "sector": "자동차", "indexes": ["KOSPI 200"]},
+    "035420": {"tier": 1, "sector": "인터넷", "indexes": ["KOSPI 200"]},
+    "035720": {"tier": 1, "sector": "인터넷", "indexes": ["KOSPI 200"]},
+    "006400": {"tier": 2, "sector": "2차전지", "indexes": ["KOSPI 200"]},
+    "051910": {"tier": 2, "sector": "화학·2차전지", "indexes": ["KOSPI 200"]},
+    "068270": {"tier": 2, "sector": "바이오", "indexes": ["KOSPI 200"]},
+    "028260": {"tier": 2, "sector": "지주·건설", "indexes": ["KOSPI 200"]},
+    "012330": {"tier": 2, "sector": "자동차부품", "indexes": ["KOSPI 200"]},
+    "105560": {"tier": 2, "sector": "금융", "indexes": ["KOSPI 200"]},
+    "055550": {"tier": 2, "sector": "금융", "indexes": ["KOSPI 200"]},
+    "086790": {"tier": 2, "sector": "금융", "indexes": ["KOSPI 200"]},
+    "032830": {"tier": 2, "sector": "보험", "indexes": ["KOSPI 200"]},
+    "003550": {"tier": 2, "sector": "지주", "indexes": ["KOSPI 200"]},
+    "034730": {"tier": 2, "sector": "지주·에너지", "indexes": ["KOSPI 200"]},
+    "096770": {"tier": 2, "sector": "에너지", "indexes": ["KOSPI 200"]},
+    "009540": {"tier": 2, "sector": "조선", "indexes": ["KOSPI 200"]},
+    "042660": {"tier": 2, "sector": "조선", "indexes": ["KOSPI 200"]},
+    "329180": {"tier": 2, "sector": "조선", "indexes": ["KOSPI 200"]},
+    "012450": {"tier": 2, "sector": "방산", "indexes": ["KOSPI 200"]},
+    "047810": {"tier": 2, "sector": "방산", "indexes": ["KOSPI 200"]},
+    "352820": {"tier": 2, "sector": "엔터", "indexes": ["KOSPI 200"]},
+    "247540": {"tier": 2, "sector": "2차전지", "indexes": ["KOSDAQ 150"]},
+    "086520": {"tier": 2, "sector": "2차전지", "indexes": ["KOSDAQ 150"]},
+    "196170": {"tier": 2, "sector": "바이오", "indexes": ["KOSDAQ 150"]},
+    "141080": {"tier": 2, "sector": "바이오", "indexes": ["KOSDAQ 150"]},
+}
 
 THEME_RULES = [
     {
@@ -612,6 +691,55 @@ def event_overlaps(event: dict, start_date: date, end_date: date) -> bool:
     return event_start <= end_date and event_end >= start_date
 
 
+def normalize_earnings_event(event: dict) -> dict:
+    normalized = dict(event)
+    ticker = normalized.get("ticker", "").upper()
+    if normalized.get("region") == "국내":
+        profile = MAJOR_DOMESTIC_EARNINGS_COMPANIES.get(ticker)
+        method = "major_domestic_company_universe"
+    else:
+        profile = MAJOR_EARNINGS_COMPANIES.get(ticker)
+        method = "major_us_company_universe"
+    if profile:
+        normalized["importance"] = "높음"
+        normalized["importance_basis"] = {
+            "method": method,
+            "tier": profile["tier"],
+            "sector": profile["sector"],
+            "indexes": profile["indexes"],
+        }
+    else:
+        normalized["importance_basis"] = {
+            "method": "manual_importance",
+        }
+    return normalized
+
+
+def is_major_earnings_event(event: dict) -> bool:
+    ticker = event.get("ticker", "").upper()
+    if event.get("region") == "국내":
+        return event.get("importance") == "높음" or ticker in MAJOR_DOMESTIC_EARNINGS_COMPANIES
+    return event.get("importance") == "높음" or ticker in MAJOR_EARNINGS_COMPANIES
+
+
+def limit_week_earnings_by_region(events: list[dict]) -> dict[str, list[dict]]:
+    grouped = {
+        "domestic": [event for event in events if event["region"] == "국내"],
+        "us": [event for event in events if event["region"] == "미국"],
+    }
+    return {
+        region: sorted(
+            rows,
+            key=lambda row: (
+                row.get("importance_basis", {}).get("tier", 9),
+                row["date"],
+                row["ticker"],
+            ),
+        )[:MAX_WEEKLY_EARNINGS]
+        for region, rows in grouped.items()
+    }
+
+
 def events_on_date(events: list[dict], target: date) -> list[dict]:
     return [
         event
@@ -658,22 +786,17 @@ def build_schedule_section(generated_at: datetime) -> dict:
     week_start, week_end = current_week_window(generated_at)
     events = sorted((normalize_event(event) for event in ECONOMIC_EVENTS), key=lambda row: (row["start"], row["title"]))
     week_events = [event for event in events if event_overlaps(event, week_start, week_end)]
-    earnings = sorted(EARNINGS_EVENTS, key=lambda row: (row["date"], row["region"], row["ticker"]))
+    earnings = sorted(
+        (normalize_earnings_event(event) for event in EARNINGS_EVENTS),
+        key=lambda row: (row["date"], row["region"], row["ticker"]),
+    )
     week_earnings = [
         event
         for event in earnings
         if week_start <= parse_event_date(event["date"]) <= week_end
-        and event.get("importance") == "높음"
+        and is_major_earnings_event(event)
     ]
-    week_earnings = sorted(
-        week_earnings,
-        key=lambda row: (
-            0 if row.get("importance") == "높음" else 1,
-            row["date"],
-            row["region"],
-            row["ticker"],
-        ),
-    )[:MAX_WEEKLY_EARNINGS]
+    week_earnings_by_region = limit_week_earnings_by_region(week_earnings)
     event_months = sorted({event["start"][:7] for event in events} | {month_start.isoformat()[:7]})
     calendar_months = [
         build_calendar_month(events, date.fromisoformat(f"{month}-01"), local_today)
@@ -700,8 +823,8 @@ def build_schedule_section(generated_at: datetime) -> dict:
         "week_events": week_events,
         "earnings": earnings,
         "week_earnings": {
-            "domestic": [event for event in week_earnings if event["region"] == "국내"],
-            "us": [event for event in week_earnings if event["region"] == "미국"],
+            "domestic": week_earnings_by_region["domestic"],
+            "us": week_earnings_by_region["us"],
             "note": "국내 주요 기업 실적발표 일정은 공식 IR 캘린더에서 확인되는 범위만 표시합니다.",
         },
         "month_events": [event for event in events if event["start"].startswith(month_start.isoformat()[:7])],
