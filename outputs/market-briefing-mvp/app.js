@@ -562,18 +562,30 @@ function setActiveTab(sectionId) {
   });
 }
 
+function visibleItemCount(section, sectionId) {
+  if (sectionId === "weekly") return section.weekly_blocks?.length || 0;
+  if (sectionId === "schedule") {
+    const domestic = section.week_earnings?.domestic?.length || 0;
+    const us = section.week_earnings?.us?.length || 0;
+    return (section.week_events?.length || 0) + domestic + us;
+  }
+  if (sectionId === "feargreed") return section.indicators?.length || 0;
+  return section.articles?.length || 0;
+}
+
 function renderSection(briefing, sectionId) {
   const section = briefing.sections?.[sectionId] || briefing[sectionId];
   if (!section) return;
   const summary = document.querySelector("#activeSectionSummary");
   const showSummary = sectionId === "weekly";
+  const count = visibleItemCount(section, sectionId);
 
   document.querySelector("#activeSectionKicker").textContent = `Section ${SECTION_INDEX[sectionId] || "--"}`;
   document.querySelector("#activeSectionTitle").textContent = section.title;
   document.querySelector("#activeArticleCount").textContent =
     sectionId === "weekly" || sectionId === "schedule" || sectionId === "feargreed"
-      ? `${section.article_count || 0}건`
-      : `${section.article_count || 0} articles`;
+      ? `${count}건`
+      : `${count} articles`;
   summary.textContent = showSummary ? section.summary || "" : "";
   summary.hidden = !summary.textContent;
   renderPrices(section.prices || [], sectionId);
@@ -591,9 +603,9 @@ function renderSection(briefing, sectionId) {
 
 function renderSnapshot(briefing) {
   const sections = briefing.sections || briefing;
-  document.querySelector("#domesticCount").textContent = sections.domestic?.article_count ?? 0;
-  document.querySelector("#usCount").textContent = sections.us?.article_count ?? 0;
-  document.querySelector("#macroCount").textContent = sections.macro?.article_count ?? 0;
+  document.querySelector("#domesticCount").textContent = visibleItemCount(sections.domestic || {}, "domestic");
+  document.querySelector("#usCount").textContent = visibleItemCount(sections.us || {}, "us");
+  document.querySelector("#macroCount").textContent = visibleItemCount(sections.macro || {}, "macro");
 }
 
 function renderMarketIndicators(briefing) {

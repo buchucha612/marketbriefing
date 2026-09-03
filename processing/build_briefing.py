@@ -1292,7 +1292,9 @@ def build_section(topic: str, prices: list[dict], news: list[dict]) -> dict:
         "summary": summarize_section(topic, news, prices),
         "prices": [price_line(item) for item in prices],
         "articles": cards,
-        "article_count": len(news) if topic != "us" else original_news_count,
+        "article_count": len(cards),
+        "raw_article_count": len(news),
+        "collected_article_count": original_news_count,
         "empty_message": empty_section_message(topic, original_news_count) if not cards else "",
     }
 
